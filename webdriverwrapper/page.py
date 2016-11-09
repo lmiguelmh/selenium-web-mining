@@ -1,3 +1,5 @@
+# based on https://github.com/dakotasmith/page-object-examples
+
 import time
 from selenium.common.exceptions import NoAlertPresentException, NoSuchElementException, StaleElementReferenceException
 from .errors import WaitForElementError

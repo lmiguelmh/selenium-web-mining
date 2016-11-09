@@ -2,8 +2,6 @@
 # @since 20161105
 
 from selenium.common.exceptions import NoSuchElementException, ElementNotVisibleException
-# from pago.elements.checkbox import CheckBox
-# from pago.errors import ExpectedElementError, WaitForElementError
 from webdriverwrapper.page import Page
 from webdriverwrapper.elements.text import Text
 

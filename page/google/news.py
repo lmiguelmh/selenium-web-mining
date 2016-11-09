@@ -1,9 +1,12 @@
 # @author lmiguelmh
 # @since 20161105
+from selenium.common.exceptions import NoSuchElementException
+
 from webdriverwrapper.errors import ExpectedElementError
 from .base import GooglePage
 from .base import InputText
 from webdriverwrapper.elements.text import Text
+import random
 
 default_page_url = "https://news.google.com/?ned=us"
 locators = {
@@ -59,10 +62,39 @@ class NewsGooglePage(GooglePage):
         if current is None:
             raise ExpectedElementError('current_page locator does not exist')
 
-        e = self.find_element_by_locator(locators['next_button'])
-        if e is not None and e.tag_name == 'a':
-            e.click()
-        else:
-            raise ExpectedElementError('next_button locator is not a link')
+        try:
+            e = self.find_element_by_locator(locators['next_button'])
+            if e is not None and e.tag_name == 'a':
+                e.click()
+            else:
+                raise ExpectedElementError('next_button locator is not a link')
 
-        self.wait_for_change(locators['current_page'], current.text)
+            self.wait_for_change(locators['current_page'], current.text)
+            return True
+
+        except NoSuchElementException as e:
+            pass
+            return False
+
+    def get_results_links(self, query, startpage=1, endpage=1, wait=False):
+        self.input_text = query + '\n'
+        self.wait_for_results()
+
+        links = []
+        for page in range(startpage, endpage + 1):
+            e = self.next_result_a()
+            if e is None:
+                break
+
+            while e is not None:
+                href = e.get_attribute("href")
+                links.append(e.get_attribute("href"))
+                e = self.next_result_a()
+
+            if wait:
+                self.sleep(random.uniform(1., 3.))
+
+            if not self.next_page():
+                break
+
+        return links

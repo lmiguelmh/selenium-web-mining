@@ -1,3 +1,5 @@
+# based on https://github.com/dakotasmith/page-object-examples
+
 from selenium.webdriver.support.event_firing_webdriver import EventFiringWebDriver, EventFiringWebElement
 from .webelement import WebElement
 

@@ -7,3 +7,7 @@ Steps to use:
 3. Run google-test.py
 
 *Python 3.5 and PyCharm IDE.*
+
+Links:
+- https://www.youtube.com/watch?v=l15ZJAbxCL8
+- https://github.com/dakotasmith/page-object-examples

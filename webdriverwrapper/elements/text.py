@@ -1,3 +1,5 @@
+# based on https://github.com/dakotasmith/page-object-examples
+
 class Text(object):
     def __set__(self, instance, value):
         try:
