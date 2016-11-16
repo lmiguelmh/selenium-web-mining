@@ -92,7 +92,9 @@ class NewsGooglePage(GooglePage):
                 e = self.next_result_a()
 
             if wait:
-                self.sleep(random.uniform(1., 3.))
+                time = random.uniform(2., 5.)
+                print("sleeping for", time)
+                self.sleep(time)
 
             if not self.next_page():
                 break

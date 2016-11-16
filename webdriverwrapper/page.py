@@ -2,6 +2,8 @@
 
 import time
 from selenium.common.exceptions import NoAlertPresentException, NoSuchElementException, StaleElementReferenceException
+from selenium.webdriver.support.wait import WebDriverWait
+
 from .errors import WaitForElementError
 
 
@@ -79,3 +81,11 @@ class Page(object):
 
     def _dispatch(self, l_call, l_args, d_call, d_args):
         pass
+
+    def open_and_wait_for_ready_state(self, page_url, timeout=10, sleep_interval=0.5):
+        self.driver.get(page_url)
+        self.wait_for_load(timeout=timeout, sleep_interval=sleep_interval)
+
+    def wait_for_load(self, timeout=10, sleep_interval=0.5):
+        WebDriverWait(self.driver, timeout, sleep_interval) \
+            .until(lambda d: d.execute_script('return document.readyState') == 'complete')

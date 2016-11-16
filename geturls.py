@@ -8,55 +8,83 @@ import sys
 import os
 import codecs
 import pickle
+import time
+from urllib import parse
+from sendinput import sendinput
+
+from selenium.webdriver.common.keys import Keys
 
 from webdriverwrapper.driver import WebDriver
 from webdriverwrapper.listener import WebDriverEventListener
 from page.google.base import GooglePage
 from page.google.news import NewsGooglePage
 from selenium.webdriver.support.events import AbstractEventListener, EventFiringWebDriver
+from selenium.webdriver.common.action_chains import ActionChains
+
+from webdriverwrapper.page import Page
 
 sys.path.append('.')
 
 desired_capabilities = {'browserName': 'chrome'}
+# desired_capabilities = {'browserName': 'firefox'}
 command_executor = "http://127.0.0.1:4444/wd/hub"
 news_us = "https://news.google.com/?ned=us"  # ned=us for us edition
 news_pe = "https://news.google.com/?ned=es_pe"
 
 remote_webdriver = WebDriver(desired_capabilities=desired_capabilities, command_executor=command_executor)
 driver = EventFiringWebDriver(remote_webdriver, WebDriverEventListener())
-google = NewsGooglePage(driver)
+page = Page(driver)
 
 words = ["chambear", "bamba", "jama", "chancar", "chela", "papayita", "jatear", "jato", "tombo", "tranca",
          "huasca", "choborra", "cacharro", "chongo", "chupodromo", "fercho", "huachimán", "latear", "lompa",
          "mitra", "jeta", "moquear", "ni michi", "ñanga", "ñoba", "telo", "panudo"]
 for word in words:
-    print(word)
+
     file = "pkz/" + word + ".pkz"
-    if os.path.exists(file):
-        links = pickle.loads(codecs.decode(file))
-        print("links:", len(links), "word:", "'" + word + "'")
+    if not os.path.exists(file):
+        continue
 
+    with open(file, 'rb') as f:
+        compressed_content = f.read()
+    links = pickle.loads(codecs.decode(compressed_content, 'zlib_codec'))
+    print("links:", len(links), "word:", "'" + word + "'")
 
-# google.input_text = 'bitcoin\n'
-# # google.input_text = 'bitcoin location:China\n'
-# # google.input_text = 'bitcoin allintitle:bitcoin location:China\n'
-# # google.input_text = 'bitcoin allintitle:bitcoin location:China site:coindesk.com\n'
-# # google.input_text = 'bitcoin allintitle:bitcoin location:China site:coindesk.com source:BBC\n'
-# google.wait_for_results()
-#
-# hrefs = []
-# start = 1
-# end = 5
-# for page in range(1, 5+1):
-#     print("PAGE #", page)
-#     e = google.next_result_a()
-#     while e is not None:
-#         href = e.get_attribute("href")
-#         hrefs.append(e.get_attribute("href"))
-#         e = google.next_result_a()
-#     google.next_page()
-#
-# print(len(hrefs))
-# print(hrefs)
+    for link in links:
 
+        txt = "txt/" + word + "_" + parse.quote(link[:200], safe='') + ".txt"
+        if os.path.exists(txt):
+            continue
 
+        try:
+            page.open_and_wait_for_ready_state(link, timeout=5)
+            e = page.find_element_by_locator("tag=body")
+
+            encoding = "utf8"
+            with open(txt, 'wb') as f:
+                f.write(bytes(driver.current_url, encoding=encoding))
+                f.write(bytes("\n", encoding=encoding))
+                f.write(bytes(driver.title, encoding=encoding))
+                f.write(bytes("\n", encoding=encoding))
+                f.write(bytes(e.text, encoding=encoding))
+
+        except Exception as e:
+            print(e)
+            pass
+
+        # sending ctrl+s doesnt work
+        # ActionChains(driver).key_down(Keys.CONTROL).perform()
+        # time.sleep(0.2)
+        # ActionChains(driver).key_down("S").perform()
+        # time.sleep(0.2)
+        # ActionChains(driver).key_up("S").perform()
+        # time.sleep(0.2)
+        # ActionChains(driver).key_up(Keys.CONTROL).perform()
+
+        # sending ctrl+s does work, but browser windows must be in foreground
+        # sendinput.Ctrl(sendinput.VK_S)
+        # time.sleep(0.5)
+        # sendinput.Key(sendinput.VK_RETURN)
+
+    # break
+
+page.driver.close()
