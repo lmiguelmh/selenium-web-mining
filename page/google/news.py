@@ -7,6 +7,7 @@ from .base import GooglePage
 from .base import InputText
 from webdriverwrapper.elements.text import Text
 import random
+import urllib.parse
 
 default_page_url = "https://news.google.com/?ned=us"
 locators = {
@@ -18,6 +19,36 @@ locators = {
     # 'current_page': 'css=td.cur'
     'current_page': 'css=.cur'
 }
+
+
+def make_news_url(q, tbs, num="20", hl="en", gl="us"):
+    """
+    :param q: bitcoin
+    :param tbs: cdr:1,cd_min:11/1/2016,cd_max:11/1/2016,sbd:1
+    :param num: 20
+    :param hl: en
+    :param gl: us
+    :return:
+    """
+    q = urllib.parse.quote_plus(q)
+    tbs = urllib.parse.quote_plus(tbs)
+    return "https://www.google.com/search?num=" + num + "&safe=off&hl=" + hl + "&gl=" + gl + "&tbs=" + tbs + "&tbm=nws&q=" + q
+
+
+def make_news_url_between(q, start, end, num="20", hl="en", gl="us"):
+    """
+    :param q: bitcoin
+    :param start: date(2016, 11, 1)
+    :param end: date(2016, 11, 1)
+    :param num: 20
+    :param hl: en
+    :param gl: us
+    :return:
+    """
+    q = urllib.parse.quote_plus(q)
+    tbs = "cdr:1,cd_min:%s,cd_max:%s,sbd:1" % (start.strftime("%m/%d/%Y"), end.strftime("%m/%d/%Y"))
+    tbs = urllib.parse.quote_plus(tbs)
+    return "https://www.google.com/search?num=" + num + "&safe=off&hl=" + hl + "&gl=" + gl + "&tbs=" + tbs + "&tbm=nws&q=" + q
 
 
 class NewsGooglePage(GooglePage):
@@ -75,6 +106,29 @@ class NewsGooglePage(GooglePage):
         except NoSuchElementException as e:
             pass
             return False
+
+    def get_links(self, startpage=1, endpage=1, wait=False):
+        links = []
+        self.wait_for_results()
+        for page in range(startpage, endpage + 1):
+            e = self.next_result_a()
+            if e is None:
+                break
+
+            while e is not None:
+                href = e.get_attribute("href")
+                links.append(e.get_attribute("href"))
+                e = self.next_result_a()
+
+            if wait:
+                time = random.uniform(2., 5.)
+                print("sleeping for", time)
+                self.sleep(time)
+
+            if not self.next_page():
+                break
+
+        return links
 
     def get_results_links(self, query, startpage=1, endpage=1, wait=False):
         self.input_text = query + '\n'
