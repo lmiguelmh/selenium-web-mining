@@ -1,17 +1,20 @@
 # @author lmiguelmh
 # @since 
 
-import sys
-import os
 import codecs
+import os
 import pickle
+import sys
+import time
+import random
+from datetime import date
+
+from selenium.webdriver.support.events import EventFiringWebDriver
+
 import page.google.news
-from datetime import datetime, date, time
+from page.google.news import NewsGooglePage
 from webdriverwrapper.driver import WebDriver
 from webdriverwrapper.listener import WebDriverEventListener
-from page.google.base import GooglePage
-from page.google.news import NewsGooglePage
-from selenium.webdriver.support.events import AbstractEventListener, EventFiringWebDriver
 
 sys.path.append('.')
 
@@ -25,9 +28,9 @@ driver = EventFiringWebDriver(remote_webdriver, WebDriverEventListener())
 google = NewsGooglePage(driver)
 
 update = False
-words = ["bitcoin"]
-start_date = date(2016, 11, 1)
-end_date = date(2016, 11, 2)
+words = ["bitcoin"]  # 'bitcoin allintitle:bitcoin location:China site:coindesk.com source:BBC'
+start_date = date(2016, 3, 1)
+end_date = date(2016, 11, 22)
 
 for ordinal in range(start_date.toordinal(), end_date.toordinal()):
     d = date.fromordinal(ordinal)
@@ -36,32 +39,16 @@ for ordinal in range(start_date.toordinal(), end_date.toordinal()):
         file = "pkz/" + word + "_" + d.strftime("%Y-%m-%d") + ".pkz"
         news_pe = page.google.news.make_news_url_between(word, d, d)
         if not os.path.exists(file) or update:
-            google.open(news_pe)
+            t = random.uniform(2., 5.)
+            print("sleeping for", t)
+            time.sleep(t)
+
+            google.open_and_wait_for_ready_state(news_pe)
             links = google.get_links(1, 2, True)
-            print("links:", len(links), "word:", "'" + word + "'")
+            print("links:", len(links), "word:", "'" + word + "'", "file:", "'" + file + "'")
 
             pkz = codecs.encode(pickle.dumps(links), 'zlib_codec')
             with open(file, 'wb') as f:
                 f.write(pkz)
 
-# google.input_text = 'bitcoin\n'
-# # google.input_text = 'bitcoin location:China\n'
-# # google.input_text = 'bitcoin allintitle:bitcoin location:China\n'
-# # google.input_text = 'bitcoin allintitle:bitcoin location:China site:coindesk.com\n'
-# # google.input_text = 'bitcoin allintitle:bitcoin location:China site:coindesk.com source:BBC\n'
-# google.wait_for_results()
-#
-# hrefs = []
-# start = 1
-# end = 5
-# for page in range(1, 5+1):
-#     print("PAGE #", page)
-#     e = google.next_result_a()
-#     while e is not None:
-#         href = e.get_attribute("href")
-#         hrefs.append(e.get_attribute("href"))
-#         e = google.next_result_a()
-#     google.next_page()
-#
-# print(len(hrefs))
-# print(hrefs)
+driver.close()
