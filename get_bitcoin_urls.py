@@ -29,8 +29,8 @@ google = NewsGooglePage(driver)
 
 update = False
 words = ["bitcoin"]  # 'bitcoin allintitle:bitcoin location:China site:coindesk.com source:BBC'
-start_date = date(2016, 3, 1)
-end_date = date(2016, 11, 22)
+start_date = date(2016, 10, 5)
+end_date = date(2016, 10, 10)
 
 for ordinal in range(start_date.toordinal(), end_date.toordinal()):
     d = date.fromordinal(ordinal)

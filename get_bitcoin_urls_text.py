@@ -35,8 +35,8 @@ driver = EventFiringWebDriver(remote_webdriver, WebDriverEventListener())
 page = Page(driver)
 
 words = ["bitcoin"]
-start_date = date(2016, 11, 1)
-end_date = date(2016, 11, 2)
+start_date = date(2016, 10, 1)
+end_date = date(2016, 10, 3)
 
 for ordinal in range(start_date.toordinal(), end_date.toordinal()):
     d = date.fromordinal(ordinal)
