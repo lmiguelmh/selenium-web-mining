@@ -86,6 +86,13 @@ class Page(object):
         self.driver.get(page_url)
         self.wait_for_load(timeout=timeout, sleep_interval=sleep_interval)
 
-    def wait_for_load(self, timeout=10, sleep_interval=0.5):
+    def wait_for_load(self, timeout=10, sleep_interval=0.25, ready_state='interactive'):
+        """
+        :param timeout:
+        :param sleep_interval:
+        :param ready_state: interactive, complete https://developer.mozilla.org/en-US/docs/Web/API/Document/readyState
+        :return:
+        """
         WebDriverWait(self.driver, timeout, sleep_interval) \
-            .until(lambda d: d.execute_script('return document.readyState') == 'complete')
+            .until(lambda d: d.execute_script('return document.readyState') == 'complete' or
+                             d.execute_script('return document.readyState') == 'interactive')

@@ -6,12 +6,12 @@ import subprocess
 
 class WebDriverEventListener(AbstractEventListener):
     def before_navigate_to(self, url, driver):
-        # print("Before navigate to %s" % url)
-        pass
+        print("Before navigate to %s" % url)
+        # pass
 
     def after_navigate_to(self, url, driver):
-        # print("After navigate to %s" % url)
-        pass
+        print("After navigate to %s" % url)
+        # pass
 
     def before_quit(self, driver):
         # print("Quitting Selenium")
