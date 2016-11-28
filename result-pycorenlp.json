@@ -1,0 +1,789 @@
+{
+  'sentences': [
+    {
+      'sentiment': 'Positive',
+      'enhancedPlusPlusDependencies': [
+        {
+          'dependentGloss': 'happy',
+          'governor': 0,
+          'governorGloss': 'ROOT',
+          'dependent': 3,
+          'dep': 'ROOT'
+        },
+        {
+          'dependentGloss': 'I',
+          'governor': 3,
+          'governorGloss': 'happy',
+          'dependent': 1,
+          'dep': 'nsubj'
+        },
+        {
+          'dependentGloss': 'am',
+          'governor': 3,
+          'governorGloss': 'happy',
+          'dependent': 2,
+          'dep': 'cop'
+        },
+        {
+          'dependentGloss': '.',
+          'governor': 3,
+          'governorGloss': 'happy',
+          'dependent': 4,
+          'dep': 'punct'
+        }
+      ],
+      'tokens': [
+        {
+          'word': 'I',
+          'after': ' ',
+          'pos': 'PRP',
+          'originalText': 'I',
+          'before': '',
+          'index': 1,
+          'characterOffsetEnd': 1,
+          'characterOffsetBegin': 0
+        },
+        {
+          'word': 'am',
+          'after': ' ',
+          'pos': 'VBP',
+          'originalText': 'am',
+          'before': ' ',
+          'index': 2,
+          'characterOffsetEnd': 4,
+          'characterOffsetBegin': 2
+        },
+        {
+          'word': 'happy',
+          'after': '',
+          'pos': 'JJ',
+          'originalText': 'happy',
+          'before': ' ',
+          'index': 3,
+          'characterOffsetEnd': 10,
+          'characterOffsetBegin': 5
+        },
+        {
+          'word': '.',
+          'after': '',
+          'pos': '.',
+          'originalText': '.',
+          'before': '',
+          'index': 4,
+          'characterOffsetEnd': 11,
+          'characterOffsetBegin': 10
+        }
+      ],
+      'sentimentValue': '3',
+      'basicDependencies': [
+        {
+          'dependentGloss': 'happy',
+          'governor': 0,
+          'governorGloss': 'ROOT',
+          'dependent': 3,
+          'dep': 'ROOT'
+        },
+        {
+          'dependentGloss': 'I',
+          'governor': 3,
+          'governorGloss': 'happy',
+          'dependent': 1,
+          'dep': 'nsubj'
+        },
+        {
+          'dependentGloss': 'am',
+          'governor': 3,
+          'governorGloss': 'happy',
+          'dependent': 2,
+          'dep': 'cop'
+        },
+        {
+          'dependentGloss': '.',
+          'governor': 3,
+          'governorGloss': 'happy',
+          'dependent': 4,
+          'dep': 'punct'
+        }
+      ],
+      'enhancedDependencies': [
+        {
+          'dependentGloss': 'happy',
+          'governor': 0,
+          'governorGloss': 'ROOT',
+          'dependent': 3,
+          'dep': 'ROOT'
+        },
+        {
+          'dependentGloss': 'I',
+          'governor': 3,
+          'governorGloss': 'happy',
+          'dependent': 1,
+          'dep': 'nsubj'
+        },
+        {
+          'dependentGloss': 'am',
+          'governor': 3,
+          'governorGloss': 'happy',
+          'dependent': 2,
+          'dep': 'cop'
+        },
+        {
+          'dependentGloss': '.',
+          'governor': 3,
+          'governorGloss': 'happy',
+          'dependent': 4,
+          'dep': 'punct'
+        }
+      ],
+      'parse': '(ROOT\r\n  (S\r\n    (NP (PRP I))\r\n    (VP (VBP am)\r\n      (ADJP (JJ happy)))\r\n    (. .)))',
+      'index': 0
+    }
+  ]
+}
+
+
+{
+  'sentences': [
+    {
+      'sentiment': 'Negative',
+      'enhancedPlusPlusDependencies': [
+        {
+          'dependentGloss': 'told',
+          'governor': 0,
+          'governorGloss': 'ROOT',
+          'dependent': 17,
+          'dep': 'ROOT'
+        },
+        {
+          'dependentGloss': 'Commenting',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 1,
+          'dep': 'advcl'
+        },
+        {
+          'dependentGloss': 'on',
+          'governor': 4,
+          'governorGloss': 'survey',
+          'dependent': 2,
+          'dep': 'case'
+        },
+        {
+          'dependentGloss': 'the',
+          'governor': 4,
+          'governorGloss': 'survey',
+          'dependent': 3,
+          'dep': 'det'
+        },
+        {
+          'dependentGloss': 'survey',
+          'governor': 1,
+          'governorGloss': 'Commenting',
+          'dependent': 4,
+          'dep': 'nmod:on'
+        },
+        {
+          'dependentGloss': ',',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 5,
+          'dep': 'punct'
+        },
+        {
+          'dependentGloss': 'the',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 6,
+          'dep': 'det'
+        },
+        {
+          'dependentGloss': 'Executive',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 7,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'Director',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 8,
+          'dep': 'nsubj'
+        },
+        {
+          'dependentGloss': 'of',
+          'governor': 12,
+          'governorGloss': 'Foundation',
+          'dependent': 9,
+          'dep': 'case'
+        },
+        {
+          'dependentGloss': 'The',
+          'governor': 12,
+          'governorGloss': 'Foundation',
+          'dependent': 10,
+          'dep': 'det'
+        },
+        {
+          'dependentGloss': 'Bitcoin',
+          'governor': 12,
+          'governorGloss': 'Foundation',
+          'dependent': 11,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'Foundation',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 12,
+          'dep': 'nmod:of'
+        },
+        {
+          'dependentGloss': ',',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 13,
+          'dep': 'punct'
+        },
+        {
+          'dependentGloss': 'Llew',
+          'governor': 15,
+          'governorGloss': 'Claasen',
+          'dependent': 14,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'Claasen',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 15,
+          'dep': 'appos'
+        },
+        {
+          'dependentGloss': ',',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 16,
+          'dep': 'punct'
+        },
+        {
+          'dependentGloss': 'Cointelegraph',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 18,
+          'dep': 'dobj'
+        },
+        {
+          'dependentGloss': '.',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 19,
+          'dep': 'punct'
+        }
+      ],
+      'tokens': [
+        {
+          'ner': 'O',
+          'lemma': 'comment',
+          'word': 'Commenting',
+          'after': ' ',
+          'pos': 'VBG',
+          'originalText': 'Commenting',
+          'before': '',
+          'index': 1,
+          'characterOffsetEnd': 10,
+          'characterOffsetBegin': 0
+        },
+        {
+          'ner': 'O',
+          'lemma': 'on',
+          'word': 'on',
+          'after': ' ',
+          'pos': 'IN',
+          'originalText': 'on',
+          'before': ' ',
+          'index': 2,
+          'characterOffsetEnd': 13,
+          'characterOffsetBegin': 11
+        },
+        {
+          'ner': 'O',
+          'lemma': 'the',
+          'word': 'the',
+          'after': ' ',
+          'pos': 'DT',
+          'originalText': 'the',
+          'before': ' ',
+          'index': 3,
+          'characterOffsetEnd': 17,
+          'characterOffsetBegin': 14
+        },
+        {
+          'ner': 'O',
+          'lemma': 'survey',
+          'word': 'survey',
+          'after': '',
+          'pos': 'NN',
+          'originalText': 'survey',
+          'before': ' ',
+          'index': 4,
+          'characterOffsetEnd': 24,
+          'characterOffsetBegin': 18
+        },
+        {
+          'ner': 'O',
+          'lemma': ',',
+          'word': ',',
+          'after': ' ',
+          'pos': ',',
+          'originalText': ',',
+          'before': '',
+          'index': 5,
+          'characterOffsetEnd': 25,
+          'characterOffsetBegin': 24
+        },
+        {
+          'ner': 'O',
+          'lemma': 'the',
+          'word': 'the',
+          'after': ' ',
+          'pos': 'DT',
+          'originalText': 'the',
+          'before': ' ',
+          'index': 6,
+          'characterOffsetEnd': 29,
+          'characterOffsetBegin': 26
+        },
+        {
+          'ner': 'O',
+          'lemma': 'Executive',
+          'word': 'Executive',
+          'after': ' ',
+          'pos': 'NNP',
+          'originalText': 'Executive',
+          'before': ' ',
+          'index': 7,
+          'characterOffsetEnd': 39,
+          'characterOffsetBegin': 30
+        },
+        {
+          'ner': 'O',
+          'lemma': 'Director',
+          'word': 'Director',
+          'after': ' ',
+          'pos': 'NNP',
+          'originalText': 'Director',
+          'before': ' ',
+          'index': 8,
+          'characterOffsetEnd': 48,
+          'characterOffsetBegin': 40
+        },
+        {
+          'ner': 'O',
+          'lemma': 'of',
+          'word': 'of',
+          'after': ' ',
+          'pos': 'IN',
+          'originalText': 'of',
+          'before': ' ',
+          'index': 9,
+          'characterOffsetEnd': 51,
+          'characterOffsetBegin': 49
+        },
+        {
+          'ner': 'O',
+          'lemma': 'the',
+          'word': 'The',
+          'after': ' ',
+          'pos': 'DT',
+          'originalText': 'The',
+          'before': ' ',
+          'index': 10,
+          'characterOffsetEnd': 55,
+          'characterOffsetBegin': 52
+        },
+        {
+          'ner': 'ORGANIZATION',
+          'lemma': 'Bitcoin',
+          'word': 'Bitcoin',
+          'after': ' ',
+          'pos': 'NNP',
+          'originalText': 'Bitcoin',
+          'before': ' ',
+          'index': 11,
+          'characterOffsetEnd': 63,
+          'characterOffsetBegin': 56
+        },
+        {
+          'ner': 'ORGANIZATION',
+          'lemma': 'Foundation',
+          'word': 'Foundation',
+          'after': '',
+          'pos': 'NNP',
+          'originalText': 'Foundation',
+          'before': ' ',
+          'index': 12,
+          'characterOffsetEnd': 74,
+          'characterOffsetBegin': 64
+        },
+        {
+          'ner': 'O',
+          'lemma': ',',
+          'word': ',',
+          'after': ' ',
+          'pos': ',',
+          'originalText': ',',
+          'before': '',
+          'index': 13,
+          'characterOffsetEnd': 75,
+          'characterOffsetBegin': 74
+        },
+        {
+          'ner': 'PERSON',
+          'lemma': 'Llew',
+          'word': 'Llew',
+          'after': ' ',
+          'pos': 'NNP',
+          'originalText': 'Llew',
+          'before': ' ',
+          'index': 14,
+          'characterOffsetEnd': 80,
+          'characterOffsetBegin': 76
+        },
+        {
+          'ner': 'PERSON',
+          'lemma': 'Claasen',
+          'word': 'Claasen',
+          'after': '',
+          'pos': 'NNP',
+          'originalText': 'Claasen',
+          'before': ' ',
+          'index': 15,
+          'characterOffsetEnd': 88,
+          'characterOffsetBegin': 81
+        },
+        {
+          'ner': 'O',
+          'lemma': ',',
+          'word': ',',
+          'after': ' ',
+          'pos': ',',
+          'originalText': ',',
+          'before': '',
+          'index': 16,
+          'characterOffsetEnd': 89,
+          'characterOffsetBegin': 88
+        },
+        {
+          'ner': 'O',
+          'lemma': 'tell',
+          'word': 'told',
+          'after': ' ',
+          'pos': 'VBD',
+          'originalText': 'told',
+          'before': ' ',
+          'index': 17,
+          'characterOffsetEnd': 94,
+          'characterOffsetBegin': 90
+        },
+        {
+          'ner': 'PERSON',
+          'lemma': 'Cointelegraph',
+          'word': 'Cointelegraph',
+          'after': '',
+          'pos': 'NNP',
+          'originalText': 'Cointelegraph',
+          'before': ' ',
+          'index': 18,
+          'characterOffsetEnd': 108,
+          'characterOffsetBegin': 95
+        },
+        {
+          'ner': 'O',
+          'lemma': '.',
+          'word': '.',
+          'after': '',
+          'pos': '.',
+          'originalText': '.',
+          'before': '',
+          'index': 19,
+          'characterOffsetEnd': 109,
+          'characterOffsetBegin': 108
+        }
+      ],
+      'sentimentValue': '1',
+      'basicDependencies': [
+        {
+          'dependentGloss': 'told',
+          'governor': 0,
+          'governorGloss': 'ROOT',
+          'dependent': 17,
+          'dep': 'ROOT'
+        },
+        {
+          'dependentGloss': 'Commenting',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 1,
+          'dep': 'advcl'
+        },
+        {
+          'dependentGloss': 'on',
+          'governor': 4,
+          'governorGloss': 'survey',
+          'dependent': 2,
+          'dep': 'case'
+        },
+        {
+          'dependentGloss': 'the',
+          'governor': 4,
+          'governorGloss': 'survey',
+          'dependent': 3,
+          'dep': 'det'
+        },
+        {
+          'dependentGloss': 'survey',
+          'governor': 1,
+          'governorGloss': 'Commenting',
+          'dependent': 4,
+          'dep': 'nmod'
+        },
+        {
+          'dependentGloss': ',',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 5,
+          'dep': 'punct'
+        },
+        {
+          'dependentGloss': 'the',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 6,
+          'dep': 'det'
+        },
+        {
+          'dependentGloss': 'Executive',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 7,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'Director',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 8,
+          'dep': 'nsubj'
+        },
+        {
+          'dependentGloss': 'of',
+          'governor': 12,
+          'governorGloss': 'Foundation',
+          'dependent': 9,
+          'dep': 'case'
+        },
+        {
+          'dependentGloss': 'The',
+          'governor': 12,
+          'governorGloss': 'Foundation',
+          'dependent': 10,
+          'dep': 'det'
+        },
+        {
+          'dependentGloss': 'Bitcoin',
+          'governor': 12,
+          'governorGloss': 'Foundation',
+          'dependent': 11,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'Foundation',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 12,
+          'dep': 'nmod'
+        },
+        {
+          'dependentGloss': ',',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 13,
+          'dep': 'punct'
+        },
+        {
+          'dependentGloss': 'Llew',
+          'governor': 15,
+          'governorGloss': 'Claasen',
+          'dependent': 14,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'Claasen',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 15,
+          'dep': 'appos'
+        },
+        {
+          'dependentGloss': ',',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 16,
+          'dep': 'punct'
+        },
+        {
+          'dependentGloss': 'Cointelegraph',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 18,
+          'dep': 'dobj'
+        },
+        {
+          'dependentGloss': '.',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 19,
+          'dep': 'punct'
+        }
+      ],
+      'enhancedDependencies': [
+        {
+          'dependentGloss': 'told',
+          'governor': 0,
+          'governorGloss': 'ROOT',
+          'dependent': 17,
+          'dep': 'ROOT'
+        },
+        {
+          'dependentGloss': 'Commenting',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 1,
+          'dep': 'advcl'
+        },
+        {
+          'dependentGloss': 'on',
+          'governor': 4,
+          'governorGloss': 'survey',
+          'dependent': 2,
+          'dep': 'case'
+        },
+        {
+          'dependentGloss': 'the',
+          'governor': 4,
+          'governorGloss': 'survey',
+          'dependent': 3,
+          'dep': 'det'
+        },
+        {
+          'dependentGloss': 'survey',
+          'governor': 1,
+          'governorGloss': 'Commenting',
+          'dependent': 4,
+          'dep': 'nmod:on'
+        },
+        {
+          'dependentGloss': ',',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 5,
+          'dep': 'punct'
+        },
+        {
+          'dependentGloss': 'the',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 6,
+          'dep': 'det'
+        },
+        {
+          'dependentGloss': 'Executive',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 7,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'Director',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 8,
+          'dep': 'nsubj'
+        },
+        {
+          'dependentGloss': 'of',
+          'governor': 12,
+          'governorGloss': 'Foundation',
+          'dependent': 9,
+          'dep': 'case'
+        },
+        {
+          'dependentGloss': 'The',
+          'governor': 12,
+          'governorGloss': 'Foundation',
+          'dependent': 10,
+          'dep': 'det'
+        },
+        {
+          'dependentGloss': 'Bitcoin',
+          'governor': 12,
+          'governorGloss': 'Foundation',
+          'dependent': 11,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'Foundation',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 12,
+          'dep': 'nmod:of'
+        },
+        {
+          'dependentGloss': ',',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 13,
+          'dep': 'punct'
+        },
+        {
+          'dependentGloss': 'Llew',
+          'governor': 15,
+          'governorGloss': 'Claasen',
+          'dependent': 14,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'Claasen',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 15,
+          'dep': 'appos'
+        },
+        {
+          'dependentGloss': ',',
+          'governor': 8,
+          'governorGloss': 'Director',
+          'dependent': 16,
+          'dep': 'punct'
+        },
+        {
+          'dependentGloss': 'Cointelegraph',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 18,
+          'dep': 'dobj'
+        },
+        {
+          'dependentGloss': '.',
+          'governor': 17,
+          'governorGloss': 'told',
+          'dependent': 19,
+          'dep': 'punct'
+        }
+      ],
+      'parse': '(ROOT\r\n  (S\r\n    (S\r\n      (VP (VBG Commenting)\r\n        (PP (IN on)\r\n          (NP (DT the) (NN survey)))))\r\n    (, ,)\r\n    (NP\r\n      (NP\r\n        (NP (DT the) (NNP Executive) (NNP Director))\r\n        (PP (IN of)\r\n          (NP (DT The) (NNP Bitcoin) (NNP Foundation))))\r\n      (, ,)\r\n      (NP (NNP Llew) (NNP Claasen))\r\n      (, ,))\r\n    (VP (VBD told)\r\n      (NP (NNP Cointelegraph)))\r\n    (. .)))',
+      'index': 0
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  'corefs': {
+    '1': [
+      {
+        'headIndex': 2,
+        'sentNum': 1,
+        'id': 1,
+        'animacy': 'INANIMATE',
+        'gender': 'NEUTRAL',
+        'isRepresentativeMention': True,
+        'type': 'NOMINAL',
+        'startIndex': 1,
+        'position': [
+          1,
+          1
+        ],
+        'text': 'The world',
+        'endIndex': 3,
+        'number': 'SINGULAR'
+      }
+    ]
+  },
+  'sentences': [
+    {
+      'enhancedPlusPlusDependencies': [
+        {
+          'dependentGloss': 'mine',
+          'governor': 0,
+          'governorGloss': 'ROOT',
+          'dependent': 4,
+          'dep': 'ROOT'
+        },
+        {
+          'dependentGloss': 'The',
+          'governor': 2,
+          'governorGloss': 'world',
+          'dependent': 1,
+          'dep': 'det'
+        },
+        {
+          'dependentGloss': 'world',
+          'governor': 4,
+          'governorGloss': 'mine',
+          'dependent': 2,
+          'dep': 'nsubj'
+        },
+        {
+          'dependentGloss': 'is',
+          'governor': 4,
+          'governorGloss': 'mine',
+          'dependent': 3,
+          'dep': 'cop'
+        },
+        {
+          'dependentGloss': '.',
+          'governor': 4,
+          'governorGloss': 'mine',
+          'dependent': 5,
+          'dep': 'punct'
+        }
+      ],
+      'tokens': [
+        {
+          'lemma': 'the',
+          'word': 'The',
+          'speaker': 'PER0',
+          'pos': 'DT',
+          'index': 1,
+          'truecase': 'INIT_UPPER',
+          'after': ' ',
+          'originalText': 'The',
+          'truecaseText': 'The',
+          'characterOffsetBegin': 0,
+          'ner': 'O',
+          'characterOffsetEnd': 3,
+          'before': ''
+        },
+        {
+          'lemma': 'world',
+          'word': 'world',
+          'speaker': 'PER0',
+          'pos': 'NN',
+          'index': 2,
+          'truecase': 'LOWER',
+          'after': ' ',
+          'originalText': 'world',
+          'truecaseText': 'world',
+          'characterOffsetBegin': 4,
+          'ner': 'O',
+          'characterOffsetEnd': 9,
+          'before': ' '
+        },
+        {
+          'lemma': 'be',
+          'word': 'is',
+          'speaker': 'PER0',
+          'pos': 'VBZ',
+          'index': 3,
+          'truecase': 'LOWER',
+          'after': ' ',
+          'originalText': 'is',
+          'truecaseText': 'is',
+          'characterOffsetBegin': 10,
+          'ner': 'O',
+          'characterOffsetEnd': 12,
+          'before': ' '
+        },
+        {
+          'lemma': 'mine',
+          'word': 'mine',
+          'speaker': 'PER0',
+          'pos': 'NN',
+          'index': 4,
+          'truecase': 'LOWER',
+          'after': '',
+          'originalText': 'mine',
+          'truecaseText': 'mine',
+          'characterOffsetBegin': 13,
+          'ner': 'O',
+          'characterOffsetEnd': 17,
+          'before': ' '
+        },
+        {
+          'lemma': '.',
+          'word': '.',
+          'speaker': 'PER0',
+          'pos': '.',
+          'index': 5,
+          'truecase': 'O',
+          'after': '',
+          'originalText': '.',
+          'truecaseText': '.',
+          'characterOffsetBegin': 17,
+          'ner': 'O',
+          'characterOffsetEnd': 18,
+          'before': ''
+        }
+      ],
+      'basicDependencies': [
+        {
+          'dependentGloss': 'mine',
+          'governor': 0,
+          'governorGloss': 'ROOT',
+          'dependent': 4,
+          'dep': 'ROOT'
+        },
+        {
+          'dependentGloss': 'The',
+          'governor': 2,
+          'governorGloss': 'world',
+          'dependent': 1,
+          'dep': 'det'
+        },
+        {
+          'dependentGloss': 'world',
+          'governor': 4,
+          'governorGloss': 'mine',
+          'dependent': 2,
+          'dep': 'nsubj'
+        },
+        {
+          'dependentGloss': 'is',
+          'governor': 4,
+          'governorGloss': 'mine',
+          'dependent': 3,
+          'dep': 'cop'
+        },
+        {
+          'dependentGloss': '.',
+          'governor': 4,
+          'governorGloss': 'mine',
+          'dependent': 5,
+          'dep': 'punct'
+        }
+      ],
+      'enhancedDependencies': [
+        {
+          'dependentGloss': 'mine',
+          'governor': 0,
+          'governorGloss': 'ROOT',
+          'dependent': 4,
+          'dep': 'ROOT'
+        },
+        {
+          'dependentGloss': 'The',
+          'governor': 2,
+          'governorGloss': 'world',
+          'dependent': 1,
+          'dep': 'det'
+        },
+        {
+          'dependentGloss': 'world',
+          'governor': 4,
+          'governorGloss': 'mine',
+          'dependent': 2,
+          'dep': 'nsubj'
+        },
+        {
+          'dependentGloss': 'is',
+          'governor': 4,
+          'governorGloss': 'mine',
+          'dependent': 3,
+          'dep': 'cop'
+        },
+        {
+          'dependentGloss': '.',
+          'governor': 4,
+          'governorGloss': 'mine',
+          'dependent': 5,
+          'dep': 'punct'
+        }
+      ],
+      'parse': '(ROOT\r\n  (S\r\n    (NP (DT The) (NN world))\r\n    (VP (VBZ is)\r\n      (NP (NN mine)))\r\n    (. .)))',
+      'index': 0
+    }
+  ]
+}
