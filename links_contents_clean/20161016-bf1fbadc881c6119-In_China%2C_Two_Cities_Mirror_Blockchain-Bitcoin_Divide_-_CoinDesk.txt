@@ -1,0 +1,52 @@
+In China, Two Cities Mirror Blockchain-Bitcoin Divide - CoinDesk
+Vote Now for CoinDesk's Most Influential People in Blockchain
+Eric Mu | Published on October 16, 2016 at 17:36 GMT
+Beijing and Shanghai, China's two most populous and developed cities, are often reminiscent of two siblings. They are similar, but each has its own distinct character.
+In this light, some rivalry is as inevitable, and it's now spilling over into the country's blockchain industry.
+In Beijing, visitors are likely to meet "bitcoin maximalists", those who shrug at the idea an alternative blockchain or bank consortium could challenge the network effect of a $10bn digital economy. In Shanghai, the difference of attitude is pronounced – there, you are more likely to be told that bitcoin is passé.
+Metaverse, a company based in the Shanghai's Huangpu district, is in many ways representative of the city’s new blockchain startups.
+Relatively unknown even in its home country, Metaverse has over 20 employees – no small feat for a blockchain startup that has been around for less than a year, and it recently held a blockchain token crowdsale, raising over ¥10m within weeks.
+The sight of a roomful of busy developers gives the impression the startup is onto something big – which is exactly what Eric Gu, CEO and co-founder, wanted to convey in interview. But he is also candid about his personal transition and what it says about the state of the blockchain industry.
+"I was one of the earliest bitcoin evangelists here and one of the most read bitcoin columnists. The tech is revolutionary. But it cuts both ways. Being revolutionary probably has prevented bitcoin from becoming a mainstream asset class."
+According to Gu, support from local officials is strongest when they are presented with a project that he said avoids the revolutionary stigma that has surrounded bitcoin.
+"If you expect the government to back a blockchain project, it will at least be one that they feel more comfortable with," Gu explained.
+Meanwhile, in Beijing, the city's outlook is defined by the notable startups that call it home, including bitcoin mining giant Bitmain and major exchanges like OKCoin and Huobi.
+Da Hongfei, CEO of Shanghai-based Onchain, argues that this has made for "a very different community and industry landscape" in each city. The creator of a "universal" blockchain platform that aims at adoption in both public and private markets, he acknowledges his firm would be an outsider in this location.
+"Beijing is well-known as an established bitcoin center. It enjoys a comprehensive bitcoin ecosystem," he acknowledged.
+Like Metaverse, Onchain has also differentiated from the venture-backed startup model common in Beijing, raising more than $4.5m in a public token sale, while inking a partnership with Microsoft and contributing to the Linux-led Hyperledger project.
+By contrast, Beijing firms have often elected foreign venture capital over the token sale model, sometimes called an initial coin offering (ICO), whereby unaccredited investors back a firm by purchasing cryptographic assets.
+Despite this investor approval (and the heated debate around ICOs), Da went on to argue there is still a greater "stigma" associated with bitcoin, one his company has sidestepped.
+"As for blockchain technology, or DLT, a large extent, it's free from this burden," he said.
+But as for which brand of blockchain is winning, it might be too early to say. Da, for example, hinted he believes other cities are now following Shanghai's lead, in what could be a sign its view on the technology could win out.
+"Hangzhou is taking the lead in the lower-layer, distributed ledger technology R&D," he said, "not necessarily everything bitcoin."
+Companies seem to be following their lead, as well.
+Metaverse, for instance, is utilizing this strength to tackle the country’s collectable calligraphy and painting market, where collectors have been searching for tools to enable them to record their transactions and check previous ownership of art pieces to ensure authenticity.
+Onchain, on the other hand, is working with Everbright Securities, a major Chinese commercial bank, to build a blockchain-based reputation point system. Both projects see value in enterprise markets, particularly because there have been strong signals of interest from leading domestic firms.
+In this way, Da argued that he believes "blockchain" might bring about the most benefits for Chinese consumers, though he sought to stress that there’s a larger, more important goal that unites innovators in both Shanghai and Beijing, in bitcoin and blockchain.
+"I think people in this industry are really trying to make some solid progress in reshaping our outdated, if not broken, financial system."
+Disclosure: Eric Mu is the former director of marketing and strategy at Beijing-based HaoBTC.
+Correction: A previous version of this article misstated the name of Everbright Securities.
+Russia's Largest Bank is Worried About Blockchain's Dark...
+Subscribe to our free newsletter and follow us
+Nov 21, 2016 at 13:00 | Stan Higgins
+UBS plans to invest in blockchain as part of an expansion plan in China.
+Nov 19, 2016 at 15:25 | Charles Bovaird
+Bitcoin Breaches $750 But Struggles to Set New 2016 High
+Bitcoin prices repeatedly breached $750 during the week through 18th November as traders responded to macroeconomic uncertainty.
+Nov 18, 2016 at 13:25 | Pete Rizzo
+Bitcoin Price Passes $750 as it Nears Five-Month High
+The price of bitcoin is now trading above $750, its highest total in nearly five months.
+Nov 17, 2016 at 13:56 | Stan Higgins
+IBM China Wants to Use Blockchain to Fight Climate Change
+IBM’s China division is working with a regional textile printing firm to to develop a platform for trading digital assets tied to carbon emissions.
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.

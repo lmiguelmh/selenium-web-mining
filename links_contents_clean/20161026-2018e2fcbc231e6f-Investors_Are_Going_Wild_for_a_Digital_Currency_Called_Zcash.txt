@@ -1,0 +1,65 @@
+Investors Are Going Wild for a Digital Currency Called Zcash - CoinDesk
+Vote Now for CoinDesk's Most Influential People in Blockchain
+Investors Are Going Wild for a Digital Currency Called Zcash
+Charles Bovaird | Published on October 27, 2016 at 06:02 GMT
+That's how market analyst Arthur Hayes describes the enthusiasm ahead of the upcoming launch of a new digital currency called Zcash – and he's not alone.
+While blockchain developers have long aimed to provide users of digital currency with privacy, the technology offered by Zcash could offer its users a hereto unforeseen level of anonymity. Now, investors have taken note.
+This hype is evidence in the sharp price gains that Zcash futures contracts have enjoyed ahead of the cryptocurrency's 28th October launch.
+The contracts, which trade against the price of bitcoin, have surged from a low of $18 (0.027 BTC) on 15th September to a high of $261 (0.379 BTC) as of yesterday, a change that represents an increase of nearly 1,300%.
+But that robust price increase has been made possible due to a non-existent supply and high demand. As Zcash does not plan to distribute coins through a public sale of its cryptocurrency to investors, that means miners and those who invested in the startup behind the technology will gain early access.
+Hayes explained that enthusiasm for Zcash tokens is so high, he believes the price of 1 ZEC would pass the price of bitcoin by the year's end. The reason? Investors don't want to miss out on a rare opportunity to buy in early.
+"No one wants to miss the next bitcoin or ether. Everyone is trying to get their hands on ZEC."
+The comments speak to the outsized gains that traders who have timed past digital currency launches have achieved.
+At the time of its initial crowdsale, the price of one ethereum token (1 ETH) was roughly $0.30. Today, it's $11.93, or a nearly 4,000% increase. A similar appreciation has been observed in bitcoin, which rose from $0 to $685, and Augur's reputation toke (REP), which rose from roughly $0.50 to more than $6 today.
+Vignesh Sundaresan, who co-founded bitcoin ATM maker BitAccess, also spoke to the supply and demand surrounding Zcash, as well as how expectations of its long-term value have already created a booming market.
+"Right now people have money, and they want Zcash, and there is no Zcash," he told CoinDesk.
+Yet, in a market filled with digital currencies, analysts say Zcash holds a unique promise due to the potential power of its underlying technology.
+Unlike most digital currencies (which are clones of bitcoin or assets on the ethereum protocol) Zcash uses a wholly new protocol called Zerocash, which offers both anonymous digital coins called zerocoins and non-anonymous coins referred to as basecoins.
+Zerocash permits anonymous transactions by harnessing a kind of zero-knowledge proof called a zk-SNARK, which allows two parties to provide each other with verified information without revealing their identities in the process.
+This technology permits the creation of a secure blockchain that hides the sender, recipient and value of all transactions. Further, the information surrounding these transactions is only available to those holding a view key.
+Now, users have the ability to share their view key with others if they desire. As a result, they may soon have the ability to create selective transparency on the Zcash blockchain.
+By allowing Zcash users to retain their confidentiality, its developers say they have created the digital currency in a way that solves for fungibility, or the ability for one zerocoin to be truly indistinguishable from any other.
+Fungibility has become an issue in the public blockchain sector, as evidenced by how it dominated conversation at bitcoin's most recent annual developer event.
+The cause for concern is that if companies know the past history of a blockchain token, they may refuse the monies provided by that source. This sort of situation has already taken place with bitcoin, as some exchanges have refused to accept specific coins after notable thefts.
+But while the sharp gains in Zcash futures have helped to support claims about its potential, some market observers say the currency could face hurdles ahead.
+Bitcoin developer and trader BTCDrak described Zcash as "novel and highly interesting," but noted that the digital currency’s use of zero knowledge proofs may present challenges.
+"It's bleeding edge cryptography," he said, before adding that the proofs are "very large" and that they "take a lot of CPU to sign transactions". Both criticisms have led to concerns about its blockchain's eventual scalability.
+Kevin Zhou, trader at digital currency exchange Kraken, also noted that investors may have reason to caution their excitement.
+For example, he too called its technology "bleeding edge" cryptography, while noting that it remains "untested".
+“It's the things we don't know we don't know (unknown unknowns) that could go wrong," emphasized Zhou, adding:
+"With every super new technology, there are always going to be risks."
+In spite of the risk, digital currency hedge fund manager Jacob Eliosoff (like other traders surveyed) believes Zcash presents a unique opportunity for buyers.
+But Eliosoff was cautious as well. While he said the benefit of fungibility today is "significant," he argued zerocoins could become obsolete if popular digital currencies like bitcoin or ethereum solved for the problem.
+Either way, all eyes will likely be on Zcash tomorrow with its official launch.
+Already, miners have begun to prepare to support its blockchain, offering the ability for interested parties to purchase interests in Zcash miners.
+Mining firm operator Jonathan Toomim went so far as to say he is excited for Zcash because he believes it holds the potential to undermine bitcoin's value.
+"Bitcoin had four main value propositions – anonymous electronic cash; cheap and scalable transfer of wealth; programmable money; [and] absolute scarcity as a store of wealth," he explained.
+"If we look at bitcoin's tech, we see that Zcash does [anonymous electric cash] and probably [cheap and scalable transfer of wealth] better than bitcoin," he said.
+Others were less academic in their estimations of the market.
+Zhou praised the digital currency, stating that he likes it far more than its competitors, telling CoinDesk:
+Disclosure: CoinDesk is a subsidiary of Digital Currency Group, which has an ownership stake in Zcash.
+A Lower Block Time Could Help Bitcoin Scale, But Will It...
+S&P: Too Early for Blockchain to Impact Credit Ratings
+Subscribe to our free newsletter and follow us
+Nov 19, 2016 at 15:25 | Charles Bovaird
+Bitcoin Breaches $750 But Struggles to Set New 2016 High
+Bitcoin prices repeatedly breached $750 during the week through 18th November as traders responded to macroeconomic uncertainty.
+Nov 18, 2016 at 13:25 | Pete Rizzo
+Bitcoin Price Passes $750 as it Nears Five-Month High
+The price of bitcoin is now trading above $750, its highest total in nearly five months.
+Nov 16, 2016 at 13:30 | Pete Rizzo
+The Price of Bitcoin Just Jumped $30 in One Hour
+The price of bitcoin rose nearly $30 over the course of one hour today, rising to a high of $740 as the price continued to flirt with annual highs.
+Nov 14, 2016 at 13:38 | Michael del Castillo
+As bitcoin core developer Peter Todd published his role in helping create the Zcash cryptocurrency doubt is cast on the system's "trustless setup."
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.

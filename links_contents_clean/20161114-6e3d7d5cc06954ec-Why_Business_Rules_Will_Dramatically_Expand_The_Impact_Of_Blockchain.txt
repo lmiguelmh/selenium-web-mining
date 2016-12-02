@@ -1,0 +1,19 @@
+Why Business Rules Will Dramatically Expand The Impact Of Blockchain
+NOV 14, 2016 @ 06:58 AM 2,445 VIEWS
+Why Business Rules Will Dramatically Expand The Impact Of Blockchain
+I find technology that matters for early adopters.
+Opinions expressed by Forbes Contributors are their own.
+The emergence of the idea of the blockchain that drove the creation of Bitcoin and other cyber currencies is one of those signal events in the history of computing. Just as Doug Englebart invented the mouse in 1968 and proposed a vision for user experience that has yet to be fully realized, the blockchain has sparked the imagination of developers around the world who are using it for applications both inside and outside of finance.
+But the excitement and the focus on the trust-building mechanism, the blockchain itself, has obscured the fact that the trust-building is just one aspect of the entire application platform. In absolutely every blockchain app, the use of the blockchain and the tracking of the trust units created are governed by a set of business rules that have to be airtight and just as unhackable as the blockchain itself.
+For blockchain apps to succeed in the largest arena, a robust business rules language must accompany the blockchain. How will this emerge?
+Stuart Popejoy is proposing an answer. The firm he co-founded with Will Martino, Kadena, just released Pact, its smart contract language, as open source. The goal: to provide a safe foundation for developers to implement solutions with robust business rules that can jumpstart the development of a business rules engine that, along with blockchain, can be the foundation for a general purpose blockchain application stack.
+Here is an edited Q&A that shows why blockchain needs a robust business rules language and what impact that will have, not only for financial transactions but for expanding reliable automation in general.
+Why are business rules so crucial to blockchain?
+Popejoy: Blockchains need business logic to gain industrial adoption. The first wave of blockchain business applications hosted business rules in software outside of the blockchain, “tokenizing” transactions by associating them with infinitesimal amounts of Bitcoin. The next wave hosts business rules directly on the blockchain, embedding the rules in the transactions themselves, thereby leveraging the security and robustness of the blockchain.
+Trump Picks Betsy DeVos, Daughter-In-Law Of Billionaire Amway Cofounder, For...
+Doctores Asombrados! 1 Píldora Le Ayuda A Perder 12Kg En 4 Semanas!
+La "Píldora Billonaria": Dobla Tu CI En Solo 14 Días!
+El Nuevo Método Para Ganar Dinero Que Es Furor En Jubilados De Peru
+The Diabetes Breakthrough Your Doctor Won't Tell You About
+Abuela De 72 Años Choca Dermatólogos: 20 Años Más Joven, Con Esta Crema
+Esto Producto Regenera El Cabello De Forma Natural

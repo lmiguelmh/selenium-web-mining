@@ -1,0 +1,18 @@
+Industry Report: Japanese TV Educating People on Bitcoin?
+INDUSTRY REPORT: JAPANESE TV EDUCATING PEOPLE ON BITCOIN?
+NICK MARINOFF · OCTOBER 13, 2016 · 7:57 AM
+A Japanese reality show educates the public on bitcoin, ViaBTC sees 50 a percent drop in hashing power, and Japan is looking to ditch sales tax on virtual money. Want to catch up on your latest digital currency and tech news? Read the stories below.
+Also read: Industry Report: A Week of Big Bitcoin Money, Backpage Arrests
+A new reality show called “BitGirls” is slated to hit the Japanese small screen in November. The all-girl competing cast will “become” digital currencies and complete various physical challenges, prompting viewers to purchase their tokens which earn them points throughout the show. Whoever stirs the most token purchases will be crowned the winner.
+The show is meant to stimulate interest in bitcoin and digital currency, and educate the general public about its uses. The program will be hosted by model Risa Yoshiki and comedian Eiji Shibata, and will play on Friday nights on the Tokyo Metropolitan Network, which broadcasts to over 14 million households.
+Mining pool ViaBTC has lost nearly half its hashing power following its move to Bitcoin Unlimited, a project that allows miners to decide on the sizes of their mining blocks. Presently, ViaBTC is mining about 2 MB blocks through the new platform.
+The team behind ViaBTC felt that the current Bitcoin network doesn’t allow significant amounts of people to use digital currency and experience its benefits, thereby prompting the move to Unlimted. The very first block mined on the new platform occurred last Monday. While ViaBTC felt they were doing the right thing in giving miners more choices, others didn’t feel comfortable with the move, and transferred to competing platforms. As a result, ViaBTC’s hash rate has fallen from about 11 percent to six percent.
+Japan is one of the few countries to charge sales tax on digital currency and Bitcoin purchases, but now it looks as though that tax is about to disappear. Members of the Finance Ministry are discussing how to “reduce costs for buyers and relieve operators of virtual currency exchanges of the administrative burden related to the tax.”
+Presently, purchasers pay an extra eight percent in tax funds on top of transaction fees when buying bitcoins from digital currency exchanges. Granted the talks at the Ministry are successful, the tax could be eliminated as early as this spring. Japan has been working hard to give its growing digital currency community a higher sense of security, and a bill is currently in the works that would regulate all digital currency exchanges and allegedly bring trust back to Japan following the Mt. Gox debacle.
+Know of any stories that belong in our regular industry reports? Post your comments below.
+SHAKEPAY INSTANT: BITCOIN DEBIT CARDS IN A BROWSER EXTENSION
+BITCOIN PRICE PULLS BACK, BUT HOPE FOR $800 AND BEYOND STILL STRONG
+CRYPTO-EDUCATION: UNIVERSITIES STARTING TO ACCEPT BITCOIN PAYMENT FOR DEGREES
+SEGWIT WON’T HAPPEN, SAYS INFLUENTIAL CHINESE BITCOIN INVESTOR
+FORCE OF WILL GOES DIGITAL WITH TRADEABLE BLOCKCHAIN GAME ASSETS
+ABOUT US CONTACT US CATALOG SITEMAP JOBS ADVERTISE PARTNERS

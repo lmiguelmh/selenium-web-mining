@@ -1,0 +1,26 @@
+Indian Bitcoin Exchange Unocoin Releases APIs, Partners Blockstream for Remittance - CryptoCoinsNews
+Indian Bitcoin Exchange Unocoin Releases APIs, Partners Blockstream for Remittance
+Unocoin, arguably India’s foremost bitcoin exchange and wallet provider has announced the implementation of its APIs, a first for the company. The feature will help enable adopters, be it individuals or companies, to generate bitcoin wallets to transact with and store the cryptocurrency as a payment method.
+he API also allows for real-time or historical price information, bitcoin payment options for merchants and perhaps uniquely, KYC (know your customer) detailing procedures for offshore merchants to remit bitcoin to India.
+The release of its API comes soon after the bitcoin startup raised $1.5 million in a pre Series-A funding round, a record amount for a digital currency venture in the country.
+  Unocoin chief executive and co-founder Sathvik Vishwanath stated:
+We’ve been excited to develop a robust API for use by companies around the world. Our API is best described as an on-ramp for firms looking for a simpler way to gain entry into one of the world’s fastest growing and largest potential markets.
+  Unocoin added that the API has seen “rigorous testing” prior to its release, with its mobile applications built off the API infrastructure.
+India is home to an increasing interest in Bitcoin.
+The bitcoin exchange also revealed a new partnership with prominent bitcoin blockchain-centric Blockstream, to enable low-cost cross-border remittance. The partnership will see the feature enabled on Paycase, a mobile remittance application that will use Unocoin’s API and Blockstream’s sidechains product, Liquid, to introduce frictionless, near-instant remittance between Canada and India.
+As the leading remittance-receiver in the world, India is leading market for blockchain-enabled remittance operators to make their mark.
+India represents a massive growth opportunity for Bitcoin.
+  “We’re excited to be working with Unocoin on Liquid and believe the company has the potential to bring Bitcoin to millions of new users based on their technology vision and business execution,” Back added, underlining what could potentially prove a significant use-case of its sidechains offering.
+Posted in: Bitcoin Exchange, Bitcoin Technology, Blockchain News, News Tagged in: blockstream, india, unocoin
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+A Blockchain Remittance Pilot Proves Successful for 100 Migrant Workers in Thailand
+NextBtcSolar Limited Has Launched a Unique Investment Concept Offering Its Members to Invest in Solar Energy Power Sector Using Bitcoins07/11/2016
+PreviousBitcoin Scaling Solution Segwit a “Bait and Switch”, says Roger Ver07/11/2016
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

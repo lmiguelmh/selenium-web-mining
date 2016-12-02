@@ -1,0 +1,7 @@
+How Zcash Tries to Balance Privacy, Transparency in Blockchain | American Banker
+Recent Issues | Magazine | Video | Web Seminars | White Papers
+Log In | My Account | Customer Service
+= Subscriber content; log in or subscribe now to access all American Banker content.
+How Zcash Tries to Balance Privacy, Transparency in Blockchain
+WASHINGTON — Zcash, the cryptocurrency that debuted last week, promises transactional privacy on an open blockchain. That could make distributed-ledger technology more appealing to financial institutions, but perhaps less so for regulators.
+The blockchain — the shared-ledger system pioneered in bitcoin — is often touted as a more efficient, transparent and resilient way to record transactions. A major sticking point for financial institutions, however, is that such a system gives every user access to the basic details of every transaction that has been conducted on it.

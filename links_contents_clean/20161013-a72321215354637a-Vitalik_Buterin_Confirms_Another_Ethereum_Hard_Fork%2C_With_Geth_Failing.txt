@@ -1,0 +1,13 @@
+Vitalik Buterin Confirms Another Ethereum Hard Fork, With Geth Failing To Prevent DoS Attacks
+Vitalik Buterin Confirms Another Ethereum Hard Fork, With Geth Failing To Prevent DoS Attacks
+The increasing number and intensity of denial-of-service attacks has continuously affected the network, causing delays in exchanges and wallet platforms for ETH deposits and withdrawals. As a direct result to this issue, Vitalik Buterin has recently confirmed the execution of the EIP150 hard fork.
+Despite the release of a series of Geth releases including “What else should we rewrite?” “Come at me Bro (1.4.15),” and the latest “Poolaid (v1.4.17),” the Ethereum development team has struggled to mitigate the DoS attacks and transaction spam attacks.rmed the execution of the EIP150 hard fork, which will be designed to automatically adjust gas prices on the Ethereum network.
+Gas, a measuring unit used by the Ethereum network to represent the amount of work the execution of a certain operation requires, is necessary because it establishes the range of appropriate fees paid by the transactions to the network.
+Ledger Labs Head of Technology and Ethereum expert Jeff Coleman explains:
+“By requiring that a transaction pay for each operation it performs (or causes a contract to perform), we ensure that network doesn't become bogged down with performing a lot of intensive work that isn't valuable to anyone.”
+Thus, the newly introduced EIP150 hard fork looks into major changes in gas prices to mitigate DoS attacks and setting practical gas prices to every transaction submitted to the network.
+So far, a variety of solutions have been proposed to EIP150 as an automatic gas price adjustment mechanism. As Vitalik Buterin stated in his official announcement, three main categories are being considered: miner voting, market-based schemes and timing games.
+While miner voting is quite straightforward in the sense that miners vote on the gas price, market-based schemes are a more balanced method that takes in both the market and miner to decide the gas schedule of each transaction.
+Overtime, as time for EIP150 execution approaches, Buterin explains that these models will be exploited in greater detail, with necessary research and reviewing process. Buterin stated:
+"Coming up with such models is still a research topic; it's not reasonable to expect something like this to be researched and reviewed in time for the EIP150 hard fork, and so in the short term "Starcraft-style rebalancing" is the only realistic way forward. In the longer term, there certainly are ways that the gas schedule can be made much more flexible."
+For updates and exclusive offers, enter your e-mail below.

@@ -1,0 +1,43 @@
+Bitcoin Scaling Conference In Milan Highlights Collaborative Initiatives - CryptoCoinsNews
+Bitcoin Scaling Conference In Milan Highlights Collaborative Initiatives
+There is no shortage of ideas about how to meet the bitcoin scaling challenge. More importantly, however, is the willingness of the community to share its ideas and work on ways to bring them to fruition. This much was obvious from this weekend’s Scaling Bitcoin “Retarget” conference held at the Politecnico di Milano Piazza Leonardo da Vinci in Milan, Italy.
+his year’s two-day conference, designed to present solutions to the scalability challenge, featured a host of speakers and drew an enthusiastic attendance. The conference provided a venue where developers, miners and researchers can conference about bitcoin development.
+The presentations were videotaped and are posted on the conference website, along with presentation transcripts. The postings mark an improved level of cooperation in the bitcoin community since last year’s Montreal conference.
+Topics this year included improving bitcoin throughput; security and privacy; layer 2 ideas (such as payment channels); fee structures and incentives; network resilience; testing modeling and simulation; anti-spam measures; mining concerns; block size proposals; and community coordination.
+The workshops were intended to facilitate the existing bitcoin improvement proposals process. Most work will occur after the workshops, which are additive to the design and review process by enhancing awareness of proposals, simulations, studies and diverse viewpoints.
+Workshops addressed fungibility, community, Lightning Network scalability, scalability of other second layer systems, implementation, and breaking the chain.
+Adam Black, Blockstream CEO, and Matt Corallo, Blockstream co-founder, began with an overview on bitcoin’s fungibility. They noted bitcoin fungibility has gotten bad with some wallets, and that fungibility is important for it to serve as a payment mechanism. A fungibility collapse could lead to a loss of confidence and a price crash.
+Adlai Chandrasekhar then explained the basics of JoinMarket, a protocol, and privacy attacks on the JoinMarket ecosystem in 2016. Joinmarket’s fundamental innovation, he said, is to compensate people for participating in the protocol. He also discussed recent changes to the protocol to prevent such attacks.
+Ethan Heilman and Leen AlShenibr discussed Tumblebit, an untrusted bitcoin-compatible payment system. Tumblebit provides private, untrusted, scalable payments via bitcoin.
+Andrew Poelstra, a Blockstream mathematician, explained MimbleWimble, a slimming down of the bitcoin protocol that generates a blinding factor that can prove ownership of bitcoins.
+Meltem Demirors, a director at the Digital Currency Group, and Eric Lombrozo, co-founder, co-CEO and chief technology officer at Ciphrex Corp., spoke about “Build – Scale – Operate: The Three Pillars of the Bitcoin Community.” More coordination on the application layer will make it easier for people outside of the bitcoin community to come in and use bitcoin, they observed.
+Olaoluwa Osuntokun spoke about onion routing in the Lightning Network. He noted that the second layer of Lightning could be an important opportunity to improve privacy and fungibility.
+Pavel Prihodko, Kolya Sakhno, Alexei Ostrovskiy, Slava Zhigulin and Olaoluwa Osuntokun spoke about Flare, an approach to routing in the Lightning Network. They proposed some ideas for finding channels through which to send payments.
+Tadge Dryja spoke about unlinkable, outsourced channel monitoring within the Lightning Network.
+Paul Sztorc, an economist at Bloq Inc., spoke about sidechains.
+Riccardo Casatta, the founder of Geobit, a platform for advertising using geolocation and bitcoins, spoke about time stamping in scaling bitcoin.
+On the second day, Greg Sanders spoke about Segwit lessons learned. Sanders noted he worked on the Elements project at Blockstream and was a reviewer on Segwit for Bitcoin Core. He addressed the challenge of scaling the bitcoin protocol development.
+Pieter Wuille, co-founder of Blockstream, addressed the Elliptic curve Schnorr-based signatures, a cryptographic-based system, in bitcoin.
+Jonas Schnelli, a Bitcoin Core developer, spoke about BIP151: peer-to-peer encryption and authentication from the perspective of end-users.
+Mark Erhardt spoke on the simulation-based evaluation of coin selection strategies.
+Arthur Gervais spoke on the security and performance of proof-of-work blockchains.
+Emin Gun Sirer, an associate professor at Cornell University, spoke on opportunities and challenges in bitcoin covenants.
+Lefteris Kokoris-Kogias, Philipp Jovanovic, Nicoas Gailly, Ismail Khoffi, Linus Gasser and Bryan Ford spoke on enhancing bitcoin security and performance with strong consistency via collective signing.
+Mark Friedenbach, co-founder of Blockstream, spoke on fast difficulty adjustment using a low-pass, finite impulse, response filter.
+David Vorick, co-founder of Siacoin, spoke on Jute: new braiding techniques to achieve significant scaling gains.
+Bitcoin Core developer Peter Todd spoke on progress on scaling via client-side validation.
+Also read: Scaling bitcoin workshop looks forward to Hong Kong in December
+The Montreal Bitcoin Scaling conference last year was held under Chatham House Rules, meaning that while the entire conference was transcribed, who said what was not made public.
+“Many [were] interested or at least willing to accept a ‘short term bump,’ a hard fork to modify block size limit regime to be cost-based via ‘net-utxo’ rather than a simple static hard limit. 2-4-8 and 17%/year were debated and seemed ‘in range’ with what might work as a short-term bump – net after applying the new cost metric,” Bitcoin developer Jeff Garzik wrote in a personal summary of the Montreal conference.
+Posted in: Bitcoin Education, Bitcoin Events, Bitcoin Progress, News Tagged in: Bitcoin Scaling, blockstream, JoinMarket
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+NextHillary Clinton: Wall Street Insiders Can Reform Themselves10/10/2016
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

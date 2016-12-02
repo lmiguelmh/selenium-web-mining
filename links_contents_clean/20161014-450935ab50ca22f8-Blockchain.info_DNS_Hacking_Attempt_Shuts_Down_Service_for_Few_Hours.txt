@@ -1,0 +1,30 @@
+Blockchain.info DNS Hacking Attempt Shuts Down Service for Few Hours - NEWSBTC
+Bitcoin Price Watch; A Slow End To The Week
+EY Unveils Strategy to Create Mainstream Bitcoin Traction In Switzerland
+Ethereum Platform Receives a New Geth Update after Consensus Flaw
+Redefining the Short Term Recruitment Industry -- ChronoBank
+Bitcoin Price Watch; End Of The Week Trading
+Ledger Blue Hardware Cryptocurrency Wallet Now Available For Pre-order
+Ethereum Price Technical Analysis – ETH/USD Downsides To Continue
+Bitcoin Price Technical Analysis for 11/25/2016 - Hold or Fold at Channel Support?
+Fortunejack – The only Gambling Site Offering Binary Options Trading
+Swift Boasts Blockchain Technology Will Not Disrupt Their Business Model
+Is IRS Overstepping Boundaries by Issuing Summons to Coinbase?
+Tendai Biti: "Zimbabwe Should Adopt Bitcoin As The National Currency"
+Ethereum Classic Price Technical Analysis – ETC/BTC Almost Tested 0.00100BTC
+Ethereum Price Technical Analysis – Can ETH/USD Break This?
+Bitcoin Price Technical Analysis for 11/24/2016 - Eyes on This Triangle
+Blockchain.info DNS Hacking Attempt Shuts Down Service for Few Hours
+Blockchain.info reported a DNS attack yesterday, forcing the platform to go offline for few hours. Read more...
+Blockchain.info is the latest victim of a cyber-attack. The Blockchain tools and wallet service provider reported a security breach affecting its DNS servers yesterday.
+According to the company’s statement, the attack happened at around 5:42 AM EST after an unknown attacker managed to access the DNS servers belonging to Blockchain.info. The attack led to a temporary outage of services which was later rectified by the Blockchain’s team.
+The company, in its blog post, claims that the attack was carried out on the systems belonging to the company’s DNS registrar without presenting any threat to Blockchain’s own servers. However, the attack disrupted the services of the platform for over 7 hours, leaving its customers unable to access the site.
+The cyber-attack on Blockchain.info’s DNS servers were carried with great sophistication. As soon as the attacker changed the platform’s DNS servers, the company’s infrastructure team was alerted. The team, in turn, shut down the entire platform and conducted further investigation into the incident. During the investigation, it was found that the DNS servers were accessed by the criminals after compromising the DNS registrar’s systems.
+Once the breach path was identified, the registrar manually regained control over the affected servers to revert changes. The services were resumed only after the fix was propagated throughout the internet.
+The attackers were found to have used self-signed SSL certificates which prevented the Blockchain wallet users from being exposed to a phishing attack. In order to prevent any future attacks of a similar sort, the platform has introduced additional offline controls. Even the systems used by the attackers to breach the platform has been identified and shut down by the infrastructure team since then.
+This incident reminds the importance of cybersecurity for cryptocurrency platforms. If the incident had gone unnoticed, the attackers could have easily redirected users away from Blockchain.info platform, gaining access to their login credentials in the process. Armed with the stolen credentials, they could have even stolen Bitcoin from the wallets.
+Gautham has an eye for anything new. He has been part of multiple startups and his current project focuses towards the social good sector. An entrepreneur, engineer and enthusiast (bitcoin, of course), he has been moonlighting as a writer for multiple publications and currently writes at NewsBTC. Find him on twitter as @gautham_n and on facebook at /gautham.nm View all posts by Gautham
+Electronic Government as a Service — eGaaS Enters Beta Testing Phase
+Bitcoin’s Fastest Growing Community Issues Innovative BitConnect Coin ICO
+IBM, Microsoft and Sberbank shared experience in blockchain developments. How did Blockchain & Bitcoin Conference in Moscow go?
+NewsBTC is a news service that covers bitcoin news, technical analysis and forecasts for bitcoin and other altcoins. Here at NewsBTC, we are dedicated to enlightening people all around the world about bitcoin and other cryprocurrencies. We cover news related to bitcoin exchanges, bitcoin mining and price forecasts for various virtual currencies.

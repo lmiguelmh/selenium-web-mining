@@ -1,0 +1,63 @@
+Bitcoin Weekly: Adam Back becomes Blockstream CEO, bitcoin exchanges expand and more investment funding - SiliconANGLE
+Bitcoin Weekly: Adam Back becomes Blockstream CEO, bitcoin exchanges expand and more investment funding
+A lot of business is going on in the bitcoin and blockchain ecosystem this week. A shakeup happened at the bitcoin technology startup Blockstream when co-founder Austin Hill quit his position as chief executive and co-founder Adam Back was appointed to the position. India’s biggest bitcoin company Unocoin announced $1.5 million USD in investment funding. Factom also announced Series A funding to the tune of $4.2 million USD.
+As for bitcoin exchanges, Gemini and Kraken are in the news. Gemini has announced an expansion into Singapore and Hong Kong, customers can now fund and withdraw from banks in those regions. Kraken has added Augur Reputation Tokens to its list of tradable cryptocurrencies (alongside Bitcoin and Ethereum).
+IBM predicts that blockchain technology will remain popular this year, with a survey of over 200 financial institutions worldwide–15 percent report the intent to have blockchain products at scale by 2017 with 66 percent expecting to have blockchain operations by 2020.
+As for the bitcoin market, the current market value of BTC sits at $614 USD (BitcoinAverage.com). This is a very small rise from last week’s market value of $611 USD.
+Adam Back appointed CEO of bitcoin startup Blockstream
+Bitcoin startup Blockstream Inc. officially announced that its former chief executive, Austin Hill, has formally stepped aside on Monday and Adam Back, British cryptographer and inventor of hashcash, has stepped in as the company’s new CEO.
+As part of his exit from the CEO role, Hill has also stepped down from the board of Blockstream, according to CoinDesk, and will use this as an opportunity to “pursue other opportunities”.
+Adam Back is co-founder of Blockstream and was there when the startup first announced its innovative approach to the Bitcoin protocol with the Bitcoin pegged sidechain whitepaper in early 2014.
+“I am honored to take on the CEO position at this important phase in the company’s growth and am excited about leading Blockstream to its full potential,” said Black. “We have a world class team dedicated to building the foundation that will underpin the transformation of finance for years to come.”
+Earlier this year during February, Blockstream obtained $55 million USD in Series A funding (making it a boom year for Bitcoin and blockchain startups in 2016 adding to the $160 million spent on investment in 2016 Q1). Since then Blockstream has continued to grow its operation with the acquisition of GreenAdress, bitcoin wallet provider, in July.
+  Gemini extends reach to Hong Kong and Singapore
+Gemini Trust Company LLC, the bitcoin exchange started by the Winklevoss twins Cameron and Tyler, is expanding its operations to Hong Kong and Singapore. Customers in those regions will soon be able to trade bitcoins (BTC) and ether (ETH) on the platform for local currencies, HKD and SGD.
+This follows Gemini’s last expansion into the United Kingdom in June of this year. After this move, Gemini will be available for customers across the United States, Canada, the U.K., Hong Kong and Singapore.
+Also as part of this move, Gemini now supports U.S. dollar wire transfers from banks located in Hong Kong and Singapore.
+India’s leading bitcoin company, Unocoin raises record $1.5M in funding
+Unocoin, a Bangalore-based bitcoin startup, raised $1.5 million in a Pre Series-A round. This represents a record-setting amount of money raised by any digital currency startup in India’s history. The funding round was joined by international investors such as Barry Silbert’s Digital Currency Group, Adam Draper’s Boost VC, Bank to the Future, Bitcoin Capital and FundersClub as well as well-known Indian venture capital groups including  Blume Ventures, Mumbai Angels and ah! Ventures.
+“We’re honoured to have this type of support from top investors,” said Unocoin co-founder and CEO, Sathvik Vishwanath. “We started from my small hometown called Tumkur near Bangalore and our goal from the beginning was to make it easy to get bitcoin in India. A few years later, we are now headquartered in Bangalore with 30+ employees, serving more than 100,000+ customers across the country and growing exponentially.”
+Unocoin is responsible for industry leading innovations such as the Bitcoin Systematic Investment Plan, Bitcoin Point of Sale App and Bitcoin Over-The-Counter trading. The company operates a Bitcoin web wallet and merchant services for India and also offers services as an exchange so that customers can buy and sell Bitcoin.
+IBM predicts that 66 percent of major banks will adopt blockchain solutions by 2020
+The technology adoption curve of blockchain technology for the fintech industry appears to be accelerating, according to a report released by tech giant IBM. To get its data, IBM Corp. surveyed over 200 banks across 16 countries about their current experience and expectations for blockchains.
+From the survey, 15 percent of the banks asked said that they expected to have blockchains at scale operational in commercial production by 2017. The survey analysis calls these banks “trailblazers.”
+IBM stated that the survey found that “all banks expect blockchains to eradicate frictions across the board,” but that these trailblazers expected to see “substantial reductions in those frictions” when entering into new markets.
+The survey also predicts that blockchains will drive disruption in traditional banking and fintech by providing cross-industry ecosystem change. For example,  In China, Xinyuan Real Estate, a real estate developer and property manager, developed a blockchain system for land management supported by the Industrial and Commercial Bank of China. This is comparable to the early work done by Factom with the government of Honduras for blockchain land registry (a project which may still be stalled).
+“Corporate and consumer lending may be particularly vulnerable to new blockchain models,” states the IBM report. As participants see that blockchains form a sort of code-led governance that allows direct exchange between users. Many trailblazers expect to see it also disrupt deposit taking and retail payments.
+Within the data, the 15 percent of banks categorized at “trailblazers” will set the trend before 2018, followed by another 51 percent of banks categorized as “mass adopters” feeding the trend by 2020.
+Bitcoin and cryptocurrency exchange Kraken (Payward Inc.) today added support for Aurgur Reputation Tokens (REP) for trade with other cryptocurrencies and for terrestrial currency (USD, CAD and JPY).
+Augur is an innovative approach to predictive problem solving for markets using crowdsourced predictions of real-world events and rewards for good predictions with a cryptocurrency (above noted REP tokens). The platform raised over $1.3 million USD in 2015 during a crowdsale of its REP tokens to build towards the full launch of its product.
+“We all know that Kraken is one of the top exchanges in the space,” the Augur team commented. “This is more important: we are personal fans of the overall Kraken trading experience. We use Kraken, we trust Kraken and – this true – even Joey Krug’s mom uses Kraken! We are elated that they’re featuring REP trading on their platform. We predict that trading of REP on Kraken will be strong :)”
+Kraken is the 10th most popular Bitcoin exchange by volume in today’s market and moved almost 3,000 BTC (approximately $1.8 million USD) in the last 24 hours.
+Factom Series A raises $4.2M led by Tim Draper of Draper Associates
+Austin, TX-based Factom Inc., a company that secures data using blockchain technology, today announced that Tim Draper of Draper Associates has led its Series A funding round totalling $4.2 million USD.
+Also joining Draper Associates V, L.P. and Draper Associates Partners V LLC in this round were Propertyinfo Corporation, Star Vista Capital LLC, CashBUS, BnkToTheFuture, Fenbushi Corporation, Fenbushi Investment Fund, China Canada Angels, Plug and Play and Tospring Technology Limited. Angel investors Kevin Spiers and Darla Spiers, Hillary Ryan, Leon Fu, Roland Hicks and Marc Shubert Living Trust Dtd also joined this round.
+“We are delighted to have venture capitalists of such caliber help us build Factom,” Peter Kirby, chief executive and co-founder of Factom, Inc. “This round of funding allows us to aggressively grow the company and the underlying technology. We started Factom to build a more honest and transparent world using a pretty simple approach: create software that makes it impossible to change the past and point that software at places where it solves valuable business problems. This funding accelerates our progress down that road.”
+Factom’s Series A comes a few months after being awarded a $199,000 grant from the United States Department of Homeland Security to develop an immutable record-keeping system for Internet of Things devices. The grant proposes that Factom will assist in developing security measures for IoT communications to help close gaps in cybersecurity when it comes to the ever-increasing number of devices connected to the Internet.
+Factom has also been in negotiations with the government of Honduras to provide
+Japan plans to build the fastest deep learning supercomputer
+Stripe’s valuation reaches $9B thanks to new $150M funding round
+Are you ready for new data recovery regulations?
+Huawei is now the world's most profitable Android smartphone brand
+Systran Group launches neural machine translation tool for enterprises
+Snowflake Computing declares cloud storage price war on Amazon
+Data confluence: handling the scale of distributed computing | #CDSUSA
+Too big to fail: How a popular online community monetized its platform | #Amplify
+Can cross-pollinating data and security block the new cyber-hacking threat? | #theCUBE
+Data confluence: handling the scale of distributed computing | #CDSUSA
+Too big to fail: How a popular online community monetized its platform | #Amplify
+Crowd-sourcing online talent to win a million-dollar competition | #CDSUSA
+Helping software help us: How one startup is making the most of APIs | #Amplify
+Data science: What does it mean and how is it best applied? | #CDSUSA
+For Apple deals, you're better off at other retailers
+Expercom Offering MacBook Pro With Touch Bar For Up to $225 Off With AppleCare
+Save big with the best smartphone deals on Black Friday
+HPE Discover 2016: November 29th – December 6th (London, UK)
+AWS re:Invent: November 28th – December 2nd, 2016 (Las Vegas, NV)
+5th Annual CloudNOW Top Women in Cloud Awards: December 7th (Mountain View, CA)
+Spark Summit East 2017: February 7-9 (Boston, MA)
+BigData SV 2017: March 13-16 (San Jose, Ca)
+Dataworks Summit EU 2017: April 2-4 (Munich, Germany)
+Spark Summit 2017: June 6-8 (San Francsico, CA)
+Dataworks Summit US 2017: June 13-15 (San Francisco, CA)
+Are you ready for new data recovery regulations?

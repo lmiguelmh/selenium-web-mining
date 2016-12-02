@@ -1,0 +1,28 @@
+This Colorful Visualization Shows Bitcoin Is Reaching Its Limit | Motherboard
+This Colorful Visualization Shows Bitcoin Is Reaching Its Limit
+Explaining bitcoin is a nightmare because it’s an insanely complicated mathematical abstraction, and so when somebody makes a stink about a piece of code causing problems, it’s difficult to communicate the stakes.
+Consider the “block size” crisis that gripped the bitcoin community in 2015 and to this day remains unresolved. That dust-up was about a proposal to increase the capacity of the “blocks” of bitcoin data that get stored to the blockchain. If these blocks start to fill up, the critics said, then the entire network will slow down and the fees that users attach to their transactions will rise as the competition for space inside a given block gets tougher.
+Recently, it’s begun to look like these predictions are coming true.
+OK, that admittedly jargon-heavy explanation probably didn’t mean much to you if you’re not a regular bitcoin user. So how about this? Look at all the deep red in the below visualization of current bitcoin blocks. A year ago, according to its maker, developer Eric Miller, it was all pale yellow. But now it’s mostly red.
+The visualization tracks blocks of bitcoin data and colour-codes them based on how full of transactions they are. Red indicates near-full, and less intense shades indicate a more comfortable level.
+Miller isn’t a bitcoin head, he told me over email, but the data available through blockchain explorer company Blocktrail is simple enough to visualize in an equally simple way.
+It’s not the most nuanced look at the state of bitcoin, but it does hammer home just how resource-strapped the network is these days.
+Read More: Bitcoin's 'New Normal' Is Slow and Frustrating
+“A toy I wrote a year and half ago used to be yellow, now it's all red,” Miller wrote. He didn’t tinker with it to make that happen, he added: “I didn't change the code, I hadn't touched it in forever. This won't be news to anybody who works on Bitcoin, but seeing it in real time as a direct chart representation makes it very human, visceral, and obvious.”
+Bitcoin is based on math, but the network is made up of humans with real money on the line. If blocks of transaction data fill up due to more people using bitcoin, then competition for space inside the next block to be processed goes up, meaning people will need to attach higher fees to their transactions to convince miners let them jump the line.
+This means usability goes down for people who don’t want to have to add a few cents to their morning coffee purchase just to push that transaction through the network.
+Thankfully, a fix for this is on the way in the form of an update called segregated witness, preparation for which was included in the last bitcoin code release but hasn’t been switched on yet. When it goes live, which should happen sometime soon, the block size for bitcoin transactions will rise from the current 1 MB limit to 1.7 MB.
+Until then, well, just look at all those red blocks. Oh no!
+Get six of our favorite Motherboard stories every day by signing up for our newsletter.
+TOPICS: bitcoin, block, size, block size, crisis, debate, segwit, segregated witness, data, visualization, blockchain, news
+You can reach us at letters@motherboard.tv. Letters may be published. Want to see other people talking about Motherboard? Check out our letters to the editor.
+IRS Demands Identities of All US Coinbase Traders Over Three Year Period
+Bitcoin’s Former Chief Developer Regrets Playing the ‘Who Was Satoshi’ Game
+Unless Everyone Using Bitcoin Makes This Radical Change, the Currency Will Die
+Colorado Hemp Farmers Are Turning to Bitcoin for Their Banking Woes
+US Federal Prosecutor: You ‘Can’t Shut Down Bitcoin’
+After 20 Minutes of Listening, New Adobe Tool Can Make You Say Anything
+Vancouver Considers Abandoning Parts of the Coast Because of Climate Change
+How We Plan to Cover the Environment In a Trump Presidency
+The Canadian Military Is Investigating a Mysterious Noise In the Arctic
+Why Some Apple Fans Are Considering a Hackintosh

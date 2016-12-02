@@ -1,0 +1,25 @@
+Intel's New Tech Brings High Level of Security to Bitcoin Wallet Users | Finance Magnates
+FM HomeCryptoCurrencyNewsIntel’s New Tech Brings High Level of Security to Bitcoin Wallet Users
+Intel’s New Tech Brings High Level of Security to Bitcoin Wallet Users
+This makes Copay a safer true bitcoin wallet alternative to bitcoin account services vulnerable to security breaches.
+Avi Mizrahi | News (CryptoCurrency) | Tuesday, 25/10/2016|10:14 GMT
+Bitcoin payments processor BitPay has announced the first bitcoin wallet with Intel hardware security integration. The Intel Software Guard Extensions integration offers hardware-level protection for the bitcoin wallet’s private key generation, transaction signing and private keys.
+Take the lead from today’s leaders. FM London Summit, 14-15 November, 2016. Register here!
+“Providing user-friendly financial security is one of bitcoin’s biggest opportunities, and Intel’s silicon-based security helps us move bitcoin closer to the mainstream,” said Stephen Pair, CEO of BitPay. “We look forward to releasing this to Copay users in the coming months.”
+“The decentralized trust which blockchain technology enables has the potential to transform interactions over the Internet, starting with bitcoin. With blockchain technology and our security and computing assets, Intel hopes to bring decentralized trust to a wide array of asset exchanges over the Internet,” said Rick Echevarria, Vice President of Software and Services Group, and General Manager of the Platforms Security Division at Intel.
+BitPay says it expects to make this feature available to all clients soon and it will be showcasing a demo of the solution this week in Las Vegas.
+Last month Straits Financial LLC announced that it will be the first U.S. based Futures Commission Merchant (FCM) to indirectly utilize the services of BitPay via a partnership with digital bank WB21 Ltd.
+For those who have doubts, for those who don’t understand, for others in denial, the world is changing and there’ s really nothing one can do about it, but accepting it and adapt. Intel is entering the sphere of wallets and security. After all, with the big players now trying to get into the virtual market, it was about time. The cryptomoney or whatever you choose to call it, is a dream come true for some, and a living nightmare for others, that’ s for sure…
+Men like Warren Buffett, it’ s like roll over Beethoven, they’re missing the point, too old to rock and roll I guess. The thing that bothers me is the global warming effect. It takes a lot of energy. In China, I think it’ s Viabtc, they have their own central to produce the energy for their computers, but nobody mention with what their electricity is produced… So here in Quebec (Canada), we have hydro-electricity and it’s pretty cold in the winter. Hydro-Quebec president, Eric Martel, was talking about inviting big servers like Google to come up here in Quebec. The low cost of electricity and a more favorable climate for the computers are big advantages compared to, as an example, Salt Lake City… It would be interesting for us out there if you wrote about the subject … Maybe the NASA have a secret project to build all that on the dark side of the moon, who knows I thank you in advance, keep up whit the good work…
+October 25, 2016 at 4:26 pm 0 0
+Borsa İstanbul Inks MoU With Islamic Development Bank ... / 7 hours
+Trump to Make Greek Banks Great Again – Piraeus Bank ... / 9 hours
+CME Group Strikes New Daily Record Open Interest Amidst ... / 9 hours
+Canadian Regulator OSC Warns Against Zurich Prime / 10 hours
+Borsa İstanbul Inks MoU With Islamic Development Bank
+Trump to Make Greek Banks Great Again – Piraeus Bank Chairman
+CME Group Strikes New Daily Record Open Interest Amidst Shortened Trading Week
+Senegal to Introduce Blockchain-based Currency to West Africa, eCFA
+Blockchain Issues Ten Millionth Bitcoin Wallet due to Unprecedented Activity
+Finance Magnates is a global B2B provider of multi-asset trading news, research and events with special focus on electronic trading, banking, and investing.
+Copyright © 2016 "Finance Magnates Ltd." All rights reserved. For more information, read our terms and conditions

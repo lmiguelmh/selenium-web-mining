@@ -1,0 +1,36 @@
+With TumbleBit, Bitcoin Mixing May Have Found Its Winning Answer | Bitcoin Magazine
+With TumbleBit, Bitcoin Mixing May Have Found Its Winning Answer
+Oct 25, 2016 07:26 PM by Aaron van Wirdum
+Bitcoin right now is not really anonymous. Monitoring the unencrypted peer-to-peer network, analyzing the public blockchain or Know Your Customer (KYC) policies and Anti-Money Laundering (AML) regulations can reveal a lot about who is using Bitcoin and for what.
+This is not great from a privacy perspective. For example, Bitcoin users might not necessarily want the world to know where they spend their money, what they earn or how much they own; similarly, businesses may not want to leak transaction details to competitors.
+Additionally, the fact that the transaction history of each bitcoin is traceable puts the fungibility of all bitcoins at risk. “Tainted” bitcoins may be valued less than other bitcoins, possibly even calling into question Bitcoin's value proposition as money.
+But privacy and fungibility can be improved. An older method to break a link of transactions — CoinSwap — was recently revived and improved upon, with promising results. TumbleBit, as the new solution is called, is set to realize a completely private and trustless mixing service — and even offers increased scalability as a bonus.
+A key problem for privacy and fungibility is that Bitcoin-addresses are trivially linkable. If Alice pays Bob a bitcoin, blockchain analysis reveals that their addresses did the transaction.
+To break this link, Bitcoin Core developer Gregory Maxwell proposed CoinSwap, first introduced on the Bitcointalk forum in 2013.
+The idea behind CoinSwap is very simple: it uses an intermediary for payment. If Alice pays one bitcoin to an intermediary, and this intermediary pays a different bitcoin to Bob, Alice will have effectively paid one bitcoin to Bob, but no link exists between their addresses on the blockchain.
+The problem is that this intermediary can steal funds. If Alice pays the intermediary a bitcoin, the intermediary can simply decide not to pay Bob, and instead keep the bitcoin.
+This is solved with Hash Time-Locked Contracts (HTLCs). Alice and the intermediary set up a special type of payment channel, while Bob and the intermediary set up a payment channel as well. Through clever Bitcoin tricks that include embedding dedicated cryptographic keys in transactions, these payment channels are effectively linked. Bob can claim one bitcoin from the payment channel between him and the intermediary, but only in such a way that the intermediary can also claim a bitcoin from the payment channel between him and Alice. No one can steal funds.
+(The specifics of HTLC is beyond the scope of this article; for more details see ‘Understanding the Lightning Network, Part 2: Creating the Network’.)
+CoinSwap breaks the link of transactions on the blockchain. But, unfortunately, that doesn’t solve all privacy and fungibility issues just yet. Most importantly, the intermediary still knows that Alice transacted with Bob. The intermediary can re-establish the link.
+These issues are what the new TumbleBit improvement solves.
+TumbleBit was proposed by Boston University’s Ethan Heilman, Leen Alshenibr, Foteini Baldimtsi, Alessandra Scafuro and Sharon Goldberg last summer, and was recently presented at the Scaling Bitcoin workshops in Milan.
+TumbleBit resembles CoinSwap, but adds three important features.
+First, it adds anonymity in numbers. TumbleBit allows many users —  many “Alices” and many “Bobs” —  to set up payment channels with the same intermediary. And all Alices can send bitcoins to all Bobs through that intermediary.
+Second, the payment channels between the intermediary and all Bobs are replaced by sophisticated cryptographic puzzles. If Bob can provide the solution to the puzzles, he can claim —  say — a bitcoin. The trick is that Alice buys the answers for these puzzles from the intermediary for a bitcoin. She then sends the answer to Bob as payment, which Bob will happily accept since he can claim a bitcoin with it.
+And importantly: all this is done through several layers of cryptography. This ensures that the intermediary does not know which solution he sold to which Alice, nor do the Alices know which puzzle solution they gave to Bob. As such, once the Bobs claim their bitcoins, the intermediary sees that puzzles are solved. But due to the anonimity in numbers, the intermediary cannot link any of the Alices to any of the Bobs.
+And third, the Alices and Bobs can fund their payment channels with the intermediary such that they can make several payments. And again, any Alice can pay any Bob; it doesn’t need to be the same Bob each time. This makes the intermediary a useful payment hub.
+Furthermore, these puzzle-solving transactions between all Alices, the intermediary, and all Bobs, never hit the blockchain. Rather, once everyone is done transacting, the end-state of all payment channels is recorded on the blockchain once, to let everyone take their funds out. TumbleBit is a scalable second-layer payment hub on top of a privacy-friendly solution.
+Last but not least: TumbleBit can be realized without requiring any changes to the Bitcoin protocol.
+The team from Boston University has already coded a proof of concept and run successful tests on the blockchain. While the software is not quite ready for production use yet, it is open source and free for anyone to use and contribute to.
+Furthermore, TumbleBit really only requires a single party to establish the service. In fact, it would be better if only one (or very few) parties offer it: if everyone uses the same TumbleBit service, that one service offers great anonymity in numbers. (Since it’s completely trustless, centralization is not an issue.)
+And since fees are trivially implemented in the design, moreover, there is even an incentive to establish a TumbleBit server. It seems it’s only a matter of time before someone realizes this potential.
+Thanks to Ethan Heilman for information and feedback.
+For technical details on TumbleBit, see the TumbleBit white paper, the TumbleBit presentation at Scaling Bitcoin Milan, or Adam Gibson’s TumbleBit for the tumble-curious.
+Aaron van Wirdum (Twitter / email / pgp / bitcoin) has a background in political history, with a specialization in the effects of new technology on societies. He discovered Bitcoin in early 2013, and has been writing his way through the rabbit hole since. Interested in decentralized consensus, FOSS, privacy in the digital age, censorship resistant payments, and more of that stereotypical Bitcoin stuff.
+Bitcoin Privacy: "Confidential Transactions" Feature Can Fix Some of CoinJoin's Problems
+OB1 CEO Brian Hoffman Explains Levels of Anonymity in OpenBazaar
+Encrypted Email Provider ProtonMail Opens to the Public, Accepts Bitcoin Payments
+Zcash CEO Zooko Discusses Privacy and Efficiency Tradeoffs vs the Bitcoin Blockchain
+Is Bitcoin the New Swiss Bank Account (And Is That a Problem?)
+About Advertising Careers Contact Terms of Service yBitcoin Store
+© Copyright 2016 BTC Inc. All Rights Reserved.

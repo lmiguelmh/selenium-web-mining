@@ -1,0 +1,20 @@
+Factom Snags $4.2M Series A for Record-Encrypting Blockchain Tech | Xconomy
+Texas Home Texas Events Archives Xconomists VC / M&A Deals
+Factom Snags $4.2M Series A for Record-Encrypting Blockchain Tech
+Austin—Factom, an Austin, TX-based company that uses blockchain technology to secure and verify data such as public records and business documents, has raised a $4.2 million Series A funding round led by Tim Draper, the noted venture capitalist who runs investment firm Draper Associates.
+The funding will be used to further develop Factom’s product line and software, which is based in recording and publishing data using blockchains. Factom co-founder and CEO Peter Kirby discussed the company’s business with Xconomy in detail last year. Like financial transactions made using Bitcoin, Factom encrypts its clients’ data and publishes the encrypted information in public ledgers, with only the publisher and client owning the key to the code.
+Since then, Factom has developed a few product lines, known as Apollo, Iris, and Hera—focused on auditing, identifying a person’s identity with Internet-connected devices, and working with businesses and governments. (The company was named one of the Austin Chamber of Commerce’s A-List startups for 2016.)
+“Securing data is mission critical for governments, banks, car companies, credit card companies, retailers and any company concerned with hacking,” Draper said in a press statement. “By decentralizing data through the blockchain, Factom avoids critical failures due to user error or hacker.”
+In addition to funds associated with Draper Associates, other investors in the Series A round were Propertyinfo Corporation, Star Vista Capital, CashBUS, BnkToTheFuture, Fenbushi Corporation, Fenbushi Investment Fund, China Canada Angels, Plug and Play, Tospring Technology Limited, and angel investors Kevin Spiers, Darla Spiers, Hillary Ryan, Leon Fu, Roland Hicks, and the Marc Shubert Living Trust.
+David Holley is Xconomy's national correspondent based in Austin, TX. You can reach him at dholley@xconomy.com Follow @xconholley
+Factom Q&A: Secure Record-Keeping a Chip Off the Old Blockchain
+Delivery App Favor Grabs $13M Series A for National Expansion
+Blockchain, Fashion, Rockets, & More: Austin A-List Awards 2016
+Cord Cutting: How to Get High-Speed Internet Service Without Cable
+Syngenta, Bayer Try ‘Open Innovation’ to Find Next Big Agtech Idea
+The Fractured State of Sales Enablement & Training
+Xconomy offers a number of ways to subscribe for free!
+Home Privacy/DMCA Security Disclosures About Contact Us Archives Advertise Subscribe for Free
+Business, life sciences, and technology news — covering Boston, Seattle, San Diego, Detroit/Ann Arbor, San Francisco, New York, Raleigh-Durham, Boulder/Denver, Texas, Wisconsin, Indiana, and beyond.
+© 2007-2016, Xconomy, Inc. Xconomy is a registered service mark of Xconomy, Inc. All rights reserved.
+Website development support from Andrew Koyfman with design support from Rob Hunter.

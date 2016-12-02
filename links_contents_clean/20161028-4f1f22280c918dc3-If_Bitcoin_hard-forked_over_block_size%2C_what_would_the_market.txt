@@ -1,0 +1,67 @@
+If Bitcoin hard-forked over block size, what would the market decide?
+If Bitcoin hard forked over block size, what would the market decide?
+Bitcoin evangelist Roger Ver points out that Ethereum's contentious hard fork was no disaster - far from it.
+The contentious hard forking of Ethereum is often wheeled out by members of the Bitcoin community as a cautionary tale. However, there's a contingent within Bitcoin that thinks the Ethereum fork was not a disaster at all, a fact validated by the marketplace in cryptocurrency.
+The implication is a hard fork of Bitcoin would not be the disaster many say it would, and that in any case the market should decide what's right.
+Long-time Bitcoin evangelist and angel investor Roger Ver said: "People say, look at Ethereum; look at the disaster that happened there. But myself, and most of the big blockers, don't see there's any problem at all.
+Bitcoin now accepted by Europe's largest gift card marketplace
+Bitcoin price surges past $650 on back of Chinese mining conference
+"If you look at the market cap of Ethereum before the hard fork and the split into Ethereum Classic, the combined market cap of Ethereum and Ethereum Classic is greater than the market cap before the split - and everybody got what they want. The most objective measurement we have is that the market actually valued the two split Ethereums more than it valued the one original Ethereum; the market viewed it as a good thing and I don't see it as any sort of disaster whatsoever."
+This comes down to the long-running debate about scaling Bitcoin and block sizes. Challenging the view of the Bitcoin Core, which favours gradually enlarging Bitcoin's transaction handling capabilities, is Bitcoin Unlimited, a full node implementation that allows each node to vote for what the block size should be.
+Ver points out that right now there is somewhere around 40,000 Bitcoin transactions waiting to be confirmed on the network. Those who think Bitcoin should be allowed to scale on-chain via bigger blocks are carrying on the original vision of Satoshi, he says.
+In the other camp are Blockstream and the developers of layer 2 technologies. "These two camps have an incompatible vision," said Ver. "I think it would be best for Bitcoin if both camps went their separate ways and they don't have to deal with each other anymore."
+"To my mind there is no doubt whatsoever that the Bitcoin that is allowed to scale on-chain and have cheap, fast state transactions is the one that the market will decide to use.
+"Blocks went from 10KB to 50KB to 100KB to 500KB, and now to 1MB. To suddenly say we are not going to get any bigger than that, when we know allowing those blocks to grow is what led to the fantastic growth we have had so far, just seems like suicide."
+Ver says he is not opposed to other scaling solutions in the pipeline per se. "There is huge, huge amount of room for additional scaling just by increasing the blocks. That doesn't mean that Lightning Network is a bad idea; it doesn't mean that Segregated Witness is a bad idea; it just means take the scaling where you can get it.
+"Today we are at about 2.5 transactions per second (tps). With Bitcoin Unlimited nodes it would increase the block size from 1MB to 10MB, which would increase the transactional throughput from 2.5 tps to let's say 25 tps. Then in the future there's no reason the blocks couldn't be 100MB, and then that would put us at 250 tps.
+"Even today the network could be fine with close to 100 MB blocks, and in the future it's going to be easier and easier; just look at how much faster and better and cheaper everything is today than just a few years ago."
+There has been some intrigue concerning a possible groundswell of support for Bitcoin Unlimited coming from China. Last weekend an event organised by Chinese mining conglomerate Bitmain, concluded with a discussion about how to solve the scaling problem. Bitmain is invested in Chinese mining pool ViaBTC, which supports Bitcoin Unlimited.
+Ver said: "Bitmain strongly supports on-chain scaling and Bitcoin Unlimited; ViaBTC obviously does."
+Bitmain controls a number of operations, including BTC.com mining pool, which has offices in Amsterdam. IBTimes asked BTC's head of business development Alejandro De La Torre if he thought there was growing support for Bitcoin Unlimited within Bitmain.
+"I can't speak for Bitmain to be honest with you," said De La Torre.
+Regarding Roger Ver's laissez-faire approach to hard forking, he said: "If there is a hard fork then I believe that the network with the majority of the hash power, users and businesses behind that coin will live on.
+"One would move forward and the other might have some small miner hash power, might be trade speculated for a while – sort of what Ethereum Classic has become. It doesn't necessarily have to be a disaster. Of course many people believe that if we end up with two different Bitcoins, users will get confused about that."
+De La Torre went on to say he thinks there are other reasons to be careful about Bitcoin Unlimited. "We look at everything carefully. Our developers have read Bitcoin Unlimited and some of them think it's not so well written and that it's basically cherry picking certain things.
+"For instance, they are not pulling in all the fixes from Bitcoin that Core has done that make Bitcoin much more usable. They are just going forward with the hard fork without well thought out code."
+A staunch supporter of Bitcoin Core development, who regularly does battle with its challengers on social media, is Samson Mow, chief operating officer of Bitcoin giant BTCC.
+Mow said: "You could say it's a simple solution [increasing block size] but there is actually so much to understand behind it. If you don't take the time to really understand it then you follow the majority and go well Core is stupid, they can't increase the number from one to two.
+"The Core perspective is to maximise and optimise as much as they can, before they increase the block size. They are not opposed to increasing the block size but until they have exhausted every method of compression, for lack of a better word, then they are going to keep on doing this."
+Mow referred to Bitcoin Unlimited's voting system as a "new attack vector opened up to Bitcoin protocol". He said conversations with many in the mining community revealed that Bitcoin should prove itself as an asset first, before a payment method. "You can always have different layer 2 technologies to become a payment method but you only have one shot at being an asset. If you screw that up it's over."
+Regarding ViaBTC, Bitcoin Unlimited and the Bitmain connection, he said: "Most people in China know that Bitmain has invested into viaBTC for whatever reason. ViaBTC have said they will reveal the relationship between them and Bitmain eventually."
+Mow said the next stage for Bitcoin Core is the release of the final code for Segregated Witness, adding that the amount of testing being done has been the cause of delay.
+"Maybe some kids are saying Bitcoin Core is so slow. But it should be slow. It's up-grading a financial system worth $10bn.
+"Bitcoin Core don't brag or put on big events like Ethereum. They are very academic, low key, technical, security-minded people. In this day and age maybe that holds you back and opens up an opportunity for detractors to say you are doing a bad job."
+Stay up to date with our daily newsletter
+Gianfranco Zola: Chelsea can win the Premier League
+Crewe Alexandra and Penn State: Why were paedophiles allowed to prey on the young?
+IBT Media to host AI and Data Science in Capital Markets event
+The Artificial Intelligence and Data Science in Capital Markets event...
+UK economy grows as expected in three months after Brexit vote
+ONS figures show UK economy grew 0.5% quarter-on-quarter in the three...
+Business leaders urge Theresa May to abandon corporate reforms
+Corporate and finance chiefs say PM's plans to shake up boardrooms...
+Burnley vs Manchester City, Premier League 2016/17: Where to watch live, preview, betting odds and possible XI
+Burnley and Manchester City face each other in the Premier League on...
+Alastair Cook wants clarity on laws of the game following Faf du Plessis ball-tampering incident
+India face England in the third Test at Mohali on 26 November.
+Curiosity rover left Earth 5 years ago – here are its top 5 moments on Mars
+Top finds include organic molecules, traces of an ancient thick...
+Marion Cotillard describes Allied co-star Brad Pitt as an 'amazing partner' and an 'amazing actor'
+The French actress said that as well as being a committed...
+British photographer David Hamilton dies in Paris, aged 83
+Hamilton was facing multiple accusations of rape in his adopted...
+Australian Isis operative Neil Prakash 'may be alive' after being reported dead in airstrike
+Australia's most senior Isis operative known as Abu Khaled al-Cambodi...
+Suspect arrested over fatal stabbing of elderly woman in retirement home attack in France
+A former soldier, 47, was detained after a manhunt following the...
+Four police forces investigate football sexual abuse claims as more players come forward
+The Independent Inquiry into Child Sexual Abuse said it was...
+Mel C says decision not to reunite with former bandmates for Spice Girls 20th anniversary 'was right'
+The 42-year-old was generous in praising Geri Horner, Emma Bunton and...
+Two bodies found after Chinatown blaze in Manchester
+Police have said it is too early to establish the identities of the...
+Neymar and Sergio Ramos at risk of missing Barcelona vs Real Madrid clash
+Both stars are just one yellow card away from suspension.
+Crewe Alexandra's paedophile abuse echoes the Penn State scandal that rocked US sports
+Coach Barry Bennell's crimes against young football players raises...
+© Copyright 2016 IBTimes Co., Ltd. All Rights Reserved.

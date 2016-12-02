@@ -1,0 +1,44 @@
+EBN - Hailey Lynne McKeefry - Blockchain Set to Transform Supply Chain
+Shift Happens: RFQ Management Gets Beyond Spreadsheets - For years, companies have ...
+Bitcoin has gone beyond being a tool for geeks to trade money. Now, cryptocurrency and related technologies are set to enable new types of contracts and business dealings in financial services.
+The market is poised for stellar growth. A new market research report published by MarketsandMarkets estimates that the blockchain technology market will grow from $210.2 million in 2016 to $2,312.5 million by 2021, in its report titled Blockchain Technology Market— Global Forecast to 2021. That represents at a Compound Annual Growth Rate (CAGR) of 61.5%. "The major driving forces for this growth are transparency, immutability & scalability, and huge opportunities across industry verticals in APAC countries, especially India, Australia, and China," the report said.
+It's a short hop to thinking about how these technologies may change the supply chain as well.  PwC offers the following definitions:
+Blockchain is the technology that enables the existence of cryptocurrency (among other things). It is, quite simply, a digital, decentralized ledger that keeps a record of all transactions that take place across a peer-to-peer network.
+Bitcoin is the name of the best-known cryptocurrency, the one for which blockchain technology was invented.
+A cryptocurrency is a medium of exchange, such as the US dollar, but is digital and uses encryption techniques to control the creation of monetary units and to verify the transfer of funds.
+Blockchain has supply chain aficionados excited because the technology will support new business processes that allow for assets to be transferred over the Internet without the need for a centralized third party. PwC said:
+From a business perspective, it's helpful to think of blockchain technology as a type of next-generation business process improvement software. Collaborative technology, such as blockchain, promises the ability to improve the business processes that occur between companies, radically lowering the'cost of trust.'
+This thought has the potential of bringing supply chain automation to the next level. Market research firm Gartner said:
+While the current hype is around the financial services industry, there are many possible applications including music distribution, identity verification, title registry and supply chain.
+Supply chain managers could, conceivably, create smart contracts that could basically execute themselves on certain types of buys. Take a look at the infographic below and then let us know what applications you see in your industry or company in the comments section below.
+— Hailey Lynne McKeefry, Editor in Chief, EBN
+VIEW COMMENTS: NEWEST FIRST | OLDEST FIRST | THREADED
+REPLY   POST MESSAGE   MESSAGES LIST   START A BOARD
+Black Friday: Will It Achieve National Holiday Status?
+Online shopping site wants Black Friday to take its place on the calendar as an official national holiday. Electronics retailers may agree.
+Let people know that supply chain and logistics offer some great opportunities for a fulfilling career. It's time to close the talent gap.
+With more choices, many consumers are losing interest in celebrating Black Friday the good old fashioned way. Electronics retailers need to up their game to capture customers.
+Time for Supply Chain to Scale the Data Governance Mountain
+Most electronics OEMs are probably just starting the journey to real and proactive data governance. However, the benefits for getting there are plentiful.
+Some of the most well known universities in the country offer undergraduate programs to get students started down the supply chain path.
+(please enter a part number or hit search to begin)
+New Yorker Electronics Rolls Out New Series of ...
+XP Power Signs Global Distribution Agreement with RS ...
+LACROIX Electronics and Witekio, a Partnership Serving ...
+Mouser Electronics, Grant Imahara and Local Motors ...
+Icon Labs Launches Embedded Credentialing Solution for ...
+In Preparation for Winter, A. Duie Pyle Begins Protect ...
+Nano Dimension Explores the Future of 3D Printed ...
+How many years away are we from mainsteam delivery services via drone technology?
+It’s Cool Working at ASML if You Got Supply Chain DNA
+Avnet Electronics Marketing Market and Technology Trends, May 2014
+Avnet Electronics Marketing Market and Technology Trends, April 2014
+EBN Dialogue enables you to participate in live chats with notable leaders and luminaries. Open to the entire EBN community of electronics supply chain experts, these conversations see ideas shared, comments made, and questions asked and answered in real time. Listed below are upcoming and archived chats. Stay tuned and join in!
+Live Chat 01/15: CPOs Re-Shape Their Business Roles
+Increasingly chief procurement officers (CPOs) are re-shaping their organizational role to focus on creating results far beyond cost controls. A new IBM survey explores how.
+Live Chat 11/12: Examining the Cyberthreat to Supply Chains
+The number of cyberattacks is on the rise and hackers are targeting the supply chain. Drew Smith, founder and CEO of InfoArmor, will be on hand to discuss the reality of today's threat landscape and what to do about it.
+GLOBAL NETWORK EE Times Asia EE Times China EE Times Europe EE Times India EE Times Japan EE Times Korea EE Times Taiwan EDN Asia EDN China EDN Japan ESC Brazil
+EE Times | EDN | EBN | DataSheets.com | Embedded | TechOnline | Design News | DesignCon | ESC
+Working With Us: About | Editorial Policies | Contact Us | Media Kits | Reprints
+Terms of Service | Privacy Statement | Copyright © 2016 AspenCore All Rights Reserved

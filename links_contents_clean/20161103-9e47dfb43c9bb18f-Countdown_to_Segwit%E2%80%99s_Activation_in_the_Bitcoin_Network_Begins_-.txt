@@ -1,0 +1,21 @@
+Countdown to Segwit’s Activation in the Bitcoin Network Begins - CryptoCoinsNews
+Countdown to Segwit’s Activation in the Bitcoin Network Begins
+fter almost a year in development, the bitcoin network is given an opportunity to pass judgment on the scalability option chosen by the Bitcoin Core client: Segregate Witnesses, a backwards-compatible network upgrade that makes a number of protocol changes.
+According to Segwit’s introductory speech by core developer, Pieter Wuille, segwit removes signatures from other transaction data, which “fixes malleability, allows more Script upgrades, allows fraud proofs, allows pruning blocks for historical data, improves bandwidth usage for light nodes and historical sync, and it’s P2SH compatible for old senders so that non-upgraders can still send funds.”
+What we do is discount the witness data by 75% for block size. So this enables us to say we allow 4x as many signatures in the chain. What this normally corresponds to, with a difficult transaction load, this is around 75% capacity increase for transactions that choose to use it. Another way of looking at it, is that we raise the block size to 4 MB for the witness part, but the non-witness has same size. The reason for doing the discount is that it disincentivizes UTXO impact. A signature that doesn’t go into the UTXO set, can be pruned.
+  The proposal faced some controversy with another core developer, Jeff Garzik, criticizing the 75% discount for changing bitcoin’s economics. Moreover, the changes are vast, code development so having taken almost a year, but it does add more transaction capacity, almost doubling the number of transactions per second, providing a small can kicking for the big scalability question.
+Nearly 20% of bitcoin’s nodes have already upgraded with one miner, Bitfury, which controls around 10% of the network hash rate, signaling Segwit while BTCC, which controls another 12%, recently stating they will upgrade. Other miners like ViaBTC, have stated they will not upgrade, preferring instead a maxblocksize increase, potentially, vetoing the new proposal. Bitmain and F2pool have not yet made any statement, with BW, which also controls almost 10% of the network, still signaling for 8MB in their blocks.
+Just over 5% of the bitcoin mining network is sufficient to veto any proposal, which has never happened in public blockchains, with the implications not clear. If it does happen, it would be very much similar to a constitutional crisis as the development team would be, in effect, rejected by the network according to their own rules.
+For ordinary users, that would mean annoyances, inconveniences and confusion when transacting during rush hour periods would continue. Everyone, however, expects some sort of solution at the 11th hour, but that bitcoin’s situation has become similar to government shutdowns during debt ceiling debates whereby both sides take a scorched earth approach is, very much, an indication that something has gone very wrong in this space.
+Posted in: Bitcoin Technology, News Tagged in: Bitcoin Scaling, Segwit
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+PreviousBank of Canada to Reveal Results of its Digital Currency Experiment While Bitcoin Stands Dismissed03/11/2016
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

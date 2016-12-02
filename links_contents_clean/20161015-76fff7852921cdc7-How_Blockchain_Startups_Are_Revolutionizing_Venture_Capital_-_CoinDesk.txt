@@ -1,0 +1,45 @@
+How Blockchain Startups Are Revolutionizing Venture Capital - CoinDesk
+Vote Now for CoinDesk's Most Influential People in Blockchain
+William Mougayar (@wmougayar) | Published on October 15, 2016 at 17:39 GMT
+William Mougayar is the author of "The Business Blockchain" and a board advisor to, and investor in, various blockchain projects and startups (See: Disclosures).
+Here, Mougayar argues that the traditional venture capital model is being quickly revolutionised by young upstarts working with cryptocurrencies and blockchain tech.
+The decentralization effects of blockchain-based cryptocurrencies are hitting the venture capital industry in more ways than one. Whereas the traditional venture capital industry is boring, the crypto-tech industry has become more exciting.
+Actually, I see the two models as diametrically opposed: one is a closed market, dominated by command-and-control practices, led by a few rich people on Sand Hill Road. The other is a widely open global market where anyone can play, and where the gains and risks are more evenly distributed.
+This has led to a re-thinking of how startups who are operating in the blockchain space can raise money, and it has potential implications that will revamp the relationships that venture capital firms can hope to strike with these startups.
+As an investor, advisor or board member, I have been closely associated with a variety of early stage companies that are tackling the innovation explosion around cryptocurrency and blockchain-based models, and have had the fortunate insights of seeing where we might be headed.
+The upcoming shifts are encapsulated in the following table, covering nine variables.
+Return horizon: Whereas the return horizon for traditional VC funds is squarely in the 7-10 year horizon, we are currently at the beginning of an inflection point in cryptocurrency-led valuations, resulting in much shorter liquidity options for early investors, in the 1-5 year range.
+Ownership model: Traditionally, VCs receive preferred shares by buying private equity. With the new models, they can acquire shares and/or tokens/cryptocurrency that have been issued by the startup.
+Entry phases: Angel, Seed, Early to Late Stages (A-F) are the known trajectories for conventional startup investments. The new continuum has another progression lingo with it: pre-mine, genesis, initial cryptocurrency offering (ICO), listing on an exchange, or private sale of crypto-tokens directly from the company.
+Business model: A traditional startup is typically focused on developing and marketing a tangible product or service. A blockchain-based startup could have a product/service as part of what they are developing, but their stride is best hit when they are also creating a self-sustaining circular economy that is supported by their own currency or tokens, and where there is a transactional loop between earning and spending these tokens within their ecosystem.
+Legal structure: Startups typically incorporate as a Limited Liability Corporation (LLC) or any other traditional way according to the corporate laws in their given jurisdiction. In the new environment, the LLC could be creating a base open source technology/protocol, but they will run a proprietary separate business on top of it or adjacent to it (e.g. IPFS and Filecoin), or they could create a valuable ecosystem around it (e.g. Ethereum). In extreme cases, the organization is non-registered and operates as a distributed autonomous organization on the blockchain (e.g. BitNation).
+Limited partners mix: The same traditional mix of institutional, high net worth individuals, family offices and funds of funds that typically invest in venture capital funds will be attracted to this emerging segment, only if they are progressive, innovative and forward-thinking, with the ability to allocate discretionary funds under strategic considerations pretexts. In addition, given the more relaxed crowdfunding rules that exist in several jurisdictions around the world, a new venture fund could also get a mix of participation from a publicly crowdsourced segment of investors.
+Fund currency: In addition to fiat currency, a new VC fund could also accept cryptocurrency (especially from the crowdsourced segment), because of the frictionless capabilities that exist for accepting cryptocurrencies online. However, it would be prudent to immediately convert these funds into fiat as the initial reference currency for investment vehicles, in order to avoid being caught in cryptocurrency value downturns, and to remove any perceived intent of currency speculation which is outside the mandate of a venture capital fund.
+Market approach: The best candidates for this new model will be blockchain startups that are purposely creating new business models, and not supporting existing ones. The reason is that these new business models are more fertile grounds for innovative circular economies, new ecosystems, and new value creation, which are important conditions for success.
+The nature of blockchain startups is changing, and this change should be accompanied by an evolution on how they are funded.
+A new VC fund with the above characteristics has the luxury of having no baggage within an existing Limited Partners Agreement (LPA) where changes may be hard fought. Instead, these elements would be baked as part of the initial LPA, while properly addressing the legal and compliance considerations.
+This article was previously published on the author's blog and has been republished here with permission.
+Author's disclaimer: In no way does this article represent an offer to sell securities or an advertisement of raising a new fund. I have yet to announce anything regarding a new fund that I might raise in the future.
+Disclaimer: The views expressed in this article are those of the author and do not necessarily represent the views of, and should not be attributed to, CoinDesk.
+Subscribe to our free newsletter and follow us
+Nov 20, 2016 at 15:05 | Brian Zimbler, Dmitry Dmitriev and Andrey Ignatenko
+Blockchain Interest is Rising in Russia (Despite Legal Concerns)
+Moscow-based legal experts examine the thaw in attitudes towards blockchain and bitcoin in Russia.
+Nov 20, 2016 at 14:53 | Josh Stark
+Ledger Labs' Josh Stark seeks to provide a high-level framework for understanding the potential of nascent blockchain governance applications.
+Nov 6, 2016 at 13:08 | Matthew Spoke
+An industry commentator looks at moves by tech industry incumbents to capture the emerging blockchain market, and offers a warning for the future
+Oct 31, 2016 at 11:46 | Zaki Manian
+3 Reasons Hyperledger Has Blockchain's Best Development Model
+Skuchain's Zaki Manian argues that Hyperledger offers the best development model for the blockchain industry.
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.

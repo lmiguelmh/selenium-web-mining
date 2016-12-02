@@ -1,0 +1,47 @@
+Bitcoin Weekly: Bitcoin in Europe, blockchain financial news from China and the Middle East - SiliconANGLE
+Bitcoin Weekly: Bitcoin in Europe, blockchain financial news from China and the Middle East
+In this week’s Bitcoin Weekly Circle, a competitive Bitcoin web-wallet, added Euro currency support for numerous European customer and Bitcoin hardware wallet TREZOR has teamed up with European Bitcoin exchange Bitstamp.
+In international financial technology and blockchain news, the Chinese government has published a whitepaper on the current status quo and future of blockchain development and the Abu Dhabi Securities Exchange just launched a suite of blockchain-based tools for financial management, including voting, securities exchange among others.
+As for the Bitcoin market value, the price of BTC is hovering around $631.50 (BitcoinAverage.com). This is a little bit of a dip since last week, where the BTC price remained around $640 for the past seven days, but suddenly dropped early the morning of Oct. 19.
+Customers of Bitcoin wallet service Circle (Circle Internet Financial Limited) in Europe and in the UK can now link bank cards from many European countries. As a result, customers from some of these countries will be able to hold Euros in their Circle account wallets as well.
+European card support now contains 16 countries including France, Germany, Ireland, Italy, Spain and Greece (among others). Customers in Estonia, Finland, Germany, Ireland, Italy, Netherlands, Slovakia, Slovenia, Spain and the United Kingdom can hold Euros in their Circle account.
+Circle customers in the UK can already use VISA and Mastercard debit cards to fill accounts.
+Chinese government IT industry ministry publishes blockchain whitepaper
+The Chinese government just published a blockchain whitepaper speaking to the status quo and future trends in blockchain technology entitled “China’s Blockchain Technology and Application Development Whitepaper 2016.”
+According to Bitkan (Digital Singularity Technology Co. Ltd.), a China-based over the counter bitcoin trading platform, the white paper was published with guidance from Ministry of Industry and Information Technology and the National Standardization Committee.
+The whitepaper highlights current and future trends in blockchain technology as it pertains to finance, supply-chain, entertainment, smart manufacturing, social welfare, education and employment (among other sectors).
+As financial technology is a major focus of blockchain technology, the whitepaper spends a lot of time on that subject. The use of blockchain technology has been sought after to assist the finance sector by securing financial instruments in scenarios such as payment, asset management, securities, clearing and settlement and user ID.
+It is also noted by the whitepaper that because industries surrounding blockchain development are still nascent, meaning that standardization and standards are not prevalent. As the whitepaper is published by a government, standardization would make it easier to regulate the use of such a technology.
+TREZOR teams up with Bitstamp for increased bitcoin trade security
+Bitcoin hardware wallet maker TREZOR (SatoshiLabs Inc.) has teamed up with Bitcoin exchange platform Bitstamp Ltd., the fifth-largest European exchange, to provide increased user security and a better trading experience.
+The Bitstamp platform now supports withdrawals of bitcoins directly to the TREZOR hardware wallet. Embedded TREZOR accounts can now receive bitcoins from Bitstamp with the convenience of a few clicks.
+It is now also possible to deposit bitcoins from a TREZOR hardware wallet to Bitstamp without having to go through the myTrezor.com or any other web wallet, or having to copy-paste a bitcoin address.
+Security remains the same as with any other TREZOR transfer for withdrawals and deposits: enter PIN using the hardware wallet and confirm the transaction using the hardware wallet device.
+The Abu Dhabi Securities Exchange recently unveiled a suite of blockchain-based digital services at this year’s  GITEX Technology Week including a blockchain-based eVoting, a Rights Issue Management System, an Initial Public Offering Management System, a Cash Dividend Payments Management System and a Virtual Stock Exchange game.
+ADX is a securities trading market that allows the exchange of public company shares, government and corporate bonds, exchange traded funds and other financial instruments approved by the United Arab Emirates Securities and Commodities Authority. According to details on the release at BraveNewCoin, during 2015 ADX had 71 listed securities with a market capitalization of 447 billion AED (approximately $122 billion USD).
+“Adopting Blockchain technology in our projects comes in alignment with the digital transformation of Abu Dhabi’s government services as we constantly strive to introduce new ways that ease the process of doing business in the Emirate,” said ADX Chief Executive Rashed Al Blooshi.
+Japan plans to build the fastest deep learning supercomputer
+Stripe’s valuation reaches $9B thanks to new $150M funding round
+Are you ready for new data recovery regulations?
+Huawei is now the world's most profitable Android smartphone brand
+Systran Group launches neural machine translation tool for enterprises
+Snowflake Computing declares cloud storage price war on Amazon
+Walmart and IBM test blockchain for custom supply chain tracking
+Can cross-pollinating data and security block the new cyber-hacking threat? | #theCUBE
+Data confluence: handling the scale of distributed computing | #CDSUSA
+Too big to fail: How a popular online community monetized its platform | #Amplify
+Crowd-sourcing online talent to win a million-dollar competition | #CDSUSA
+Helping software help us: How one startup is making the most of APIs | #Amplify
+Data science: What does it mean and how is it best applied? | #CDSUSA
+For Apple deals, you're better off at other retailers
+Expercom Offering MacBook Pro With Touch Bar For Up to $225 Off With AppleCare
+Save big with the best smartphone deals on Black Friday
+HPE Discover 2016: November 29th – December 6th (London, UK)
+AWS re:Invent: November 28th – December 2nd, 2016 (Las Vegas, NV)
+5th Annual CloudNOW Top Women in Cloud Awards: December 7th (Mountain View, CA)
+Spark Summit East 2017: February 7-9 (Boston, MA)
+BigData SV 2017: March 13-16 (San Jose, Ca)
+Dataworks Summit EU 2017: April 2-4 (Munich, Germany)
+Spark Summit 2017: June 6-8 (San Francsico, CA)
+Dataworks Summit US 2017: June 13-15 (San Francisco, CA)
+Are you ready for new data recovery regulations?

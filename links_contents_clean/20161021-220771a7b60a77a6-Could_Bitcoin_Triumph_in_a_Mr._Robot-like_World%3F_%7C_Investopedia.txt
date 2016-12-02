@@ -1,0 +1,28 @@
+Could Bitcoin Triumph in a Mr. Robot-like World? | Investopedia
+Could Bitcoin Triumph in a Mr. Robot-like World? By Adam Hayes, CFA | October 21, 2016 — 3:57 PM EDT
+The second season the acclaimed television series, Mr. Robot, which airs on the USA Network, imagines a world where the money and banking systems of the world have been brought down by a group of hackers. In this world, ATMs don't work, credit cards are useless, and loans & debts have been erased. The series references the use of the digital currency, Bitcoin, a number of times. Could Bitcoin triumph is such a post-banking dystopia as imagined by Mr. Robot's writers? (Note: 'Bitcoin' with a capital 'B' is used to denote the network, system, monetary system etc. while 'bitcoin' with a small 'b' denotes the individual units of currency.)
+Bitcoin is a an entirely digital currency, and it has no central authority - no central bank, treasury, or government controls or operates it. Rather, the trust in Bitcoin and its value are derived from a vast network of distributed computers making up a decentralized network of "miners". These miners issue forth new bitcoins and at the same time validate and confirm every transaction that occurs, and adding those transactions to a shared, open ledger known as a blockchain. Moreover, this ledger and all of its transactions are secured by powerful encryption, creating a temper-proof, permanent, anonymous record of who has what. When two people come together to transact in Bitcoin (either in person or over some distance), the transaction is effected in a peer-to-peer (P2P) fashion - with no other banking or payments system in between.
+Since Bitcoin relies on no government or central bank, if a country's currency fails, or the banking system that supports it collapses, Bitcoin will continue to operate. The network of miners extends around the globe, with some presence in almost every country in the world. Therefore, even if an entire country were to collapse, Bitcoin could still be used there. It is also secure from government intervention - nobody except for the owner a Bitcoin wallet (account) can manipulate the digital currency which is contained therein. (See also: The Six Biggest Misconceptions About Bitcoin)
+Still, Bitcoin relies on access to the internet to be used. If a country goes down and along with it the electrical grid or the internet, then owning bitcoins will be effectively useless. Even if the internet persists, if a government can effectively restrict the usage of the internet or regulate which kinds of digital messages can be sent back and forth over the network (e.g. North Korea), then it may also be fruitless.
+Bitcoin does not have a fractional reserve mechanism for credit formation the way our banking system does today. Therefore, loans made in bitcoin cannot have the effect of expanding the money supply, rather the lender is simply out the amount given to the borrower until they are paid back. This is not a death nail, but it would make our lending and credit relationships operate on a much different plane than what we are now accustomed. (See also: If You Had Purchased $100 of Bitcoins in 2011...)
+Another, less limiting, downside is that many places don't yet accept Bitcoin for commerce. For example, you cannot go to WalMart and make purchases with it. Of course, it wouldn't take much for companies and individuals to begin using Bitcoin and start accepting it for everyday transactions.
+Could Bitcoin, or something like it, emerge as the money of choice in a post-banking world, like that in Mr. Robot? If the electricity and internet are still on, and if more individuals and businesses begin accepting it, then yes it could plausibly circumvent any fallout that could render a national currency worthless. However, it would define a much different kind of economy, one not as much reliant on credit and debt for economic growth.
+Investopedia explains the development of the Bitcoin digital currency system and the risks associated with using and investing in it.
+The Rise And Fall And Rise Of Bitcoin
+A look at the reasons behind the recent spectacular surge in bitcoin prices.
+What Bitcoin Regulations Look Like Around The World
+Bitcoin is still so new that countries are struggling to make legislation catch up with technology. Some nations are more open to virtual currency than others.
+How To Trade Forex With Bitcoin (XOM, EXPE)
+We look at ways to trade forex with bitcoin and the pitfalls in doing so.
+ETFs offer a cost-effective, safe and hassle-free way to invest and trade bitcoins as stocks, without worrying about the security of digital wallets.
+There are many ways to earn and own Bitcoins other than just buying them on a Bitcoin exchange.
+If You Had Purchased $100 of Bitcoins in 2011
+Learn how an investment of $100 in bitcoin in 2011 would have performed over the years, and find out what your purchasing power would have been for each year.
+Coders created Bitcoin to be decentralized and independent of governments and banks. Authorities are still struggling to create a legal framework.
+Benefits & Risks of Trading Forex with Bitcoin
+Want to trade forex using bitcoins? Don’t jump on the bandwagon until you compare the risks to the benefits.
+A look at the forces behind the recent surge in Bitcoin price and how it stands entering 2016.
+DICTIONARY: # A B C D E F G H I J K L M N O P Q
+Articles Terms Videos Guides Slideshows FAQs Calculators Chart Advisor Stock Analysis Stock Simulator FXtrader Exam Prep Quizzer Net Worth Calculator
+About Us Advertise With Us Write For Us Contact Us Careers
+© 2016, Investopedia, LLC. Feedback All Rights Reserved Terms Of Use Privacy Policy

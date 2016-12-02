@@ -1,0 +1,41 @@
+Bitcoin Miners Can Now Signal Support for SegWit - CoinDesk
+Vote Now for CoinDesk's Most Influential People in Blockchain
+Bitcoin Miners Can Now Signal Support for SegWit
+Alyssa Hertig (@AlyssaHertig) | Published on November 18, 2016 at 14:14 GMT
+Bitcoin miners can now show their support for a long proposed technical update that would boost the network's transaction capacity.
+Following block 439,488 on the bitcoin blockchain (which occurred at roughly 8:30 UTC today), miners can now upgrade their software by changing a header value in the blocks that they process.
+Called Segregated Witness (SegWit), the change is best known as a way to scale transactions on the bitcoin blockchain by carving out more space in each block, though it also solves a long-known major bug and expands the software in a few other notable ways.
+As coded in the latest bitcoin software release (0.13.1), 95% of miners need to signal support for the change in a series of 2016 blocks, or a period of roughly two weeks. If that happens, there will be another two week period before SegWit is officially activated.
+If activated, the change would ripple out to the rest of the ecosystem of wallets and software projects, and users on the network could begin to take advantage of the update.
+But not everyone supports the change (one observer even called the signaling period the beginnings of a "dirty war").
+With miners ViaBTC and Bitcoin.com reaffirming their intent to block the update in recent statements, their combined hashing power (roughly 8%), means there's chance the threshold won't be reached.
+On the other hand, other mining pools have shown eagerness to make the upgrade, with Slush signaling support for the change early (despite the alleged dangers of doing so) and BTCC indicating that its mining pool is "ready" for SegWit.
+Others may not be technically prepared to make the change quite yet.
+F2Pool said in an email that the mining pool cannot signal support in the "near future" because their system isn't upgraded to the correct version of the programming language C++.
+Bitcoin Core, the volunteer group behind the most popular bitcoin software, released a graph that shows the total, estimated hashrate flagging support of SegWit at any given time (as indicated by the red line).
+According to the coded rules, miners have one year to reach the near-unanimous threshold before the change times out.
+South Korea is Debating New Bitcoin Exchange Rules
+The Swiss Government is Paving the Way for Crypto Banks
+Subscribe to our free newsletter and follow us
+Nov 12, 2016 at 15:30 | Alyssa Hertig
+What's Left Before Bitcoin's Lightning Network Goes Live
+There aren't many steps left before bitcoin's Lightning Network will be finished — or at least an early version of it.
+Nov 11, 2016 at 17:45 | Stan Higgins
+One in Four Bitcoin Nodes Are Now Upgraded for SegWit
+Bitcoin network data shows that 25 percent of nodes worldwide are signaling support for Segregated Witness.
+Nov 10, 2016 at 16:45 | Alyssa Hertig
+How Two New Sidechains Proposals Could Change Bitcoin's DNA
+Work on bitcoin sidechains – long thought to be one of the best ways to improve the functionality of the network – is advancing. Here's how.
+Nov 6, 2016 at 14:25 | Eric Mu
+China's Bitcoin Miners See Profit in a Bigger-Block Blockchain
+A bitcoin mining conference held by one of the network's largest miners saw what some have labeled an unscientific discussion of scaling the network.
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

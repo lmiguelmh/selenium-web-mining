@@ -1,0 +1,34 @@
+What to do if your data is held hostage | Business | M&G
+What to do if your data is held hostage
+When ransomware takes hold of your files, the preferred form of payment is generally bitcoins. But for the average computer user, obtaining these is not easy.
+Francois Harris of Bitcoin South Africa said he has heard of cases where people treated the situation as though their hard drive had crashed, and reformatted their computer.
+But he also knows of people who have paid to get their files back, which they have done successfully.
+“The quickest and easiest way to recover your files if you have been infected by ransomware is to do a bitcoin payment to the baddies,” Bitcoin South Africa states in a blog post on its website.
+READ MORE: Datanapping computer files is big business
+The fastest way to do this is to use the currency exchange website localbitcoins.com. Bitcoins are a form of digital currency.
+“If you use one of the other local exchanges in South Africa, you will most likely need to wait a couple of days for your verification and Fica [Financial Intelligence Centre Act] documents to be processed,” he says.
+But on the localbitcoins.com website you can buy bitcoins to pay the same day. Other exchanges do not make it so easy.
+Bitcoin South Africa explains that BitX, one of the exchanges in South Africa, states on its terms of usage page that you may not use BitX products or services to “engage in extortion or blackmail”, which is essentially what you will be doing as a victim when you pay the ransom to get your data released.
+Frans Lategan, security analyst at Sensepost, said bitcoin is not anonymous but pseudonymous and the traceability of transactions depends on one’s own operational security.
+There is a distributive ledger, in which all transactions are public. “So if you have a ransom note to pay into an address you can go to blockchain.info and see how many transactions go there,” said Lategan. “If ransomware authors create a new address for each demand they can keep the money fairly anonymously.”
+Hackers can also “wash” coins through coin mixing services, or launder them through online bitcoin casinos.
+“Because authorities don’t recognise bitcoin as legal tender, they often can’t use money-laundering tools against those sites,” Lategan said.
+“But if at some stage [people] want to spend that money and they want to convert it to dollars, they might deposit it at an exchange.”
+In this case the authorities can subpoena the exchange to get details on where the money was deposited.
+Lisa Steyn is a business reporter at the Mail & Guardian. She holds a master's degree in journalism and media studies from Wits University. Her areas of interest range from energy and mining to financial services and telecommunication. When she is not poring over annual reports, Lisa can usually be found pottering about the kitchen. Read more from Lisa Steyn
+Why Ipid is charging acting police commissioner Phahlane
+Zuma will trigger a 'bloodbath' if the ANC loses in 2019 – Zakes Mda
+Why we should resist an amnesty deal for Zuma
+You will not want to switch off your computer. Build your city!
+The 50 Most Expensive Movies Ever Made--How Many Can You Name?
+25 Names Nobody Wants to Name Their Child Anymore
+Houston Teacher Impregnated By 13-Year-Old Student Pleads GUILTY
+Madiba will be our Trump card when the Donald's orange flood reaches our shores
+Chronology of a president's long walk to self-implosion
+Writing’s on the wall for Jo’burg’s graffiti artists
+SA backs Africa Group’s view that LGBTI rights have no place in international law
+AG's report exposes billions of irregular expenditure by government, SOEs
+Breakdown: Courts emerge as main theatre for SA’s political wars
+South Africa faces uneasy questions about the power of President Zuma
+Scandal dogs Koko, the Eskom man rumoured to step into Molefe's shoes
+All material © Mail & Guardian Online. Material may not be published or reproduced in any form without prior written permission.

@@ -1,0 +1,30 @@
+Adam Back Unanimously Selected to Become CEO of Blockstream
+ADAM BACK UNANIMOUSLY SELECTED TO BECOME CEO OF BLOCKSTREAM
+SHAKEPAY INSTANT: BITCOIN DEBIT CARDS IN A BROWSER EXTENSION
+BITCOIN PRICE PULLS BACK, BUT HOPE FOR $800 AND BEYOND STILL STRONG
+CRYPTO-EDUCATION: UNIVERSITIES STARTING TO ACCEPT BITCOIN PAYMENT FOR DEGREES
+SEGWIT WON’T HAPPEN, SAYS INFLUENTIAL CHINESE BITCOIN INVESTOR
+SHAKEPAY INSTANT: BITCOIN DEBIT CARDS IN A BROWSER EXTENSION
+BITCOIN PRICE PULLS BACK, BUT HOPE FOR $800 AND BEYOND STILL STRONG
+CRYPTO-EDUCATION: UNIVERSITIES STARTING TO ACCEPT BITCOIN PAYMENT FOR DEGREES
+BLOCKCDN PARTNERING WITH CHINESE MEDIA GIANT TO TEST NEW NETWORK
+SHAKEPAY INSTANT: BITCOIN DEBIT CARDS IN A BROWSER EXTENSION
+TREVOR HILL · OCTOBER 3, 2016 · 3:59 PM
+On October 3rd, 2016, Blockstream announced that they have selected Dr. Adam Back to replace the outgoing Austin Hill as their new CEO.
+Also read: Bitcoin Uncensored: Block Size Showdown With Roger Ver
+THE SELECTION OF ADAM BACK TO BECOME CEO
+The company’s board-of-directors voted unanimously to make Back the new CEO as Hill stepped down from the board to pursue other opportunities.
+Back is known to the bitcoin community as a Core developer and small block supporter, or, at the very least, a supporter of a “measured approach” to scaling. Additionally, according to the press release, Back is a world-renowned applied cryptographer, bringing over two decades of experience working on the most advanced science and technology in the fields of e-cash, digital currencies, distributed computing, and privacy technology.
+He may be best known for his invention of Hashcash, which is a proof-of-work system used to limit email spam and denial-of-service attacks and that is used in Bitcoin and other cryptocurrencies as part of the mining algorithm
+Paul Maritz, Chairman, Pivotal, and former CEO of VMware and senior executive with a multitude of others, had this to say about Back:
+“Adam has extensive practical experience building teams and shipping products as shown by his track record at organizations large and small, such as Microsoft, PI, EMC, and VMware, this is on top of having an extraordinarily deep technical background in all aspects of cryptography and being the inventor of Hashcash, one of the core concepts used in Bitcoin.”
+Adam Back has made a large impression on the Bitcoin community, having made a wide variety of different contributions to the cryptocurrency itself, as a Core developer, and the communities directly involved with cryptocurrency.
+He has worked closely with a broad range of people across Bitcoin’s user, academic, technical, investor, and business communities from North America, Asia, and Europe, and according to the press release, Adam is a strong advocate for open source, decentralized technologies like Bitcoin
+However, his comments on the block size of bitcoin and his general association with Blockstream and Core has made him a somewhat polarizing figure in the community. Although, this shouldn’t be too surprising as the block size debate is known to be one of the most controversial topics within bitcoin circles — with bitcoiners positioning themselves around two major camps: supporters of bigger blocks for the purpose of scaling and those who oppose bigger blocks because of centralization concerns.
+What do you think of Blockstream’s decision to make Adam Back their CEO? Let us know in the comments below!
+SHAKEPAY INSTANT: BITCOIN DEBIT CARDS IN A BROWSER EXTENSION
+BITCOIN PRICE PULLS BACK, BUT HOPE FOR $800 AND BEYOND STILL STRONG
+CRYPTO-EDUCATION: UNIVERSITIES STARTING TO ACCEPT BITCOIN PAYMENT FOR DEGREES
+SEGWIT WON’T HAPPEN, SAYS INFLUENTIAL CHINESE BITCOIN INVESTOR
+FORCE OF WILL GOES DIGITAL WITH TRADEABLE BLOCKCHAIN GAME ASSETS
+ABOUT US CONTACT US CATALOG SITEMAP JOBS ADVERTISE PARTNERS

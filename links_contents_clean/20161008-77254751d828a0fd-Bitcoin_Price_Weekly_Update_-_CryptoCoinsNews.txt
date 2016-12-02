@@ -1,0 +1,24 @@
+was a technical analyst in 2014 reporting on Bitcoin price from a traders’ perspective.  I believe many readers will find my analysis a bit different from those of other technical analysts.  While I am familiar with the indicators used by many traders, I rely on geometry first and foremost, as well as other more esoteric indicators.   This will likely seem strange to traders who have never considered geometry a trade-able tool in the markets.  (My thanks to Eduardo Altmann of Gunner24, who taught me the value of geometry in trading.)
+When writing my thoughts each day, I will tend to reach conclusions as to probable future events, tentatively at least.  Anyone who took a basic charting course can report on what ALREADY happened.  Such a simple report might say: “[The asset in question] found support on the 100-day moving average, but then stalled at the 50% retracement from the previous high.”  News on financial TV reports like this every day.  “Stocks fell today on news of blah blah blah….”  As if traders really traded on the basis of said news.  Hint:  They don’t and they didn’t.
+To me, such reporting is not only terribly boring, but lacks creativity, foresight and ultimately lacks courage.  When I take the time to read a technical analyst’s work I want to know, by the end of the article, does he think it’s going up or down from here?  Why?
+But I well understand why so few technical writers are willing to end their report with a firm conclusion. It’s so very easy to be wrong, and no one likes to be proven wrong in a public forum! In that case, the comment section the next day will be filled with verbiage of how the writer missed the mark, he’s clearly an idiot, etc…  Such commentary is a strong incentive for keeping each daily report vague.  But I just can’t seem to write that way very well.  I often take public positions, and then live or die on the future outcome.
+For example, in December 2014 (on these very pages) I announced the “end of the Bitcoin bear market”.  It was a bold position to take; the article was widely linked, and ridiculed by many.  On a monthly chart, in fact, it turned out to be the next-to-last bar of the bear. On a weekly chart, there were 2 more bars. On the daily chart there turned out to be 10-12 more bars before the end came mid-January 2015.
+So, on one level, that of time, it seems that I did well on that call.  But on price, it wasn’t so clear.  You see, there was still one last spike move down, as so often happens at the end of a bear move.  And it was rather painful to anyone leveraged long. I for one got stopped out.  So, was that call brilliant, or was it a miss?  It doesn’t much matter now.  I mention it only to demonstrate to readers know that I call them as I see them.  Sometimes I’m right, sometimes I’m wrong.  Often a bit of both.
+So it isn’t just hyperbole to say that past success does not guarantee future success.  It is true!  All traders, even the very best, get it wrong from time to time and I am no exception.  Win or lose, those who follow my column might learn a few things along the way.
+With that, let’s take a look at an 8 candle Gann Square setup, of an 8-day chart of BTC, as per Kraken:
+As noted, price finally stopped falling as price exited the first arc.  (This was the time frame I called as the “end of the Bitcoin bear market”.)  Price moved sideways but slightly higher until price finally exited the first arc pair.  Then it began to rise.  Price stumbled but recovered when it hit the 2nd arc of the 2nd arc pair.
+This chart, coupled with the fact that the long-term chart continues to make higher highs and higher lows, suggests that the overall btc market will likely continue to move higher for the next several months, until price encounters the 3rd arc pair.
+In our next article we will look further at this long term chart.  There is a lot more information here.  Happy trading!
+Remember:  The author is a trader who is subject to all manner of error in judgement.  Do your own research, and be prepared to take full responsibility for your own trades.
+Posted in: Altcoin Analysis, Bitcoin Analysis, Bitcoin Price News, News
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+NextPolice Arrest Backpage CEO For Facilitating Sex Trafficking08/10/2016
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

@@ -1,0 +1,49 @@
+Bitcoin Wasn't the Only Digital Currency to See Post-Election Bounce - CoinDesk
+Vote Now for CoinDesk's Most Influential People in Blockchain
+Bitcoin Wasn't the Only Digital Currency to See Post-Election Bounce
+Charles Bovaird | Published on November 11, 2016 at 22:39 GMT
+Markets Weekly is a weekly column analyzing price movements in the digital currency markets, and the technology's use as an asset class.
+This articles covers 4th November to 11th November, 2016.
+The surprise US Presidential Election results pushed bitcoin 4% higher this week amid a choppy period for the digital currency markets.
+After opening at roughly $709 on 4th November, bitcoin neared $740, placing it within reach of its 2016 high of more than $780. But while this increase was notable, it fell short of some forecasts.
+Cryptocurrency fund manager Jacob Eliosoff, for example, noted that he expected bitcoin prices to benefit more starkly from the uncertainty created by the election.
+As previously profiled on CoinDesk, many analysts had expected a 'Brexit-like' impact, one in which the digital currency might have risen by as much as $100 on a Trump win. When it became clear that the Brexit referendum would succeed, bitcoin prices surged, rising above $650 on 24th June after falling to $550 the day before.
+"The election reaction has been more nuanced than some of us foresaw – on a Trump win, I expected BTC to shoot up and stay there."
+Overall, bitcoin finished the week at $713.67, 3.8% higher than its opening price, but if the markets are any indication, investors may have used the proceeds to seek profit elsewhere.
+The privacy-oriented digital currency Monero, for example, surged more than 20% from $4.99 to $6.13 over the course of the week, Poloniex figures reveal.
+Monero enjoyed these sharp gains as Zcash, another digital currency that has focused on offering improved privacy features, plunged close to 75% during the period.
+While Zcash enjoyed a huge spike in prices at launch in October, the currency has fallen sharply since then, finishing the week at $225.74 after starting out the period at $900.
+Petar Zivkovski, director of operations for leveraged bitcoin trading platform Whaleclub, believes that the results are evidence that Monero is becoming an interesting asset for traders, and that there is a developing dynamic between the two competing platforms.
+"As other cryptos lost ground, more money went into XMR, especially after its decline last week. XMR price has recovered and still seems to appeal to a large market on the dark web," he said.
+Eliosoff also weighed in on the situation, telling CoinDesk that ZEC's steadily growing supply may be related to Monero's rally.
+"The total ZEC supply is still increasing very quickly every week, which means more sellers and a dropping price," he added, noting that these sellers may be putting their money into Monero.
+It is worth noting that while Zcash harnesses bleeding-edge cryptography in an effort to ensure privacy, Monero has thus far achieved far greater adoption on the dark web, a network of websites where buyers could benefit greatly from anonymous transactions.
+In contrast, Monero has been around since 2014, so it has had more time to undergo testing.
+Elsewhere, ether and ether classic experienced some mild volatility.
+Ether fell slightly, dropping from $10.83 to $10.52 to finish the period with a loss of less than 3%, according to Poloniex. Ether classic went in the other direction, rising roughly 6% from 0.082 BTC to 0.087 BTC.
+Analysts seemed uncertain as to the reason for ether classic's boost, though at least one major exchange (China-based BTCC) did express interest in listing the digital currency.
+Disclosure: CoinDesk is a subsidiary of Digital Currency Group, which has an ownership stake in Zcash and BTCC. 
+What's Left Before Bitcoin's Lightning Network Goes Live
+Subscribe to our free newsletter and follow us
+Nov 23, 2016 at 04:23 | Pete Rizzo
+Bitcoin Pioneer Charlie Shrem Launches New Blockchain Venture
+Months after his release from prison for money laundering violations, entrepreneur Charlie Shrem has announced a new blockchain venture.
+Nov 22, 2016 at 18:15 | Alyssa Hertig
+Ethereum rolled out its latest hard fork today, and so far, the side effects have been minimal.
+Nov 21, 2016 at 11:00 | Noelle Acheson
+The Most Worrying Slide in the State of Blockchain
+Venture capital in ethereum is surprisingly low, but is it really? Under the surface, ethereum is evolving differently than its predecessors.
+Nov 19, 2016 at 15:25 | Charles Bovaird
+Bitcoin Breaches $750 But Struggles to Set New 2016 High
+Bitcoin prices repeatedly breached $750 during the week through 18th November as traders responded to macroeconomic uncertainty.
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.

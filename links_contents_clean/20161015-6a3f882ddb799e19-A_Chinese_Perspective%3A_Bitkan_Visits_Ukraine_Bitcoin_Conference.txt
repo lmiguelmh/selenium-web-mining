@@ -1,0 +1,28 @@
+A Chinese Perspective: Bitkan Visits Ukraine Bitcoin Conference
+A CHINESE PERSPECTIVE: BITKAN VISITS UKRAINE BITCOIN CONFERENCE
+JON SOUTHURST · OCTOBER 15, 2016 · 7:00 PM
+How do people exchange local currency for bitcoin in countries like Ukraine these days? Is it easy, or do users still need to be creative with their methods? A Chinese company representative went there to find out more.
+Also read: Bitcoin IRA Launches Investment Returns Calculator
+Not so long ago, bitcoin exchange options were limited in most countries. Even online exchanges were of little use to anyone other than large-scale traders if they didn’t link to local bank accounts.
+Bitcoin infrastructure has improved markedly in the past few years, but there are still plenty of regions underserved.
+Chinese Bitcoin portal BitKan has a mobile service designed for over-the-counter (OTC) Bitcoin traders. This lets users trade off-exchange with other bitcoiners anywhere, sending local currency via bank transfer or online payment network.
+Daria Petrova, BitKan’s marketing manager in the region, attended the Bitcoin Conference Kiev in Ukraine in September. Her aim was to find out what differences and similarities exist between Bitcoin users’ needs in her company’s home country, and elsewhere.
+Speaking to Bitcoinist, Petrova said Ukraine is actually a Bitcoin and blockchain leader. There were many entrepreneurs and developers at the conference, as well as newcomers, and the industry there has produced “significant results.”
+However, bitcoiners in the Ukraine and CIS region tend to communicate more online than in-person. This contrasts to China, where meetups and conferences are fairly common.
+She added that conference-goers were curious to find out more about the industry on the other side of the world, though.
+“People were interested in a Chinese company, because everybody knows that China mines most bitcoins and that China is country where most crypto-trading activities are. People are interested to open Chinese market.”
+Ukraine is pretty well served by online exchanges these days, Petrova said, and some local banks are even integrated into the Bitcoin infrastructure. People use e-currency and bank cards to move money to their exchange.
+When trading, though, local bitcoiners had less faith in their own currency (the hryvnia, or UAH) and prefer to use USD. Online exchanges cater to this demand with multi-currency options.
+Some use OTC platforms like LocalBitcoins, though that particular service is more popular in neighboring Russia.
+Petrova held meetings at the conference to determine how OTC services could improve. She said users were impressed by BitKan’s own app, its interface and setup procedure, and fee structure. Interestingly, they also felt mobile platforms were inherently more secure for trading than web-based interfaces.
+Despite the concerns about currencies and web platforms, among the suggestions BitKan received were to integrate regional fiats like UAH and KZT (Kazakstani Tenge), and to develop exchange functions for BitKan’s own website (the trading platform is currently mobile-only). Several business owners were also keen to do deals with a Chinese company, Petrova added.
+On the whole, Ukraine’s Bitcoin community felt very much like those elsewhere, and a solid financial infrastructure now exists. However face-to-face communication between actual users and service developers remains essential, especially if they are on opposite sides o the world.
+It’s difficult for developers in China (and elsewhere) to understand exactly how locals in emerging and developing economies use Bitcoin without actually going there.
+BitKan said it will continue its international outreach, and plans to present at more conferences around the world in future.
+Do you think Ukraine is similar, or different to Bitcoin economies elsewhere? Is there such a thing as a one-size-fits-all Bitcoin service for everyone? Let us know.
+SHAKEPAY INSTANT: BITCOIN DEBIT CARDS IN A BROWSER EXTENSION
+BITCOIN PRICE PULLS BACK, BUT HOPE FOR $800 AND BEYOND STILL STRONG
+CRYPTO-EDUCATION: UNIVERSITIES STARTING TO ACCEPT BITCOIN PAYMENT FOR DEGREES
+SEGWIT WON’T HAPPEN, SAYS INFLUENTIAL CHINESE BITCOIN INVESTOR
+FORCE OF WILL GOES DIGITAL WITH TRADEABLE BLOCKCHAIN GAME ASSETS
+ABOUT US CONTACT US CATALOG SITEMAP JOBS ADVERTISE PARTNERS

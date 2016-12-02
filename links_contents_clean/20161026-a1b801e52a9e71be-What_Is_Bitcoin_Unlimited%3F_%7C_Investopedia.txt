@@ -1,0 +1,22 @@
+What Is Bitcoin Unlimited? By Prableen Bajpai, CFA (ICFAI) | October 26, 2016 — 2:26 PM EDT
+There is always so much happening around digital currencies, especially bitcoin. A new term, ‘Bitcoin Unlimited’, has been floating around for some time now. So what exactly is Bitcoin Unlimited? Will it result in a hard fork (forced splitting off of the currency)? (Related: Does Ethereum's Hard Fork Undermind Smart Contracts?)
+The issue revolves around the size of the blocks which are added to its blockchain. Blocks are files where data pertaining to the bitcoin network is permanently recorded. A block records some or all of the most recent bitcoin transactions that have not yet entered any prior blocks. Thus a block is like a page of a ledger or record book. Each time a block is ‘completed’, it gives way to the next block in the blockchain. A block is thus a permanent store of records which, once written, cannot be altered or removed. (Related: Bitcoin is Money, Rules Federal Judge in Landmark Case.)
+Bitcoin blocks have a limited ‘storage’ capacity of 1MB since the beginning and under the current popular system of Bitcoin Core. However, Bitcoin Unlimited argues that the size of these blocks should be increased as it would enable smoother running by decongesting the blocks. Unlike the present rigid size of 1MB, Bitcoin Unlimited advocates complete freedom and flexibility to increase the size of blockchain and this will be done by miners. So, if there is a consensus on this, we will have a new bitcoin blockchain with large-sized blocks. Opponents feel that increasing the size of blocks can result in a hard fork in the code which would split the network. They also believe that such flexibility can result in miners opting for bigger and bigger blocks – making it harder for miners with limited resources to mine, thereby concentrating the ‘mining power’ in the hands of few miners. Such concentration will essentially result in centralization which is opposite to the idea of decentralization which is core to bitcoin.
+While proponents of Bitcoin Unlimited claim that they will not fork the blockchain, they do say that “If some other entity causes a fork, if for example miners start producing > 1MB blocks, then Bitcoin Unlimited nodes will follow the most-work (generally the longest) fork. This means that your BU node will track the mining majority rather than a specific choice.” In the current situation, if Bitcoin Unlimited wants to have its way, they need majority nodes on their side or else, any attempt to change the size of the block will be rejected by ‘majority’ nodes.
+Commenting on the situation, Mahin Gupta, co-founder and CTO, Zebpay told Investopedia that, “For a hard fork to happen in bitcoin, Bitcoin Unlimited miners needs to increase the block size on their own. At the moment majority of network will reject such blocks, so until the Bitcoin Unlimited miners are in majority it does not make sense, and they will not do a hard fork till they don’t get consensus as it is detrimental to the entire ecosystem. Right now, at around 10% they are far from a consensus. So there is a very remote possibility of a hard fork.”
+OK so why are there multiple kinds of Bitcoin now?
+The price of Bitcoin is at its highest since August 2014. What's behind the uptick?
+Tracking the reasons behind bitcoin's price rally: "Halving" and China
+The most popular way to obtain Bitcoins is to buy them on a Bitcoin exchange. But that’s not the only way.
+The Rise And Fall And Rise Of Bitcoin
+A look at the reasons behind the recent spectacular surge in bitcoin prices.
+There are many ways to earn and own Bitcoins other than just buying them on a Bitcoin exchange.
+Investopedia explains the development of the Bitcoin digital currency system and the risks associated with using and investing in it.
+A look at the forces behind the recent surge in Bitcoin price and how it stands entering 2016.
+ETFs offer a cost-effective, safe and hassle-free way to invest and trade bitcoins as stocks, without worrying about the security of digital wallets.
+How To Trade Forex With Bitcoin (XOM, EXPE)
+We look at ways to trade forex with bitcoin and the pitfalls in doing so.
+DICTIONARY: # A B C D E F G H I J K L M N O P Q
+Articles Terms Videos Guides Slideshows FAQs Calculators Chart Advisor Stock Analysis Stock Simulator FXtrader Exam Prep Quizzer Net Worth Calculator
+About Us Advertise With Us Write For Us Contact Us Careers
+© 2016, Investopedia, LLC. Feedback All Rights Reserved Terms Of Use Privacy Policy

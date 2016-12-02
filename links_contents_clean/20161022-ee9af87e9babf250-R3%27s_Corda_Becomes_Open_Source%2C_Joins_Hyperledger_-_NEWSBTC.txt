@@ -1,0 +1,30 @@
+R3's Corda Becomes Open Source, Joins Hyperledger - NEWSBTC
+Bitcoin Price Watch; A Slow End To The Week
+EY Unveils Strategy to Create Mainstream Bitcoin Traction In Switzerland
+Ethereum Platform Receives a New Geth Update after Consensus Flaw
+Redefining the Short Term Recruitment Industry -- ChronoBank
+Bitcoin Price Watch; End Of The Week Trading
+Ledger Blue Hardware Cryptocurrency Wallet Now Available For Pre-order
+Ethereum Price Technical Analysis – ETH/USD Downsides To Continue
+Bitcoin Price Technical Analysis for 11/25/2016 - Hold or Fold at Channel Support?
+Fortunejack – The only Gambling Site Offering Binary Options Trading
+Swift Boasts Blockchain Technology Will Not Disrupt Their Business Model
+Is IRS Overstepping Boundaries by Issuing Summons to Coinbase?
+Tendai Biti: "Zimbabwe Should Adopt Bitcoin As The National Currency"
+Ethereum Classic Price Technical Analysis – ETC/BTC Almost Tested 0.00100BTC
+Ethereum Price Technical Analysis – Can ETH/USD Break This?
+Bitcoin Price Technical Analysis for 11/24/2016 - Eyes on This Triangle
+R3's Corda distributed financial ledger platform will soon become open source as it becomes part of the Hyperleger project. Read more...
+Corda, the distributed financial ledger created by R3CEV led international banking consortium for blockchain technology will be made open source. The latest development was announced by the consortium recently.
+According to news reports, the codes for R3 consortium’s Corda blockchain platform will be handed over to the Hyperledger project. Hyperledger project is an initiative of Linux Foundation along with some of the leading information technology, blockchain technology, banking and financial firms. The inclusion of Corda into Hyperledger’s code portfolio will signify the project’s huge progress. It is also a great step towards standardization of blockchain based solutions for the banking and financial industry.
+James Carlyle, the chief engineer at New York-based fintech firm was quoted in the news report saying,
+“We want other banks and other parties to innovate with products that sit on top of the platform, but we don’t want everyone to create their own platform… because we’ll end up with lots of islands that can’t talk to each other.”
+The main intention behind R3’s decision to donate the code base seems to be driven by the platforms interest in seeing Corda becoming the base of all blockchain based fintech applications. The R3 Consortium already has over 70 leading banking, financial and technology companies working together towards a common goal. However, it is an unexpected move on the consortium’s part as both banking and cryptocurrency communities were under the belief that Corda is going to be a proprietary closed system.
+The Hyperledger project expects to receive Corda’s codebase by the end of November 2016. R3’s Chief Executive David Rutter’s statement also hints of escalating costs of development and deployment, which might have been one of the contributing factors for the consortium’s decision as well.
+“Blindly investing millions of dollars in small, disparate technology projects is not appropriate for banks at a time when budgets are stretched… The risk of backing the wrong horse could far outweigh the potential gains. Given that the power of this technology lies in its network effect, the consortium model is the ideal method to get it off the drawing board and into the wholesale financial markets.”
+The active development of blockchain based solutions by the R3 consortium had given rise to multiple consortiums, especially in Russia and China. These consortiums were created with the aim of creating blockchain standards in anticipation of large scale deployment of R3’s Corda based blockchain application among the member banks.
+Gautham has an eye for anything new. He has been part of multiple startups and his current project focuses towards the social good sector. An entrepreneur, engineer and enthusiast (bitcoin, of course), he has been moonlighting as a writer for multiple publications and currently writes at NewsBTC. Find him on twitter as @gautham_n and on facebook at /gautham.nm View all posts by Gautham
+Electronic Government as a Service — eGaaS Enters Beta Testing Phase
+Bitcoin’s Fastest Growing Community Issues Innovative BitConnect Coin ICO
+IBM, Microsoft and Sberbank shared experience in blockchain developments. How did Blockchain & Bitcoin Conference in Moscow go?
+NewsBTC is a news service that covers bitcoin news, technical analysis and forecasts for bitcoin and other altcoins. Here at NewsBTC, we are dedicated to enlightening people all around the world about bitcoin and other cryprocurrencies. We cover news related to bitcoin exchanges, bitcoin mining and price forecasts for various virtual currencies.

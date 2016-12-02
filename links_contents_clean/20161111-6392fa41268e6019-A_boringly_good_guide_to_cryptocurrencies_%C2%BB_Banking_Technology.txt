@@ -1,0 +1,44 @@
+A boringly good guide to cryptocurrencies » Banking Technology
+Home » Format » News » A boringly good guide to cryptocurrencies
+Here is a boringly good guide to cryptocurrencies, courtesy of credit card specialist MBNA. It is not boring at all really!
+Also called digital or virtual currencies, they’re a type of currency that exists purely as code. They’re not controlled by a central authority, like a bank, so transactions are neither protected nor at risk from interference in this way.
+Although there are 700 cryptocurrencies around today, only 12 or 13 are established enough to have a market capitalisation value – or total share value – over $10 million.
+By far the most well-known is Bitcoin, the virtual currency and payment system that uses code to complete transactions.
+The second biggest, and the only other cryptocurrency system being taken seriously at the moment, is Ethereum. It’s a little like the Bitcoin network, except it’s mainly used for building apps online, rather than for making payments. It’s fuelled by its own cryptocurrency, called Ether, which is what the people accessing Ethereum’s resources pay to the platform for carrying out requests.
+According to COO of payment provider Remitsy, Neil Woodfine, most of the other cryptocurrencies don’t really have a following. Yet.
+If you’re looking to make a purchase, some 100,000 global merchants, including Microsoft and Expedia, currently accept Bitcoin, although the UK’s largest online retailer, Amazon, still doesn’t accept any cryptocurrencies. Using gift cards bought with cryptocurrency is one way to shop through a retailer that doesn’t currently transact in cryptocurrencies. And even Amazon will accept gift cards.
+However, you’re unlikely to find many high-street retailers directly accepting cryptocurrency just yet, as there’s no real incentive for them to. Cryptocurrencies aren’t cut out to manage the volume of transactions that traditional payment technologies like Visa, for example, do, and they’re pretty well adept at that already.
+But in the digital world, things change quickly and Bitcoin developers are already looking at moving small retail transactions away from the cryptocurrency’s main structure.
+If you can’t wait for that to happen, there are ways to get around paying with cryptocurrencies on the high street. As Woodfine points out, some Bitcoin start-ups offer Bitcoin-funded pre-paid debit cards, where you purchase your limit first, before transacting.
+While cryptocurrencies may have to wait to crack the high street completely, they’re already offering a big advantage to people making international payments. Since they’re completely digital, cryptocurrency payments can be made simply and instantly, often without incurring costly handling fees.
+“For example, I can now make a Bitcoin payment to anyone in the world via iMessage on my iPhone,” says Woodfine. “They receive it in seconds, it just works. Try doing that with some dollars in your bank account.”
+If you’re not fully fluent in cryptocurrencies, approach investment with caution. A number of scams have appeared on the market, with clever marketing and the promise of huge returns.
+“Appcoins” have become big news in the cryptocurrency world in the last year. They’re a digital currency used by app creators to support their projects. App creators sell off some of their coins before launching the platform to entice investors, but according to Woodfine, the legacy of these schemes is worrying. This is because many artificially inflate the stock price of their currency to attract investors, before selling off shares in bulk so the value plummets.
+He’s more optimistic, however, about the outlook for Bitcoin:
+“Bitcoin as a long-term store of value holds a lot of promise. It’s a new, experimental technology so it’s risky, for sure. But with its hard-cap limited quantity, it offers an opportunity to hedge against the guaranteed inflation that we see with traditional currencies.”
+The hard cap Woodfine refers to is the maximum number of Bitcoins – 21 million – that will ever be created. This means it’s not susceptible to the same effects of inflation as regular currency. It also has a strong history of growth in its favour.
+“Over the last seven years since its inception, Bitcoin’s value has risen considerably, whereas all other national currencies have fallen in value.”
+If you’re looking for the next big thing, then you might want to listen in to the hushed excitement surrounding the imminent arrival of Zerocash. This uses a code similar to Bitcoin’s, but allows the payer, payee and transaction amount to remain anonymous. It does this by operating an anonymous currency called Zerocoin, alongside a non-anonymous one, called Basecoin. It’s this development in privacy that has the cryptocurrency crowd, and Woodfine in particular, intrigued.
+“The project is backed by some big-name investors. I’d say it’s definitely worth keeping an eye on. However, if it’s successful, there is nothing to stop Bitcoin implementing the same technology, or using another technical approach to achieve the same end.”
+There’s also the option to invest in cryptocurrency start-ups. This way, says Woodfine, you don’t have to worry about future competition between cryptocurrencies since they should reasonably be able to adapt their technology.
+With so many options available to the everyday investor, it will be interesting to see if and when cryptocurrencies really take off in the mainstream. As our first fully-digital currencies, they could, according to Woodfine, “completely reimagine the way money works.”
+Tags; Bitcoin, cryptocurrency, digital currency, FinTech, MBNA, Remitsy, Zerocash, Zerocoin, Banking Tech, Blockchain/Bitcoin, Digital Banking, Innovation, News
+UK’s Financial Conduct Authority calls for regulatory sandbox applicants
+The UK’s Financial Conduct Authority (FCA) is calling for the second group of applicants to its regulatory sandbox. As Banking Technology reported last year, the sandbox allows businesses to test out new products and services without “incurring the normal regulatory consequences”. The move is part of the FCA’s Project Innovate, which aims to boost competition […]
+Tags; FCA, Financial Conduct Authority, FinTech, Financial Services, Innovation, News, Regulations, UK
+Objectway Conference: Do or die in wealth management’s digital drive
+The wealth management industry needs to shake off its “cottage industry” mentality of the past and realise that it is “do or die” in the push to digital. This was one of the key messages from yesterday’s (24 November) Objectway International Customer Conference in Amsterdam – a one-day event of presentations and insight from the […]
+Tags; Aite, eXimius, FinTech, Objectway, Quasar, Europe, News, Wealth Management
+Top fintech stories this week – 25 November 2016
+Catch up on Banking Technology’s top five fintech stories of the week – all in one place!
+Tags; Backbase, FinTech, fundinfo, Metro Bank, Morgan Stanley, National Bank of Australia, R3, Temenos, Vancity, Banking Tech, Blockchain/Bitcoin, Core banking, Digital Banking, Innovation, Mobile, News, Payments, Wealth Management
+Let’s put the fun in funding by keeping it mercifully brief. Money seekers are PayKey, Euklid and Flender.
+Tags; Euklid, FinTech, Flender, p2p, PayKey, Acquisitions, Artificial intelligence, Banking Tech, Blockchain/Bitcoin, Crowdfunding, Digital Banking, Funding, Innovation, Mobile, News, Payments, Start-ups
+Receive FREE Banking Technology news alerts straight to your inbox Sign me up
+It’s infographics time! A great compilation of fintech companies, showing how we’ve gone from graph paper to personal data algorithms – and everything in between.
+Tags; Choice Loans, FinTech, infographics, Banking Tech, Digital Banking, Features, Innovation, Mobile, News, Payments, Software-as-a-Service, Start-ups
+Move over, London and Berlin, Singapore’s fintech ecosystem is surging ahead
+In her new column for Banking Technology, Devie Mohan, a fintech market strategist, looks at how Singapore has created a fintech ecosystem that is a major threat to the ones in London and Berlin.
+Tags; ecosystem, FinTech, MAS, Singapore, Banking Tech, Features, Innovation, Partnerships, Regulations
+Digital Editions Subscribe to magazine Request a sample copy Supplements
+About us Contact us Editorial calendar Advertise with us Sign up to our Daily News Digest Jobs Privacy policy Cookies Policy

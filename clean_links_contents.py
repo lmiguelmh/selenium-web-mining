@@ -4,10 +4,7 @@
 import os
 import re
 import nltk
-
-
-def get_files(dir):
-    return [f for f in os.listdir(dir) if os.path.isfile(os.path.join(dir, f))]
+import commons
 
 
 def clean_lines(lines, preprocess=True):
@@ -30,9 +27,7 @@ def clean_lines(lines, preprocess=True):
         return preprocessed_lines
 
 
-def clean_file(in_file, out_file, preprocess=True):
-    # min words per paragraph
-    min_words_per_paragraph = 7
+def clean_file(in_file, out_file, preprocess=True, min_words_per_paragraph=7):
     with open(in_file, 'r', encoding='utf8') as f:
         lines = [line.rstrip('\n') for line in f if len(line.split()) > min_words_per_paragraph]
 
@@ -47,8 +42,9 @@ def clean_file(in_file, out_file, preprocess=True):
 
 in_dir = 'links_contents'
 out_dir = 'links_contents_clean'
-files = get_files(in_dir)
+files = commons.get_files(in_dir)
 for file in files:
     in_file = os.path.join(in_dir, file)
     out_file = os.path.join(out_dir, file)
-    clean_file(infile, outfile)
+    print("cleaning %s" % in_file)
+    clean_file(in_file, out_file, False)

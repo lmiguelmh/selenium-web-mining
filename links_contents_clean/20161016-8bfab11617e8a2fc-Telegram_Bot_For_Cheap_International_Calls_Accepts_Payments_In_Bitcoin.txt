@@ -1,0 +1,30 @@
+Telegram Bot For Cheap International Calls Accepts Payments In Bitcoin - CryptoCoinsNews
+Telegram Bot For Cheap International Calls Accepts Payments In Bitcoin
+A new bot called Callcoin allows users to use the Telegram messaging app to make cheap international phone calls, paying only with bitcoin and recharge codes.
+ommunicating to CCN, Callcoin said its international phone rates are 10 times cheaper than standard rates. 120 minutes, a group of Latvian-Canadian developers, created Callcoin.
+Callcoin uses callback rather than Voice Over Internet Protocol (VoIP), a feature which the company claims provides higher quality telephony than other call services.
+A Callcoin call from Canada to France gets charged 4 euro cents per minute, compared to 10 to 20 euro cents from standard call services. A call from the United States to Italy will incur a 5- to 6-euro-cent charge per minute; a call from Mexico to Spain incurs a 3-euro-cent-per-minute charge.
+Incoming calls to Australia incur 2- to 4-euro-cent-per-minute charges.
+Telegram users simply enter “@callcoinbot” in the Telegram search box. They can then select their language, English or Russian. They then type in their current phone number for callbacks our use the “insert your number” button.
+To make a call, the user taps the attachment icon or types in the number they want to call if it is not in their existing contacts. They then tap “contact” from a popup menu. They choose the contact they wish to call and tap it to make the call.
+The website explains how to sign up for Callcoin, how to make calls, top up, send credit, use codes and set caller IDs.
+A user can check their Callcoin credit, review tariffs, view their history, set a caller ID, rent a different phone number, and set multiple call-back numbers.
+The Callcoin website allows users to check outgoing and incoming call rates to different countries. The rates are shown in euros.
+Callcoin accepts bitcoin payments through the BitGo bitcoin wallet. The user does not have to register with their own phone number to use the bot.
+Anyone can create recharge codes to send to other users.
+The developers intend to connect around 100,000 users to the bot in the first year. They also plan to expand its functionality.
+“Callcoin is the first Telegram bot that provides call services and the first service that offers a winning solution with payments in cryptocurrency,” said Dmitry Chuyenko, CEO of 120 minutes and creator of Callcoin.
+120 minutes was recently founded by a team of developers with 20 years of telecommunications experience.
+Nick Ustinov, ex-founder of Roamer app, a Baltics email service and the owner of the Lokalise.co translation platform for software developers, supports Callcoin.
+Posted in: Accepts Bitcoin, Bitcoin Services, News Tagged in: 120 minutes, Callcoin, Telegram
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+NextCryptocurrency Exchange Poloniex is Insecure, Security Review Claims15/10/2016
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

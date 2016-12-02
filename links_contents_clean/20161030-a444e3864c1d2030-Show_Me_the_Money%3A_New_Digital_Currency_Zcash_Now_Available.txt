@@ -1,0 +1,18 @@
+Show Me the Money: New Digital Currency Zcash Now Available
+Show Me the Money: New Digital Currency Zcash Now Available
+The new cryptocurrency Zcash (ZEC) went live on Friday and can hide the transaction details of its sender, recipient, and value.
+Zcash will start as a "slow mining" operation at 20,000 blocks (roughly 34 days) with only a fraction of the normal reward.
+The Zcash blockchain finally went live this Friday with the release of its genesis block. Zcash (or ZEC) is a new kind of decentralized and open-source cryptocurrency. That definition may sound familiar to you and that’s no surprise because it also applies to Bitcoin, which is the most famous digital currency.
+Zcash has opened to the public and is currently calling for miners, with mining options through the cloud open to those new to working with blockchains. Mining is the process of recording transactions on blockchains to earn coins, in this case ZECs.
+As of now, and for its first 20,000 blocks (roughly 34 days), Zcash is implementing a “slow start” mining period to give the system some breathing space and time to adjust. This means that the rewards for block mining would only be a fraction of the intended 12.5 ZEC.
+Zcash offers improved privacy and transparency options via groundbreaking cryptography, not to mention, it runs on a unique blockchain. The developers of Zcash understand that cryptocurrency is a relatively new technology “and it is not yet shown to be safe and stable,” their blog announcement said.
+“[Zcash] the first protocol of its kind. It is the product of years of scientific research, advanced engineering, and diligent security work. Zcash is a group of scientists and hackers who came up with a way to combine blockchains for immutability with encryption for data security. These two things are separately well understood, important, and widely used, but they’ve never been put together before now.”
+Zcash offers complete payment confidentiality. Details about a blockchain’s transactions (its sender, recipient, and value) can be shielded. “Our zero-knowledge proving scheme makes it possible to conceal values and other identifying information from the public blockchain. Users simply prove that the values balance out and that they are not double-spending the amount they want to send,” the company’s website explains.
+As Zcash CEO and founder Zooko Wilcox explained in an earlier Bitcoin Magazine interview,“The dream is that people all around the world use Zcash and other cryptocurrencies directly, to cooperate and organize with one another in safety and privacy. This will give them freedom from corrupt regimes, banks and unstable national currencies.”
+It should be interesting to see how popular ZCash becomes in a market already filled with digital currencies like Bitcoin, Litecoin, and Dogecoin.
+Get mind-blowing news & videos delivered right to your inbox!
+Physicists Have Discovered a Second State of Liquid Water
+A Glimpse of the Future: See the Tesla Gigafactory Like Never Before
+How To Train Your AI: Microsoft Releases Open-Source Deep Learning Software
+See stories of the future in your inbox each morning.
+Our mission is to empower our readers and drive the development of transformative technologies towards maximizing human potential

@@ -1,0 +1,29 @@
+Can BitTorrent and Lightning Give Netflix a Run for Its Money? - NEWSBTC
+Bitcoin Price Watch; A Slow End To The Week
+EY Unveils Strategy to Create Mainstream Bitcoin Traction In Switzerland
+Ethereum Platform Receives a New Geth Update after Consensus Flaw
+Redefining the Short Term Recruitment Industry -- ChronoBank
+Bitcoin Price Watch; End Of The Week Trading
+Ledger Blue Hardware Cryptocurrency Wallet Now Available For Pre-order
+Ethereum Price Technical Analysis – ETH/USD Downsides To Continue
+Bitcoin Price Technical Analysis for 11/25/2016 - Hold or Fold at Channel Support?
+Fortunejack – The only Gambling Site Offering Binary Options Trading
+Swift Boasts Blockchain Technology Will Not Disrupt Their Business Model
+Is IRS Overstepping Boundaries by Issuing Summons to Coinbase?
+Tendai Biti: "Zimbabwe Should Adopt Bitcoin As The National Currency"
+Ethereum Classic Price Technical Analysis – ETC/BTC Almost Tested 0.00100BTC
+Ethereum Price Technical Analysis – Can ETH/USD Break This?
+Bitcoin Price Technical Analysis for 11/24/2016 - Eyes on This Triangle
+Can BitTorrent and Lightning Give Netflix a Run for Its Money?
+A combination of BitTorrent and Lightning network can potentially offer stiff competition to Netflix and similar services. Read more...
+Luke Cage fans on Netflix had to go without their usual daily fix for a while last week, following a massive DDoS attack on the internet. While the DDoS attacks can be considered as acceptable risks for an internet based business, a combination of Bitcoin and BitTorrent presents itself as a huge threat to services like Netflix.
+Since Bitcoin gained popularity, it was considered as an ideal method for micropayments. The low transmission cost advantage which Bitcoin had in the early days gradually wore off due to increased network usage and lack of scaling. Now a solution in the form of Lightning Network is at sight. As Bitcoin Core prepares to introduce SegWit in the next update, Lightning network for micropayments may soon become a reality. With Lightning network, streaming sites can have an open payments channel for each customer allowing them to automatically pay for what they watch. A combination of Lightning and Torrent streaming services may soon give Netflix a run for their money.
+The BitTorrent network has a huge customer base which goes many folds higher than that of Netflix, which makes it easy to access to a majority of internet savvy population cross the world. In addition, the use of BitTorrent network is prevalent across the world whereas the reach of Netflix is not as extensive.
+With a customer base already primed and ready to use torrent streaming services, any BitTorrent based video streaming service with digital micropayments can readily capture a huge chunk of Netflix’s customers. Not to mention fresh customers who may have eventually joined Netflix. There are a couple of micropayments enabled, BitTorrent based streaming sites in the works and expected to be launched soon. It is just a matter of time before the shift in on-demand video streaming industry takes place.
+So far it is clear that the right combination of Bitcoin and BitTorrent can give Netflix a tough competition. However, it may be a bit challenging for such platforms to get the required permissions and licensing from the producers of movies and TV shows right away as they still have to build a reputation in the industry. Netflix scores high in this criteria at the moment.
+The statements, views and opinions expressed in this column are solely those of the author and do not necessarily represent those of NewsBTC
+Gautham has an eye for anything new. He has been part of multiple startups and his current project focuses towards the social good sector. An entrepreneur, engineer and enthusiast (bitcoin, of course), he has been moonlighting as a writer for multiple publications and currently writes at NewsBTC. Find him on twitter as @gautham_n and on facebook at /gautham.nm View all posts by Gautham
+Electronic Government as a Service — eGaaS Enters Beta Testing Phase
+Bitcoin’s Fastest Growing Community Issues Innovative BitConnect Coin ICO
+IBM, Microsoft and Sberbank shared experience in blockchain developments. How did Blockchain & Bitcoin Conference in Moscow go?
+NewsBTC is a news service that covers bitcoin news, technical analysis and forecasts for bitcoin and other altcoins. Here at NewsBTC, we are dedicated to enlightening people all around the world about bitcoin and other cryprocurrencies. We cover news related to bitcoin exchanges, bitcoin mining and price forecasts for various virtual currencies.

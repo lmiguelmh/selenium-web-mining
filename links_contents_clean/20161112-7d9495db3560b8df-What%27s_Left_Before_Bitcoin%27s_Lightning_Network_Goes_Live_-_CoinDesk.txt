@@ -1,0 +1,66 @@
+What's Left Before Bitcoin's Lightning Network Goes Live - CoinDesk
+Vote Now for CoinDesk's Most Influential People in Blockchain
+What's Left Before Bitcoin's Lightning Network Goes Live
+Alyssa Hertig (@AlyssaHertig) | Published on November 12, 2016 at 15:30 GMT
+There aren't many steps left before bitcoin's Lightning Network will be finished – or at least an early version of it.
+The big picture looked starkly different a year and a half ago when developers Joseph Poon and Tadge Dryja first put forth a white paper outlining a way to expand bitcoin to accommodate millions of transactions per second. It was a cool idea to use hashed timelock contracts (HTLC) to build a top-layer to bitcoin that didn't require any extra trust in intermediaries, but there wasn’t a clear-cut path forward from the theoretical.
+Since then, it's become viewed as the future of bitcoin transactions, and one of the primary ways to "Make Bitcoin Great Again," or deliver on its original promise for fast, global payments.
+Today, there are at least eight in-progress implementations of the protocol from around the world, most of which met in Milan, Italy, last month to flesh out a roadmap to ensure that the fragmented projects are able to work with one another.
+Not to mention, a year ago there were at least two big protocol updates that Lightning hinged on that didn't exist yet. A piece of code called CSV has since been merged into the bitcoin codebase, which allows users to make bitcoin unspendable until a certain time.
+Now, the developers are just waiting on Segregated Witness, the year-in-the-making code change that is now in sight and that could be triggered by the end of the year. (A couple of mining pools are still threatening to block the change with their combined hashing power).
+Developers working on the effort say that's the final obstacle that needs to be passed before the first version of the Lightning Network can be deployed, though they admit it won't be a perfect version of the network.
+Pierre-Marie Padiou, CEO of ACINQ, one startup working on Lightning, told CoinDesk:
+"The only blocker for a live Lightning implementation is SegWit. It's not sure how or when it will activate, but if SegWit does activate, there is no technical thing that would prevent Lightning from working."
+Lightning creator Joseph Poon also stressed SegWit’s importance as a way to pave the way for the off-chain transaction network.
+"The most significant benefit of Segregated Witness isn't about transaction capacity – it's to solve Satoshi's biggest known yet unresolved bug, transaction malleability," he said.
+He went on to explain that while aspects of Lightning are possible without the fix, the technology would be far less secure without it.
+Although the code change is mainly seen as a scaling solution, it enables half a dozen other things, including an end to transaction malleability, which Poon described as an attack vector that plagues many of bitcoin's more complex contracts. SegWit fixes the problem by changing how transaction data is stored.
+But even while SegWit is (arguably) uncertain, there's a sense that it could be pretty close to triggering. That's why Lightning developers gathered in Milan for a "summit" to sync up about the specifications, said Padiou.
+The teams are now working to formalize these interoperability specifications since the draft merely roughly describes what each Lightning implementation needs to implement: the wire protocol for sending data, how to encrypt data between nodes, and so on.
+Once released, the bitcoin community can weigh in on the decisions.
+That's what developers are working on right now, as well as developing their implementations toward the new standard.
+Again, the first version will be less than perfect, and might not even support many users.
+One problem is with the routing – the way of finding a path through the network to whoever you want to make a payment to.
+The first version will likely use a simpler routing system (like the one put into practice by the startup ACINQ). But this won't scale as well, since each node needs to store the layout of the entire network and doesn't quickly adapt to changes in the network.
+It's necessary to start there, though, before moving on to a more complicated algorithm.
+"Currently, we're interested in seeing how the market dynamics and incentives play out, and the only way to properly model this is to test it out live with real coins," Poon said.
+He also noted that users should only transfer small amounts on this first, experimental version.
+The focus has been on getting the network to function so that users can actually send payments on the network. Padiou noted that it's unclear what the UX will look like, since it's a more forward-looking question.
+Blockchain.info Lightning engineer Mats Jerratsch thinks that this will be the major challenge before the technology sees "widespread use".
+"It can be really tough to take a great piece of technology and turn it into a product, but that’s exactly what we need to do," he said.
+But developers are starting to explore the question of how users will actually use it. Lightning Labs is working on an "easy to use" smartphone app with Lightning network functionality.
+"The key to much of this will be abstracting away technical complexities from the end user, while also enabling power users to configure their own settings," said Lightning Labs co-founder Elizabeth Stark.
+There are still some developers who want to sober up the enthusiasm by pointing out that no one knows exactly how Lightning will work.
+While a supporter of the Lightning concept, Open Bazaar lead backend developer Chris Pacia has been skeptical of all the promises made of its capabilities. Almost a year ago, he wrote a blog post out of "frustration" that the network was described as the end-all solution to bitcoin scaling at the expense of other ideas.
+He argues that there are still many unknowns, such as the routing functionality, like Padiou pointed out.
+Noting that he ran some python simulations of his own, he said that it might be hard to find a route through the network once users are making a transaction of a certain value, because every hop along the route will need to support that value.
+This could mean a slow user experience. "It’s plausible to me that it could reliably find routes and reliably find routes that each have the same value. But it’s equally plausible to me that it regularly fails," he said.
+That said, he's not over concerned that developers won't work out the future kinks.
+"They have enough brainpower behind it that I think they can work out all the problems that they have. But the issue of routing ... We're going to need more experience with it before we can tell how well it really works," he said, agreeing with Poon.
+While this remains to be seen, it's likely the first version of Lightning will soon answer these questions. At press time, roughly one in four bitcoin nodes were supporting the Segregated Witness upgrade.
+Bitcoin Wasn't the Only Digital Currency to See...
+Bitcoin Tests 2016 Highs as Investors Seek Privacy
+Subscribe to our free newsletter and follow us
+Nov 18, 2016 at 14:14 | Alyssa Hertig
+Bitcoin Miners Can Now Signal Support for SegWit
+If they so choose, miners can now safely signal their support for a major bitcoin update.
+Nov 16, 2016 at 13:59 | Alyssa Hertig
+Bitcoin's Lightning Network is Now Digital Asset Compatible
+Colored coins over Lightning? A demo mash-up of the two experimental bitcoin technologies went live today.
+Nov 11, 2016 at 17:45 | Stan Higgins
+One in Four Bitcoin Nodes Are Now Upgraded for SegWit
+Bitcoin network data shows that 25 percent of nodes worldwide are signaling support for Segregated Witness.
+Nov 10, 2016 at 16:45 | Alyssa Hertig
+How Two New Sidechains Proposals Could Change Bitcoin's DNA
+Work on bitcoin sidechains – long thought to be one of the best ways to improve the functionality of the network – is advancing. Here's how.
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.

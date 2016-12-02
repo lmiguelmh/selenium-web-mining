@@ -1,0 +1,32 @@
+Purse Introduces Bcoin Library To Spur Bitcoin Applications - CryptoCoinsNews
+Submit a Press Release Advertise Write for CCN News Tips Contact
+Bitcoin Blockchain FinTech ETH Learn Free PR Widget
+Purse Introduces Bcoin Library To Spur Bitcoin Applications
+Purse, an online marketplace that encourages bitcoin use and innovation, has introduced bcoin, a Javascript library to help bitcoin businesses build applications. Purse provides a full node implementation that allows it to utilize new additions to the bitcoin code base as they become available.
+coin is consensus aware and is up to date with the latest BIPs, supporting Segregated Witness, versionbits, CSV, and compact block relay, according to Github. It also has preliminary support for BIP151 (peer-to-peer encryption), BIP150 (peer authentication), and BIP114 (MAST). It runs in node.js, but it can also be browserified.
+In a posting on Medium, Purse noted it was established to provide real world applications for bitcoin. It began by offering Amazon discounts. It now carries more inventory than Amazon, eBay and Google Shopping, with lower prices. The company’s mission is to provide ultimate transparency and efficiency to global commerce.
+The Purse team tested third party services developed to make bitcoin more secure and simpler, but these services did not meet the necessary scalability and functionality needs. Hence, Purse built on top of Bitcoin Core for its initial wallet infrastructure.
+Bitcoin Core’s code base, while the standard, proved hard to work with. This is why only a small number of developers actively contribute to Bitcoin Core. Only a few dozen fully comprehend all of its quirks. Moreover, Core wasn’t built for big marketplaces. It takes a long time to deploy new features.
+These realities make it hard for bitcoin businesses to create applications, a situation that undermines new use case developments.
+Christopher Jeffrey, a former BitPay employee, joined Purse as chief technology officer to build bcoin.
+Full node presents a unique set of issues. Deploying a full node wallet from scratch presents challenges, as Satoshi warned against it in 2010: “I don’t believe a second, compatible implementation of Bitcoin will ever be a good idea,” Satoshi wrote. “So much of the design depends on all nodes getting exactly identical results in lockstep that a second implementation would be a menace to the network.”
+Purse’s goal is to accelerate the protocol’s development. This includes deploying Lightning and allowing features to permit new uses cases such as smart contracts. Purse is not trying to defy Satoshi and become a “menace to the network,” or to weigh in on the block size debate. The goal is to make bitcoin great again.
+Bcoin is an infrastructure for the bitcoin ecocystem. It is intended to be the most easy-to-use and most versatile bitcoin library, supporting Lightning, Segwit and Schnorr signatures, along with other new BIPs.
+Also read: BPurse.io looks to expand after raising $300,000
+Purse has open sourced bcoin to spur the next generation of apps, including those that Purse does not build.
+• Wallet database (HD keys with BIP44 derivation)
+• Support for Lightning Network (bcoin-plasma), Segwit, CSV, Versionbits, BIP70, BIP151, BIP152, BIP150 and MAST
+Purse will integrate bcoin directly into its back end in the next couple of weeks. Once bcoin is live, developers will be assured it is ready for use.
+Posted in: Bitcoin Business, Bitcoin Progress, Bitcoin Services, Bitcoin Technology, News Tagged in: bitcoin core, Christopher Jeffrey, Purse
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+Next‘Money Mule’ Scams Adopting Bitcoin ATMs For Transferring Hacked Funds01/10/2016
+PreviousMinexSystems Offers 4 Reasons to Join MineCoin ICO This Week01/10/2016
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

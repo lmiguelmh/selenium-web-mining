@@ -1,0 +1,15 @@
+Der für heute geplante Launch einer neuen Kryptowährung namens Zcash weckte schon im voraus grosses Interesse bei Investoren. Die Futures-Kontrakte bei der Hong Konger Trading Plattform Bitmex sind in einem Monat um 950 Prozent auf 0.892 Bitcoins oder etwa 613 Dollar gestiegen, meldet 'Bloomberg'.
+Gründe für die Begeisterung sind, dass hinter Zcash eine gleichnamige Startup-Firma und bereits Investoren stehen, die nicht bloss eine Währung verbreiten, sondern damit auch direkt verdienen wollen.
+ Zudem soll Zcash in jeder Hinsicht schneller sein und mehr Transaktionen verarbeiten, was auch die Liquidität erhöhe.
+ Der dritte Grund: Zcash verspricht Anonymität und basiert trotzdem auf dem öffentlichen
+ Das Unternehmen hat Technologie entwickelt, die es zwei Parteien erlauben soll, gegenseitig verifizierte Informationen auszutauschen, ohne im Prozess ihre Identität aufzudecken. Dies im Unterschied zu Bitcoin oder Ethereum.
+ Durch den Verkauf der Eigenentwicklung namens "zk-SNARK" an die Banken will das Unternehmen Zcash seinen Anteil verdienen, so der 'Economist'.
+ Hinter dem Startup stehen mehrere, in der Bitcoin-Community bekannte Investmentfirmen und Angel Investors. Der Code von Zcash ist als Open Source auf Github und schaffte laut dem Startup kürzlich zwei externe Security-Audits erfolgreich. (mag)
+Bern bewilligt 13 Millionen für IT vor Auftragsvergabe
+Generali baut IT um und verlagert IT-Jobs in die Deutschschweiz
+Colt hat eine neue Verkaufsleiterin Schweiz und Österreich
+Insurtech und Fintech: Die Grundlage für Insurance 2.0
+Vertriebsingenieur für Testlösungen für die Telekommunikation und IT (Datacom)
+Prominente Channel-Player, Vendors und Newcomer diskutieren an der ersten Schweizer Channel-Arena (26.1.2017 in Aarau). Diskutieren Sie mit.
+Alle reden von DevOps - hier sind die fünf grössten Denkfehler. Von DevOps-Spezialist und Ergon-Mitarbeiter Urs Breu.
+ICMF Fachtagung, 24.11.2016, Sihlpost, Zürich Digitalisierte Geschäftsprozesse miteinander verkoppeln? Gefragt sind IT- und Businessinnovationen.

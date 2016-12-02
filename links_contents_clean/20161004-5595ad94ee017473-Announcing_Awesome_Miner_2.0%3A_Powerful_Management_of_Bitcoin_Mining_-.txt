@@ -1,0 +1,14 @@
+Announcing Awesome Miner 2.0: Powerful Management of Bitcoin Mining - Press Release
+Vote Now for CoinDesk's Most Influential People in Blockchain
+Announcing Awesome Miner 2.0: Powerful Management of Bitcoin Mining
+IntelliBreeze Software AB has announced a new version of the popular Windows application Awesome Miner. Awesome Miner can manage and monitor mining of Bitcoin, Ethereum and other crypto currencies. A total of 5000 miners can be monitored from a single user interface.
+Version 2.0 improves management of larger mining operations and adds more options for integration with external applications. The new security features make management possible in multi-user environments and the new API and scripting features makes integration and further customization possible.
+“The mining business is competitive and there is an increasing demand for software capable of monitoring larger numbers of miners. It’s important to secure that all miners are performing as expected and all configuration of the mining operation must be efficient. Awesome Miner is intuitive to use and provides all the features required for these demanding mining operations.” said Patrik Engstrom, founder and CEO of IntelliBreeze Software AB.
+Awesome Miner provides coin statistics, desktop notifications, e-mail notifications and several monitoring features to detect non-working devices, devices with high temperature or miners that for any reason doesn't perform as they should. Miners, even if running on remote computers, can automatically be restarted when a problem is detected.
+Awesome Miner also features long term statistics and data export to Excel, SSH management, Antminer features including scheduled frequency changes and customizable monitoring and recovery rules.
+Awesome Miner is using the next generation of profit switching multi-algorithm pool mining. By using both real-time coin profitability statistics to switch between single-coin pools and also using real-time statistics from popular auto-switching multi-pools, Awesome Miner can automatically switch between mining a specific coin or mine on the currently most profitable auto-switching multi-pool.
+Awesome Miner has a built-in web frontend that can be accessed from any computer, tablet or smart phone. The web interface gives an overview of all miners, detailed information about selected miners and provides access to all mining operations.
+IntelliBreeze Software AB (former IntelliBreeze Software) is a Swedish software company founded in 2012.
+Please visit the web site for more information.
+The publication of a press release on this page should not be viewed as an endorsement by CoinDesk. Customers should do their own research before investing funds in any company.
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

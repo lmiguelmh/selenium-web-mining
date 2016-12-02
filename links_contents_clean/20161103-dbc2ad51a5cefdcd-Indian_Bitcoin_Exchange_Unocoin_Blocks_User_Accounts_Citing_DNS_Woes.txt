@@ -1,0 +1,23 @@
+Indian Bitcoin Exchange Unocoin Blocks User Accounts Citing DNS Woes - CryptoCoinsNews
+Indian Bitcoin Exchange Unocoin Blocks User Accounts Citing DNS Woes
+nocoin, an Indian bitcoin exchange that facilitates the country’s users to buy, sell and store bitcoins has blocked access to user accounts.
+The drastic move is a “temporary” measure, the bitcoin startup adds, noting that it is facing a “DNS resolution issue” since the early hours of November 3, Indian time.
+Please note that due to a DNS resolution issue that Unocoin.com is facing since 3rd November 2016 morning, the access to Unocoin.com accounts are temporarily restricted. We shall update you shortly once we resume to normal. Due to the same reason, the emails sent to support@unocoin.com or anything@unocoin.com may not reach us. Please do not login into your Unocoin during period as the website you may be accessing may not be that of real Unocoin.
+While the email did not address any scenario of wallet compromises, Unocoin pushed a public message via social media in a move to assure customers that their wallets are safe.
+https://t.co/ZSOq0OewFV is facing DNS resolution issue.Nothing to panic and all bitcoin are safe.Dont login into Unocoin till further notice
+Details of the security-based disruption resulting in customers’ access to their bitcoin wallets are currently limited and CCN has reached out to Unocoin for comment. While it’s merely speculation at this time, it is plausible that the incident could be the work of an external malicious actor looking to gain access to user accounts, which would explain Unocoin’s move to block all user accounts as a temporary measure. As the email alert states: “Please do not login into your Unocoin during period as the website you may be accessing may not be that of real Unocoin.”
+With today’s unfortunate security lapse, Unocoin is having particularly memorable year in 2016. Most notably, the bitcoin exchange recently announced a Pre-Series A funding round where a mix of domestic and foreign investors raised $1.5 million. The figure represents the highest amount raised for any bitcoin or digital currency venture in the country.
+This story will be updated when CCN hears from Unocoin. A representative for the exchange was unavailable at the time of publishing.
+Posted in: Bitcoin Exchange, News Tagged in: india, unocoin
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+NextHacked Bitcoin Exchange Bitfinex Swaps Over 20 Million Tokens For Equity03/11/2016
+PreviousBeta-Version Release of  MERCATOX and Announcement a Brand New Platform on the Market.03/11/2016
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

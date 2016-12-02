@@ -1,0 +1,47 @@
+Jumio adds facial recognition, enables Coinbase, releases mobile banking study | BiometricUpdate
+IDEX exhibiting its flexible fingerprint sensor embedded in a smartcard at TRUSTECH
+Survey from Accenture examines perception of video analytics and facial recognition
+Jumio adds facial recognition, enables Coinbase, releases mobile banking study
+Jumio has added biometric facial recognition capabilities to its digital ID verification technology, Netverify.
+As a result, Jumio’s Netverify now includes Face Match and ID verification, a three-pronged approach to the Know Your Customers (KYC) process on mobile devices by confirming an identity and the validity of the person presenting the ID.
+Netverify with biometric facial recognition enables companies to conduct ID verification combined with a complete identity verification.
+As a result, the solution is able to ensure the person is physically who they say they are and have possession of the documentation to prove it.
+Netverify will help to significantly lower both cases of fraud in various industries, including banking and finance, travel and online gaming.
+“Adding biometric facial recognition to Netverify was inspired by a need that impacts organizations across many industries, especially financial services with account opening and money transfers,” said Jumio CEO Stephen Stuut. “As evidenced by the millions of unauthorized accounts that were opened at Wells Fargo, it’s critical to look beyond existing multi-factor authentication solutions whenever any digital transaction takes place. The addition of biometric facial recognition, combined with ID verification, will not only help ensure that the individual in front of the screen is who they say they are.”
+Netverify’s biometric facial recognition also prevents fraudsters from using static images to “fake” their identity by completing a liveness check, which looks for even the slightest facial movement.
+In a separate release, Jumio announced that its Netverify solution now enables Coinbase to verify user ID cards/documents and then ensure the person with the ID matches the identity on the card before approving increased buy/sell limits within the marketplace.
+Coinbase provides customers a secure and seamless way for both investment managers and consumers to trade and exchange Bitcoin or Ethereum for traditional currency.
+The automated process can be used to verify an ID card/document in compliance with regulatory requirements throughout the company’s global business model, which supports 33 countries.
+Jumio Face Match technology allows users to capture a live webcam video of their face and compares it to a photo of their photo ID.
+Finally, Jumio released the results of a recent survey it conducted in which it asked more than 700 millennials about their mobile banking experiences.
+Although 92 percent of respondents said that they use their devices for mobile banking more than any other service — including shopping — the research also found several key technology gaps within current mobile banking options.
+The study found that 93 percent of respondents have abandoned a mobile banking transaction on at least one occasion due to a forgotten password, which further emphasizes the need for banking institutions to expand beyond password authentication to ensure customer engagement.
+“The digital transformation of banking and financial services creates enormous opportunity for both customers and businesses, but the insights from our research confirm a critical need to improve customer experience to meet the requirements of millennials,” said Jumio CEO Stephen Stuut. “The security and frictionless customer experience offered by digital ID verification make it an ideal tool to fill the existing gaps in the mobile banking experience.”
+The survey results also found that banks and financial institutions have significant issues to address when it comes to earning millennials’ trust.
+Millennials listed the most pressing issue to be the fear of their information being hacked as a result of their accessing accounts from a mobile device, which took precedence over concerns of fraud and secure information transmission.
+Other key findings from the survey include 80 percent of participants reporting that they have applied for a bank account via mobile devices at least once.
+In addition, 94 percent of respondents said that they want financial services providers to offer the ability to scan passports and drivers’ licenses in order to authenticate their identities
+Integrated Biometrics named one of South Carolina’s fastest growing companies
+Luxand updates facial recognition SDK, adds Android, iOS support
+Credence ID’s handheld biometric solution wins Frost & Sullivan award
+Biometrics in border security, fingerprint technology and mobile authentication top this week’s news
+Justin Lee has been a contributor with Biometric Update since 2014. Previously, he was a staff writer for web hosting magazine and website, theWHIR. For more than a decade, Justin has written for various publications on issues relating to technology, arts and culture, and entertainment. Follow him on Twitter @BiometricJustin.
+Jumio adds #facialrecognition, enables Coinbase, releases mobile #banking study https://t.co/nRobgRk8aD
+Jumio adds facial recognition, enables Coinbase, releases mobile banking study https://t.co/mRqVE8xoZo
+Jumio adds #facialrecognition, enables Coinbase, releases mobile #banking study https://t.co/xKVnKa2q5H
+Jumio adds facial recognition, enables Coinbase, releases mobile banking study https://t.co/7wYJJNgWwP
+vigisec: Jumio adds #facialrecognition, enables Coinbase, releases mobile #banking study https://t.co/bVktyobKmi
+Jumio adds facial recognition, enables Coinbase, releases mobile banking study – Biometric Update https://t.co/BPr5Cflp1d
+Jumio adds facial recognition, enables Coinbase, releases mobile banking study (Nov-2016) https://t.co/G4vG8TjFHs https://t.co/9NjHAPmaDI
+Jumio adds facial recognition, enables Coinbase, releases mobile banking study (Nov-2016) https://t.co/3AeyG4XGGE https://t.co/T4IypvSRax
+RT @BiometricUpdate: @jumio adds #facialrecognition, enables Coinbase, releases mobile #banking study https://t.co/huHRFMoDvf
+RT @BiometricUpdate: Jumio adds #facialrecognition, enables Coinbase, releases mobile #banking study https://t.co/lLd8WyeE14
+Find and review biometric solutions and service providers. Add your company listing for free!
+Single lens extended depth-of-field technology makes iris authentication more practical and convenient
+Learn about the latest innovations and advancements in biometrics.
+An international exhibition for defense and police forces.
+Trends and opportunities of biometrics in the financial market
+ACCESS CONTROL AUTHENTICATION BANKING BIOMETRIC AUTHENTICATION BIOMETRIC DATABASE BIOMETRICS FACIAL RECOGNITION FINGERPRINT FINGERPRINT AUTHENTICATION FINGERPRINTS GOVERNMENT IDENTIFICATION IDENTITY MANAGEMENT IDENTITY VERIFICATION IRIS RECOGNITION LAW ENFORCEMENT MOBILE PRIVACY SECURITY SMARTPHONES TRAPWIRE
+BIOMETRIC UPDATE | NEWS | SPECIAL REPORTS | BLOG | RESEARCH | EXPLAINERS | COMPANIES | SOLUTIONS | WHITEPAPERS
+About Us | Media Kit | Free Listings | Submit a Press Release | Submit an Article | Contact Us | Privacy Policy
+Copyright ©2016 Biometrics Research Group, Inc. All Rights Reserved.

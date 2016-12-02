@@ -1,0 +1,30 @@
+Blockchain.info CEO: “Attackers Gained Access to our Accounts” - CryptoCoinsNews
+Blockchain.info CEO: “Attackers Gained Access to our Accounts”
+The attack was on its registrar and not Blockchain.info, according to the bitcoin wallet company’s CEO.
+rominent bitcoin wallet provider Blockchain.info saw downtime yesterday, following a “highly sophisticated attack” targeting its DNS servers.
+It was the first notable instance of a sweeping DNS attack leading to a phishing trap in the bitcoin space, where attackers sought to gain credentials from Blockchain.info users.
+Management at the wallet provider shut down the entire platform for over seven hours, to determine and plug the exploit. In a blog post published following the attack, CEO & Co-founder Peter Smith has stated that the compromise occurred due to a “highly sophisticated attack” against the company’s registrar and not Blockchain itself.
+Smith revealed that the attacker changed Blockchain.info’s DNS servers at 5:42 AM EST. The company’s internal security systems caught on to the red flag and alerted staff who began to assess the attack, within minutes.
+The executive points to the “highly-restricted” settings for gaining control over Blockchain’s DNS servers, while adding that the company was able to access its administrative accounts with its DNS registrar to regain control.
+Unfortunately, it became clear the attacks gained access to our accounts through breaching the systems of our DNS registrar.
+It was at this point that the bitcoin wallet service decided to pull the plug completely to focus on determining the exploit, which saw users take to social media to speculate on the possibility of compromised wallets.
+After making offline high-level contact with our registrar, we quickly determined that our registrar’s systems were breached by a highly sophisticated attack against the registrar’s infrastructure and not Blockchain’s infrastructure. Our registrar was able to manually regain control and revert the DNS changes.
+A quick lookup reveals Blockchain.info’s registrar to be Washington-based registrar enom.
+While the fix was being implemented, the company discovered that the attacker used a self-signed SSL certificate, which saw users on everyday modern browsers spared exposure to the rogue phishing site that the hacker was redirecting traffic to.
+Eventually, the company was able to determine and located the owners of a compromised machine, used by the attackers, to shut it down. Notably, the quick response aided in quickly mitigating the attacker’s actions, with the phishing website only partially propagating on the internet.
+After a full check of our own systems and a complete propagation of the correct DNS servers, we brought our platform back online at 1:20 PM EST.
+To ensure avoidance of the exploit from its registrar, Blockchain.info has also implemented “additional manual, offline controls.”
+All in all, it will be chalked off as another unruly, unexpected day in the world of bitcoin. And the bitcoin ecosystem, still nascent, alive and finding more adoption by the day, will be the better after.
+Posted in: Bitcoin Security, Bitcoin Wallets, News Tagged in: Blockchain.info, cyberattack, DNS hack, Peter Smith
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+NextHow to Deposit Your Cryptocurrency at an Online Casino14/10/2016
+PreviousNew Report Calls for Regulators & Lawmakers to Improve Frameworks for Blockchain14/10/2016
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

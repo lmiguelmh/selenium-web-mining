@@ -1,0 +1,36 @@
+BTCC Previews New Mobile Bitcoin Wallet 'Mobi' - CoinDesk
+Vote Now for CoinDesk's Most Influential People in Blockchain
+Pete Rizzo (@pete_rizzo_) | Published on October 24, 2016 at 17:50 GMT
+Bobby Lee, CEO of BTCC, has high hopes for Mobi, the bitcoin exchange startup's new mobile app, released at Money2020 in Las Vegas today. In contrast to other hosted wallets, Lee argues that Mobi succeeds at a difficult balance of being both "bitcoin first" and accessible to a global consumer base.
+Rather than enable the wallet to hold US dollars, euros or renminbi, Mobi uses bitcoin to provide users with the experience of cash, enabling them to lock their value into an exchange rate that matches their preferred currency.
+"Circle is going a very regulated way, they're doing dollars euros and CNY. But for us, we want to be fighting from the bottom. We want to make a truly global payment platform."
+For example, when Lee sends £10 to his wallet, he's actually sending around 18,000 bits, the smallest denomination of bitcoin. Also noteworthy is that if he were to send the money to someone else, all he'd have to do is enter their phone number.
+This feature, Lee suggests, is perhaps the key attribute of Mobi, which he said would remove the friction sometimes inherent in onboarding new bitcoin users.
+"There's no email, no password, no usernames, no two-factor authentication. If you own the phone number, you own the coins for that wallet," Lee continued.
+Onstage, Lee further argued that users will simply become accustomed to treating the "dollars" and "yuan" in their Mobi accounts as real value given the effectiveness of its hedging system.
+Over time, Lee told the audience that by using bitcoin as a payments rail, BTCC will be able to better penetrate a global market than other wallets attempting to straddle both the bitcoin and fiat worlds.
+"Telescope, Telegram, Skype, these are all global communication platforms. There’s no truly global platform for money," he continued.
+The wallet is now available in public beta.
+Disclosure: CoinDesk is a subsidiary of Digital Currency Group, which has an ownership stake in BTCC.
+IBM Blockchain Pilot Seeks to Solve 'Last Mile' of Delivery
+Subscribe to our free newsletter and follow us
+Nov 1, 2016 at 11:02 | Pete Rizzo
+BTCC Takes Aim at Bitfinex With US Dollar Bitcoin Trading
+BTCC announced today that it will be adding US dollar (USD) to its existing bitcoin exchange service.
+Sep 17, 2016 at 17:08 | Ben Chan
+Ethereum was built using different consensus rules than bitcoin, so wallets also need to function in an alternative way. But what are the options?
+Sep 16, 2016 at 17:40 | Alyssa Hertig
+The descendant of Satoshi's original bitcoin wallet is still available today, and continuing to see upgrades.
+Jun 26, 2016 at 15:18 | Richard Svinkin
+Freemit co-founder and COO Richard Svinkin argues that the bitcoin industry's attempts to revamp the user experience have so far been misguided.
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.

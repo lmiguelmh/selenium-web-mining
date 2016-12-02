@@ -1,0 +1,73 @@
+Appcoin Law: ICOs the Right Way - CoinDesk
+Vote Now for CoinDesk's Most Influential People in Blockchain
+Marco Santori | Published on October 15, 2016 at 16:04 GMT
+Marco Santori is a FinTech lawyer based in New York City where he leads the blockchain tech team at Cooley LLP.
+In this multi-part series, Santori presents a follow-up to his seminal Bitcoin Law, Parts 1, 2 and 3, providing a basic primer on the state of US law as it applies to appcoins and ICOs.
+I'm pro-appcoin. There, I said it. Haters take note. Other lawyers take note.
+I think appcoin sales (often called "initial coin offerings" or ICOs) are a new form of crowdfunding and some can have as much legal merit as a Kickstarter or Indiegogo campaign. On the other hand, when executed inelegantly, some can break the law. One of my goals in this definitive three-part series on appcoin law is to help you tell the difference, and share my experience in how to ICO the "right" way.
+To set the stage, many decentralized products incorporate the use of a cryptographic token. Some examples are ethereum (ether), augur (rep) and steem (STEEM). These tokens, known colloquially as "appcoins" are, by and large, fungible and tradeable without significant fees or intermediaries, and are required for the full use of the product. As a result, they have value.
+So why not just sell them to fund the development of the product?
+Well, sometimes, you can. But sometimes, you really, really can't, at least not legally in the US. That’s because some appcoins can be securities under US law.
+It's illegal in the US to market or sell most securities to the public unless the securities are registered with the Securities and Exchange Commission (SEC). Registering securities with SEC is expensive and time-consuming. Young companies have historically tried to avoid it by (i) selling securities only to a subset of the general public called "accredited investors", or (ii) selling something other than a security, using tools like Kickstarter or Indiegogo.
+In the US, just about anything can be a security. They might be club memberships, loans, profit sharing plans, lots of land, even leases of small, furry animals (in a few weird cases). People come up with new and ambitious ways to raise money all the time – and classifying them can be tricky.
+You may have heard of the legal test that determines whether something is a security: the "Howey Test". It was first articulated by the Supreme Court in a case where a company named Howey tried – and failed – to raise money creatively and avoid the securities laws by selling orange grove plots instead of shares.
+Howey is useful because it was an early case in a string of many cases that helped lawyers determine what is and is not a particular kind of security – specifically, an "investment contract". That said, basing your analysis on Howey is a bush league move.
+Howey is really only the beginning. There have been many, many cases adding color to Howey over the last 70 years (yes, Howey is that old). Each case applies the Howey test to a new set of facts.
+Generally, the test demands that an offering satisfy each of three requirements to be considered a security: (i) that there is an investment of money; (i) that the investment is in a common enterprise; and (iii) that buyers expect to profit from the efforts of others.
+Each case applied a new set of facts to these three prongs. I’ll do the same here with appcoins.
+First, to be a security, there must be “an investment of money” by the buyer. With all of the recent debate around whether crypto is "money", you’d think there would be an opportunity here to sell appcoins for something that wasn’t considered money. Maybe ether. Maybe steem.
+In fact, the law has progressed to a point where money isn’t strictly required anymore. Today, the test is not whether there was "money" at stake, but whether there was a potential for economic loss for the buyer. As you might imagine, that can come about in a lot of ways.
+One way to avoid taking an investment of money is not asking the public to pay anything of value at all.
+Instead, an offeror might enable the public to mine appcoins on the network instead. While it may be possible for an aggressive plaintiff's lawyer to prove that a buyer experienced economic loss if the appcoin became worthless, it's a difficult argument to carry. To date, nobody has made it successfully.
+Must developers distribute appcoins via mining? Absolutely not. This is just one way to avoid one prong of the test. A developer only needs to avoid one, and can do that in a lot of different ways.
+To be a security, the investment of money we discussed must be “in a common enterprise.”
+Some courts require this commonality to be “horizontal”, meaning that the buyers’ funds are pooled together such that the fortunes of all buyers rise and fall together. Alternatively, some courts require commonality to be “vertical”, meaning that the fortunes of both buyers and sellers all rise and fall together.
+Vertical commonality is present in an appcoin project only where the value of the appcoin rises and falls with the financial success of the seller. When the seller is the only party developing the software, and that seller is trying to make a profit from an ongoing business that uses the appcoin, this is easier to satisfy.
+When the seller (i) is an organization that does not seek to make a profit and (ii) specifically plans to spend all of the money raised during the appcoin sale on development, then liquidate the entity, the vertical commonality prong is difficult to satisfy. That is to say, the seller purposefully and expectedly becomes insolvent over time, but the value of the appcoin increases during the same time period.
+Other commentators have suggested that “pre-mining” an appcoin prior to a sale equals commonality. This isn’t the case. Vertical commonality tests not whether the seller is seeking to sell its appcoins to make a profit, nor whether the value of the seller’s appcoins rise in value with that of the buyers’. It is whether the financial success of the seller’s enterprise itself rises and falls with the value of the appcoins.
+If the only purpose of the seller’s existence is to hold its own appcoins for the long term, then I confess this might be a distinction without a difference. But we have rarely seen this in the wild. Whether the developer’s enterprise has possession of some appcoins of its own is only tangentially relevant to the analysis.
+Frustratingly, horizontal commonality is almost always present in appcoins. Most appcoins are fungible, so their values rise and fall together. In some states’ courts, this prong will always be satisfied.
+Again, is it fatal to the project if the commonality prong is satisfied?
+No. Remember, a seller need only avoid one prong. If not this commonality prong, maybe the next?
+In addition to investing money in a common enterprise, the buyer must have “an expectation of profit solely from the efforts of others”. There are three major issues to consider here.
+First, the expectation of profits must be of profit made from the efforts of the seller or some other related third party. Other commentators make the mistake of breaking this prong into two issues: “expectation of profits” and “from the efforts of others.” This makes it seem like the mere expectation of profit from a secondary market (to which almost all appcoin buyers have access) is enough to satisfy this prong.
+It isn’t. The cases interpreting Howey make clear that the existence of a secondary market is insufficient. The “efforts of others” have so far needed to be the seller or others related to the seller. For example, if the appcoin seller itself creates the secondary market by guaranteeing repurchase, or acting as a de facto market maker in a third party market or otherwise, then this prong is likely satisfied. Otherwise, the mere expectation of profit from an unrelated source is immaterial.
+Second, the expectation of profit need not be the sole motivating factor for purchasers, but it must be the predominant one. For example, corporate shares are usually securities, but not if they’re shares in, say, a cooperative apartment building. Cooperative residents buy shares predominantly to live in their apartments, even though they hope to sell the shares later at a profit. Accordingly, if purchasers are mostly buying an appcoin so that they can actually use it for the network, we are in a much better position than if the purchasers are primarily motivated by speculation.
+Third, the expectation of profit need not be “solely” from the efforts of others anymore. Instead, it need only be predominantly from the efforts of others. The mere fact that our product might require mining by the public is probably insufficient to avoid this prong. The mere fact that our product might require a decentralized web of nodes maintained by the public is probably insufficient too.
+Even the fact, taken alone, that the price of the coin will not increase unless others contribute to the open-source codebase is probably insufficient. But, taken together, these all could be enough to avoid this last prong of the Howey Test.
+So, given the above, what are some best practices for ICOs?
+Consumptive use: Appcoin developers should consider building tokens with true consumptive value. An appcoin has consumptive value because it can be consumed and put to real use with a decentralized product. This addresses the “expectation of profit” prong.
+Developers should avoid merely “bolted-on” coins that aren’t technically required to achieve the purpose of the product. The more purchasers that buy an appcoin for speculative, non-consumptive use, the more likely it will be a security. Also, if you describe an appcoin in a website, advertisement, FAQ or otherwise, then pitching the coin’s future value instead of its usefulness is bad practice.
+Decentralized development and operation: Appcoin developers should consider building products communally, which run communally or in a decentralized fashion.
+The more unaffiliated developers contributing to the development and operation of the product, the less likely any profit from the product is to be considered “from the efforts of others” – and the less likely vertical commonality will be present.
+MVP built prior to sale: Appcoin developers should consider waiting to sell their coin.
+How many times have you heard: “Our development team might write all the code now, but we’ll open-source it one day and decentralize the network!” Or maybe: “It might be just a white paper at this point, but you’ll be able to use the appcoins as soon as six months after the ICO!”
+The trouble with this approach is that it might concede there is currently no consumptive use to the appcoin. It might concede that any expectation of profit currently rides entirely on the efforts of the seller. Indeed, it might concede that these defenses are really just speculative. Avoid this approach.
+Developer kits: Appcoin developers should consider selling a complete software developer kit (SDK). Selling just a coin misses an opportunity to point at real, tangible evidence that the thing you are selling is ill-suited for speculators and investors. Consider selling an SDK together with the cryptographic tokens that make it work.
+Even better, consider selling the appropriate hardware right along with it, if your project can incorporate it. You might think this is window dressing, but remember, the consumptive use of your appcoin need not be the only use. A buyer’s speculative intent is okay, so long as the seller can point to compelling evidence of predominantly consumptive intent. As a lawyer, I would rather have that evidence than not.
+In the second part of this series, I’ll move beyond securities law, discussing the money transmitter and derivatives law implications of some appcoin arrangements. Unless, of course, I receive more questions about the securities aspects.
+Feel free to reach out, and stay tuned!
+Disclaimer: The views expressed in this article are those of the author and do not necessarily represent the views of, and should not be attributed to, CoinDesk.
+Mercuria Chief: Blockchain Could Cut Oil Market Costs By 30%
+Subscribe to our free newsletter and follow us
+Nov 20, 2016 at 15:05 | Brian Zimbler, Dmitry Dmitriev and Andrey Ignatenko
+Blockchain Interest is Rising in Russia (Despite Legal Concerns)
+Moscow-based legal experts examine the thaw in attitudes towards blockchain and bitcoin in Russia.
+Nov 18, 2016 at 18:55 | Stan Higgins
+The IRS is Seeking Data on Coinbase's Bitcoin Customers
+The IRS is seeking user records from Coinbase as part of a taxpayer investigation.
+Nov 15, 2016 at 12:01 | Ira Schaefer & Ted Mlynar
+How easy would it be to patent a blockchain invention in the face of complex and arcane legal processes?
+Nov 4, 2016 at 12:14 | Travis Scher
+A bitcoin and blockchain investor offers a warning about the recent increase of ICOs and appcoins.
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.

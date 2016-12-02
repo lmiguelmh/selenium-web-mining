@@ -1,0 +1,48 @@
+City banks plan to hoard bitcoins to help them pay cyber ransoms | Technology | The Guardian
+City banks plan to hoard bitcoins to help them pay cyber ransoms
+Experts say blue chip companies have decided it’s cheaper to deal with extortionists than risk damaging attacks
+Criminal gangs are said to prefer payment in bitcoins because the virtual currency cannot be traced. Photograph: George Frey/Getty Images
+Several of London’s largest banks are looking to stockpile bitcoins in order to pay off cyber criminals who threaten to bring down their critical IT systems.
+The virtual currency, which is highly prized by criminal networks because it is difficult to trace, is being acquired by blue chip companies in order to pay ransoms, according to a leading IT expert.
+On Friday, hackers attacked the websites of a number of leading online companies including Twitter, Spotify and Reddit. They used a special code to harness the power of hundreds of thousands of internet-connected home devices, such as CCTV cameras and printers, to launch “distributed denial of service” (DDoS) attacks through a US company called Dyn, which provides directory services to online companies. DDoS attacks involve inundating computer servers with so much data traffic that they cannot cope.
+There is no evidence that Dyn was the subject of extortion demands but it has become apparent that hackers have been using the code to threaten other businesses into paying them with bitcoins or risk becoming the target of similar attacks.
+Twitter was among a those giant internet companies targeted by last week’s attack in the United States Photograph: Kacper Pempel/Reuters
+Dr Simon Moores, a former technology ambassador for the UK government and chair of the annual international e-Crime Congress, the global body that brings together IT professionals, said the scale and ferocity of the attacks meant some banks were coming round to the view that it was cheaper to pay off the criminals than risk an attack.
+“The police will concede that they don’t have the resources available to deal with this because of the significant growth in the number of attacks,” Moores said. “From a purely pragmatic perspective, financial institutions are now exploring the need to maintain stocks of bitcoin in the unfortunate event that they themselves become the target of a high-intensity attack, when law enforcement perhaps might not be able to assist them at the speed with which they need to put themselves back in business.”
+Moores declined to identify the banks buying up bitcoins but it is understood senior police officers have been made aware of the practice. The cost to businesses of an attack can far outweigh paying off the blackmailers: telecoms provider TalkTalk lost 101,000 customers and suffered costs of £60m as a result of a cyber attack last year.
+“Big companies are now starting to worry that an attack is no longer an information security issue, it’s a board and shareholder and customer confidence issue,” Moores said. “What we are seeing is the weaponisation of these [hacking] tools. It becomes a much broader issue than businesses ever anticipated.”
+We've got to come to grips with this. Everybody's over-exposed
+In recent months, DDoS attacks have led to around 600 gigabits of data a second being directed at targets – more than enough, according to experts, to bring most websites down.
+Moores predicted that the situation was becoming critical. “Once it goes above a terabit, that wipes out any protection. No current protection systems can deal with that sort of flood.”
+In September the website KrebsOnSecurity.com was the target of what it describes as “an extremely large and unusual distributed denial-of-service (DDoS) attack designed to knock the site offline”. Initial reports put it at approximately 665 gigabits of traffic a second, far more than is typically needed to knock most sites offline.
+Some experts believe the attacks were launched in response to articles that Krebs had published about the DDoS-for-hire service vDOS, which coincided with the arrests of two young men identified as its founders.
+The attack on Krebs was launched by a large botnet, a collection of enslaved computers – in this case, hundreds of thousands of hacked devices that constitute the internet of things (IoT), notably routers, IP cameras and digital video recorders. These devices are the internet’s achilles heel. Unlike personal computers or smartphones, they are often not password protected, relying on factory settings. Because of this they make soft targets for botnets scanning the internet for IoT systems that can be easily compromised.
+The Krebs attack might have gone largely unnoticed outside of internet security circles if someone using the name Anna-senpai had not then chosen to release the source code that powered the botnet on to a hackers’ forum.
+“When I first go in DDoS industry, I wasn’t planning on staying in it long,” Anna-senpai said on the Hack Forums site. “I made my money, there’s lots of eyes looking at IoT now, so it’s time to GTFO.”
+Within hours of Anna-senpai’s decision to release the botnet into the wild, it was creating havoc as others started to employ the code to enslave more devices. Soon an army of zombified devices was mobilising against Dyn.
+By targeting Dyn, it appears that hackers were able temporarily to disrupt a raft of sites. Others that reported problems included Mashable, CNN, the New York Times, the Wall Street Journal and Yelp.
+Amazon’s web services division reported issues in western Europe. In the UK, Twitter and several news sites could not be accessed by some users.
+Anna-senpai’s identity and motivation for releasing the code remains a mystery. Some believe state agents were involved. China, Russia and North Korea have all been mentioned in IT circles.
+“While this particular attack [on Dyn] may not have been motivated by extortion, a new model of ransom-based attacks could be on the horizon, motivated to pay off threats for fear of infrastructure-wide customer outages,” said Thomas Pore, director of IT at Plixer, a malware incident response company. “An infrastructure outage, such as DNS [denial of service], against a service provider impacting both the provider and customers may prompt a quick ransom payoff to avoid unwanted customer attrition or larger financial impact.”
+The headquarters in New Hampshire of US internet service company Dyn, which was targeted by hackers Photograph: Jim Cole/AP
+The problem facing businesses battling the hackers is becoming one of scale. The devices the hackers can recruit to launch their attacks is growing exponentially.
+It is estimated that there are anywhere between 7bn and 19bn devices connected to the IoT at the moment. Conservative predictions suggest that this figure will balloon to between 30bn and 50bn within five years.
+At some point, Moores believes that the dam will burst as the rollout of connected smart devices will allow for the harnessing of devastating computer power that can no longer be repelled by existing IT security systems.
+He draws an analogy with financial crises, predicting that a “Lehman Brothers moment” is on the cards.
+“We’ve got to come to grips with this,” Moores said. “Everybody’s overexposed.”
+“Mafiaboy”, a 15-year-old Canadian called Michael Calce, launches the first big distributed denial-of-service attack (DDoS), crippling popular websites. His Project Rivolta takes down Yahoo, the number one search engine at the time, and many leading tech companies.
+Hacking collective Anonymous targets the Church of Scientology in an operation called Project Chanology that briefly knocks Scientology.org offline.
+A cyber-attack by anti-Israel groups on the eve of Holocaust Remembrance Day fails in its attempt to erase all mentions of Israel from the internet.
+Spamhaus, a filtering service to weed out spam emails, is subjected to a DDoS attack after adding a web hosting company called Cyberbunker to its blacklisted sites. Cyberbunker and other hosting companies hire hackers to shut down Spamhaus using botnets. At its peak the attack was being conducted at a rate of 330 gigabits a second, around five times the average DDoS attack.
+A group called New World Hacking attacks the BBC’s website at a rate of 602 gigabits a second, almost twice the size of the previous record of 334 gigabits a second.
+25 Names Nobody Wants to Name Their Kid Anymore
+8 Things That Gross Women Out In Bed
+Welcome to the Jungle: Kevin Hart and The Rock Keep…
+Madre Borra 20 Años de Arrugas Siguiendo Este…
+Más de un millón de personas usan esta App para aprender…
+Sign in or create your Guardian account to join the discussion.
+Or funding Criminals (the Hackers) without disclosing they've been hacked ?
+Why not do as the US and UK governments do, take them on board and pay them to protect their systems. Makes far more sense. Everyone has a price. As sad as that is.
+I'm not sure giving thousands of hackers access to your banks security systems is a particularly good idea...
+Why can't governments hack bitcoin to demand like for like payments, since it seems to be the world's money launderer.
+© 2016 Guardian News and Media Limited or its affiliated companies. All rights reserved.

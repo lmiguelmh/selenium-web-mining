@@ -1,0 +1,24 @@
+Bitcoin Network’s Hashrate Gets a Boost with Updated BitFury 16nm Chip - CryptoCoinsNews
+Bitcoin Network’s Hashrate Gets a Boost with Updated BitFury 16nm Chip
+eteran ASIC chip producer BitFury announced yesterday via Twitter that they are “finally” coming to market with a 16-nanometer chip which will be, reportedly, the fastest chip on record.
+According to their own website, the chip will produce up to 180 gigahashes per second, per chip. The news mainly affects ASIC miner producers, since small-scale, consumer-facing sales are not the purview of BitFury. Effectively, this would mean a 1 terrahash rig would only require 6 chips total, massively decreasing the size of future mining hardware.
+For some perspective, one of the earliest 1 TH/s rigs to market, which used Bitmine’s CoinCraft A1 chips (around 25-26 gigahashes per second each), weighed around 33 pounds and required a great deal of power. In the same way that modern cell phones have more computing power than it took to control NASA’s 1969 Apollo 11 moon landing, the next generation of ASIC Bitcoin miners will require far less space to produce security and profitability equivalent to the state-of-the-art from just a couple of years ago.
+ASIC miner designers will most likely opt for more power per unit, however. The machines can retail in the tens of thousands of dollars when completed, and enjoy a continually high value due to the limited scope of their market. Bitcoin mining outfits will be scrambling to replace their old units when the new ones do hit the market. No commercial rigs have yet been announced which are running the hardware, but it is likely new partnerships will come out of the advancement.
+Dedicated ASIC Bitcoin mining hardware does not only impact the Bitcoin network, but other networks which are frequently merge-mined with Bitcoin, including Namecoin, which still offers a promising future for decentralized DNS.
+Companies like 21, Inc, which produces the “Bitcoin computer,” could make use of chips like BitFury’s. Even regular, commercial computer manufacturers could find space for these chips, enabling large networks of individually low-hashpower miners to, together, add security to the blockchain and produce miniscule profits on an individual basis. The overall electricity investment dramatically drops with the 16nm chip. According to BitFury:
+The BitFury 16nm ASIC offers efficiency of up to 0.06J/GH which is up to 4 times more effective than anything available on the market today.
+BitFury’s George Kikvadze said on Twitter that his company aims to acquire 30% of the total mining network, whereas BitFury’s mining pool currently provides about half that. He stressed that the company aims to improve decentralization of hashpower, saying:
+target is 30 prc [percent] but vast majority of chips will be sold to 3rd parties .. to keep the netwrok [sic] decentralized !
+Other companies, including KnCMiner, have previously announced chips of this size, but not of this capability. In general, the Bitcoin network is likely to see massive increases in hashpower and, consequently, difficulty of mining per block, in the coming months. BitFury notes that the increased efficiency of the chips make mining that much more profitable in light of the halving of the Bitcoin reward.
+The company has posted the following series of videos introducing the new hardware.
+Posted in: Bitcoin Mining, News Tagged in: 16nm, 180 gh/s, BitFury
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

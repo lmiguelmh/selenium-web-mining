@@ -1,0 +1,48 @@
+Fintech: Over 8 million Bitcoin wallets left inaccessible as Blockchain.info hit with DNS hijack
+Over 8 million Bitcoin wallets left inaccessible as Blockchain.info hit with DNS hijack
+Blockchain.info powers up to 100,000 Bitcoin transactions every day.
+Blockchain.info hosts the the "world's most popular" Bitcoin walletiStock
+Blockchain.info, one of the most popular online Bitcoin wallet services in the world, was forced to take its service offline this week (12 October) after suffering a DNS hijack that left its 8 million-strong userbase vulnerable to cyberattack.
+The digital currency service claims to power up to 100,000 Bitcoin transactions in a single day, so it was of little surprise that reports of the DNS attack quickly spread to messageboard websites such as Reddit and social media platforms.
+The case for more permissive relicensing of Ethereum
+BitShares Munich chief fixes cryptocurrency volatility with smart contracts
+Upon analysis, Blockchain.info administrators found the website's Domain Name Resolution (DNS) information had been altered to re-direct anyone visiting the website to a potentially-malicious website URL, a cheap hosting provider located in the US.
+After finding the security flaw, the team was forced to take down the site. Notifying concerned users on Reddit, the team wrote: "Our DNS provider was targeted. It's going to be several hours before our services are fully restored. The CloudFlare DNS is propagating now."
+During the attack, users were left particularly at risk of bitcoin theft or malware infections. DNS attacks can typically consist of an attacker redirecting unsuspecting users to a malicious web page to steal personal details or financial information.
+Luckily for users, the correct domain was re-established less than 24 hours after discovery of the incident. In a statement, the team said: "Earlier today, we discovered our DNS registrar had been compromised. We took immediate action to resolve the issue."
+It continued: "To be abundantly cautious, we're waiting for the DNS to propagate universally across the web before bringing our services back. Once DNS has propagated, we expect to restore services ASAP. Our sincerest apologies for any inconvenience."
+In a blog post, Artsiom Holub, a security researcher at OpenDNS, wrote that hijacking attacks of this nature are an increasingly popular and "effective" technique now used by cybercriminals.
+'Treat your bitcoin wallet as your real one'
+"Bitcoins and blockchain technology might replace traditional banking, but first it is the community who have to solve a lot of security problems," he said. "Bitcoin wallets and companies are being targeted by criminals more and more as they face easier schemes to launder stolen funds.
+"Traditional banks have controls to detect and prevent laundering schemes but in the crypto currency world we face bitcoin mixers that make the tracking of stolen funds a complicated challenge.
+"In this case no damage or hack was done to the servers of the targeted companies, but attackers were able to change DNS records to redirect users to a totally different set of machines. Controlling a domain name allows attackers to potentially gather credentials of the wallets. So treat your bitcoin wallet as your real one, and be aware of the ongoing malicious campaigns."
+At the time of writing, the Blockchain.info website has regained functionality. "All services have been restored and are running normally," the team wrote on Twitter. "We apologise for the long wait, and we'll continue to monitor things closely."
+At approximately 5:42 AM EST, the attacker changed Blockchain.info's DNS servers. Within minutes, our internal systems alerted our infrastructure team who immediately began to assess the attack.
+Control over our DNS servers is highly restricted and goes beyond industry standard protections against configuration changes. We were able to access our administrative accounts with our registrar and regain control. Unfortunately, it became clear the attackers gained access to our accounts through breaching the systems of our DNS registrar.
+In an abundance of caution, we shut down our entire platform until we investigated the full extent of the attack. After making offline high-level contact with our registrar, we quickly determined that our registrar's systems were breached by a highly sophisticated attack against the registrar's infrastructure and not Blockchain's infrastructure. Our registrar was able to manually regain control and revert the DNS changes.
+While we waited for the fix to propagate across the internet, we investigated the malicious site to which the attacker had redirected traffic. We determined that due to the attacker using a self-signed SSL certificate, users using modern browsers – which the wallet requires – were prevented from being exposed to the phishing site. Due to the quick response of our team, the attacker's DNS changes were allowed only to propagate partially across the Internet. We were also able to locate the owners of the compromised machine being used by the attackers and have it shut down.
+After a full check of our own systems and a complete propagation of the correct DNS servers, we brought our platform back online at 1:20 PM EST. To mitigate the attack vector at our registrar, we have implemented additional manual, offline controls.
+Ultimately, any disruption in service is something we take seriously and we extend our sincere apologies. While we sometimes remain offline for longer than necessary, we do so out of an abundance of caution while we check to ensure all systems are fully protected and functional.
+Stay up to date with our daily newsletter
+Crewe Alexandra and Penn State: Why were paedophiles allowed to prey on the young?
+IBT Media to host AI and Data Science in Capital Markets event
+AI and Data Science in Capital Markets event takes place on 1 and 2...
+WikiLeaks releases 500 files allegedly showing US 'arming and funding' Yemeni forces
+WikiLeakes founder Juilan Assange says US government provided most of...
+Best Black Friday iPhone 7 and Galaxy S7 smartphone deals from Mobile Phones Direct
+Looking for an upgrade? Here are the Black Friday offers from Mobile...
+Samsung who? Huawei is now the world's most profitable Android smartphone brand
+Huawei's smartphone profits helped it secure 2.4% of total global...
+Petition demands Reddit CEO resign for editing Trump supporters' comments
+The digital call-to-arms has been signed by thousands of people in 24...
+Black Friday 2016: Best PS4 Slim & PS4 Pro deals from Amazon, Game, ShopTo, Argos and more
+The best deals for Sony's latest PlayStation 4 consoles.
+Xiaomi Mi 5c with octa-core Pinecone processor rumoured to be launched on 30 November
+Xiaomi's handset is expected to compete with Meizu's upcoming Charm...
+John McAfee: Our cyber defence is perilously inferior to weaponised attack software
+If you believe the government that we have effective cyber security...
+Black Friday 2016: Best Amazon Echo and Echo Dot deals from Argos, John Lewis, Currys and more
+Bring Alexa AI home for Christmas this year with these bargain Black...
+European Commission confirms 'large-scale' cyberattack disrupted internet for hours
+EU legislative body maintains that no data was stolen in the incident.
+© Copyright 2016 IBTimes Co., Ltd. All Rights Reserved.

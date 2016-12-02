@@ -1,0 +1,29 @@
+IRS Demands Identities of All US Coinbase Traders Over Three Year Period | Motherboard
+IRS Demands Identities of All US Coinbase Traders Over Three Year Period
+In bitcoin-related investigations, authorities will often follow the digital trail of an illegal transaction or suspicious user back to a specific account at a bitcoin trading company. From here, investigators will likely subpoena the company for records about that particular user, so they can then properly identify the person suspected of a crime.
+The Internal Revenue Service, however, has taken a different approach. Instead of asking for data relating to specific individuals suspected of a crime, it has demanded bitcoin trading site Coinbase to provide the identities of all of the firm's US customers who made transactions over a three year period, because there is a chance they are avoiding paying taxes on their bitcoin reserves. Coinbase has a total of millions of customers.
+According to court filings, which were first flagged by financial blogger Zerohedge on Twitter, the IRS has launched an investigation to determine the correct amount of tax that those who use virtual currencies such as bitcoin are obligated to pay. But according to the documents, the IRS is asking for the identities of any US Coinbase customer who transferred crypto-currency with the service between 2013 and 2015. (Although the site does allow the trade of alternative virtual currency Ethereum, it was not introduced until 2016, so it is outside the scope of this IRS request.)
+A section from the memorandum, laying out what data the IRS is demanding, and its justification for its release.
+“The John Does whose identities are sought by the summons are United States persons who, at any time during the period January 1, 2013, through December 31, 2015, conducted transactions in a convertible virtual currency,” reads a memorandum written by Department of Justice attorneys and filed on Thursday, November 17.
+When signing up to Coinbase, users are sometimes required to provide identification documents.
+“There is a reasonable basis for believing these US taxpayers failed to comply with internal revenue laws,” the document continues, pointing to several cases in which individuals did hide taxable income in virtual currencies.
+In 2014, the IRS stated that virtual currencies which can be converted into fiat currency are property for tax purposes. This means, among other things, that wages paid to employees using bitcoin are taxable to the employee, and are subject to federal income tax.
+However, the documents acknowledge that not all Coinbase customers may have broken any internal revenue laws.
+“The taxpayers being investigated have not been or may not be complying with US internal revenue laws requiring the reporting of taxable income from virtual-currency transactions,” a document reads.
+The IRS further justifies its request by claiming it is targeted toward a specific group of people; namely, US taxpayers who have conducted transactions with virtual currency.
+Coinbase has some 4.8 million users and 10.6 million wallets, according to the site's own figures. The court documents note that, as of December 2015, “Coinbase was the fourth largest exchanger globally of bitcoin into U.S. dollars and the largest exchanger in the U.S. of bitcoin into U.S. dollars.”
+Posting from a verified Reddit account, a Coinbase representative said: “We take user privacy very seriously and will work to protect the privacy of our users in broad information requests. We are taking a very careful look at this petition and the scope of the government's authority as it relates to this request.”
+After the publication of this article, a Coinbase spokesperson added that, "Although Coinbase's general practice is to cooperate with law enforcement, we are very concerned with the indiscriminate breadth of the government's request."
+The IRS acknowledged, but did not immediately respond, to a request for comment.
+This story has been updated to reflect that it's closer to a three year period than two year period (from January 2013 until December 2015), and that the demand only concerns US users.
+You can reach us at letters@motherboard.tv. Letters may be published. Want to see other people talking about Motherboard? Check out our letters to the editor.
+Bitcoin’s Former Chief Developer Regrets Playing the ‘Who Was Satoshi’ Game
+Colorado Hemp Farmers Are Turning to Bitcoin for Their Banking Woes
+Bitcoin Company Says At Least $20K Stolen In App Store Scam
+The Ethereum Hard Fork Spawned a Shaky Rebellion
+The IRS Vastly Underestimated How Many Tax Forms Hackers Accessed
+After 20 Minutes of Listening, New Adobe Tool Can Make You Say Anything
+Vancouver Considers Abandoning Parts of the Coast Because of Climate Change
+How We Plan to Cover the Environment In a Trump Presidency
+The Canadian Military Is Investigating a Mysterious Noise In the Arctic
+Why Some Apple Fans Are Considering a Hackintosh

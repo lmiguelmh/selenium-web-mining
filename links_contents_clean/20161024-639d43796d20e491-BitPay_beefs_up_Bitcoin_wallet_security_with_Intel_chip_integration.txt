@@ -1,0 +1,13 @@
+BitPay beefs up Bitcoin wallet security with Intel chip integration | VentureBeat | Commerce | by Dylan Tweney
+BitPay beefs up Bitcoin wallet security with Intel chip integration
+TAGS: BITCOIN, BITPAY, BLOCKCHAIN, INTEL, MONEY 2020, TOP-STORIES
+BitPay, which bills itself as the largest processor of Bitcoin in the world, has linked up with Intel to help ensure the security of its digital wallet.
+Copay, the open-source Bitcoin wallet created by BitPay, now integrates with the Software Guard Extensions built into Intel’s seventh-generation Core processors. BitPay announced the news earlier today at Money 20/20, a financial technology conference.
+The partnership addresses a concern many users may have about Bitcoin: the ease with which it can be stolen. Like cash money, Bitcoin is a transferable asset, meaning whoever is holding the asset owns it. That means it can be stolen — a fact that hackers have amply demonstrated with thefts from Mt. Gox and even from individuals’ wallets.
+Implementing strong security in the software that stores and processes Bitcoin is essential to preventing Bitcoin data (and with it, Bitcoin value) from being stolen. Intel’s technology helps ensure that security by executing sensitive operations in a protected space, so sensitive data — like a user’s private key — is not exposed to code that might be compromised if, for instance, malware of some kind has infected your computer.
+“The Intel processing chip is isolated from the rest of the machine in a secure execution environment, so neither compromised software nor a compromised PC can expose a Bitcoin user’s funds or private keys to risk from attackers,” explained BitPay marketing and communications manager James Walpole. “The Intel integration is sort of like a safe zone where the things that could be dangerous on a compromised machine become safe to execute,” he added.
+BitPay is a large player in the Bitcoin world. Microsoft uses it to process Bitcoin payments for digital content and Xbox games, and over 100,000 merchants worldwide also use it, according to Sonny Singh, BitPay’s chief commercial officer.
+That’s especially attractive to companies with customers in countries like China, India, and Brazil, where most people don’t have credit cards.
+“Now we’re solving real pain points” with Bitcoin, Singh said.
+Seventy-five percent of BitPay’s transaction volume is outside the U.S., he said, up from 25 percent two years ago.
+Last week, BitPay also announced that it would be partnering with DocuSign as one of the payment processors offering payment integration with contracts and other signed documents.

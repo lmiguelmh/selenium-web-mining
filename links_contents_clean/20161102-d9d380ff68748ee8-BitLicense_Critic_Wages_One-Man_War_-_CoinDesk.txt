@@ -1,0 +1,58 @@
+Vote Now for CoinDesk's Most Influential People in Blockchain
+Michael del Castillo (@DelRayMan) | Published on November 2, 2016 at 11:55 GMT
+Created by the New York State Department of Financial Services (NYDFS) to protect consumers from fraud and loss, critics of the industry-specific licensing regime weren't exactly quiet.
+Objections ranged from the potentially prohibitive cost of compliance for startups to the perception that bitcoin companies were being held to a higher standard than traditional financial institutions. Then, last June, the measure was finalized into law, rendering those concerns moot.
+But, one man would not give up that fight.
+Systems engineer Theo Chino has been refining his one-man battle against the BitLicense over a period of two years and two lawsuits, which culminated earlier this week with the submission of the latest round of documents so he could see his day in court.
+The aspiring bitcoin entrepreneur tells CoinDesk his plans to launch a company to help bodegas accept the cryptocurrency were cut short by the regulation, and his time and investment lost.
+While his suit is certainly personal, he views his fight in larger terms.
+"If in New York, companies like mine are not allowed to operate, bitcoin is dead for the whole world."
+Filed in October 2015, the lawsuit alleges that the NYDFS overstepped its power by regulating bitcoin in two key ways.
+Chino claims that, when the New York state legislature consolidated the Insurance Department and the Banking Department in 2011, the newly formed Department of Financial Services wasn't granted authority to regulate cryptocurrency.
+Chino explained that he sees a recent court case in Florida in which a judge ruled that "bitcoin isn’t money" as evidence to support his argument that the financial regulator overstepped its bounds by regulating the technology.
+But his suit also alleges that even if the DFS did have the power to regulate cryptocurrency businesses, it did so in an "arbitrary and capricious" manner.
+Specifically, the suit asserts that the requirements demanded of bitcoin companies exceed that of traditional financial institutions.
+Chino’s lawyer, Pierre Ciric, explained his client’s position:
+"When the NYDFS formulated its corpus of rules for cryptocurrencies, it created completely different, and in fact more stringent constraints and requirements, for the bitcoiners compared to other financial institutions. And our contention is that that’s not something that’s within the powers of the regulator."
+At 9:30am on a crisp Halloween morning, Ciric submitted an affidavit to judge Lucy Billings to argue that the case should proceed in spite of an earlier motion that it be dismissed by New York Attorney General, Eric Schneiderman.
+The sworn affidavit signed by Chino states that he founded two bitcoin-related companies prior to the promulgation of the BitLicense. One, Conglomerate Business Consultants (CBC) Inc, was a distributor of phone minutes to bodegas and provided the bitcoin processing service directly to the shops. The other, Chino Ltd, provided technical services to CBC by processing the bitcoin transactions.
+Among multiple exhibits presented as evidence of Chino's investment is what appears to be a signed contract for bitcoin processing services and informal surveys from bodega owners expressing interest in bitcoin.
+The documents filed are the latest in a series in which Schneiderman requested that the lawsuit be dismissed on grounds that the NYDFS did not overstep its authority and that Chino did not have "standing" to sue because he didn't have a sufficient stake in the industry.
+Joining Schneiderman in his request to dismiss is the department's general counsel for banking, Peter Dean, and the assistant attorney general, Anthony Tomari.
+Currently, Chino awaits the judge’s decision to either move the case forward or dismiss it. If the case advances, Ciric said there can be no settlement, only an absolute winner and loser.
+The lawyer expects that, in either case, there will be an appeal.
+If Chino’s fight is starting to sound a bit mismatched, that's because it is.
+"The French Robin Hood," as news site Frenchly dubbed him, has a long history of fighting the powers that be.
+After years of practice, including a 2014 lawsuit also against the NYDFS in which he sought $1bn in damages, Chino filed his most recent suit pro se, meaning he did all the research himself and represented himself during the filing.
+Following a failed crowdfunding effort to raise $20,000 for legal fees, Chino finally met Ciric, who specializes in Article 78 cases and accepted the case.
+But when he filed his lawsuit, he was still representing himself. Ciric says that at the time his client had expected a slew of bitcoin companies to be lined up at the court with him to fight the regulation.
+"To his surprise," said Ciric, "he was the only one."
+While the lawsuit's immediate goal is to invalidate the regulation, there's a bigger-picture agenda.
+The BitLicense was the exclamation mark on inaugural NYDFS superintendent Benjamin Lawsky's career, in which he issued $3bn in fines for corporate shenanigans. Shortly after the law was enacted, he resigned.
+Ciric said that part of what Chino hopes to accomplish with his lawsuit is to force a conversation between state-level lawmakers that never happened because of Lawsky's successful efforts. As evidence for the need to have a more widespread dialogue and explicit legislative powers, Ciric takes the recent bitcoin regulation delays in California.
+Following two attempts by California legislators to create a framework for bitcoin regulation, the effort was shelved indefinitely earlier this year.
+"If California legislators lifted up their foot, why did Lawsky go through the floor with his pedal?"
+What is Zcash Worth? As Price Tops $1,000 Traders Remain...
+Subscribe to our free newsletter and follow us
+Nov 20, 2016 at 15:05 | Brian Zimbler, Dmitry Dmitriev and Andrey Ignatenko
+Blockchain Interest is Rising in Russia (Despite Legal Concerns)
+Moscow-based legal experts examine the thaw in attitudes towards blockchain and bitcoin in Russia.
+Nov 20, 2016 at 14:53 | Josh Stark
+Ledger Labs' Josh Stark seeks to provide a high-level framework for understanding the potential of nascent blockchain governance applications.
+Nov 18, 2016 at 18:55 | Stan Higgins
+The IRS is Seeking Data on Coinbase's Bitcoin Customers
+The IRS is seeking user records from Coinbase as part of a taxpayer investigation.
+Nov 18, 2016 at 15:00 | Michael del Castillo
+The Swiss Government is Paving the Way for Crypto Banks
+Regulators in Switzerland are moving quickly to create regulation that accommodates digital currency and blockchain startups.
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.

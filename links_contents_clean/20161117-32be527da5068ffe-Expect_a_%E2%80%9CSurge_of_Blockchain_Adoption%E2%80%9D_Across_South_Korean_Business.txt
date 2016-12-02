@@ -1,0 +1,25 @@
+Expect a “Surge of Blockchain Adoption” Across South Korean Business and Industry Sectors | Bitcoin Magazine
+Expect a “Surge of Blockchain Adoption” Across South Korean Business and Industry Sectors
+Expect a “Surge of Blockchain Adoption” Across South Korean Business and Industry Sectors
+Nov 17, 2016 04:38 PM by Diana Ngo
+Having passed the evaluation phase, a number of South Korean financial institutions and firms are now working toward implementing blockchain technology into their services and infrastructures.
+"At the moment, South Korea is the hotspot of blockchain adoption, with actual businesses and users making use of it on daily basis. South Korea has always been a pioneer in adopting new technologies and blockchain technology is no exception," Won-Beom Kim, CEO of Blocko, told Bitcoin Magazinein an interview. "We expect a surge of blockchain adoption cases next year in a wide area of industries in South Korea, including banking, insurance, credit card businesses and the Internet of Things (IoT)."
+As private blockchain technology matures, many are looking to replace their existing legacy ledgers and networks with the new technology, which promises to improve user experience and security.  
+"Blockchain is seen as a key technology to boost information and business process sharing, and the fact that many companies in South Korea are connected through business conglomerates will make the practice more attractive in South Korea than in other countries," Kim said.
+Currently, the most active area of interest is supplementing or replacing the National Public Key Infrastructure (NPIK) by using public key infrastructures built on blockchain, Kim said, adding that passwordless authentication using NPIK is already a common practice in the country.
+Blocko researches and develops blockchain solutions for enterprise. Coinstack, the company's proprietary blockchain-based development platform, provides developers with the environment, development tools and building kits to design and deploy applications.
+Yesterday, the Korea Exchange launched a new marketplace for the trading of equity shares of startup companies. The platform, called the Korea Startup Market (KSM), uses Blocko's Coinstack technology for document and identity authentication.
+Aside from having collaborated with the Korea Exchange in the development and launch of the KSM, Blocko is also working with the likes of Lotte Card, Cisco Korea and Samsung SDS on other blockchain projects.
+Lotte Card, a subsidiary of the Lotte conglomerate, is one of the largest credit card companies in South Korea. It is using CoinStack to build its own Public Key Infrastructure on a private blockchain.
+"We call it a LPKI (Lightweight Public Key Infrastructure) and the LPKI is enabling hundreds of thousands of Lotte Card's customers to utilize a biometric-based authentication system on their apps for mobile payment," Kim explained. "We would call this the first large-scale deployment of blockchain technology in the wild, serving actual users in a large number."
+With Cisco Korea, Blocko is applying the same blockchain-based LPKI to connected cards and IoT devices. Kim said that his company has also partnered with a number of local telecommunication companies to further explore blockchain applications in the IoT area, notably for usage over wireless protocols such as Long Range Radio (LoRa).
+As for Samsung SDS, Blocko is exploring blockchain use cases that include identity authentication based on Fast Identity Online (FIDO) biometric technology, and supply chain management, Kim said.
+Blocko raised $1.3 million in a Series A funding round led by Samsung Ventures in July 2016.
+Diana Ngo is a freelance fintech, blockchain news writer based in Ho Chi Minh City, Vietnam. She has worked for French- and English-language online publications covering disruptive technologies and innovative startups that are reinventing the financial services industry. She studied economics and international business at IAE of Lyon, in France, and holds a bachelor’s degree in Applied Economics from the Jean Moulin University Lyon 3.
+China Joins the Blockchain Race With ChinaLedger Alliance
+Blockchain Provider Gem Pursues Expansion Into Health Care Sector
+Sweden Conducts Trials of a Blockchain Smart Contracts Technology for Land Registry 
+Raketa Watches Trials Blockchain Technology to Fight Counterfeiting
+IBM and Bank of Tokyo-Mitsubishi UFJ Develop Blockchain-Powered Contract Management System
+About Advertising Careers Contact Terms of Service yBitcoin Store
+© Copyright 2016 BTC Inc. All Rights Reserved.

@@ -1,0 +1,28 @@
+Pyramid Scheme in Vietnam Sets off Jitters over Bitcoin | Bloomberg BNA
+Pyramid Scheme in Vietnam Sets off Jitters over Bitcoin
+The Internet Law Resource Center™ is the complete information solution for practitioners in cyberlaw. Follow the latest developments on ICANN’s gTLD program, keyword advertising, online privacy,...
+Oct. 17 – An alleged Ponzi scheme in Vietnam that exploited digital money transfers has prompted the country's government to again warn against using bitcoin.
+Suspects behind the website linked to the alleged pyramid scheme, Gold889.com, did not use bitcoin in an operation said to have netted more than $100,000. Still, Nguyen Thi Thu Hang, head of Vietnam's Ministry of Public Security's high-tech crime prevention office, highlighted the case as a sign that online rackets are mushrooming, many of them powered by bitcoin transactions. Many online platforms have been promising victims ridiculous annual returns of as high as 80 percent, Hang said in a recent interview. She cautioned Vietnamese about using such services as Airbitclub and Bitkingdom.
+“What these platforms have in common is they receive money through bitcoin, operate under a multi-level model, and take money from a later person to pay an earlier person,” she said in an Oct. 6 interview with the state broadcaster Voice of Vietnam.
+Vietnam's Communist government has shifted most of the country's economy to a free-market system but retains some control, such as through price restrictions and state-owned companies. Bitcoin is seen as a challenge to central authorities because it is a stateless, virtual currency that competes with physical money printed by state banks.
+Dominik Weil, co-founder of Bitcoin Vietnam, says the virtual currency's novelty and obscurity could enable internet scams. Others say the focus should be on blaming scammers themselves.
+“More Ponzi schemes happen with traditional currencies than with bitcoin,” said Simon Dixon, CEO of BnkToTheFuture, a global online platform for investing in financial technology, or fintech. But because “bitcoin is new, it is very easy to blame.”
+Vietnam has not threatened bitcoin users with outright criminal penalties but repeatedly warns that the virtual currency is not permitted at banks and not protected by law. That would give authorities cover if citizens try to get police to retrieve bitcoins that had been stolen from them.
+CARDANO Labo Vietnam, a company that works on the technology underlying bitcoin, known as blockchain, co-organized a fintech event in Ho Chi Minh City this summer. Nicole Nguyen handles marketing for the company and said representatives from the State Bank of Vietnam attended the event. She believes Vietnamese officials will come around to blockchain and fintech more broadly.
+“Judging from their reaction, I think they can see there are scams in the unregulated, gray area of cryptocurrency in the market, but they also see big players, big institutions using the technology,” Nguyen told Bloomberg BNA by phone. “It's going to take time, but I think they are changing from the scam point of view to [focus on] the technical applications of this technology.”
+She added that blockchain, a digital ledger system, has utility beyond bitcoin, such as for bank transactions, autonomous vehicles and the internet of things.
+Still, Hanoi worries its citizens are being duped by digital hucksters. In the interview, Hang noted that many Vietnamese were among the victims when Liberty Reserve, a digital currency company, collapsed under a U.S. federal investigation into money-laundering.
+“Currently, in the Ministry of Planning and Investment's list of business sectors, there's not yet a business of electronic money, so these individuals are operating on their own, not knowing where to register,” she said. “And handling violations is difficult because there aren't yet legal provisions to sanction the buying and selling of electronic money.”
+Weil said he's working with the State Bank of Vietnam to draft rules to fill this legal void. More generally the government has been trying to catch up with, and encourage, an economy based on information technology. That is part of a broader trend, as Nguyen sees Vietnam heading in a direction that prioritizes innovation.
+“Vietnam's story is similar to others in the region, we're living in a [period of] mobile-driven technology,” she said. “Obviously the young people are very tech-savvy.”
+To contact the reporter on this story: Lien Hoang in Ho Chi Minh City at correspondents@bna.com
+To contact the editor responsible for this story: Keith Perine at kperine@bna.com
+Copyright © 2016 The Bureau of National Affairs, Inc. All Rights Reserved.
+IMDB Fights California’s Age Discrimination Law on First Amendment Grounds
+Twitter Boosts Cyberbullying Tools, Sees Melania Trump as Ally
+Suing the U.S. Attorney General Can’t Defeat Online Publisher Immunity
+Photographer Behind Copyright Suits to Win $25,000 Court Award
+Wyden Pledges Action on Zero Rating if FCC Doesn’t Step In
+Bloomberg Law®, an integrated legal research and business intelligence solution, combines trusted news and analysis with cutting-edge technology to provide legal professionals tools to be...
+WTO Reporter is the only daily news publication providing targeted, timely coverage of the activities of the World Trade Organization in...
+Copyright © 2016 The Bureau of National Affairs, Inc.

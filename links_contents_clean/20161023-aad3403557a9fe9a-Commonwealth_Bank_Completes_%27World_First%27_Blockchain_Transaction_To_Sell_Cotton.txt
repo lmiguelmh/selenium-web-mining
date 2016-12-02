@@ -1,0 +1,36 @@
+Commonwealth Bank Completes 'World First' Blockchain Transaction To Sell Cotton To China | Lifehacker Australia
+Reminder: NSW's GPS Phone Ban For P-Platers Starts Next Week
+How To Get Online Deals That Only Ship To The US
+Commonwealth Bank Completes 'World First' Blockchain Transaction To Sell Cotton To China
+The Commonwealth Bank of Australia (CBA) has used blockchain technology to complete a trade transaction with a major US bank to facilitate the sale of cotton to China. Blockchain technology is often associated with the cryptocurrency Bitcoin but it can be used broadly to track ownership and authenticity of documents as well as digital and physical assets. CBA is claiming it as 'the first global trade transaction between two independent banks'. Here are the details.
+Banks around the world have been toying with the idea of using blockchain to bring greater transparency to financial transactions that are made around the world. Perhaps more importantly to the banks themselves, blockchain increases efficiency and reduces cost; all involved parties work off the same ledger, the information is verifiable and there's no paperwork involved.
+The world first blockchain transaction that CBA announced was with US bank Wells Fargo and involved a shipment of cotton from Texas, US to Qingdao in China. The transaction, which was a proof-of-concept, used a distributed ledger by Skuchain's Bracket system. CBA and Wells Fargo didn't just use blockchain technology for this transaction; there were some internet-of-things components as well. According to CBA:
+"The trade introduced a physical supply chain trigger to the terms of the transaction to confirm the geographic location of goods in transit before a notification is sent to allow for release of payment. The tracking feature adds a new dimension, providing all parties with greater certainty compared with traditional open account and trade instruments like Letters of Credit, which focus on documents and data."
+CBA expects this transaction to kick-start a blockchain trend in the financial sector .
+"The interplay between blockchain, smart contracts and the IoT is a significant development towards revolutionising trade transactions that could deliver considerable benefits throughout the global supply chain," CBA general manager of cashflow and transaction services said.
+While there is a lot of interest in blockchain technology from a number of industries, it's not foolproof and there are limitations. Here's what Stephen Wilson is a PhD Candidate, UNSW Australia had to say about the technology:
+"For anything of value other than bitcoin to be transacted via the blockchain requires additional layers of agents, third parties and auditors — things that just don’t square with the trust-free architecture. Lofty claims are made for blockchain’s ability to decentralise all sorts of things. But in truth, blockchain only decentralises the adjudication of the order of entries in a ledger. It is not a general or native 'Internet of Value' as claimed by authors like Don and Alex Tapscott. It was expressly designed for electronic cash; it has no native connection to real world assets.   Few businesses have escaped the call to evaluate blockchain technologies. If you’ve been persuaded to have a look, then as a first step, re-examine your security and record keeping needs. Take the time to understand what blockchain does, and all the things it leaves to be done by other systems. If your business is decentralised and your assets are purely digital, then blockchain has a lot to offer, but otherwise, it’s just another database."
+Watch: An Amazing 360 Experience Of Abu Dhabi's Sights And Sounds
+Training For Work In A Hostile Area-What To Do If Kidnapped
+This game will keep you up all night!
+How Much More Do Regional Aussies Pay For NBN Plans?
+iPhone 7 Vs Samsung Galaxy S7 Edge: Which Phone Has The Best Mobile Plans?
+The Cheapest Way To Buy An iPhone 7 Or iPhone 7 Plus In Australia
+Be the first to comment on this story!
+According to worldwide data collected by sex-tracking app Spreadsheets, Australians engage in longer lasting sex than any other country. So how long are our sessions on average? Check out the below infographic to see how your 'sexy time' measures up...
+Reminder: NSW's GPS Phone Ban For P-Platers Starts Next Week
+From December 1, it will be against the law for provisional licence holders in NSW to use their phones in any way while driving. This includes using voice-activated GPS apps while the phone is secured to a hands-free cradle. No, really. Here are the details.
+Desperate NASA Asks Public What To Do With Astronaut Poo
+3D Printed Camera Lens, Made From A Monocle, Takes Amazing Photos
+Someone Built A (Mostly) Working Calculator Out Of Cardboard And Marbles
+Deals: Learn How To Build Apps With JavaScript
+Obsessive Anime Comparisons Between TV And Blu-ray Versions
+Let's Watch DOOM 3 BFG Played Roomscale With A HTC Vive
+Deals: Level Up Your game Dev Skills With This Unity3D Training Bundle
+Ask Your Dentist For Fluoride Treatments If You're Worried About Cavities
+Head To The Baby Food Aisle For Flavourful Fruit And Vegetable Purees With No Additives
+Deals: Head Down A New Career Path With This Coding Bootcamp
+'The Hare Psychopathy Checklist': The test that will tell you if someone is a sociopath
+14 science-backed answers to your biggest questions about wine
+17 things in tech we're thankful for this year
+One of Brisbane's greatest restaurants is closing after 17 years

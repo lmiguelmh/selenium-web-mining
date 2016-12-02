@@ -1,0 +1,10 @@
+Apple Approves Two Scam-Like Bitcoin Apps Again, Due Diligence in Question
+Apple Approves Two Scam-Like Bitcoin Apps Again, Due Diligence in Question
+Recently Apple approved two applications called Ocean and AlphaWallet that are structurally designed to steal Bitcoin from users. Although Apple has been removing a substantial number of suspicions apps on its app store, the consistent emergence of obvious scam applications are beginning to concern the Bitcoin community.
+IPhone and other Apple device users have had serious issues with scam Bitcoin applications on the Apple App store that are designed to extract and steal user funds. The company’s inability to filter scam-like apps is creating a poor ecosystem for Bitcoin users.
+The ostensible legitimacy of the apps in terms of branding, UI, design, and functionalities will most likely deceive many beginner Bitcoin users, who may utilize it to store large amounts of Bitcoin and other cryptocurrencies like Ethereum.
+A series similar situations occurred back in August and July, when over 15 scam applications including imitations of BitGo, Coinbase and Green Wallets with slight logo changes were released.
+Some argue that users must be more aware of these scam-like applications rather than accusing Apple of false approval. However, considering the strict and long authentication procedure of Apple in releasing apps on its app store, the surfacing of the scams raise suspicions about the role of Apple itself.
+The Apple application verification process takes anywhere from 1 to 31 days, depending on the category and structure of the applications. Most apps go through a 2-week verification process, which is sufficient for Apple staff to discover whether an application is legitimate or not.
+The fact that over 20 scam applications have penetrated the strict app filter and verification process is alarming to Bitcoin users and must be taken seriously by the Apple staff. If illegitimate applications continue to be released, it will lead to larger losses of funds amongst Apple device users utilizing Bitcoin to make payments.
+For updates and exclusive offers, enter your e-mail below.

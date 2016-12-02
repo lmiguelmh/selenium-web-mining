@@ -1,0 +1,11 @@
+Sophos named as Leader in Security Suites report
+Posted by IT-Online on Nov 1, 2016 in Featured Article, News | 2 Comments
+A new crypto-currency has been launched that offers more privacy and selective transparency of transactions than bitcoin.
+Zcash payments are published on a public blockchain, but the sender, recipient, and amount of a transaction remain private.
+The new currency is based on peer-reviewed cryptographic research, and built by a security-specialised engineering team on an open source platform based on the bitcoin core’s battle-tested codebase.
+However, the development team has added privacy: Zcash uses advanced cryptographic techniques, namely zero-knowledge proofs, to guarantee the validity of transactions without revealing additional information about them.
+“Our zero-knowledge proving scheme makes it possible to conceal values and other identifying information from the public blockchain,” according to the Zcash blog. “Users simply prove that the values balance out and that they are not double-spending the amount they want to send.”
+The Zcash protocol was developed through a collaboration between the original Zerocoin researchers at John Hopkins University and a group of cryptographers at the Massachusetts Institute of Technology, the Technion – Israel Institute of Technology, and Tel Aviv University.
+Zcash CEO Zooko Wilkox comments: “”With the new Zerocash protocol, unlike the old Zerocoin protocol, users can make direct payments to each other with a vastly more efficient cryptographic protocol that also hides the amount of the payment, not just its origin.”
+The new crypto-currency went live on Friday (28 October) and people around the world are already mining and transacting on it.
+Zcash grew out of the Zerocoin project, which began as a cryptographic anonymity layer for Bitcoin before transforming into an independent cryptocurrency.

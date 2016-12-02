@@ -1,0 +1,37 @@
+Demand for Zcash Mining Grows as Blockchain Launch Approaches - CoinDesk
+Vote Now for CoinDesk's Most Influential People in Blockchain
+Demand for Zcash Mining Grows as Blockchain Launch Approaches
+Jacob Donnelly (@JayCoDon) | Published on October 5, 2016 at 21:18 GMT
+With less than a month to go before its launch, momentum is continuing to build around Zcash.
+The much anticipated anonymous cryptocurrency project gained a big ally today in hosted mining company, Genesis Mining, which announced that users would soon be able to mine for the digital currency. With the news, customers can now buy miners operated by Genesis, which offers similar services for bitcoin and ethereum.
+But while the genesis block for the Zcash blockchain won't launch until 28th October, the product offering can be seen as evidence that interest in the technology, first announced in 2014, is continuing to grow.
+Marco Streng, CEO of Genesis Mining, explained that his interest lies in how the Zcash could complement other blockchain projects. For a cryptocurrency to be viable, he argued, it needs to be fungible (ie one bitcoin has to be indistinguishable from any other) and if there is no privacy, there is no fungibility.
+Zcash attempts to solve this problem, as despite what some believe, public blockchains like bitcoin are surprisingly not that anonymous. By simply auditing the blockchain, users can gain insight into whether their coins were ever used for illegal activities, such as on Silk Road.
+By using what's known as a zero-knowledge proof construction, a cryptographic proof that allows the sender to prove to the receiver that value has been transferred without sharing any data or interacting, the ledger is able to secure all balances without identities and amounts being shared. Only those that have the correct key can see the actual value of the transaction.
+Those interested in mining Zcash should note that the reward follows a similar path to bitcoin's, though with a twist planned around the time of its launch. During the first 34 days, the block reward will gradually increase from 0 ZEC to 12.5 ZEC.
+Further, unlike many other altcoins that followed bitcoin's use of the SHA256 algorithm for proof-of-work, Zcash (ZEC) relies on an algorithm called Equihash.
+Disclaimer: CoinDesk is a subsidiary of Digital Currency Group, which has an ownership stake in Zcash.
+Federal Reserve Governor to Address Blockchain in New Speech
+Subscribe to our free newsletter and follow us
+Nov 19, 2016 at 15:25 | Charles Bovaird
+Bitcoin Breaches $750 But Struggles to Set New 2016 High
+Bitcoin prices repeatedly breached $750 during the week through 18th November as traders responded to macroeconomic uncertainty.
+Nov 17, 2016 at 20:05 | Stan Higgins
+ViaBTC Sparks Bitcoin Scaling Debate in Reddit AMA
+The head of a Chinese mining pool backing an alternative bitcoin implementation completed a Reddit AMA earlier today.
+Nov 14, 2016 at 13:38 | Michael del Castillo
+As bitcoin core developer Peter Todd published his role in helping create the Zcash cryptocurrency doubt is cast on the system's "trustless setup."
+Nov 12, 2016 at 16:19 | Charles Bovaird
+Bitcoin Tests 2016 Highs as Investors Seek Privacy
+Cryptocurrencies experienced notable volatility in October, with bitcoin enjoying gains while Monero, ether and ether classic all suffered declines.
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.

@@ -1,0 +1,31 @@
+US Man Arrested for Stealing Bitcoin from Dark Web Users
+US Man Arrested for Stealing Bitcoin from Dark Web Users
+Suspect collected over 10,000 login credentials for Dark Web marketplaces, including portals for illegal products
+Oct 10, 2016 22:00 GMT  ·  By Catalin Cimpanu  ·  Share: 
+The US Department of Justice (DoJ) has pressed official charges against a man named Michael Richo, 32, of Wallingford, Connecticut, for stealing Bitcoin using fake login pages from users of Dark Web marketplaces.
+According to an FBI affidavit, between November 2013 and October 2014, the suspect collected over 10,000 login credentials for several Dark Web marketplaces, which allowed him to log into the victim's accounts and transfer their Bitcoin to his own wallet.
+Richo held these funds in a Bitcoin wallet hosted on the Local Bitcoins service. Whenever he needed cash, he would convert the stolen Bitcoin into dollars and deposit various sums in his Bank of America account or Green Dot prepaid debit cards, or withdraw money via Western Union or MoneyGram transfers.
+Richo didn't say how much Bitcoin he stole but revealed it was a figure that translated into a "six figure" amount when converted into dollars.
+Authorities arrested Richo on November 6, 2014, when they executed a search warrant at his house, where they seized hard drives, thumb drives, and other equipment.
+Analysis of this data revealed how Richo logged usernames from Dark Web users. The suspect used two techniques.
+Richo stole credentials via phishing pages and port forwarding
+In the first case, Richo set up fake login pages for the targeted Dark Web marketplaces, which he hosted on his laptop. After users would enter their credentials on these pages, Richo's script would log the data, and forward the user to the real login form.
+The second technique was more advanced, and relied on "port forwarding," with Richo using his laptop as an intermediary point between the user and the real login form, transferring data from the user to the server, but collecting login credentials using a keylogging component.
+The FBI says that Richo targeted various Dark Web portals, including ones where other crooks advertised and sold illegal products such as drugs, weapons, and malware.
+According to the DoJ, Richo faces up to 57 years in prison for all charges: money laundering - 20 years, wire fraud - 20 years, access device fraud - 10 years, computer fraud - 5 years, and aggravated identity theft - 2 years.
+Richo appeared in court last week and was released on a $100,000 bond. More details about Richo's operation are available in the affidavit below.
+Related  ·  Hot right now  ·  Latest news
+Three Indian Call Centers Made over $75 Million from Scamming US Citizens
+ATM Malware Gang Slowly Dismantled by British Police
+US Government Arrests NSA Contractor Accused of Stealing Classified Data
+   FBI arrests man that phished for Dark Web marketplace logins
+NETGATE Internet Security: An efficient and reliable software utility designed to function as a complete online security tool against any and all Internet threats
+FortKnox Personal Firewall: Protect your system from various inbound or outbound attacks using a powerful, yet fully-configurable personal firewall that can keep threats away
+File Monster: Completely erase files from your computer so the information is unrecoverable, with the help of this straightforward software solution
+OpenVPN: A full-featured SSL VPN solution which can accommodate a wide range of configurations in order to provide a stealthy and safe web browsing experience
+Sticky Password Premium: Professional security application for storing multipurpose passwords in a secure environment, with support for Cloud-based technology
+Sticky Password: User-friendly program that helps you store passwords, bookmarks, identity details and secure memos while offering support for browser add-ons
+Zemana AntiLogger: Make sure that your private data will remain private by using this software application that prevents harmful applications from damaging your computer
+Hacking Company Says It Can Break Into Any Phone (Yes, Including iPhones)
+© 2001-2016 Softpedia. All rights reserved. Softpedia® and the Softpedia® logo are registered trademarks of SoftNews NET SRL. Privacy Policy
+This site uses cookies to offer you a complete experience.  Find out more  or  CLOSE   this notification permanently.

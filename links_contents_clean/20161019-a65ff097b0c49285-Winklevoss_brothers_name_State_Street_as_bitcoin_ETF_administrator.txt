@@ -1,0 +1,18 @@
+Winklevoss brothers name State Street as bitcoin ETF administrator
+Winklevoss brothers name State Street as bitcoin ETF administrator
+Entrepeneurs Tyler and Cameron Winklevoss arrive at the Metropolitan Museum of Art Costume Institute Gala (Met Gala) to celebrate the opening of "Manus x Machina: Fashion in an Age of Technology" in the Manhattan borough of New York, May 2, 2016. REUTERS/Lucas Jackson
+NEW YORK (Reuters) - Investors Cameron and Tyler Winklevoss on Tuesday filed amendments to their proposed bitcoin exchange-traded fund, naming State Street as administrator, according to a filing with the Securities and Exchange Commission.
+The Winklevoss brothers, identical twins, had filed their first application for a bitcoin ETF called Winklevoss Bitcoin Trust three years ago.
+Investors have shown keen interest in the Winklevoss ETF. If approved by the SEC, this would be the first bitcoin ETF issued by a U.S. entity.
+According to the amended filing, State Street will provide the fund administration and accounting services, including calculating the bitcoin trust's net asset value (NAV).
+Another major change involved the ETF's custodian, Gemini Trust Company, doing monthly "proof of control" exercises and publishing the reports on the ETF's website.
+"Custodian's cold storage system was purpose-built to demonstrate 'proof of control' of the private keys associated with its public bitcoin addresses," the filing said.
+"The sponsor and the custodian have engaged an independent audit firm to verify that the custodian can demonstrate 'proof of control' of the private keys that control the Trust's bitcoin on a monthly basis."
+Burr Pilger Mayer, based in San Francisco and known for working with venture-backed digital currency companies, has been named the ETF's auditor, the filing said.
+In addition, the SEC filing said Gemini's daily auction price at 4 p.m. EDT will now be used to price the NAV of the ETF. The previous pricing mechanism was the Gemini spot price. Gemini runs a digital currency trading venue.
+Since its launch in September, the Gemini auction has transacted more than 1,900 bitcoin on average per business day, which represents more than 16 percent of all U.S.-based bitcoin exchange volume, according to company data.
+The daily auction along with Gemini's expansion has increased the company's market share to about 9 percent of all U.S. dollar-denominated exchange-traded bitcoin volume.
+The ETF would trade under the ticker symbol COIN.
+Late on Tuesday, bitcoin traded at $632.88 on the BitStamp platform.
+(This version of the story adds the dropped word "bitcoin" in the 7th paragraph, fixes a typographical error in the 10th paragraph and corrects source to say 'according to company data' instead of 'Gemini said on Tuesday')
+(Reporting by Gertrude Chavez-Dreyfuss; Editing by Tom Brown)

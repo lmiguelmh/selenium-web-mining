@@ -1,0 +1,62 @@
+Bitcoin's Block Size Debate is Back (And It Might Be Worse Than Ever) - CoinDesk
+Vote Now for CoinDesk's Most Influential People in Blockchain
+Bitcoin's Block Size Debate is Back (And It Might Be Worse Than Ever)
+Alyssa Hertig (@AlyssaHertig) | Published on October 29, 2016 at 15:02 GMT
+First heating up in 2015, a debate about how best to scale the digital currency's underlying blockchain remains the dominating disagreement. Despite the best efforts of developers to bring what they say is more nuance to the discussion, a single metric remains the biggest sticking point.
+One year later, some miners are again calling for measures that would raise the bitcoin block size in an effort to support more transactions and (they say) grow its user base. Likewise, the developers behind Bitcoin Core (its primary software) remain focused on increasing capacity by way of top-level protocols, arguing that developers and academics believe this is the safest way forward for the still-experimental project.
+For one, a viable scaling solution that boosts the block size, but doesn't focus on the metric (Segregated Witness or 'SegWit') has completed testing and has been released. Further, a new mining pool (ViaBTC) and a prominent bitcoin investor (Roger Ver) are currently running software that supports larger blocks.
+The presence of a major miner means the big block movement has some leverage this time in threatening to block SegWit, or perhaps creating its own network through a process known as a 'fork'.
+Chairman of the board at the Factom Foundation, David A Johnston, argued that given these recent events a fork is inevitable. In a series of blog posts, he put forth the idea that both groups now have different goals, and that because of this, they may be better off working on two separate networks.
+"After two-plus years of debate, it seems the few months of time a fork would cost is a small price to pay in order to get development back on track regardless of which side you agree with."
+Not everyone agrees with Johnson's view. Critics argue that past attempts by miners to bid for a bigger block size have largely failed, and that this one is no different.
+"I don't think it's going to happen. There is a very-loud-micro-tiny-minority making arguments not based on reality or future resiliency," said Coinkite CEO and founder Rodolfo Novak.
+Novak noted that Bitcoin Unlimited follows similar proposals, including Bitcoin XT and Bitcoin Classic, both of which released code to increase the block size to 8 MB and 2 MB, respectively, up from 1 MB today.
+But while these proposals generated discussion at first, neither succeeded at reaching the 75% hashrate support threshold to trigger an upgrade. This time, though, it's the continued support of miners that has some observers taking this fork attempt seriously.
+"If the hashrate continues to climb, and I see no reason why it won't, it is a real concern," said Steven McKie, product operations manager at Yours, a bitcoin-based social content platform.
+But it's hard to say with other scaling solutions on the way.
+McKie pointed to the fact that recent announcements suggest SegWit and Lightning – scaling methods preferred by Core developers – are moving forward.
+"With Lightning-like implementations coming online, it may dull the block size debate enough to keep things going business as usual. [It's] hard to gauge at the moment until we see next moves," McKie said.
+Either way, Johnston thinks that the only natural solution to the long-standing debate is for the network to split along social lines.
+"Rather than continue endless fights on the topic, it seems more productive for the two groups to go their separate ways," he said.
+He argued that ethereum’s split was a great example of a successful social fork, since each group can now focus on their respective vision for the network without the previous bitterness.
+On the other hand, BTCC chief operating officer Samson Mow argued that ViaBTC and others can fork to form their own currency at any time (without a hard fork).
+"If they truly believe the current block size is holding back exponential adoption, causing users to suffer from high fees or unreliable confirmation times and preventing business with millions of users from integrating bitcoin, then shouldn't they fork to solve all of those dire problems?" he argued.
+For now, however, it seems the two groups are still attached to their economic marriage.
+Mow worried the move could threaten not only bitcoin's future but the livelihood of those who are dedicated to supporting it.
+"A contentious hard-fork would wipe out billions of dollars in value for people and companies who hold bitcoin as an asset," he said.
+Still, these comments suggest that the past ethereum hard fork continues to be a reference point in bitcoin's debate.
+The best-known display of a hard fork without full support (and its failure or success depending on point of view), the two networks (ethereum and ethereum classic) now both operate separately, commanding about as much value as they did before.
+But, bitcoin's supporters believe its status could be harmed by a similar move, eroding confidence that the network will deliver on its promise to differ from traditional, top-down payment networks by ditching majority rule.
+In this way, the hard fork debate may be more about whether 95% is too high a threshold to enact a change on a blockchain, or whether all participants in a blockchain are really part of a willing economic coalition.
+Johnston worried that bitcoin will never progress if changes to the software require all of its participants to agree.
+"The 95% level of adoption seems a recipe for calcification, where new innovations effectively become impossible to get adopted," Johnston said.
+Others, like faculty member at the University of Nicosia, George Papageorgiou, are optimistic about bitcoin’s future and see the block size debate as a healthy ongoing conversation, as bitter as it has been.
+"Discourse and different opinions are very much a part of this evolution and I don't think they should stop or be hampered in any way," he said.
+While many bitcoin developers and observers oppose the most recent effort to fork, most agree that the option is on the table.
+Adding fuel to the fire is that, without solid definitions, everyone is free to come to their own conclusion about how and when such decisions are made.
+"There's nothing wrong with a hard fork. The only question is how it's done," Mow said, again arguing for a non-contentious change.
+This disagreement has also arguably diminished developer attention to the issue.
+Blockstream co-founder and Bitcoin Core developer Matt Corallo noted the lack of hard fork proposals at bitcoin's most recent annual developer conference, noting that Core developers are not ignoring the topic. "Private discussion" has been ongoing, he said, with many suggesting rollout proposals to make a hard fork easier.
+"Hopefully this type of discussion can move more into the public eye."
+Bitcoin Prices Roar Past $700 But Zcash Steals The Show
+Subscribe to our free newsletter and follow us
+Nov 22, 2016 at 18:15 | Alyssa Hertig
+Ethereum rolled out its latest hard fork today, and so far, the side effects have been minimal.
+Nov 18, 2016 at 14:14 | Alyssa Hertig
+Bitcoin Miners Can Now Signal Support for SegWit
+If they so choose, miners can now safely signal their support for a major bitcoin update.
+Nov 17, 2016 at 20:05 | Stan Higgins
+ViaBTC Sparks Bitcoin Scaling Debate in Reddit AMA
+The head of a Chinese mining pool backing an alternative bitcoin implementation completed a Reddit AMA earlier today.
+Nov 15, 2016 at 22:00 | Alyssa Hertig
+Ethereum developers have unveiled details of its second fork to address denial of service attacks affecting the network.
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

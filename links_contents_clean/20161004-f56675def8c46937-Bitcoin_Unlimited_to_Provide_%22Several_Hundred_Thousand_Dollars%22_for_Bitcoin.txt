@@ -1,0 +1,23 @@
+Bitcoin Unlimited to Provide "Several Hundred Thousand Dollars" for Bitcoin Projects - CryptoCoinsNews
+Bitcoin Unlimited to Provide “Several Hundred Thousand Dollars” for Bitcoin Projects
+Peter Rizun, known to many simply as “Peter R.,” made a recent summary post on Medium outlining a way for projects which aim to scale within the framework of Bitcoin Unlimited. Bitcoin Unlimited is an ongoing fork of the Bitcoin project which allows for larger blocks. It is an answer to an ongoing debate about how the scaling of Bitcoin should take place, albeit not the most popular.
+he fundamental rift in the debate is whether third-party products such as Lightning Network should become the primary mode of Bitcoin transfers in the future, or if the core software itself should simply make more transactions per block possible. Various elements often come to play in the discussions – bandwidth around the globe, the time which large blocks can propagate in, whether or not increasing block size deflates a potential fee market, and more. CCN has covered the topic in-depth, notably here, here, and here.
+Bitcoin Unlimited seems to be moving forward at full speed. The project is now incentivizing people in the wider community to contribute to the scaling of Bitcoin, which is the primary purpose of Unlimited in the first place. Funding is even available to projects which do not have a short-term production schedule. In the section titled “Areas of Interest,” Rizun first mentions projects which might take longer than a year to integrate into Bitcoin Unlimited, making clear that there are funds available for such projects if their “integration is highly feasible.”
+It seems most of the funds, however, are intended for projects which can be integrated into Bitcoin Unlimited in under a year. Quoting the post:
+Funding is available for development efforts aimed at making incremental progress on Bitcoin. The scope of such projects should be sufficiently narrow to permit integration into the Bitcoin Unlimited client within 12 months.
+An example of 0ne such past project was the Xthin effort lead by Peter Tschipper: it yielded objectively-measurable improvements on main-net and the work was largely completed within 6 months.
+The post then goes on to outline the format of proposal submissions and explicitly states that they should be submitted via the Bitcoin Unlimited forum. Projects that want more money will need to be more descriptive, but smaller projects can be as little as two or three pages. Bitcoin Unlimited has an approval process which is also outlined, via Bitcoin Unlimited Improvement Proposals. This approach mirrors the process used by Bitcoin Core, via BIPS, from which most of the major progress for Bitcoin has emanated.
+The post also makes clear that this funding process will be conducted for “for at least one year or until the available funds are exhausted,” giving potential submitters plenty of time to get their innovation funded. Whether or not the future includes multiple versions of Bitcoin running side by side, or whether one version will hedge the others out, remains to be seen. One thing that is for certain is that if Kim Dotcom’s Bitcache project actually does make the cryptocurrency far more mainstream, then scaling will become more and more crucial in the coming months.
+Posted in: Bitcoin Technology, Bitcoin Wallets, News Tagged in: Bitcoin Unlimited, kim dotcom, Peter Rizun
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+NextDECENT and ‘Naughty America Productions’ Partner to Create a Blockchain-based Content Distribution Platform04/10/2016
+PreviousSydney Stock Exchange Public Blockchain Sees Successful Prototype04/10/2016
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

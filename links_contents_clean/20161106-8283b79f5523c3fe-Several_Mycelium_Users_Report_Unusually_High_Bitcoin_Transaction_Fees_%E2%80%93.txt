@@ -1,0 +1,22 @@
+Several Mycelium Users Report Unusually High Bitcoin Transaction Fees – The Merkle
+HomeNewsCryptocurrencySeveral Mycelium Users Report Unusually High Bitcoin Transaction Fees
+Several Mycelium Users Report Unusually High Bitcoin Transaction Fees
+Several Bitcoin users are experiencing a very strange bug when sending cryptocurrency through the Mycelium wallet. Transaction fees are designed to be nominal, yet the app is charging users nearly 20% in costs for some unknown reason. With maximum fees usually being around US$0.1, something seems to be amiss, and it needs to be addressed quickly.
+Bitcoin users can determine their transaction fees when using the Mycelium wallet. In most cases, however, the app will determine the optimal fee automatically which users can approve or reject. But every piece of software can encounter some very unusual bugs, and Mycelium is no exception, unfortunately.
+A report surfaced on Reddit claiming how a US$19 transfer in Bitcoin would cost the Mycelium user US$4 in fees. That is a very unusually high amount, as transfers usually cost US$0.1 at most. It appears that this is a bug within the code, and the developers seem to be aware of this problem as we speak.
+BItcoin transaction fees are always very strange, and it is always possible that the code underpinning the wallet solution is confusing things. Setting off the fee by a factor of ten or more is rather unusual, but things can happen at any given time. It is a good thing that the Mycelium wallet shows the transaction fee to users before they can even confirm the transfer.
+What is rather peculiar is how this bug does not appear to affect all Mycelium users right now. Several Redditors replied, stating that they can send transactions with normal fees just fine,  which is positive news. Then again, individual bugs are not uncommon in the software world either.
+This bug does not reflect poorly on Mycelium itself, assuming the developer can address the problem quickly. Users need to be aware of the transaction fee that they are using for each transfer, rather than completing payments blindly. Setting one’s own fee is always a possibility, as the software will only serve as an advisor in this regard.
+One possible explanation could be how the mempool is affecting Bitcoin transfer fees once again. Then again, all Mycelium users would be affected by these high rates, which is not the case. This is a rather strange incident, all things considered, but luckily no real harm was done in the process.
+If you liked this article, follow us on Twitter @themerklenews and make sure to subscribe to our newsletter to receive the latest bitcoin, cryptocurrency, and technology news.
+ViaBTC Runs Out of Steam After Initial Successes
+Blythe Masters To Open Digital Asset Holdings Offices In London
+Ethereum Is A Big Part of Future VC Funding in Blockchain Startups
+JP Buntinx is a 30-year old FinTech and Bitcoin enthusiast living in Belgium. His passion for finance and technology made him one of the world's leading freelance Bitcoin writers, and he is working to achieve the same level of respect in the FinTech sector.
+Facebook And Google Will Penalize Sites Publishing …
+Samsung Pay Incentivizes Users With New Rewards …
+Visa Wants To Replace Passwords With Multiple …
+OCBC Bank Pilots Blockchain-based Funds Transfer Between …
+Incent To Offer Its ICO Technology To Other Organizations Focusing On Loyalty Rewards November 25, 2016
+Developing Nations Show A Great Appetite For Payment Card Acceptance November 25, 2016
+Facebook And Google Will Penalize Sites Publishing …

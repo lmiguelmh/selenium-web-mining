@@ -1,0 +1,29 @@
+Visa Turns To Bitcoin For B2B Payments | PYMNTS.com
+Visa Takes Inspiration From Bitcoin For Cross-Border Payments
+Payments giant announces a new blockchain network called Visa B2B Connect.
+Visa has its eyes set on an international prize, and it’s planning to take some cues from a new type of currency in order to win it.
+According to The Wall Street Journal, the company recently rolled out a new technology aimed at taking on a new market by offering international B2B payments. The product is called Visa B2B Connect and, according to recent reports, will use a network modeled after the one powering bitcoin to navigate the complex world of cross-border payments between two companies.
+Frequent readers of the PYMNTS.com X-Border Payments Optimization Tracker know just how challenging the cross-border payments market can be. The tracker brings the latest news and headlines from around the space, along with a directory with the industry’s biggest and most influential players.
+According to WSJ, Visa B2B Connect is the product of a recent partnership between Visa and a tech startup, which Visa itself is an investor in, called Chain Inc. The company is one of just a few firms that works to use networks more commonly used to support bitcoin for other financial elements, including stocks or payments.
+Software created by the two companies will allow businesses and their banks to transfer cash using Visa’s technology, rather than using other methods, such as a check or wire transfer. The pair said the technology would enable real-time payments, similar to using a debit or credit card, which would speed up transactions and could reduce the need for complicated legal arrangements that typically accompany B2B transactions.
+Visa is one of the first companies to offer a commercial product based in blockchain, despite widespread industry investment. Banks have already spent millions on commercial products that use the technology, which is being called overhyped by some analysts, and some projects have financial institutions investing more than $1 billion in blockchain during 2016 alone.
+To download the October edition of the PYMNTS X-Border Payments Optimization Tracker™, click the button below.
+The PYMNTS X-Border Payments Optimization Tracker™ is the framework for evaluating players in the cross-border payments landscape, and the quarterly index tests the readiness of the companies to serve a global audience.
+RELATED ITEMS:CROSS-BORDER, CROSS-BORDER ECOMMERCE, MAIN FEATURE, PAYMENTS, SHIPPING AND LOGISTICS, TRACKER SERIES, VISA, VISA B2B PAYMENTS, WHAT'S HAPPENING NOW, X-BORDER PAYMENTS
+Visa Says EU Proposal On Electronic Payments Could Hurt Online Shopping
+Get our hottest stories delivered to your inbox.
+Signup for the PYMNTS.com Newsletter to get updates on top stories and viral hits.
+Financial Regulators Race To Get Reforms On The Books Before Inauguration Day
+Why Insider Threats Are Hurting North American Businesses
+Amidst New Cash Rules, Uber Debuts Indian Wedding Service
+Online Fraud Expected To Grow 43 Percent This Holiday Season In The US
+CFPB Sues Company That Scammed Lead Paint Poisioning Victims
+Prime Is The Ticket For Amazon: Prime Tickets On The Way
+India’s Axis Bank Joins Earthport In X-Border Payments
+October Visa Data Shows Rise In EMV-Enabled Merchants
+Amazon’s Brand Central Aimed At Ridding Counterfeiters From Marketplace
+Monday Is Black Friday For Shipments This Holiday Season
+The Seven Deadly Data Sins Of The 2016 Presidential Election
+The 2016 Presidential Election And Banks’ Next Four Scary Years
+What the Uber Driver Revolt Means for Payments
+© 2016 What’s Next Media and Data Analytics, LLC

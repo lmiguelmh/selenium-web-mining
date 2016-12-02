@@ -1,0 +1,56 @@
+Can the Currency of the Darknet Find Its Way Into the Light?
+HOME INNOVATION GEOMACRO SPECIAL SITUATIONS CONTRIBUTORS FREE REPORTS ARCHIVES ABOUT US
+Can the Currency of the Darknet Find Its Way Into the Light?
+Published Mon, Oct 3, 2016  |  David Dittman, Editorial Director
+When Forbes, Fortune, and the Financial Times are covering every development, you know a new “revolutionary” technology is being ushered into the mainstream. But can Bitcoin and blockchain be pulled from the darknet?
+My initial introduction to Bitcoin came about five years ago, through an acquaintance who, in addition to engaging in certain black-market activities, “mined” the still-nascent digital currency using a sophisticated computer hardware setup in the basement suite of his parents’ condo.
+This was just a couple years after Satoshi Nakamoto created the technology, motivated by the anger he felt in the aftermath of the global financial crisis.
+Like my acquaintance and Satoshi Nakamoto (which is almost surely a pseudonym; nobody really knows who invented this tech that’s sweeping the land), Bitcoin and blockchain are all outlaw and fringe.
+Hype-driven headlines and moves by traditional, central-bank-tied institutions to get in on the new game have brought the technology closer to the mainstream.
+But there are many questions to be answered before the world can willingly embrace blockchain.
+In today’s issue, I outline several of these questions, and tomorrow, Wall Street Daily Chief Investment Strategist Louis Basenese, one of the brightest minds on digital technology in the investment analyst community, will shed some more light in a Q&A.
+Bitcoin is a type of  “cryptocurrency”, a name which captures perfectly its anti-government, anti-establishment nature. A “cryptocurrency” is a decentralized medium of exchange secured by cryptography.
+Decentralization is the essence of Bitcoin and its enabling technology, blockchain. “Peer to peer” is the defining relationship. There is no middleman.
+Bitcoin came first, but blockchain is what gives it life.
+Blockchain is basically a digital ledger technology; in this context, it records transactions where Bitcoin is the medium of exchange.
+It’s a distributed database that relies on the network — thousands upon thousands of individuals running the software on their own computers — to record and validate transactions,  or blocks, and then add them to the an ever-growing chain.
+Members of the network compete to validate transactions. These are “miners,” and for their efforts, they’re rewarded with additional coins.
+You too can participate in the Bitcoin economy. Companies such as Coinbase allow you to exchange government-issue currency for cyrptocurrency and offer mobile “digital currency wallets” that allow you to transact with your smartphone.
+Coinbase, which was founded in June 2012, claims 4.5 million users and 9.7 million “wallets.” Forty-four thousand merchants are on board, and 8,000 apps have been developed to exploit its platform.
+The privately held company has raised nearly $120 million from venture capitalists and other investors.
+Here’s the thing: “I think the whole narrative of blockchain without Bitcoin will amount to very little.”
+That’s the conclusion Fred Ehrsam, a former foreign-exchange trader at Goldman Sachs Group Inc. (GS) and one of Coinbase’s founders, offered Yahoo Finance during Consensus, the Bitcoin conference held in Manhattan in May 2016.
+Bitcoin’s success is a direct result of the size of its decentralized, open network. Decentralization has combined with scale to create security, despite the fact that it’s entirely open.
+The very size of Bitcoin — the number of blocks, the number of chains, the number of miners, the number of copies of the blockchain/database — is what makes it secure; there are very few entities on Earth capable of summoning the computing power it would take to “hack” the system.
+“Bitcoin isn’t secure because of blockchain; it is secure because the effort and cost of subverting its blockchain is greater than the value of what’s being protected,” writes Nikolai Hampton in Computerworld. “The effort and cost that protect Bitcoin comes in the form of time, computing power and electricity.”
+Hampton is a cryptography expert and a director at Australia-based Impression Research who consults on privacy, security, digital forensics, and incident response.
+He describes the recent media coverage of “the blockchain revolution” as “nothing but snake oil and marketing spin.”
+Much of that hype is centered on the possibility of manufacturing a networkwide productivity boom. In the case of the financial services industry, that happens by limiting data proliferation via an “opt in,” rules-based system.
+A litany of global financial heavyweights — including “too big to fail” U.S.-based Citigroup Inc. (C), JPMorgan Chase & Co. (JPM), and Wells Fargo & Co. (WFC) as well as Credit Suisse Group AG (CS), Royal Bank of Scotland Group Plc (RBS), and BNP Paribas SA (BNPQY) are coming together to explore the use of blockchain to modernize the existing banking system.
+Left open are several questions, the answers to which may help pull it further from the fringe.
+Among these questions is how private entities creating proprietary blockchains will protect their integrity. They won’t have the network scale that secures Bitcoin.
+Why is “going blockchain” better than building or updating a regular database? Isn’t “distributed ledger technology” just a fancy phrase for “database”? And can a technology founded on openness be adapted for “closed” applications?
+Bitcoin is all about openness. Companies — financial institutions in particular — that try to streamline their disparate databases would be centralizing a concept whose very success is predicated on decentralization.
+But I can see how blockchain could substantially improve latency in financial transactions — settlement of equity trades, for example.
+There are certainly efficiencies to be realized by streamlining multiple existing databases across financial institutions to enable smoother transfer of assets among institutions as well as across borders.
+As a means of facilitating peer-to-peer transactions such as room sharing or ride sharing, Bitcoin and blockchain are obvious improvements over using a system that’s guaranteed to include a third-party skim.
+With the slow-but-sure proliferation of distributed solar power, the technology could surely be adapted to enable the sale of electricity from one neighbor to another, cutting out the local utility.
+So it is exciting tech. And Lou Basenese is going to help us contextualize and understand where on the “hype cycle” it sits right now.
+Be sure to check in tomorrow for Lou’s highly informed perspective on Bitcoin and blockchain.
+The Russell 2000 Index finished the third quarter with an 8.6% gain and is now up 10.1% for the year.
+Deutsche Bank AG (DB) shares hit a new all-time low on the stock’s home Frankfurt Stock Exchange Friday as hedge funds expressed deepening concerns about the German giant by pulling business from the bank. Commerzbank AG (CRZBY) announced it would cut 10,000 jobs and suspend its dividend. Europe’s financial system is far from healthy.
+Based on the Commerce Department’s second revision of its initial estimate of second-quarter growth, U.S. gross domestic product (GDP) expanded by 1.4% from April 1 through June 30, up from 1.1%.
+The U.S. economy has expanded by 2.6% or less on an annualized basis for seven consecutive quarters. GDP has expanded by 2.5% over the trailing four quarters, the slowest such period since the Great Recession.
+OPEC’s announcement of an “agreement in principle” to cut production buoyed crude oil prices. But the real impact — and whether there will be any actual reduction in the global supply of the sticky stuff — is far from clear.
+“You are way more likely to be killed by deer than by sharks, bears, and gators combined.”
+Editorial Director David Dittman is an investment newsletter professional with more than 10 years' experience at staff, management, and strategic levels. Before joining Wall Street Daily he was Chief Investment Strategist for Utility Forecaster, Canadian Edge, and Australian Edge. David, who was present at the creation of several highly successful newsletters, founded and wrote the noted e-letter Maple Leaf Memo. Learn More >>
+Newsletter FAQ | Cancel Any Time | We Value Your Privacy
+Profit From the Death of Cash With This Mobile Payment Leader
+Cyber Security: Five Firms Working to Squash Cyber Attacks
+Trump’s First Task: Close the Wall Street-Washington Wormhole
+Newsletter FAQ | Cancel Any Time | We Value Your Privacy
+Someday, our planet will no longer be able to sustain the agricultural and industrial demands of the food industry. So we’d better find an alternative — and fast. That’s where this nutritional powerhouse comes in.
+Donald Trump ran a campaign on hyperbole and vagueness. Now as he prepares to take office, we take a closer look at his contradictory statements on science to make sense of the future of our favored industries.
+The Rational Shopper’s List for Black Friday and Cyber Monday
+With the holidays upon us, we steer you toward innovative products that aren’t just cool, they’ll also save you money and time at the checkout line.
+© 2016 Wall Street Daily, LLC. All rights reserved.

@@ -1,0 +1,23 @@
+Is the Central Bank of Kenya Threatened by Bitcoin? - CryptoCoinsNews
+Is the Central Bank of Kenya Threatened by Bitcoin?
+It appears that the Central Bank of Kenya considers bitcoin, and cryptocurrencies in general, to be a threat, and has issued a statement discouraging the use of bitcoin in Kenya.
+heir justification for this stance is their assumption that the unregulated nature of the Bitcoin protocol encourages its use for terrorism and money laundering, even going so far as to place the notice in newspaper ads.
+As the Bitcoin protocol allows for peer to peer transactions between people, without the need of an intermediary who adds no value to the transaction, the only jurisdiction the CBK can truly exercise is over Kenya’s national currency, the Kenyan Shilling (KES). As any exchange agent that provides the services of exchanging fiat national currencies to/from bitcoin, they have to take into consideration and contend with the laws governing the fiat currencies that they are transacting with.
+It seems that the CBK has a limited understanding of the full range of features available within the blockchain, which include the advantages of faster transaction times, independent verification of payments without chargebacks, and reduced costs for remittances.
+Joseph Mucheru, the current Cabinet Secretary, for the Ministry of ICT (Information, Communications and Technology), of the Republic of Kenya, stepped down from his position as a director from the board of BitPesa, a private financial services company that specializes in providing exchange agent services for bitcoin to and from a variety of African currencies, in January of 2016. In addition to Kenya, their services are available in Uganda, Tanzania, and Nigeria.
+Mucheru’s accomplishments before taking public office, including an advisory board membership for the M-Pesa Foundation Academy, a directorship to GiveDirectly, along with the work he’s done with Google, are listed in full on his LinkedIn profile.
+Mucheru stepped down for the sake of preventing a conflict of interest with his appointment to the ministry and planned to sell his shares in BitPesa. He and other investors in companies that utilize bitcoin have found themselves unable to sell their shares as a result of the CBK’s change in policy towards bitcoin. Perhaps he and the other investors can sell their shares to people outside of Kenya, using bitcoin as a payment method, being that the transaction would be peer to peer?
+BitPesa and Safaricom are in a dispute in court as a result of Safaricom’s decision to terminate services to M-Pesa, which were utilized by BitPesa and Lipisha, based on a claim that the companies weren’t in compliance with Kenya’s anti-money laundering laws. Through BitPesa, users were able to exchange bitcoin into Kenyan shillings to make retail payments or remittances via M-Pesa.
+Posted in: Bitcoin Politics, Bitcoin Regulation, News Tagged in: bitpesa, Central Bank of Kenya
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+NextRoger Ver Is “Hopefully Optimistic” for Lightning Network’s Bitcoin Scaling Solution05/10/2016
+PreviousLondon FinTech Feels Pressure Post-Brexit, While Many Still Consider It a Leader05/10/2016
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

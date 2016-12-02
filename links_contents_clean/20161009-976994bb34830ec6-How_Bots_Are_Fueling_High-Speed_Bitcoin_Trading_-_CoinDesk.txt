@@ -1,0 +1,45 @@
+How Bots Are Fueling High-Speed Bitcoin Trading - CoinDesk
+Vote Now for CoinDesk's Most Influential People in Blockchain
+Charles Bovaird | Published on October 9, 2016 at 14:58 GMT
+Investors have benefited from algorithmic ('algo') trading programs under many different circumstances, but these 'trading bots' can prove particularly valuable to those interested in cryptocurrencies.
+Bot trading has reduced user error, enabled more rapid processing of information and given traders more time and flexibility. However, it may hold even greater potential in the crypto markets due to their immature nature.
+Trading bots have been around for decades, seeing growing use in stock markets as digitization has taken hold. However, the digital currency markets are less than a decade old and with far less tenure than more mature markets, have had significantly less time to integrate algo trading.
+Tim Enneking, chairman of cryptocurrency investment manager EAM, highlighted the differences between high-frequency trading (HFT) in traditional markets and those for cryptocurrencies.
+“When it comes to use HFT for stocks, milli – and even micro – seconds matter. However, for cryptocurrencies, these very small increments of time are not nearly as important."
+By harnessing algo trading, investors can obtain access to a wide range of trading strategies. HFT, for example, necessitates the use of software because it involves very rapid trades.
+Another strategy traders can access through trading bots is arbitrage – buying assets in one market and then selling them in another for a higher price, thus earning profit on the difference.
+“Generally, bot trading can be profitable beyond a short period of time if it involves a sort of insightful arbitrage,” Petar Zivkovski, director of operations for leveraged bitcoin trading platform Whaleclub told CoinDesk.
+Further, there is more than one form of arbitrage, said Arthur Hayes, co-founder and CEO of leveraged bitcoin trading platform BitMEX, who elaborated on several other approaches.
+Traders can look to profit from strategies involving futures contracts, Hayes noted. For example, they can benefit from the difference that exists between a futures contract and its underlying asset, an approach called futures arbitrage.
+Investors can seek profits from the difference in prices of futures contracts based on the same underlying asset, but that trade on different exchanges.
+Another strategy investors can access through trading bots is market making.
+Hayes described this practice as “providing continuous buy and sell prices on a variety of spot digital currencies and digital currency derivatives contracts” in an effort to “capture the spread between the buy and sell price”.
+Zivkovski said that this practice involves “placing limit orders, generally near the current market price, on both sides of the book” meaning both buy and sell orders. Over time, as prices fluctuate and a trader’s algo program automatically and continuously places orders, he or she can profit from the resulting spread.
+However, he added the caveat that the intense competition surrounding this practice can make the strategy unprofitable, “especially in low liquidity environments”.
+"There is only so much firepower to go around," Zivkovski said.
+Fortunately, anyone can participate in bot trading. Traders can use off-the-shelf solutions, though relying on pre-made software programs can prove dangerous, noted algorithmic trader Jacob Eliosoff.
+“Any money-making machine you can just buy and turn on will quickly get bought by lots of other people too, and there go your profits,” he said. “Often even the initial profits are a mirage.”
+Investors who are new to bot trading might want to either learn programming or find an open-source bot they can configure based on their view of the market, Zivkovski said.
+Hayes offered some slightly more technical advice, emphasizing the key importance of risk management and error handling.
+“There is no standard Application Programming Interface (API) for all digital currency exchanges, and some exchanges have better API's than others,” he said. “This means that a lot of time and energy needs to be spent making sure the trading logic can handle outages and properly calculates portfolio risk metrics.”
+Once a trader has developed and implemented their solution, constant revision is required, Enneking explained, adding:
+“Algo trading is not a fire-and-forget missile. You don't just let it run by itself for extended periods."
+What If One Bitcoin Isn't Like the Others? Fungibility...
+Why Weight? Bitcoin Scaling is Moving Beyond Block Size
+Subscribe to our free newsletter and follow us
+May 16, 2015 at 12:00 | Andrew Barisser
+After reading about high-frequency trading in Michael Lewis' Flash Boys, Andrew Barisser created his own bitcoin trading bot. Here are his findings.
+Jan 29, 2015 at 11:47 | Yessi Bello Perez
+Tradewave's New Bot Creation Tool Does Away with Coding
+Algorithmic cryptocurrency trading platform Tradewave has launched a new tool which creates automated trading bots without the need for programming.
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.

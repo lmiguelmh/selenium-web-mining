@@ -1,0 +1,20 @@
+New Potentially Malicious Bitcoin Wallet App Appears In iOS Store – The Merkle
+HomeNewsCryptocurrencyNew Potentially Malicious Bitcoin Wallet App Appears In iOS Store
+New Potentially Malicious Bitcoin Wallet App Appears In iOS Store
+The number of potentially malicious Bitcoin wallets on the iOS store continues to increase. A new clone of Breadwallet has popped up under the name of “Bitcoin Wallet Pro.” So far, the app ranks in the top five of wallet applications when looking for “Bitcoin” in the app store. Another worrisome turn of events of cryptocurrency enthusiasts using an Apple device.
+In this day and age of malicious iOS Bitcoin wallets, people are concerned more than ever about new bitcoin wallets on the app store. Even if the Bitcoin Wallet Pro app were to be legitimate-  which as not been confirmed right now – very few people will tend to trust it. Or to be more precise, most of the experienced Bitcoin users will frown upon this offering.
+So far, Bitcoin Wallet Pro looks like yet another Bitcoin-stealing wallet application. Over the past few months, there have been several clones of Breadwallet which offer similar functionalities, even though none of them are legitimate offerings. It is tough to find a proper Bitcoin wallet as an Apple user right now.
+Traditional offerings, such as the original Breadwallet, or Airbitz, are the best way to go. Unfortunately for iOS users, the majority of Bitcoin wallets are developed for Android, as it remains the dominant mobile operating system in the world today. Keeping funds safe at all times is the top priority, but these malicious wallets make that a lot more difficult.
+What makes the Bitcoin Wallet Pro very suspicious is the wording associated with this application. Promoting a mobile wallet solution is not easy, but using terminology such as “Bitcoin Wallet Pro is the first mobile Bitcoin app” will raise a lot of red flags.  This is not the first app of its kind, nor is it the most secure either.
+What is rather interesting is how one Reddit user found the GitHub branch for the Bitcoin Wallet Pro Wallet. Not too much information can be extracted from this, although it will give developers and engineers a better overview of what this solution has to offer under the hood. If this is a Bitcoin-stealing app, looking over the source code should reveal Bitcoin Wallet Pro’s true colors soon enough.
+If you liked this article, follow us on Twitter @themerklenews and make sure to subscribe to our newsletter to receive the latest bitcoin, cryptocurrency, and technology news.
+Final Taxi Cab in Marmaris Now Accepts Bitcoin
+Upcoming Bitcoin Halving Is An Opportune Moment For Portfolio Diversification
+JP Buntinx is a 30-year old FinTech and Bitcoin enthusiast living in Belgium. His passion for finance and technology made him one of the world's leading freelance Bitcoin writers, and he is working to achieve the same level of respect in the FinTech sector.
+Facebook And Google Will Penalize Sites Publishing …
+Samsung Pay Incentivizes Users With New Rewards …
+Visa Wants To Replace Passwords With Multiple …
+OCBC Bank Pilots Blockchain-based Funds Transfer Between …
+Incent To Offer Its ICO Technology To Other Organizations Focusing On Loyalty Rewards November 25, 2016
+Developing Nations Show A Great Appetite For Payment Card Acceptance November 25, 2016
+Facebook And Google Will Penalize Sites Publishing …

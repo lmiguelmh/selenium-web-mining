@@ -1,0 +1,48 @@
+Startup Spotlight: KeepKey's tiny bitcoin vault protects against cyber thieves - GeekWire
+Trending: Trump ‘Make America Great Again’ ornament on Amazon gets ALL the reviews, the best!
+Startup Spotlight: KeepKey’s tiny bitcoin vault protects against cyber thieves
+BY MONICA NICKELSBURG on November 10, 2016 at 3:30 pm
+Post a Comment Share  62 Tweet Share  27 Reddit Email
+Startup Spotlight profiles emerging tech companies in the Pacific Northwest. Do you run a standout startup? Apply for Startup Spotlight.
+Darin Stanchfield believes the future of bitcoin depends on security. The crypto-currency has a lot of potential, he says, but only if it can be reliably protected from cyber attacks. That’s why he created KeepKey, a device to protect bitcoins from theft.
+“When people first learn about Bitcoin, it is usually from stories involving theft,” said Stanchfield. “Handling digital currencies requires near-perfect security, which is hard for most engineers let alone regular consumers.”
+Stanchfield founded the Kirkland, Wash. startup in 2014 after Mt. Gox, the world’s largest bitcoin exchange, lost $600 million worth of customers’ bitcoins due to hacking.
+In May, KeepKey acquired the software wallet company MultiBit and in August the company made an integration deal with ShapeShift to allow customers to securely swap bitcoins on the KeepKey device.
+“That decision has led to many doors opening for us and new customers for our services,” said Stanchfield.
+GeekWire caught up with Stanchfield for this installment of Startup Spotlight, a regular GeekWire feature. Continue reading for his answers to our questionnaire.
+Explain what you do so our parents can understand it: “KeepKey is a digital vault that securely stores digital currencies like bitcoin. Once currencies are on the device, they can only be spent by the owner who knows the password. It is like Fort Knox for bitcoin, but tiny and can fit in your hand. You can plug the device into a virus and malware infected computer, and your funds remain entirely safe.”
+Inspiration hit us when: “We were passionate about the promise that digital currencies like bitcoin had for our future. But after the MtGox heist, we realized that the big hurdle for newcomers was learning how to handle their digital assets securely.”
+VC, Angel or Bootstrap: “As the founder, I chose to bootstrap. Bootstrapping defines the culture early on of doing a lot with very little.”
+Our ‘secret sauce’ is: “I wouldn’t call it a secret, but we focus on the customer. We are determined to make sure that everyone that purchases our product has a good experience. We also embrace potential customers, helping with the often bitcoin-confused questions we get when people dial our support by mistake.”
+The smartest move we’ve made so far: “Earlier this year, we acquired the popular bitcoin wallet application MultiBit. That decision has led to many doors opening for us and new customers for our services. You can look at a chart of our sales and see the date we re-branded the software dramatically increasing our sales of KeepKey.”
+The biggest mistake we’ve made so far: “The biggest consequence of bootstrapping has been the ever sense of resource deprivation. There always seems to be a feeling that we are one or two people short for a given task.”
+Would you rather have Gates, Zuckerberg or Bezos in your corner: “Being forced to choose an MVP, we would have to go with Bezos. He has an amazing track record of not losing sight of long-term visions while faced with the ever-changing short-term realities of business.
+Our favorite team-building activity is: “Eating. A company that breaks bread together stays together. Our company’s size lets us eat lunch together every day, and I think it is one of the reasons why we work so well together.”
+The biggest thing we look for when hiring is: “We have a great culture here, and we are guided during hiring to maintain that. While skill is important, we spend enough time with candidates to get a good feel of how they work in our environment.”
+What’s the one piece of advice you’d give to other entrepreneurs just starting out: “Expect some turbulence. Being an entrepreneur is not so much about having great ideas as it is about solving problems. In startups, Murphy’s law is alive and well. A great entrepreneur is defined by their ability to maneuver around the unexpected.”
+GeekWire’s regular Startup Spotlight feature offers an inside look at emerging Pacific Northwest tech companies. Check out the archive of past profiles here. Do you run a standout startup in the Pacific Northwest? Apply for Startup Spotlight.
+Monica Nickelsburg handles a variety of editorial roles, including social media, site production, and the Geek Life beat. Originally from Southern California, she studied journalism and history at NYU before landing in Seattle. She loves arts, pop-culture, and her adopted city. Follow her @mnickelsburg
+Support STEM education: Donate to Geeks Give Back
+GeekWire is once again proud to partner with Bank of America to support Geeks Give Back, a community-wide effort to raise $1 million for the Washington State Opportunity Scholarship. This unique program provides scholarships to deserving students, the majority of whom are women and students of color, who are pursuing degrees in science, technology, engineering and math in Washington state. To donate as an individual or corporation, visit GeeksGiveBack.org today!
+Post a Comment Share  62 Tweet Share  27 Reddit Email
+Amazon employee lands on ‘Jeopardy,’ gets shout-out from Jeff Bezos and wows her co-workers
+Worried Americans thinking about fleeing to Canada send Zillow traffic way up with real estate searches
+Filed Under: Startup Spotlight • Startups  Tagged With: Bitcoin • crypto-currency • Hardware • keepkey • startup • startup spotlight • wallet
+Subscribe to GeekWire's free newsletters to catch every headline
+Have a scoop that you'd like GeekWire to cover? Let us know.
+Former Amazon exec’s Bitcoin service iPayYou aims to make cryptocurrency easier and more transparent
+Bitcoin startup iPayYou launches ‘Pay-by-Twitter’ service for payments via social network
+Now you can use Bitcoin to buy stuff on Amazon, thanks to this Seattle startup
+Microsoft partners with world’s top banks on blockchain technology, seeking new uses for Bitcoin’s backbone
+GeekWire Deals: Take an extra 15% off these best-sellers for Black Friday
+Video: Top Black Friday tech deals for 2016, as picked by Andru Edwards
+High praise, and a joke, as President Obama awards Bill and Melinda Gates with Medal of Freedom
+Trump ‘Make America Great Again’ ornament on Amazon gets ALL the reviews, the best!
+Making sense of Seattle’s ‘Mercer Mess,’ and the tech boom’s impact on urban infrastructure
+‘Saturday Night Live’ needs to make room for Seattle and other cities in its ‘Bubble’ skit
+Find more jobs on GeekWork. Employers, post a job here.
+The Power of Mentorship Helps Local College Students Shine Read More
+Living Computers: Museum + Labs Challenges You to Reimagine the World Read More
+Western Digital Reimagines Storage with Stunning Hard Drive Makeovers Read More
+GeekWire Gala: Tickets on sale now! Get your tickets today.
+GeekWork: Tech and Startup Jobs Post a job. Find a job.

@@ -1,0 +1,8 @@
+Move Over Bitcoin, The Blockchain Is Only Just Getting Started | Linux.com | The source for Linux information
+Move Over Bitcoin, The Blockchain Is Only Just Getting Started
+It's easy to think we've reached peak Bitcoin, but the blockchain at the heart of cryptocurrencies contains the seeds of something revolutionary.
+The blockchain is a decentralised electronic ledger with duplicate copies on thousands of computers around the world. It cannot be altered retrospectively, allowing asset ownership and transfer to be recorded without external verification.
+Investors have now realised the blockchain is bigger than Bitcoin. In the first quarter of 2016, venture-capital investment in blockchain startups overtook that in pure-play Bitcoin companies for the first time, according to industry researcher CoinDesk, which has tallied $1.1 billion (£840m) in deals to date.
+Sr Software Engineering Manager (ARM, Linux, Android) - 5359
+The Linux Foundation is a non-profit consortium enabling collaboration and innovation through an open source development model.
+Get a digest of original Linux and open source news and tutorials from Linux.com delivered to your inbox weekly.

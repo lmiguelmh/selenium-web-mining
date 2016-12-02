@@ -1,0 +1,17 @@
+Winklevoss Bitcoin Exchange-Traded Fund Closer to Approval, Uses Cold Storage
+Winklevoss Bitcoin Exchange-Traded Fund Closer to Approval, Uses Cold Storage
+The SEC’s inefficient approval process of new ETFs has been criticized by a large group of financial experts and firms over the years. To ease barrier between the SEC and the Winklevoss Bitcoin Trust, the twins have made a few major alterations to its trading mechanisms and oversight.
+Partnership With State Street & Burr Pilger Mayer
+Earlier this month, the Winklevoss twins have appointed State Street Corporation and Burr Pilger Mayer (BPM) to oversee its ETF. Specifically, State Street is operating as the ETF administrator, while BPM is in charge of all auditing processes.
+State Street, an American financial services corporation, is a renowned institution with over $245 bln in assets under management. The company is expected to calculate the net asset value of the Winklevoss Bitcoin Trust and manage the majority of its accounting processes.
+The management of the ETF under a reputable multi-billion dollar financial services corporation will persuade the SEC in regards to the legitimacy of the ETF.
+Additionally, BPM is planning to conduct monthly “proof of control” practices to ensure and prove the legitimacy of all funds held by the company.
+“Custodian’s cold storage system was purpose-built to demonstrate “proof of control” of the private keys associated with its public Bitcoin addresses. The sponsor and the custodian have engaged an independent audit firm to verify that the custodian can demonstrate “proof of control” of the private keys that control the Trust’s on a monthly basis.”
+Another major alteration the company has made in its filing is the price valuation process of the ETF. Previously, the net asset value of the ETF was based on the Bitcoin spot price provided by the Gemini Bitcoin exchange, which is also run by the Winklevoss twins.
+However, the new filing states that the NAV will strictly follow the 4:00 pm EDT Bitcoin auction price of Gemini, which the twins believe would provide more opportunities for “participants” or investors to discover alternative offers.
+“[the change] allows participants to engage in thorough price discovery while concentrating liquidity and trading volume at a single moment each day," the newly submitted filing read.
+The final and perhaps the most important update in the ETF filing is the Bitcoin Trust’s decision to store customer funds in cold storage.
+As seen in the Bitfinex security breach, even the most robust and secure Bitcoin platforms can be breached through sophisticated and well planned attacks. Thus, storing user funds in offline wallets is the most appropriate method of protecting Bitcoin in terms of security.
+In its filing, the Winklevoss twins clearly note that user funds stored in Bitcoin Trust ETF will be protected from various risks including computer fraud.
+"The Custodian's statutorily required fidelity bond coverage includes, among other things, insurance against employee theft, computer fraud, and funds transfer fraud,” the filing read.
+For updates and exclusive offers, enter your e-mail below.

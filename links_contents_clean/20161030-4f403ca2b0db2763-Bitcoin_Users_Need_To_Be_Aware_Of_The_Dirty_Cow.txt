@@ -1,0 +1,31 @@
+Bitcoin Users Need To Be Aware Of The Dirty Cow Android Exploit
+Bitcoin Price Watch; A Slow End To The Week
+EY Unveils Strategy to Create Mainstream Bitcoin Traction In Switzerland
+Ethereum Platform Receives a New Geth Update after Consensus Flaw
+Redefining the Short Term Recruitment Industry -- ChronoBank
+Bitcoin Price Watch; End Of The Week Trading
+Ledger Blue Hardware Cryptocurrency Wallet Now Available For Pre-order
+Ethereum Price Technical Analysis – ETH/USD Downsides To Continue
+Bitcoin Price Technical Analysis for 11/25/2016 - Hold or Fold at Channel Support?
+Fortunejack – The only Gambling Site Offering Binary Options Trading
+Swift Boasts Blockchain Technology Will Not Disrupt Their Business Model
+Is IRS Overstepping Boundaries by Issuing Summons to Coinbase?
+Tendai Biti: "Zimbabwe Should Adopt Bitcoin As The National Currency"
+Ethereum Classic Price Technical Analysis – ETC/BTC Almost Tested 0.00100BTC
+Ethereum Price Technical Analysis – Can ETH/USD Break This?
+Bitcoin Price Technical Analysis for 11/24/2016 - Eyes on This Triangle
+Bitcoin Users Need To Be Aware Of The Dirty Cow Android Exploit
+Multiple versions of Android are vulnerable to Dirty Cow, regardless of device manufacturer.
+Even though mobile devices are becoming more popular than ever before, there are still systemic risks. Mainly the Android operating system seems vulnerable to more attacks than ever before. Dirty Cow, a new vulnerability discovered this week, may affect a lot of Bitcoin users as well. One can never be too careful when dealing with finances.
+It is not the first time a new Android vulnerability is discovered. Given the sheer popularity of this mobile operating system, hackers have been attracted to this platform since day one. But this new Dirty Cow vulnerability has security experts particularly concerned. Unlike other exploits, this particular bug can cause a significant shock wave all over the world.
+Dirty Cow Is A Threat To Bitcoin Users
+What is rather strange is how this vulnerability is native to the Linux OS. Back in 2007, Dirty Cow was announced as a Linux vulnerability, and there was never a proper fix for the solution. Fast forward to today and the vulnerability is still present in Android, which is built on top of Linux.
+Regarding mobile security, Dirty Cow is a major concern. Hackers exploiting this vulnerability can modify the copy-on-write cache provided by the OS kernel. In layman’s terms, this means hackers can change what the system and apps see when reading specific files. This also means they can use this loophole to force the OS not to detect malicious applications.
+Although executable files and parts of the OS are not affected, any file on the mobile device can be modified. Rebooting the device will usually clear these changes from existence, although a hacker could gain root access. If that were to happen, there is no telling what they could do to the operating system in the long run.
+Multiple versions of Android are vulnerable to Dirty Cow, regardless of device manufacturer. Even custom ROMs are not safe from harm, assuming they use Linux kernel 2.6.22 and higher. That being said, users can reduce the risk of infection by not installing unofficial third-party applications. Connecting a mobile device to a computer should not be a primary concern either, right now.
+For Bitcoin users, this news is troubling. A lot of people store funds in a mobile wallet on the Android operating system. These wallets are not safe from harm if the device would be affected by Dirty Cow. So far, no incidents regarding stolen funds have been reported. But that does not mean being extra careful is not warranted right now.
+JP is working hard to bring more credibility to the Bitcoin and blockchain news industry. Outside of being Europe Editor at Newsbtc, JP is also an active writer for the website, and does not shy away from letting his opinion be heard. View all posts by JP Buntinx
+Electronic Government as a Service — eGaaS Enters Beta Testing Phase
+Bitcoin’s Fastest Growing Community Issues Innovative BitConnect Coin ICO
+IBM, Microsoft and Sberbank shared experience in blockchain developments. How did Blockchain & Bitcoin Conference in Moscow go?
+NewsBTC is a news service that covers bitcoin news, technical analysis and forecasts for bitcoin and other altcoins. Here at NewsBTC, we are dedicated to enlightening people all around the world about bitcoin and other cryprocurrencies. We cover news related to bitcoin exchanges, bitcoin mining and price forecasts for various virtual currencies.

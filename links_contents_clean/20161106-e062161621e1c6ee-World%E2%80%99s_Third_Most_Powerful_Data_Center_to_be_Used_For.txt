@@ -1,0 +1,13 @@
+World’s Third Most Powerful Data Center to be Used For Bitcoin Mining
+World’s Third Most Powerful Data Center to be Used For Bitcoin Mining
+Bitmain, the Bitcoin industry’s second largest mining pool and most popular mining equipment manufacturer, has partnered with investors in China to launch the world’s third most power consumed data center.
+The company, which currently controls 18.6 percent of the Bitcoin network’s hashpower, plans to build a highly efficient and powerful data center to increase its share of Bitcoin’s hashrate distribution and demonstrate the importance of utilizing renewable energy, such as solar energy, to operate its massive data center.
+“We have seen that most data centers in the mining industry are wasting considerable money or other resources. We want to provide a more professional and cost-saving example to the industry.”
+Essentially, Wu and the rest of the Bitmain team are attempting to set an example for other mining pools and companies that are operating large-scale data centers and contributing a considerable amount of computing power to the Bitcoin network.
+Wu believes that the majority of data centers in the Bitcoin mining industry have failed to recognize the significance of energy-efficient mining equipment and the usage of renewable energy.
+With 135 megawatts of power consumption, Bitmain’s Bitcoin mining data center will be one of the world’s largest facilities, in terms of power generation. Thus, Wu and his team aims to utilize innovative technologies, such as labor-saving cooling and dust-free systems, to ensure that the computing and mining equipment inside its facility, relies on the least amount of energy possible in order to deliver the highest performance.
+Considering the sheer size of Bitmain’s data center, the company noted that the facility will be utilized by its investors and other partnering companies for alternative applications. However, the Bitmain team emphasized that the majority of the facility’s capacity will be dedicated to mining Bitcoin and securing the Bitcoin network.
+“It is specially designed for high-performance computing and, considering the interest of most investors in the data center, mining of cryptocurrencies such as Bitcoin will be its major application,”
+Although the company states that the construction of the facility will most likely be completed by the end of 2016, it will ultimately depend on the weather and climate in Xinjiang from November to February.
+Upon the completion of the facility, Bitmain and Bitcoin enthusiasts expect to see a rapid growth in the hashpower of Bitmain and its mining pool.
+For updates and exclusive offers, enter your e-mail below.

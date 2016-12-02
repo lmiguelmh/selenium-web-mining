@@ -1,0 +1,24 @@
+Bitcoin Wallet Provider Airbitz Brings Private Key Security for DAOs | Finance Magnates
+FM HomeCryptoCurrencyInnovationBitcoin Wallet Provider Airbitz Brings Private Key Security for DAOs
+Bitcoin Wallet Provider Airbitz Brings Private Key Security for DAOs
+Developers can now use Airbitz's open-source SDK for their dApps, instead of having to create security solutions from scratch.
+Avi Mizrahi | Innovation (CryptoCurrency) | Wednesday, 02/11/2016|09:08 GMT
+Airbitz, a Bitcoin wallet provider and creator of the Edge Security SDK, and WINGS, a decentralized platform to create DAOs, have joined together to enable a new generation of more secure DAOs for Bitcoin and other blockchains. The partnership deal provides WINGS with Airbitz’s solution to make the private key management of DAO participants more streamlined and safe.
+Join the industry leaders at the Finance Magnates London Summit, 14-15 November, 2016. Register here!
+Decentralized Autonomous Organizations (DAOs) are an organizational concept that allows for trustless contracts between distributed participants. WINGS combines the DAO concept with decision-making using decentralized forecast markets, while making this accessible to anyone with a smart phone.
+San Diego based Airbitz allows users to securely access a multi-blockchain world using a single sign-on while retaining control over their private keys and authentication. Developers can now leverage the Airbitz’s open-source SDK for their decentralized apps (dApps), instead of having to create their own security solutions from scratch.
+“We’re excited to partner with Airbitz and offer this to the WINGS DAO community,” said Boris Povod, WINGS Core Developer. “Airbitz lets people easily interact with DAOs using stored encrypted private keys, and anyone can login simply with a username/password.”
+“WINGS, much like Airbitz, is committed to delivering a user-friendly experience for people interested in using blockchain assets in their applications,” said Airbitz CEO Paul Puey. “Our partnership with WINGS will make interacting with the next generation of DAOs a seamless and accessible experience. We’re proud to add WINGS to the growing list of premier blockchain apps powered by Airbitz Edge Security.”
+Tags: bitcoin / blockchain technology / Cryptosecurity / Cyber Security
+Borsa İstanbul Inks MoU With Islamic Development Bank ... / 9 hours
+Trump to Make Greek Banks Great Again – Piraeus Bank ... / 12 hours
+CME Group Strikes New Daily Record Open Interest Amidst ... / 12 hours
+Canadian Regulator OSC Warns Against Zurich Prime / 12 hours
+Borsa İstanbul Inks MoU With Islamic Development Bank
+Trump to Make Greek Banks Great Again – Piraeus Bank Chairman
+CME Group Strikes New Daily Record Open Interest Amidst Shortened Trading Week
+Siemens to Reform New York's Energy Market with LO3 Blockchain Microgrids
+Lykke Unveils a Project Crowdsourcing/Collaboration Platform, Lykke Streams
+Goldman Sachs Parts Ways with R3 Consortium to Pursue Independent Research
+Finance Magnates is a global B2B provider of multi-asset trading news, research and events with special focus on electronic trading, banking, and investing.
+Copyright © 2016 "Finance Magnates Ltd." All rights reserved. For more information, read our terms and conditions

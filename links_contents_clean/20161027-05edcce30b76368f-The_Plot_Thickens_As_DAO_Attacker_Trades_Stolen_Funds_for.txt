@@ -1,0 +1,47 @@
+The Plot Thickens As DAO Attacker Trades Stolen Funds for Bitcoin - CoinDesk
+Vote Now for CoinDesk's Most Influential People in Blockchain
+The Plot Thickens As DAO Attacker Trades Stolen Funds for Bitcoin
+Alyssa Hertig (@AlyssaHertig) | Published on October 27, 2016 at 22:56 GMT
+The DAO hacker is one step closer to turning a real-world profit.
+The saga that started in June with a high-profile hack on ethereum's most notable project, took another turn on Wednesday when nearly $100,000 worth of digital currency associated with the incident was converted into bitcoin.
+Given the impact of the hack on the ethereum ecosystem (it sparked weeks of debate and led to a schism among the technology's supporters), the whereabouts of the funds have long been a matter of public interest. Funds first began moving in August and were reported to be in transit again in September.
+Now, analysis from Bok Consulting founder Bok Khoo indicates that a portion of the funds have reached at least one major exchange.
+Khoo, who has been tracking the theft for months, first determined that the hacker split the funds into 2,333 ETC chunks on Wednesday in an attempt to sidestep restrictions imposed by digital currency exchange ShapeShift. Next, he used the ShapeShift API to determine that those funds were converted into bitcoin and are now stored at this address.
+Khoo's research would indicate that this is the first time the hacker may have tried to cash out of the digital currency.
+Notably, these funds represent only a small portion of what was stolen, as more than $3.5m ether classics associated with the original DAO balance are still currently stored at this address.
+However, Khoo's work may soon draw to a close.
+Though the journey of the funds has so far been public, they might not be traceable forever if the hacker continues to move the funds between blockchains.
+Khoo mentioned that the attacker might have converted the funds into bitcoin as part of an effort to preserve his or her anonymity.
+"Bitcoin has mixers. Ethereum doesn't have any mixers or anonymous transfers yet."
+While the news is certainly a positive for the DAO attacker, the incident isn't likely to be relevant for blockchain development more broadly.
+Ethereum's developers continue to assert that they support the move to edit the ethereum blockchain to return funds to DAO users.
+At Money2020 this week, ethereum creator Vitalik Buterin argued that he doesn't believe the decision for developers to intervene affects the "immutability" of the ethereum ledger (as suggested by ethereum classic).
+"Principles have to serve a social purpose," he said.
+However, Buterin said that he continues to evaluate the decision, and that he now believes there needs to be "more supporting infrastructure" so that developers don't need to edit the blockchain when such an incident occurs.
+Meanwhile, ethereum classic's supporters continue to believe their users should have confidence in any and all transactions that are valid on the ledger.
+Ethereum classic supporter Avtar Sehra wrote on Twitter:
+"The DAO attacker funds may be on the move, but it's not like they can disappear – this is ETC not Accenture's 'editable blockchain.'"
+Derivatives Giant CME Sets Launch Date for Bitcoin Indexes
+Subscribe to our free newsletter and follow us
+Nov 18, 2016 at 23:04 | Michael del Castillo
+The Developers Behind The DAO Are Launching a New DAO
+The guys behind Slock.it are at it again.
+Nov 17, 2016 at 14:55 | Bradley Miles
+CoinDesk Research: Ethereum Hard Fork Had Little Impact on Sentiment
+CoinDesk Research reveals the results of an survey gauging enterprise and entrepreneur perception of the emerging blockchain platform ethereum.
+Nov 15, 2016 at 22:00 | Alyssa Hertig
+Ethereum developers have unveiled details of its second fork to address denial of service attacks affecting the network.
+Nov 11, 2016 at 22:39 | Charles Bovaird
+Bitcoin Wasn't the Only Digital Currency to See Post-Election Bounce
+Bitcoin enjoyed a boost following the election, but Monero enjoyed the largest weekly gains, surging more than 20%.
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.

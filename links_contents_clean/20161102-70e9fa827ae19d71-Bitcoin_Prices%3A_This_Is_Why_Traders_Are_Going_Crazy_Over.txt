@@ -1,0 +1,16 @@
+Bitcoin Prices: This Is Why Traders Are Going Crazy Over Bitcoin
+Bitcoin Prices: This Is Why Traders Are Going Crazy Over Bitcoin
+By Stephen Karmazyn Published : November 2, 2016
+Bitcoin prices had a killer month, surging by around 20%. The cryptocurrency is now valued at $722.05, with many attributing its rise to Chinese interest and technological advancements.
+Bitcoin’s popularity in China may be attributed to investors looking to the currency as protection against the depreciating Chinese yuan. The yuan has hit a six-year low and has dropped four percent against the dollar this year.
+Bitcoin also allows Chinese buyers to avoid some of the stricter state-imposed capital controls. This, coupled with China’s tightening wealth management controls, makes the freedom and fluidity of Bitcoin appealing to Chinese investors. (Source: “Bitcoin is closing in on its 2016 peak. A handful of theories attempt to explain the rally,” Quartz, November 1, 2016.)
+On the technology side, you have Bitcoin’s announcement of an update to its system that will tackle a long-standing issue with the blockchain, a public ledger of each individual Bitcoin transaction. A new system named “Segregated Witness” will separate signature data from the transactions. It is said to be a malleability fix with more flexible programmability, and an effective block size limit increase.
+While not guaranteed to pass (the proposed upgrade requires support from 95% of hash power in order to be implemented), Segregated Witness proposes a solution that would allow Bitcoin miners to increase their transaction capacity. The blockchain is also drawing eyes for its potential commercial uses. (Source: “Segregated Witness Officially Introduced With Release of Bitcoin Core 0.13.1,” Bitcoin Magazine, October 27, 2016.)
+While none of these factors are confirmed as the main reason for driving Bitcoin prices, the cumulative effect of these gains has made cryptocurrency more popular in October than pumpkin-spiced lattes.
+Analysts point to a number of catalysts that could send Bitcoin prices surging further.
+A recent Google (Alphabet Inc (NASDAQ:GOOG)) and Boston Consulting Group Inc study says that India’s digital payments industry will grow to $500.0 billion by 2020. The adoption of Bitcoin in the world’s second-most-populous country could spark further shortages. (Source: “India’s Digital Payments, Bitcoin Adoption Will Grow to $500 Bln by 2020, Study Shows,” Bitcoin Isle, October 20, 2016.)
+There are also rumors that a Bitcoin exchange traded fund (ETF) could be in the works. The U.S. Securities and Exchange Commission (SEC) is torn over the Bitcoin ETF. But if the fund is approved, it promises more accessibility to investors and opens up the currency to a massive new group of investors. (Source: “Five Reasons the Winklevoss Bitcoin ETF Should Be Approved,” Bloomberg, November 1, 2016.)
+Will Tesla Make You Rich Like the Ford Shareholders of 1903?
+The 5 Top Penny Tech Stocks of 2016
+This Device Will Be Bigger than the "iPhone"
+About Us Privacy Write for Us Disclaimer Contact Us Archives Media

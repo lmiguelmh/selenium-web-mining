@@ -1,0 +1,22 @@
+Monero Coming to Jaxx Wallets, Including iOS, With Apple's Blessing | Bitcoin Magazine
+Monero Coming to Jaxx Wallets, Including iOS, With Apple's Blessing
+Oct 11, 2016 10:28 PM by Michael Scott
+There has been a flurry of activity for Anthony Di Iorio and his team at Decentral since the beginning of 2016.
+Di Iorio, CEO and founder of Jaxx, has long been a champion of bold endeavors around decentralized technologies. As a multi-token, blockchain interface, the blockchain-agnostic Jaxx wallet operates on nine platforms and pairs across all user devices for nearly all of its supported currencies.
+At a time when Apple is being cautious about what it allows into its app store, Jaxx became the first iOS wallet to transact in Ether, the native currency of Ethereum’s smart contract platform.
+On October 10, Di Iorio told Bitcoin Magazine that Jaxx is now planning to support Monero, an open-source digital currency known for robust privacy and scalability features. He was informed by an Apple representative that Monero is now included in its list of currencies approved for the App Store.
+“Monero is a very interesting technology with a unique system that involves an additional level of nuance in terms of wallet integration. We are working on getting Monero connected to Jaxx as we speak,” said Di Iorio.  “We’ve been in regular communication with the Monero team and are looking at a three-week timetable, the end of October to early November, in terms of a launch.”
+Monero is chiefly known for its privacy. Its native currency, XMR, is one of the top altcoins by market cap, and is now accepted as payment on several sites, including some associated with dark net markets. Unlike many other digital currencies, Monero is not based on Bitcoin’s code-base or protocol; rather, it is based on the CryptoNote reference implementation, an altcoin that was designed from scratch.
+Di Iorio has also been closely following the ever-changing developments around the acceptance or rejection of iOS apps. Now that Augur is live, Jaxx has added REP to its suite of currencies, and Di Iorio was recently informed by Apple that REP has been added to its list of approved currencies.
+And then there was Dash. “We tried to get Dash on the app store via Jaxx, but it came back as a non-approved coin. Apple stated that they were only accepting a limited number of coins at the time, but since then they’ve added more.” Dash is, however, available on all other Jaxx-supported devices.
+Di Iorio says that the overall blockchain ecosystem continues to percolate along with lots of new technologies and coins, some with value and some without. He notes that, with quite a few initial coin offerings and new wallets being launched, there’s been a lot of sectarianism, with many people endorsing and making use of one particular product because they have a stake in it.
+He views the digital currency ecosystem as one that needs to continue to develop, without picking winners and losers too quickly. “There has certainly been an influx of both good and crappy projects. So I think the ones that actually provide value will gain traction in this space, while the crappy ones probably aren’t going to have a successful go of it.”
+In terms of what’s next for Jaxx, Di Iorio concludes: “We are constantly examining ways to direct our efforts toward those technologies that are creating value for our customers and the entire blockchain ecosystem. We believe that people should be able to make their own choices in terms of which products and services work best for them. So for us it’s about continuing to deliver new releases and offerings that provide ease and overall value to the end user.”  
+Michael Scott is a full-time freelance writer specializing in the areas of blockchain technology, cryptocurrency and digital cities. He is currently located in Denver, Colorado.
+Jaxx Wallet Integrates Shapeshift for In-Wallet Conversion Between Bitcoin, Ether and DAO Tokens
+Jaxx Aims to Be "Blockchain Agnostic" With More New Coin Integrations
+Monero Coming to Jaxx Wallets, Including iOS, With Apple's Blessing
+Kryptokit Launches Jaxx Ethereum & Bitcoin Wallet for Android Tablets
+Electrum Launches Mobile Wallet for Android, iOS Coming
+About Advertising Careers Contact Terms of Service yBitcoin Store
+© Copyright 2016 BTC Inc. All Rights Reserved.

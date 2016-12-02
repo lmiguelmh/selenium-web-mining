@@ -1,0 +1,15 @@
+Bitcoin Core is Most Talented Dev Team, Says VC
+Bitcoin Core is Most Talented Dev Team, Says VC
+Based on the node count and hashrate distribution of the Bitcoin network, it is relatively easy to discover which Bitcoin development team is the favorite. Venture Capitalists including Nick Tomaino believes that the Bitcoin Core team is the most talented development team in the world.
+Bitcoin development and cryptography in general require a significant amount of experience and understanding of various cryptographic systems. This is also the reason behind the struggle of banks and financial institutions in searching for talented cryptographers and Blockchain developers.
+For instance, William Mougayar, the author of the book ‘The Business Blockchain’, stated by mid-2016, global IT industry had merely 5,000 active developers devoted in the development of Bitcoin, Blockchain and cryptocurrencies.
+In any field or industry, it is extremely difficult to gain over 51 percent in majority market share or support. Especially in the technology industry, companies or development teams that have a majority influence over their competitors are hard to find.
+Yet, ever  since the introduction of Bitcoin in early 2009, the Bitcoin Core team has managed to sustain around 90 percent of miner and community support with innovative solutions and cautious development approach.
+Nick Tomaino, former Coinbase business development executive and principal, states:
+There exists a clear difference between a risk-averse and an inefficient development team. A risk-averse team like Bitcoin Core would engage in a series of testing phases, open community debates, discussions and fair implementation mechanisms to execute major updates on the Bitcoin network.
+The Bitcoin network is used by millions of users around the world on a daily basis. Its market cap currently is at $11.7 bln and is described by prominent and high profile investors as the international digital currency.
+Thus, recklessly proposing politically, technologically and economically high-risk changes to the network could lead to unforeseeable consequences that users would ultimately have to face.
+While some mining pools and development teams criticized the Bitcoin Core team’s late release of Segregated Witness, most of these individuals also fail to realize the sheer amount of testing and research that was put into its development.
+According to the Bitcoin Core official website, SegWit became fully operational in late December. Bitcoin Core created a special SegWit-specific testnet to see its impact on various wallet applications and platforms. Then, after an additional four months of development, it was tested again in Bitcoin’s regular testnet.
+It is extremely important to realize that for technologies and open source projects like Bitcoin, risk-averse and cautious approach towards development is best for users, developers and companies.
+For updates and exclusive offers, enter your e-mail below.

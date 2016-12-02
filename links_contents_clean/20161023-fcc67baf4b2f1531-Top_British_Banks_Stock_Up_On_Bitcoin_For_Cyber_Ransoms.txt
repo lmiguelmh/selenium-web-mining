@@ -1,0 +1,13 @@
+Top British Banks Stock Up On Bitcoin For Cyber Ransoms
+Top British Banks Stock Up On Bitcoin For Cyber Ransoms
+Several of London’s largest banks are stocking up on Bitcoin in order to pay off cyber criminals who threaten to bring down their critical IT systems, say IT experts. The banks are now coming to terms with the view that it is cheaper to pay off criminals than risk ferocious cyber attacks on a high scale.  
+According to a Guardian report, paying ransoms with Bitcoin seems the better way to go because even though senior police officers have been made aware of the practice, the police do not have the resources to deal with the significant growth in the number of cyber attacks.
+Dr. Simon Moores, who is a former technology ambassador for the UK government and chair of the annual international e-Crime Congress, did not identify the banks buying up Bitcoins, but stated in the report:
+“From a purely pragmatic perspective, financial institutions are now exploring the need to maintain stocks of Bitcoin in the unfortunate event that they themselves become the target of a high-intensity attack, when law enforcement perhaps might not be able to assist them at the speed with which they need to put themselves back in business.”
+He added that big companies are now starting to worry that an attack is no longer an information security issue but a board, shareholder and customer confidence issue.
+He predicted that the situation was becoming critical particularly as he believes that the rollout of connected smart devices will allow for the harnessing of devastating computer power that can no longer be repelled by existing IT security systems.
+“What we are seeing is the weaponization of these [hacking] tools. It becomes a much broader issue than businesses ever anticipated. Once it goes above a terabit, that wipes out any protection. No current protection systems can deal with that sort of flood.”
+It is estimated that there are between 7bn and 19bn devices connected to the IoT at the moment. Conservative predictions suggest an increase to up to 50bn within five years.
+A new model of ransom-based attacks could be on the horizon, motivated to pay off threats for fear of infrastructure-wide customer outages, adds the director of IT at Plixer, a malware incident response company, Thomas Pore. He stated:
+“An infrastructure outage, such as DoS [denial of service], against a service provider impacting both the provider and customers may prompt a quick ransom payoff to avoid unwanted customer attrition or larger financial impact.”
+For updates and exclusive offers, enter your e-mail below.

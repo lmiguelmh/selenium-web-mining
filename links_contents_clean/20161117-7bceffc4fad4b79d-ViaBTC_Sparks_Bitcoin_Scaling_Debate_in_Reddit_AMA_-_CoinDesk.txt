@@ -1,0 +1,39 @@
+ViaBTC Sparks Bitcoin Scaling Debate in Reddit AMA - CoinDesk
+Vote Now for CoinDesk's Most Influential People in Blockchain
+ViaBTC Sparks Bitcoin Scaling Debate in Reddit AMA
+Stan Higgins (@mpmcsweeney) | Published on November 17, 2016 at 20:05 GMT
+The head of a bitcoin mining pool that has emerged as a strong advocate for a bigger block size argued in a Reddit Q&A today that many in China's mining community support such a move.
+ViaBTC founder Haipo Yang took questions during an Ask Me Anything (AMA) session on the r/btc subreddit, commenting on the block size debate.
+The event saw strong advocacy for Bitcoin Unlimited, a bitcoin software implementation that has been proposed as an alternative to Bitcoin Core, the primary user client for the bitcoin network. ViaBTC was launched in June of this year (and quickly emerged as controversial).
+The AMA session came amid the ongoing rollout of Segregated Witness, a change to bitcoin's code aimed at increasing the amount of transactions the network can handle without adjusting the block size. Yet the upgrade has proven to be a controversial one among some bitcoin users, who have argued that an increase in the block size – or a variable size with Unlimited – is the better approach.
+Yang claimed in the session that, as it stands, China’s mining community wants a bigger block size, but isn't unified in its support for Unlimited specifically.
+"Most pools in China have lost their trust in Core and shifted their attention to Unlimited. I know a couple of pools said in private that they won't support [Segregated Witness] and will support Unlimited instead. The reason that they haven't shifted to BU is that they are waiting for a better chance and also a possible compromise from Core."
+Elsewhere, Yang framed the current debate as "a battle about Bitcoin’s future path", invoking bitcoin’s pseudonymous creator, Satoshi Nakamoto and arguing that Unlimited's approach is more in line with the initial vision of the digital currency.
+While the thread largely drew supporters, critics emerged.
+One notable inclusion was Blockstream CEO Adam Back, who wrote that Unlimited "is non-functional" and "little tested", among other critiques.
+"I’ve already clearly stated my view: the protocol is more important than the code," Yang wrote in response. "We've been running Bitcoin Unlimited for more than a month with no problems."
+The push for bigger blocks within China's mining community was also on display during a recent event hosted by bitcoin mining firm Bitmain. This development has largely continued despite the protests of Bitcoin Core and its supporters, who maintain alternatives would be dangerous if more widely used.
+Subscribe to our free newsletter and follow us
+Nov 11, 2016 at 17:45 | Stan Higgins
+One in Four Bitcoin Nodes Are Now Upgraded for SegWit
+Bitcoin network data shows that 25 percent of nodes worldwide are signaling support for Segregated Witness.
+Nov 6, 2016 at 14:25 | Eric Mu
+China's Bitcoin Miners See Profit in a Bigger-Block Blockchain
+A bitcoin mining conference held by one of the network's largest miners saw what some have labeled an unscientific discussion of scaling the network.
+Oct 29, 2016 at 15:02 | Alyssa Hertig
+Bitcoin's Block Size Debate is Back (And It Might Be Worse Than Ever)
+With little likelihood of a single scaling solution that will please everyone, is a hard fork inevitable?
+Oct 26, 2016 at 18:35 | Alyssa Hertig
+A Lower Block Time Could Help Bitcoin Scale, But Will It Work?
+A small tweak to bitcoin could have a big impact.
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.

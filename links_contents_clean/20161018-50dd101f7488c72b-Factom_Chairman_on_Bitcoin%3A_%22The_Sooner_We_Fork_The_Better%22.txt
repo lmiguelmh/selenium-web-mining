@@ -1,0 +1,30 @@
+Factom Chairman on Bitcoin: "The Sooner We Fork The Better"
+Factom Chairman on Bitcoin: “The Sooner We Fork The Better”
+As the release date of Segregated Witness approaches, the support for Bitcoin Core and its innovative scaling solutions is rapidly increasing. However David Johnston, chairman of the Factom Foundation, believes a hard fork is necessary to accommodate more users onto the bitcoin network.
+Bitcoin Core’s rivaling alternative hard fork proposal Bitcoin Unlimited recently began to obtain a serious momentum behind their growth due to the support from ViaBTC, one of the largest mining pools in bitcoin. With prominent figures including Roger Ver and the Bitcoin.com’s recent hahspower allocation, Bitcoin Unlimited’s presence has significantly risen over the past several months.
+Johnston, who actively collaborates with the Factom team led by CEO Peter Kirby, believes that hard forks should not be feared, and that the sooner a hard fork is executed to expand the bitcoin blocksize, the better.
+In the beginning of his 3-part series on the importance and necessity of a hard fork execution, Johnston states that the bitcoin community is essentially divided into two conflicting beliefs:
+“The original whitepaper as a “Peer to Peer Electronic Cash System” should translate into Bitcoin primarily serving as a global payment network competing with the likes of Visa and WeChat by clearing tens”
+“The original whitepaper as a “Peer to Peer Electronic Cash System” should translate into Bitcoin primarily serving as a secure store of value and a global settlement network for clearing large sums of digital money.”
+Currently, the majority support of the community is established on the latter, considering Satoshi Nakamoto’s clear description of bitcoin emphasized in the original White Paper of bitcoin that reads [PDF]:
+  The cost of mediation increases transaction costs, limiting the minimum practical transaction size and cutting off the possibility for small casual transactions, and there is a broader cost in the loss of ability to make non-reversible payments for nonreversible services.
+  Thus, one can argue that Core supporters are the believers of Satoshi Nakamoto’s initial vision, while big block supporters are bitcoin enthusiasts that hope to see bitcoin as a major financial network that has the capacity to compete with existing dominant platforms like Paypal and Visa.
+Johnston admits that neither sides will ever back down from their arguments and therefore, the winning and existing protocol can be perceived as the market favorite. Remaining with the vision of big block supporters, Johnston reasons that Bitcoin Unlimited is a far more appealing proposal compared to Bitcoin Core because of its ability to handle small transactions with reduced fees.
+He explains that Core’s competitive fee market and resource minimization method for node operators are inefficient to a global cryptocurrency network like bitcoin.
+“The new “Bitcoin Unlimited: The Decentralized Payments Network” has: 1. Code that supports more transactions, 2. Lower fees accommodating new growth in small value transactions 3. Focuses on supporting the mass market,” stated Johnston. “Lets allow individual bitcoiners to decide the value and future of each of these projects for themselves,” he added.
+In the second and third parts of the series, Johnston further explored community’s concerns with the hard fork. Mainly, doubts that bitcoin supporters have on hard forks due to the economical disaster the DAO hard fork execution has caused to the Ethereum network.
+As bitcoin experts including Andreas Antonopoulos emphasize, the DAO hard fork was technically flawless and efficient. The code was very well written and thoroughly tested. The major issue was, it split the community and the network into two, which led to the creation of Ethereum Classic.
+Yet, Johnston firmly believes that a hard fork could greatly benefit the bitcoin network in terms of scaling, accommodating users, and reducing the fees to appeal the cryptocurrency to a larger userbase.
+Posted in: Bitcoin Opinion, Bitcoin Politics, News Tagged in: bitcoin core, Bitcoin Scaling, Bitcoin Unlimited, factom
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+NextImogen Heap Sees Blockchain as the Music Industry’s Savior18/10/2016
+PreviousSegregated Witness: Coming to a Bitcoin Core near You18/10/2016
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

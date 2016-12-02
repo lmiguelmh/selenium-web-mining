@@ -1,0 +1,22 @@
+Blockchain start-up Factom raises raised $4.2m Series A funding
+Blockchain start-up Factom raises $4.2m Series A funding
+Tim Draper of Draper Associates leads investment in Factom's Series A funding.
+Factom, Inc, the blockchain technology company that secures data via decentralisation, has raised a $4.2m (33.3m) Series A round of equity funding led by Tim Draper of Draper Associates.
+Factom Apollo and Factom Iris premium products are built on Factom's open source core software and offer a lightweight, and scalable approach using the blockchain to secure records and identity. The Series A round of financing enables Factom to further develop its core technology and suite of products, said a statement.
+US Department of Homeland Security awards Factom funding for blockchain IoT project
+Factom inks another deal in China, this time for blockchain notarisation services
+Factom signs smart city deal to roll out blockchain verification across China
+Peter Kirby, CEO and co-founder of Factom, said: "We are delighted to have venture capitalists of such calibre help us build Factom. This round of funding allows us to aggressively grow the company and the underlying technology.
+"We started Factom to build a more honest and transparent world using a pretty simple approach: create software that makes it impossible to change the past and point that software at places where it solves valuable business problems. This funding accelerates our progress down that road."
+Draper said: "Securing data is mission critical for governments, banks, car companies, credit card companies, retailers and any company concerned with hacking. Centralised data is prone to critical failure by any individual mistake, whether by user error or malicious hacking. By decentralizing data through the blockchain, Factom avoids critical failures due to user error or hacker. Factom lets people sleep easy knowing that their bank account won't be broken into, their car won't errantly go off the road, and their identity won't be stolen."
+Paul Snow, chief architect and co-founder of Factom, added: "Consensus is extremely challenging. Blockchains first pushed the boundaries of computer science with the simple yet revolutionary ability to trade digital value openly. Now we are pushing the limits of computer science in a second revolution. The Factom protocol allows for the open coordination of processes against immutable ledgers of data. It will have the same kind of impact on data and systems as the first revolution had on value."
+Stay up to date with our daily newsletter
+Gianfranco Zola: Chelsea can win the Premier League
+Crewe Alexandra and Penn State: Why were paedophiles allowed to prey on the young?
+IBT Media to host AI and Data Science in Capital Markets event
+The Artificial Intelligence and Data Science in Capital Markets event...
+UK economy grows as expected in three months after Brexit vote
+ONS figures show UK economy grew 0.5% quarter-on-quarter in the three...
+Business leaders urge Theresa May to abandon corporate reforms
+Corporate and finance chiefs say PM's plans to shake up boardrooms...
+© Copyright 2016 IBTimes Co., Ltd. All Rights Reserved.

@@ -1,0 +1,68 @@
+Live Free or Mine: How Libertarians Fell in Love With Bitcoin - CoinDesk
+Vote Now for CoinDesk's Most Influential People in Blockchain
+Live Free or Mine: How Libertarians Fell in Love With Bitcoin
+Corin Faife (@corintxt) | Published on October 8, 2016 at 15:37 GMT
+"I knew that online digital cash was a great thing for libertarianism from the moment I heard of it... So, as soon as bitcoin came along I thought, 'Oh my god here it is, it's finally happening!'"
+In a Skype call from Tokyo, investor Roger Ver is explaining what first drew him to bitcoin, and his well-documented passion for the digital currency network is evident and infectious.
+"I think it's [a chance] for the individual to be in complete control of his or her funds," he adds.
+Having been a prominent early investor in bitcoin startups, Ver is now putting most of his time into Bitcoin.com, a new forum and information platform which he set up due to a perceived lack of openness in the debate on existing forums.
+This drive towards openness and resistance to any top-down control, along with a reverence for freedom of choice as the ultimate right, is emblematic of Ver’s own mentality and that of libertarians as a whole. But beyond his enthusiasm in bitcoin, this interest has spread to the broader Libertarian community.
+But, what was it about the philosophical groundings of libertarianism that made it such a perfect ideological fit for bitcoin in the first place?
+The full story goes far beyond the world of cryptocurrency.
+According to the most recent Pew survey in 2014, more than one in 10 Americans identify as libertarian, yet almost 45% of survey respondents could not correctly identify a description of the ideology in a multiple-choice question.
+There's a Libertarian candidate in the presidential race, but he's expected to win less than 8% of the votes; even so, this makes him the most popular Libertarian presidential candidate ever by a long shot. Today, many libertarians proudly and publicly identify as anarchist, and yet in the past 200 years, anarchism has been the most prominent source of domestic terrorism in the US.
+Today’s libertarians are not calling for armed revolution – for the most part – and those that identify as anarchist come from a different tradition than the dynamite throwers of the 19th century. In general, libertarian thought in America takes its roots from the Austrian School of economic thought, whose members, notably Friedrich Hayek and Ludwig von Mises, stressed the importance of individual choice in generating economic (and thus social) phenomena and, further, that markets in which individuals could trade without interference were not just a circumstantial fact, but a goal to be achieved.
+In the latter half of the 20th century, these views were expanded on by an American-born economist of the Austrian school, Murray Rothbard, who argued more vociferously than any of his predecessors against the State itself. Or, as he called it: "that organization in society which attempts to maintain a monopoly of the use of force and violence in a given territorial area."
+While the Rothbardian view of libertarianism, often described as anarcho-capitalism, saw any form of social order organised under a hierarchical state as illegitimate, most libertarians support a less extreme formulation in which at least a minimal form of the state exists in order to guarantee certain rights and freedoms.
+In terms of libertarian government politics, the current US Libertarian Party is running on a three-point platform under the rubrics of "personal liberty" (freedom of expression, sexuality, reproductive rights, etc); "economic liberty" (property rights, and fully privatized free markets for labour, healthcare and education); and "securing liberty" (which consists of reducing overseas military intervention and promoting trade and migration).
+That said, the policies of the Libertarian Party are by no means a perfect proxy for the libertarian movement as a whole – especially in its more recent online incarnation, and the specificities of cryptocurrency are rarely mentioned in the party's literature (beyond a readiness to take bitcoin donations).
+But investors like Ver are not the only ones interested in how bitcoin fits into the political lineage of libertarianism. Eli Dourado, research fellow and director of the technology policy programme at Mercatus Center research institute, sees the attraction one that is rather natural from an ideological standpoint..
+"There's a long trend of libertarian thought about the functions of the state and what can be done outside the state," Dourado said. "For example, there's a famous article by Nobel Laureate Friedrich Hayek on the denationalization of money; so this is very much in that current of thought: serious people thinking about whether money can be done without the state."
+Many people have found the denationalization argument compelling but, as Eli Dourado explained, a large number of bitcoin-promoting libertarians are fixated with the more contentious hard money issue: the fact that once the hard-coded limit of 21m BTC is reached, no more can be created, making it resistant to inflation.
+The hard limit is real, but what's less clear is whether the projected positive outcomes will be: many economists consider the idea of a zero inflation economy with a great deal of skepticism.
+Nonetheless, many hard money advocates gravitated to the bitcoin project from the beginning, and found both an audience and a platform for their views.
+"When the technical people [in bitcoin] started to ask for people to teach them more about monetary economics, it was the hard money people who raised their hands," Dourado said. "As a result we've ended up with a lot of bad monetary economics being circulated within the community, sometimes in the name of libertarianism but inaccurately so."
+It would be hard to discuss contemporary libertarianism in America without making at least some reference to the New Hampshire Free State Project.
+Now in its fifteenth year (as dated from founder Jason Sorens' original announcement), the project has amassed over 20,000 signatories who have pledged to move to New Hampshire. The goal, according to those involved, is to gain enough voting power to influence the state legislature as far toward libertarian policies as possible.
+As it happens, Roger Ver was himself first introduced to bitcoin through Free Talk Live radio, broadcast from New Hampshire and closely associated with the Free State Project.
+In his own words, Ver "saw the big picture faster than the hosts did" and started paying to advertise bitcoin on the show. Then in 2012, the following year, Ver attended the Free State Project's annual Porcupine Festival along with fellow bitcoin devotees Erik Vorhees and Charlie Shrem. There, the trio helped many traders set up wallets and start accepting bitcoin payments.
+Surprisingly, Sorens said that, until this point, a lot of the vendors had been trading mainly in silver to avoid using US dollars. Compared to this, electronic payments were a huge leap in convenience, and at the most recent Porc Fest several vendors accepted only bitcoin.
+"It's a major part of a lot of people's lives here in New Hampshire. One of our state legislators is very active in bitcoin and spoke at the most recent Bretton-Woods conference about it … So there's been a very strong interest in cryptocurrency here."
+Sorens said that he makes bitcoin transactions, but is still unsure about investing heavily in digital currency as a store of value. Despite its promise, he says, it's unlikely to be a silver bullet for achieving libertarianism's monetary goals.
+"I think [bitcoin] is a piece of the puzzle, but if you’re interested in getting away from fiat currency and you're worried about inflation and debasement of the currency, it's not the full solution,” he said.
+Like Eli Dourado, he made reference to the need to ensure greater competition between banks and currencies as a key objective, without necessarily wanting to end the central banking system altogether.
+In bitcoin circles, Erik Voorhees is known as both a serial entrepreneur and an outspoken libertarian. Besides founding bitcoin startups Coinapult and Shapeshift.io (the latter of which he still runs as CEO), he also maintains the MoneyAndState blog, in which he advocates for an end to government control of money.
+In this sense, like Roger Ver, he is deeply invested in both the financial and the politico-philosophical nature of bitcoin.
+As a member of both the old guard and the new school, Vorhees has noticed the changing political trends in the community at large, but believes money and the state can still be separated in the long term.
+"Money and politics are intrinsically connected," Voorhees told CoinDesk. "So if there’s a fundamental change in the way money works – such as with bitcoin preventing governments from creating money out of thin air – then that necessarily changes what politics is able to do."
+Though this is a typically libertarian framing of bitcoin's virtues, Voorhees is also enthusiastic about the influx of bitcoin users and entrepreneurs who do not share his views. But he also stressed that the key role libertarians played in the story of bitcoin was due to the time, money and energy they put into the early stages of the currency.
+From the perspective of 2016, it’s easy to look at the thriving bitcoin ecosystem and forget the poor usability, negligible value and relative obscurity which characterized its early years. Libertarians may no longer be the ideological driving force in the cryptocurrency world, but Voorhees's assessment of their early contribution rings true.
+A question remains as to whether bitcoin represents, as some might claim, a sort of 'libertarianism by design' which exists separately from the beliefs of those who use it. Voorhees, for example, takes the position that the continued growth of bitcoin is inherently a success for libertarianism.
+Overall, the influence of staunchly libertarian bitcoin entrepreneurs like Ver and Voorhees still looms large in the cryptocurrency scene, and in light of their early contributions (and those made by others of a similar mindset), the philosophy will always merit a page or two in any history of bitcoin or blockchain.
+"I think that if bitcoin hadn't had a strong ideological connection for a sufficiently large group of people in its early days, it probably would not have overcome the initial catch 22 that it doesn’t become useful until enough people are already using it.”
+Without that, it's hard to see where the industry would be today.
+The US Federal Reserve is ‘Paying Close Attention’ to...
+What If One Bitcoin Isn't Like the Others? Fungibility...
+Subscribe to our free newsletter and follow us
+Nov 20, 2016 at 14:53 | Josh Stark
+Ledger Labs' Josh Stark seeks to provide a high-level framework for understanding the potential of nascent blockchain governance applications.
+Nov 10, 2016 at 12:16 | Stan Higgins
+Trump Election Casts Uncertain Shadow on US Blockchain Policy
+Leading blockchain policy groups weigh in on what a Trump victory means for the emerging technology and its startup community.
+Nov 9, 2016 at 18:40 | Michael del Castillo
+Veteran Bitcoin Legal Strategist Joins Firm Hosting Trump Transition Meetings
+Veteran bitcoin lawyer Carol Van Cleef has officially joined Baker Hostetler, a law firm that will oversee President-elect Trump's transition.
+Nov 8, 2016 at 13:35 | Pete Rizzo
+Trumpchain Revealed: The Man Behind the Blockchain Parody
+CoinDesk gives a short spotlight to the man behind a popular blockchain Twitter account that could be coming to a close with the US election.
+Subscribe to our free newsletter and follow us
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.

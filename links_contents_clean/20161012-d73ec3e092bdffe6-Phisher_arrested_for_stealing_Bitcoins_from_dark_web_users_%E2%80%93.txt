@@ -1,0 +1,38 @@
+Phisher arrested for stealing Bitcoins from dark web users – Naked Security
+Phisher arrested for stealing Bitcoins from dark web users
+Get the latest security news in your inbox.
+Previous: CCTV that lets the crooks watch you, not the other way around…
+Next: Twitter bot baits bullies into meaningless and futile arguments
+A US man has been arrested for allegedly stealing Bitcoins from the one user base that might like to see itself as immune from such crimes – other dark web users.
+According to the Department of Justice indictment, 34-year old Michael Richo mocked up phishing pages to steal logins for Bitcoin wallets escrowed on dark marketplaces, catching out 10,000 users whose details were later found in a database on his laptop.
+A second method he used was to keylog (i.e. record) the logins directly after forwarding phished traffic through a server under his control.
+Richo is said to have monitored the account balances of wallets, withdrawing Bitcoins as they were deposited before selling them back to other users for US dollars. He then deposited the laundered funds into a bank account in his name.
+Between November 2013 and October 2014, police said Richo had admitted stealing Bitcoins worth a “six-figure” sum from his thousands of victims.
+Free home computer security software for all the family
+Bitcoins are essential for buying and selling illegal services on the dark web because they afford anonymity, especially when currency is ‘tumbled’ or ‘mixed’ to hide its origins.
+This raises an interesting question – given the anonymity of dark web transactions, how did police gather evidence about Richo’s activities?
+Given how long it has taken police to arrest him for alleged crimes dating back two or more years, doubtless it wasn’t easy.
+One possibility is some form of forensic analysis in which the pattern of data moving around the Blockchain system is traced mathematically to events on a specific computer at a moment in time, even when transactions have been tumbled.
+Alternatively, it could also be that laundering sizable numbers of Bitcoins isn’t as unobtrusive as some assume and Richo’s activities were noticed.
+For obvious reasons, police don’t go into much detail about their techniques even in high-profile dark web cases such as the famous arrest of Silk Road marketplace creator Ross Ulbricht in 2014.
+Another issue is who Richo’s victims were and what they were using their lost Bitcoins to buy or sell. Undoubtedly some of them will be worried that police might have enough data to track them too.
+The ultimate irony of someone ripping off dark web users is that it is a place that can ill afford to be seen as unreliable.  The anonymity of Bitcoins – and other virtual currencies – is essential to maintaining its status.
+Although he appears to be co-operating with police, Richo still faces the possibility of a very long jail sentence if convicted – money laundering carries a maximum term of imprisonment of 20 years with up to 10 years for fraud and two years for identity theft.
+Previous: CCTV that lets the crooks watch you, not the other way around…
+Next: Twitter bot baits bullies into meaningless and futile arguments
+John E Dunn has covered cybersecurity since 2003 - long before anyone was worried. He was co-founding editor of industry title Techworld and security editor at Computerworld UK. Other editor stints included Network Week, Network World, LAN Magazine, Personal Computer Magazine, start-up title Tornado-Insider Magazine, as well as the usual blogs, freelance articles, glum appearances on BBC TV/Radio, and expert opinion for the magnificent CBC Canada.
+6 comments on “Phisher arrested for stealing Bitcoins from dark web users”
+I don’t see how it’s money laundering. It was BC, which is not recognized as legal currency in the US. I’m more likely to believe he stole BC from someone with legal (CIA/FBI/politicians) power, pissing off the 2nd worst people you want to. (the worst being Mexican gangs).
+Maybe changed with stolen goods (who will testify he stole from them??) and or hacking, but not laundering.
+I have always wondered this as well… how is it money laundering when its not considered money…
+From the governments eyes the “dark web” is trading goods for a number/guid type thing not currency (its not backed by gold or the feds word lolz) so how do they even have the right to go after them?
+If i trade a number i write down on a notepad for a object does the number i write down become a currency if both parties agree that it has some phantom value>>>?
+John E Dunn October 12, 2016 at 6:10 pm
+It’s money laundering if he turned his stolen Bitcoins into real currency – that’s what laundering is.
+It sounds like he admitted to theft, but if he hadn’t, it doesn’t sound like they would have anyone to say that he stole from them, and no case for the laundering. Such is the smarts of a thief.
+No, money laundering is taking illegally-obtained money (“dirty” money) and creating a phony paper trail to falsely prove it was obtained legally, thus turning it into “clean” money. Merely selling stolen property is not money laundering, though it’s still illegal.
+It’s not clear how much (if any) actual money laundering occurred in this case, though the fact that he got caught suggests it was insufficient.
+I think the fact that he was dumping it into his own account, and not doing the usual setting up mule accounts aided them in confirming his identity. It would be impressive if they were able to track it through mixing, but he likely was just sloppy.
+“Free porn for life” using stolen TeamSkeet accounts advertised on Dark Web
+DEA agent who lined his pockets with Silk Road bitcoins pleads guilty
+© 1997 - 2016 Sophos Ltd. All rights reserved. Powered by WordPress.com VIP

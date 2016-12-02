@@ -1,0 +1,33 @@
+Video: Just How Significant is Chinese Miners' Control on Bitcoin? - CryptoCoinsNews
+Video: Just How Significant is Chinese Miners’ Control on Bitcoin?
+Editor’s note: Article has been updated for clarity.
+he concentration of bitcoin mining power in China continues to raise concern in the bitcoin community. A recently produced TechCrunch video, based on Nathaniel Popper’s book, “Digital Gold,” offers an overview of bitcoin mining, including footage from inside of a Chinese mine. Several prominent bitcoin executives offer their views about the issue.
+The video is titled, “Mines and Miners | Truth Disrupted: Bitcoin and the Blockchain.”
+When bitcoin began, miners were the “fanatics” who had fallen in love with bitcoin, noted Popper. But over time, mining has become a specialized profession available to those who have the ability to set up mining centers.
+“That’s become something of a problem because the design of the bitcoin software gives decision-making power to the miners,” he said. “These miners around the world have a sort of voting power over the bitcoin software and what bitcoin itself looks like.”
+Bobby Lee, CEO of BTCC, a Shanghai bitcoin exchange and mining company, explained that bitcoin’s founder, the eponymous Satoshi Nakamoto, saw mining as a way to award new bitcoins in a fair manner. “The only fair way he came up with was to give it for free to whoever wants it,” Lee said.
+Gavin Andresen, chief scientist at the Bitcoin Foundation, explained how miners form bitcoin blocks and race to provide the canonical record of bitcoin transactions in exchange for being rewarded newly-mined bitcoins.
+As the bitcoin price rises, it incentivizes a miner to activate their mining equipment, said Dave Carlson, founder of Megabigpower Bitcoin and Ether Mining Company, which is in the United States. Miners produce less bitcoin over time, he said, but the value of each bitcoin rises.
+Popper said the industry has reached a point where the determining factors in who can profitably mine bitcoin is access to cheap computer hardware, and access to cheap electricity. “Right now, the place where those two things are easiest to find are China,” he said, noting that two thirds to three quarters of all bitcoins mined come from mining installations around China.
+The video then shows the inside of a Chinese mine, with employees being fed their daily meals and enjoying recreational games.
+Zhu Rei, CEO of an unidentified Chinese mine “somewhere in Szechuan Province,” noted there are 15 workers who live and work at her mining facility. Their main job is to look after the hardware. The video shows shelves filled with mining computers that the workers maintain.
+The geographical areas with the low electricity rates are in rural areas, Rei noted. She added that the number of people working in these mines is increasing rapidly.
+Carlson raised the possibility that someone could decide that bitcoin mined in the U.S. should not be accepted into any of the bitcoin blocks in China.
+  “That’s a very scary, scary concept. It should be extremely scary to the people who have invested in the businesses that are built on the bitcoin blockchain.”
+  Charley Cooper, managing director of the R3 blockchain Consortium, said there should be some concern about China’s growing power over bitcoin mining. “What do you do in a situation where one particular entity or group of entities acting collectively gain enough power in an open system that they can begin dictating the governance of that open system?” Cooper asked.
+Also read: Scenes from a visit to a secretive bitcoin mine
+Popper said the issue is a test of the philosophy behind bitcoin. One of the main ideas was that people working together could create a better system than any one startup or entrepreneur could.
+“This was the idea of communal wisdom,” Popper said. “It’s not at all clear that that software being developed by volunteers all around the world is going to be able to adapt quickly enough to keep up with the existing power and all the resources that they have to put into this experiment.”
+Posted in: Bitcoin Mining, News Tagged in: bobby lee, gavin andresen, Nathaniel Popper
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+NextKomodo Anonymous Cryptocurrency Announces the Launch of Its Upcoming ICO17/10/2016
+PreviousThe DAO Chart Is at an Important Juncture in Time17/10/2016
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

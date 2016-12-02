@@ -1,0 +1,43 @@
+SA banks, Strate set up blockchain network | ITWeb
+      Advertise on ITWeb         Sat, 26 Nov, 05:17:43 AM
+SA's financial institutions appear to be seriously investigating blockchain technology.
+South Africa's largest banks, along with Strate, the country's central securities depository, have set up a blockchain network among themselves.
+This was announced at a Strate blockchain conference in Johannesburg last week.
+Strate provides electronic settlement of equities and bonds transactions concluded on the Johannesburg Stock Exchange.
+The working group has representatives from Nedbank, FirstRand, Absa, Investec and Standard Bank. The Reserve Bank (SARB) and the Financial Services Board are also present in observer roles.
+The participation of the Reserve Bank is significant in that in the past it has viewed blockchain, or at least bitcoin, with suspicion, advising consumers in a statement in 2014 that it had "no legal status or regulatory framework, and poses risks for those who choose to transact with it".
+Arif Ismail, head of oversight at the SARB, said being part of the working group had given the bank the opportunity to understand and learn what the underlying technologies were.
+A blockchain is a distributed ledger that records and manages the transfer and ownership of assets. The assets can be anything: shares, equities, bonds, or something more corporeal, such as a property or vehicle.
+The working group has now established a private blockchain, set up in a matter of weeks among its members, and has exchanged assets using a distributed ledger. Some advantages of using a blockchain include faster transactions as well as lower costs.
+"[None of the stakeholders] wants to be left behind," said Ismail. "Everyone wants to get their hands on what's going on with blockchains and distributed ledgers. And some of the concepts are not that simple. So, from a regulator's perspective, it's imperative that we keep close to what's going on."
+He said in the past, there was often a substantial lag between innovation and regulation.
+"This time around, given how fast things are changing in the market, you probably want something called ‘just in time regulation', and the only way to achieve that is to keep as close as possible."
+By way of international use cases, Ismail said the Australian Securities Exchange was investigating ledger technology to assist banks with post-trade clearing and settlement. Another example was the Bank of America and Merril Lynch, which were testing a blockchain with the Infocomm Development Authority of Singapore to digitise the exchange of letters of credit.
+While it seems unlikely that a blockchain solution is going to be implemented any time soon in the South African financial markets, the institutions appear to be seriously investigating the technology.
+Tanya Knowles, executive director of Fractal Solutions, a division of Strate, said getting the banks and regulators to cooperate had been a "massive effort".
+Knowles said while the institutions had been keen to be part of the initiative, the focus so far had been on peripheral use cases instead of core ones, but she was hopeful the participants would eventually take bigger steps as they progressed on the blockchain journey.
+Farzam Ehsani, leader of Rand Merchant Bank's blockchain initiative, used the example of the post office which once had a monopoly on sending written communication between parties. While the post office hadn't adapted to new technology, members of the working group saw the widespread adoption of blockchain as an inevitable progression and one that would require them to adjust their business models.
+He added the World Economic Forum predicted that within a decade, 10% of the world's GDP would be registered on blockchains.
+Ehsani said if there was a possibility to reduce costs, improve access and financial inclusion for South Africans, "why wouldn't we do that?"
+"Who are we as a consortium to restrict use cases? Open it up, let people issue their own IOUs, their own paper, whatever they want. My personal belief is that in the future it will be rare that assets will not be on the blockchain. Let's get the platform going."
+Our comments policy does not allow anonymous postings. Read the policy here
+The demand for distributed denial-of-service mitigation solutions is growing rapidly.
+The influx of personally owned devices, ubiquitous high-speed Internet connectivity and cloud-based applications is redefining the enterprise network.
+Google CEO to meet with EU anti-trust chief
+Access public, private cloud services through a single pane of glass
+View from the Top - what CEOs expect from their CIOs
+TradeSwitch is a next-generation electronic product distribution, transaction management and mobile payment service delivery platform.
+DATA EXPLOSION - Data is everywhere. We assist organisations to mitigate data risks. Read more.
+Boost your profit and cloud ERP expertise with the world’s fastest-growing true cloud ERP.
+     J2 Software is focused on providing our clients world class solutions which are both comprehensive and easy to manage. The J2 Software solution offerings allow you to track, monitor and control all activity across your environment.
+Cost reduction not MNO's responsibility alone says Telkom boss
+Africa: almost US$70-bn in mobile revenue by 2021
+Zim consumers demand action on high data prices
+Adapt IT CEO named IT Personality of the Year
+Nigeria ready to spend billions on ICT importation
+  Click here to download your FREE copy TODAY!
+16 & 17 May 2017 | Vodacom World, Midrand
+"I don't care how big you build the wall. I don't care how wide that moat is. I don't care if it's on fire with flame retardant crocodiles. It's just not going to work anymore, because they're (the hackers) paratrooping in," says Jayson Street, Infosec Ranger, Pwnie Express
+Contact us Advertise Newsletters Terms of use Privacy policy itnews Twitter Facebook Google+ LinkedIn YouTube Google Play iTunes RSS
+Copyright (c) 1996 - 2016 ITWeb Limited. All rights reserved.
+Would you like to see your news here? Contact us for more details at itnews@itweb.co.za
