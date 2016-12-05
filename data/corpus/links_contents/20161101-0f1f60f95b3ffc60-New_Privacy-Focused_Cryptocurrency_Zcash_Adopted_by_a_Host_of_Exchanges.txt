@@ -1,0 +1,149 @@
+http://www.financemagnates.com/cryptocurrency/innovation/new-privacy-focused-cryptocurrency-zcash-adopted-by-a-host-of-exchanges/
+New Privacy-Focused Cryptocurrency Zcash Adopted by a Host of Exchanges | Finance Magnates
+About
+Newsletter
+English
+My Area
+
+
+
+
+News
+Intelligence
+Events
+Directory
+Thought Leadership
+FM HomeCryptoCurrencyInnovationNew Privacy-Focused Cryptocurrency Zcash Adopted by a Host of Exchanges
+New Privacy-Focused Cryptocurrency Zcash Adopted by a Host of Exchanges
+Bitfinex, Bittrex, Bitnow, Bitsquare, Changelly, HitBTC, Kraken, Poloniex, ShapeShift and YUNBI all now support Zcash trading.
+Avi Mizrahi | Innovation (CryptoCurrency) | Tuesday, 01/11/2016|15:50 GMT
+2
+0
+Photo: FM Studio
+Zcash, a new privacy-focused cryptocurrency, was only launched on Friday and is already available on a large number of exchanges including:  Bitfinex, Bittrex, Bitnow, Bitsquare, Changelly, HitBTC, Kraken, Poloniex, ShapeShift and YUNBI. Despite being newly released, Zcash has some very well-known stakeholders, including Roger Ver, Barry Seibert and Pantera Capital.
+Join the industry leaders at the Finance Magnates London Summit, 14-15 November, 2016. Register here!
+Although operating as an open source project, Zcash is set up as company which gets 10% of the eventual monetary base. “Zcash is a group of scientists and techies who came up with a way to combine blockchains with data security. These two things are well understood, important, and widely used, but have never been put together before now,” said Zcash CEO Zooko Wilcox, “The launch of the Zash protocol is the first of its kind. It is the accumulation of years of academic research, hard engineering work, and diligent security work.”
+The Zcash total coin supply is going to be 21 million, similar to Bitcoin, and the asset follows the same issue rate. However, instead of having 10 minute blocks, ZCash will have a 2.5 minute block average, and the number of ZEC created per Zcash block will be a quarter the number of BTC created per Bitcoin block. It is based on zero-knowledge proofs promising to guarantee better privacy and confidentiality than bitcoin.
+Erik Voorhees, CEO, Shapeshift
+“Zcash finally fulfills an early promise of Bitcoin technology – the ability to transact freely and privately with anyone in the world,” said ShapeShift founder and CEO Erik Voorhees, “This protects the right to privacy held by all individuals on Earth, and opens up new commercial use cases which were impossible without truly confidential transactions.”
+$1 billion market cap?
+Paul Clarkson, product manager at HitBTC, commented: “There’s always a particular reason for listing a specific cryptocurrency. In the case of Zcash, the crucial advantage is an outstanding professional dev team and a hefty board of known advisors and investors. Another point is a brand-new cryptographic scheme that significantly differs from existing privacy-centric solutions. Bringing liquidity for innovative technologies is our job, and Zcash certainly deserves attention.”
+Clarkson continues: “An ‘open source company’ seems to be a new phenomenon, which is easy to imagine in the world of crypto, though. The open team and famous supporters should have a great positive impact on the Zcash adoption. I believe Zcash can surpass the market capitalization of $1 billion in couple of years from now.”
+Anthony Di Iorio, CEO, Decentral
+If you want to mine Zcash and hold it in a wallet, Decentral, the creator of the universal blockchain wallet Jaxx, announced today that its Zcash integration is officially complete. Anthony Di Iorio, founder and CEO of Jaxx, said: “There’s a lot of buzz and excitement around Zcash. Our team has worked hard to speed up the integration process, to test it appropriately, and to provide thousands of customers with access to this coin as soon as possible.”
+Got a news tip? Let Us Know
+FOUND A MISTAKE? LET US KNOW
+Tags: Bitcoin derivative / bitcoin-exchange
+How do you feel about the article?
+Educated
+Surprised
+Intrigued
+Indifferent
+Annoyed
+Discuss the Article
+Share your thoughts
+I agree to the Terms of Use
+Notify me of followup comments via e-mail.
+You can also subscribe without commenting.
+stranger
+what is the purpose of zcash if exchangers ask for ID or collect your IP or even use arbitrary system where you must show ID (bitsquare)? and there is no option “coin for cash” in bitsquare, so, all transactions are not anonymous, they have option “cash deposit” but that’s not anonymous.
+November 1, 2016 at 5:03 pm 0 0
+Luke
+stranger, you should read a little more about zcash. It is genuinely, in many ways unbelievably, private. The blockchain does not show where value goes to and comes from when you use a z address (there are also transparent ‘t addresses’ which are visible on the blockchain, but you can easily move coins between the two types). There are no z addresses visible on the blockchain. You can buy coins with your public ID, then use these coins to buy something from a vendor who supports zcash, and no-one would be able to link these two transactions except you.
+November 2, 2016 at 3:17 am 0 0
+ALL FM NEWS
+Borsa İstanbul Inks MoU With Islamic Development Bank ... / 9 hours
+Trump to Make Greek Banks Great Again – Piraeus Bank ... / 11 hours
+CME Group Strikes New Daily Record Open Interest Amidst ... / 12 hours
+Canadian Regulator OSC Warns Against Zurich Prime / 12 hours
+MOST POPULAR
+Day | week
+Borsa İstanbul Inks MoU With Islamic Development Bank
+Trump to Make Greek Banks Great Again – Piraeus Bank Chairman
+CME Group Strikes New Daily Record Open Interest Amidst Shortened Trading Week
+Canadian Regulator OSC Warns Against Zurich Prime
+RELATED ARTICLES
+Siemens to Reform New York's Energy Market with LO3 Blockchain Microgrids
+Lykke Unveils a Project Crowdsourcing/Collaboration Platform, Lykke Streams
+Goldman Sachs Parts Ways with R3 Consortium to Pursue Independent Research
+DIRECTORY CATEGORIES
+Social Trading
+28
+Wealth Management
+26
+Physical Precious Metal
+6
+Forex Brokers
+343
+Binary Option Brokers
+116
+Marketing Agencies
+30
+Affiliate Programs
+58
+Affiliate Software
+7
+Regulation Consulting
+20
+Tool Providers
+49
+Mobile Developers
+20
+Platforms
+127
+Industry Websites
+212
+Regulators
+50
+Telecom
+6
+KYC
+1
+White Label Solutions
+30
+Industry Start Ups
+12
+Lawyers & Incorporation
+13
+Translation Services
+9
+Risk Management
+11
+Liquidity Provider
+29
+Platform Providers
+70
+MT4/MT5 Bridge Providers
+34
+Development Firms
+80
+Binary Software Providers
+16
+Payment Processors
+46
+Industry Executives
+272
+Keep in touch with us
+Content Channels
+Retail FX
+Institutional FX
+Binary Options
+Executives
+CryptoCurrency
+FinTech
+About
+Overview
+Careers
+Contact
+Advertise with us
+Services
+Directory
+Intelligence
+Events
+About
+Website
+Newsletter intro
+Terms and Conditions : Finance Magnates
+Cookies policies
+Finance Magnates is a global B2B provider of multi-asset trading news, research and events with special focus on electronic trading, banking, and investing.
+Copyright © 2016 "Finance Magnates Ltd." All rights reserved. For more information, read our terms and conditions

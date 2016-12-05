@@ -1,0 +1,85 @@
+http://siliconangle.com/blog/2016/11/17/bitcoin-development-grant-puts-1-2-milliom-on-table-for-bitcoin-protocol-development/
+Grant puts $1.2 million on table for bitcoin protocol development - SiliconANGLE
+NEWS
+PEOPLE
+RESEARCH
+Wikibon
+TheCUBE
+SIGN IN
+Grant puts $1.2 million on table for bitcoin protocol development
+BY DUNCAN RILEY
+UPDATED 23:55 EST . 17 NOVEMBER 2016
+2 VIEWS / 1 MIN READ
+A group of bitcoin companies has joined together to launch the Bitcoin Development Grant, a $1.2 million grant fund for bitcoin protocol development.
+The fund will be used to support teams working on bitcoin protocol development, foster greater diversity of innovation and, according to the grant page, improve freedom of choice for bitcoin users. It’s led by Bitcoin.com (Saint Bits LLC) and BitMain Technologies Ltd., with support from Xapo Ltd., ANX, BitBank, BitBays, Bitcoin Colombia, Blockchain, BTCGhana, CoinATMRadar, Mycelium, Purse, Luxstack and others.
+The fund is taking an approach of being agnostic towards bitcoin forks, or departures from the standard protocol, noting that “no particular implementation of the bitcoin protocol holds claim to being the ‘official’ version of bitcoin” and that it will support a diversity of bitcoin protocol implementations.
+“Bitcoin is a leaderless community comprised of many parts, and no team of developers has decision making authority for the entire community,” the grant page notes. “Disagreement is healthy within a complex community such as ours. Yet the benefits of discussion, debate, and dissent require communication channels to remain free and open.”
+Those supporting the grant have taken a strong stand on open discussion and by extension censorship between differing viewpoints, noting that “by finding common ground … and by showing good faith towards all developers who wish to contribute to the development of bitcoin, we can begin to mend the deep rift that has divided and distracted our still-nascent community and industry.”
+That rift refers specifically to competing claims for bitcoin reform, such as Bitcoin Core, Bitcoin Classic and others.
+Developers interested in applying for a grand should send an email to apply@bitcoindevelopmentgrant.com with details of the project they would like to work on.
+Image credit: btckeychain/Flickr/CC by 2.0
+MORE FROM SiliconANGLE
+Japan plans to build the fastest deep learning supercomputer
+Stripe’s valuation reaches $9B thanks to new $150M funding round
+Are you ready for new data recovery regulations?
+Huawei is now the world's most profitable Android smartphone brand
+Systran Group launches neural machine translation tool for enterprises
+Snowflake Computing declares cloud storage price war on Amazon
+RELATED ARTICLES
+EMERGING TECH
+Bitcoin startup Blockchain passes 10 million wallets
+BY DUNCAN RILEY . 1 WEEK AGO
+EMERGING TECH
+iPayYou launches bitcoin-to-Amazon payment service
+BY DUNCAN RILEY . 1 WEEK AGO
+EMERGING TECH
+Walmart and IBM test blockchain for custom supply chain tracking
+BY DUNCAN RILEY . 1 WEEK AGO
+CH00 #THECUBE CHANNEL
+This is the main channel...
+CUBE NEWS
+SEE MORE
+Can cross-pollinating data and security block the new cyber-hacking threat? | #theCUBE
+Data confluence: handling the scale of distributed computing | #CDSUSA
+Too big to fail: How a popular online community monetized its platform | #Amplify
+Crowd-sourcing online talent to win a million-dollar competition | #CDSUSA
+Helping software help us: How one startup is making the most of APIs | #Amplify
+Data science: What does it mean and how is it best applied? | #CDSUSA
+TRENDING STORIES ON THE WEB
+ARS TECHNICA
+Japan plans 130-petaflop China-beating number-crunching supercomputer
+USA TODAY
+For Apple deals, you're better off at other retailers
+IT PRO
+Is ransomware targeting Facebook Messenger users?
+MAC RUMORS
+Expercom Offering MacBook Pro With Touch Bar For Up to $225 Off With AppleCare
+DIGITAL TRENDS
+Save big with the best smartphone deals on Black Friday
+UPCOMING EVENTS
+HPE Discover 2016: November 29th – December 6th (London, UK)
+AWS re:Invent: November 28th – December 2nd, 2016 (Las Vegas, NV)
+5th Annual CloudNOW Top Women in Cloud Awards: December 7th (Mountain View, CA)
+Spark Summit East 2017: February 7-9 (Boston, MA)
+BigData SV 2017: March 13-16 (San Jose, Ca)
+Dataworks Summit EU 2017: April 2-4 (Munich, Germany)
+BigData UK 2017: May 22-25 (London, UK)
+Spark Summit 2017: June 6-8 (San Francsico, CA)
+Dataworks Summit US 2017: June 13-15 (San Francisco, CA)
+SPONSOR POSTS
+Are you ready for new data recovery regulations?
+Join Our Community
+For personalised content stay with us.
+I AM INTERESTED IN
+PRIVACY POLICY
+TERMS
+ABOUT US
+JOIN US
+SEND US NEWSTIP
+2016 SiliconANGLE Media, Inc. All rights reserved.
+JOIN OUR COMMUNITY
+theCUBE
+Wikibon
+FOLLOW US
+DESIGN PARTNER
+UXReactor

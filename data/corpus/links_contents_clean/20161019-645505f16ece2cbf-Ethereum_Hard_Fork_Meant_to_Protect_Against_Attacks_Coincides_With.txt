@@ -1,0 +1,9 @@
+Ethereum Hard Fork Meant to Protect Against Attacks Coincides With Yet Another EXP Attack
+Ethereum Hard Fork Meant to Protect Against Attacks Coincides With Yet Another EXP Attack
+Barely 24 hours into its scheduled Ethereum hard fork which was supposed to introduce “changes to help protect against the recent DOS attacks on the network,” one of the contracts from the project seems to be under yet another attack.
+This was confirmed in a Reddit post by Ethereum’s Nick Johnson in response to a post suggesting same:
+“Yes, the attacker's conducting an EXP attack as we speculated he would. Processing times are between 1-3 seconds depending on how powerful your node's CPU is (unlike previous attacks, this is entirely a processing power attack). The second HF will reprice EXP accordingly so as to make this a nonissue.”
+When asked if the second anti-DOS hard fork is being bundled into Metropolis or happening before, Johnson posted that it is happening earlier and that they were unable to stop the attack because they noticed that EXP was underpriced while doing a survey of opcodes after the first hardfork was already locked in.
+“Previously, we were able to cache the entire accounts state in memory (it was about 180MB). Due to the state bloat attack, we now only cache recently referenced nodes, and the attacker is taking advantage of that to force geth to do a lot of reads - on the very accounts he created in the previous attack.”
+According to the user Finish-the-thought, the affected contract’s creator is a mining address which mined ETH 433 days ago.
+The network was last attacked in September by a transaction spam attack that created blocks that take up to ~20-60 seconds to validate due to the ~50,000 disk fetches needed to process the transaction.

@@ -1,0 +1,54 @@
+https://www.cryptocoinsnews.com/bitstamp-integrates-with-trezor-bitcoin-wallet/
+Bitstamp Integrates with TREZOR Bitcoin Wallet - CryptoCoinsNews
+Explore
+Menu
+
+CryptoCoinsNews
+Accepts BitcoinBitcoin SecurityBitcoin Wallets
+Bitstamp Integrates with TREZOR Bitcoin Wallet
+Elliot Maras on 21/10/2016
+
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+B
+itstamp users can now store funds directly into TREZOR, the hardware bitcoin wallet developed by SatoshiLabs, Bitstamp announced on its website. Bitstamp’s interface enables simple transfers of bitcoins to and from TREZOR wallets with only a few clicks.
+With the integration of the hardware bitcoin wallet, Bitstamp makes its marketplace more accessible to customers’ demands and expands options for customers’ security without compromising user experience.
+Users can store funds directly to a TREZOR wallet without leaving the Bitstamp website. Embedded TREZOR accounts allow users to withdraw acquired BTC to a TREZOR device in only a few clicks.
+TREZOR Giveaway Begins
+To celebrate the integration, Bitstamp is offering a giveaway for all active users. On a weekly basis, Bitstamp will randomly select a user that made at least one trade to receive a free TREZOR from SatoshiLabs.
+To participate, users will make one active trade in the week preceding the draw. Every Wednesday, starting on October 26, one winner will be chosen. The first week will be from October 19 to October 25. Draws will continue through the end of the year. Bitstamp and SatoshiLabs will inform winners.
+TREZOR enhances an isolated environment for offline transaction signing. A small display allows users to visually verify the transaction contents.
+TREZOR is Windows, OS X and Linux friendly. It has only two buttons, to confirm or to deny the action. Users can create a backup of the TREZOR by recording the seed on a piece of paper, which will allow them to regain access to their coins in case of a disaster.
+Also read: This is the definitive hardware bitcoin wallet
+TREZOR 2 Coming Soon
+SatoshiLabs is also developing TREZOR 2, bringing new hardware features to make use easier and more comfortable by introducing a bigger display and an entirely new software stack, Hacked reported.
+“It becomes super easy to develop any TREZOR security applications or to integrate them into the current systems,” CEO Alena Vranova said. “The knowledge of Python or JavaScript will be enough for people to code with/for TREZOR.”
+TREZOR, which is also compatible with the smart contract based blockchain Ethereum, is the first bitcoin hardware wallet and considered by many to be the benchmark for end-user bitcoin security.
+“The success of TREZOR stems from the fact that we’ve been solving real problems with a minimalistic approach and user experience in mind,” the CEO said.
+Images from TREZOR and Bitstamp.
+  Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+Posted in: Accepts Bitcoin, Bitcoin Security, Bitcoin Wallets, Ethereum News, News Tagged in: bitstamp, SatoshiLabs, trezor
+
+Recent Posts
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+Advertisement
+NextBreathe Easy Bitcoiners, Quantum Computing No Match for Sha-2 Encryption21/10/2016
+PreviousA DDoS Attack is Crippling the Internet & One Cryptographer Called It21/10/2016
+Advertisement
+Recent Comments
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

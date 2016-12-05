@@ -1,0 +1,41 @@
+Once a gateway for aspiring entrepreneurs, even blockchain enthusiasts with successful startups are benefitting from a new wave of hackathons and incubator projects.
+While experts in more traditional industries may shy away from such activities, the development highlights how, despite the progress it’s made so far, the blockchain sector is still in its infancy. Now, there are signs this realization may be causing a broader business model shift.
+While bitcoin companies may have started out appealing to enthusiasts (hoping to gain enough momentum that they could then garner mainstream attention and adoption), Scott Robinson, founder and vice president of Plug and Play Fintech, thinks this strategy hasn’t worked.
+Robinson, who has incubated a number of startups seeking to use the technology to disrupt incumbent industries, told CoinDesk:
+"At the end of the day, typically the channel to capture the end consumer is to go through large financial players."
+Bitcoin and blockchain entrepreneurs have had trouble accessing executives at these institutions and so rely on hackathons – many times hosted by legacy players – to network with potential connections, he said.
+For startups, hackathons can be helpful in connecting them to possible legacy institution clients.
+Plug and Play’s accelerator provides that service, working with 96 early stage companies since its launch in February 2014, 46 of which had received external funding before entering.
+But there’s also benefit for corporates too. Legacy institutions that work with incubators and host hackathons find themselves in a position to connect with new technology that could substantially enhance their business, he said.
+And now so, more than ever, corporates of all kinds are taking advantage. For instance, Capital One held a hackathon in San Francisco with Chain in July 2015, for which the bank flew in 70 of their employees to work on blockchain-based solutions with blockchain experts.
+Hackathons like this "reconcile those that are in the [financial services] domain but don’t have a great understanding of blockchain with those that understand blockchain but don’t have a good understanding of finance," Robinson said.
+There are a number of successful (by some measures) bitcoin and blockchain startups that continue to participate in hackathons or have joined accelerators. Blockchain services firm Bitfury Group, for example, raised $90m to provide bitcoin mining services, earning enough to even create its own accelerator, the Blockchain Trust Accelerator.  
+Yet, even it went into an accelerator backed by Ernst & Young in an effort to take its business forward. Bitfury won "Best Pitch" for its blockchain solution for digital rights management last week, and has since partnered with the 'Big Four' firm to take its solutions to enterprise firms.
+"We are very proud of it, we did that competition, built a relationship with senior partners. We quickly understood there was a relationship where Ernst & Young could add value with the large multinational customers using Bitfury's expertise around the blockchain," Marc Taverner, the company’s head of business development, told CoinDesk.
+Likewise, Darren Tseng, co-founder and vice president of product at Adjoint, a distributed ledger and smart contracts platform for financial services, launched his company in June but continues to participate in hackathons.
+Not that either of those has to do directly with his work at Adjoint (it isn’t a consumer application," he said), it’s just about making friends with other developers.
+"Hackathons are one of the best breeding grounds for new ideas that I have ever come across," said Jeremy Gardner, founder of the Blockchain Education Network and the entrepreneur in residence at Blockchain Capital, a venture fund in San Francisco.
+"Forcing programmers to go from the drawing board to a working demo in 24 to 72 hours spawns a special, raw form of creativity that I have yet to see elsewhere," he said.
+Gardner has been responsible for helping organize and judge hackathons for several years. Recently, while attending the Distributed Health hackathon, he decided to join blockchain-based medical appointment integrity startup, Saavha, as a co-founder to lead business development.
+And he thinks, even with a business, programmers and developers should continue participating in hackathons to be introduced to new concepts, products and potential collaborators.
+"The ROI for participants is clear, but it can also be equally useful to companies that want to have programmers test their offerings for the first time or in new ways," said Gardner.
+Those who make an impression at hackathons can also open doors through awards.
+Tseng also recently participated in the E&Y Startup Challenge, a six-week program that this year focused on blockchain applications. There, he and his team won an award as the "most investable" company – which is exciting for Tseng, since being a proficient blockchain software developer is challenging currently.
+"Distributed ledger technology is early in the adoption cycle. Early technologies tend to be less user-friendly and have a higher barrier to entry," he said.
+Yet, Tseng noted that he believes this will change as technologies backed by major banks and financial institutions like the Linux-led Hyperledger blockchain fabric and R3’s smart contracts platform Corda open up their inner workings and "bring new entrants into the space."
+Just this week, R3’s chief technology officer Richard Glendal Brown penned a blog post giving more depth to Corda and how it differs from other blockchain solutions, as well as a teaser about more details set to follow in the coming weeks and months.
+Even Christian Mate, the 18-year-old founder of blockchain startup Mesh, who already has six years' experience researching blockchain tech, argues ease of use isn’t one of blockchain software’s strong suits.
+Mate started mining bitcoin on graphics cards when he was 12 years old and built a couple web-based bitcoin wallet applications. The computer he started mining bitcoin with, he built when he was just nine. 
+So at a young age, he was "playing games that weren’t out yet, debugging them and learning how to reproduce those bugs,” Mate said.
+Unlike XBox games and mobile banking apps, there isn’t a solid developer tool kit for blockchain. The infrastructure that would enable the next generation of blockchain apps to be built, doesn’t exist right now, Mate explained. And the blockchain APIs that do exist aren’t very flexible, he added.
+Still, the blockchain's future will continue to progress at the fast pace it has since the launch of bitcoin in 2008, with enthusiasts running businesses and spending their free time at hackathons.  
+With inroads being made to connect startups and legacy institutions, the industry will catch up with other software-based industries and the so called "blockchain revolution" will take off, according to Mate.
+And hackathons are the best way to weed out the real use cases from the pie-in-the-sky theories.
+Hackathons, incubators and accelerators "show very quickly if a use case is something that makes sense for large corporations and they paint a pathway to matriculate the technology into the [legacy player’s] tech team," said Plug and Play’s Robinson.
+Correction: An earlier version of this article misstated the number of participants at Capital One's blockchain hackathon. This figure has been revised.
+Months after his release from prison for money laundering violations, entrepreneur Charlie Shrem has announced a new blockchain venture.
+Despite notable exits, sources say the majority of R3's members are likely to participate in its ongoing funding round.
+Venture capital in ethereum is surprisingly low, but is it really? Under the surface, ethereum is evolving differently than its predecessors.
+The Korea Exchange, South Korea’s sole securities exchange operator, has launched a new service that utilizes blockchain technology.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

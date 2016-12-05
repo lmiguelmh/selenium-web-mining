@@ -1,0 +1,113 @@
+http://www.coindesk.com/bitcoins-lightning-network-now-digital-asset-compatible/
+Bitcoin's Lightning Network is Now Digital Asset Compatible - CoinDesk
+TRENDING
+Vote Now for CoinDesk's Most Influential People in Blockchain
+BITCOIN PRICE INDEX (24H)
+Created with Highstock 1.3.7
+$730
+$735
+$739
+USD -0.14%
+$737.28
+CNY 0.19%
+¥5,194.62
+EUR €695.92
+GBP £590.66
+NEWS
+–
+PRICE & DATA
+–
+GUIDES
+–
+EVENTS
+RESEARCH
+PRESS RELEASES
+NEWS  •  TECHNOLOGY
+Bitcoin's Lightning Network is Now Digital Asset Compatible
+Alyssa Hertig (@AlyssaHertig) | Published on November 16, 2016 at 13:59 GMT
+NEWS
+369
+50
+1
+With Bitcoin's Lightning Network nearing launch, the number of tests seeking to upgrade the micropayments network is on the rise.
+Now, industry startup Colu has unveiled a demo of how Lightning could be made compatible with colored coins (a technology that enables small amounts of bitcoin to represent other assets, such as the US dollar, stocks, or even houses or cars). Mashing this concept together with Lightning could mean more of these transfers at a higher speed.
+Users can now send test transactions over the so-called "off-chain" network using Colu's demo, which perhaps offers the first user-experience for a Lightning Network project. The team worked with the startup Lightning Labs, tweaking its existing code to make it compatible with colored coins.
+But are near-limitless transfers of mortgage records really necessary?
+Colu co-founder and VP blockchain Mark Smargon said that he thinks that this functionality could help solve one of colored coins' bigger problems, while conceding that it might not be necessary for every use case.
+He told CoinDesk:
+"The biggest argument against colored coins is it doesn't give you scale right now. Bitcoin transactions are very slow to verify, expensive to approve and there is a bottleneck of the low amount of transactions per second."
+He argues that the low-hanging fruit for this functionality is local currencies, a use case that has become a big focus for Colu, which raised nearly $10m earlier this year in its bid to narrow its focus from colored coins more broadly.
+An interface for the idea
+A couple of years ago, we saw the peak of debate over the size of a field in bitcoin's code (called OP_RETURN) that companies and developers use to store extra data on the blockchain for use cases such as colored coins.
+Another small tweak to the protocol, it emerged as a contentious idea because of the possibility that it could "bloat" the blockchain in a way that harms overall scalability. Since all volunteers that are running bitcoin nodes need to store the extra data, the argument was that transactions that weren't peer-to-peer digital currency exchanges were perhaps unwanted freeriders.
+But as Smargon suggested, making colored coins compatible with a platform that grows the network from roughly three transactions per second to millions of transactions that occur off-chain could mitigate the issue.
+The demo shows how users might see this process.
+Once you click the page, a new Lightning account is automatically created (the random string of numbers that it calls your "Lightning ID"), and it starts the user off with fake money ($5,000) that he or she can transfer over Colu's colored coins-compatible test version of the Lightning Network.
+This is a demonstration of how the bitcoin in your account can represent US dollars with the help of the OP_RETURN field that adds more information about what the bitcoin are "colored" to represent.
+Smargon explained how channels can be updated using the same pattern that Lightning Network already uses.
+Once a "colored" transaction with OP_RETURN is initiated to open a channel, the channel parties can update the value back and forth off-chain. When it comes time to settle on the blockchain, the OP_RETURN data will reflect the finalized balances.
+Charging ahead
+Behind the scenes, the demo runs over "simnet," a simulated private bitcoin network run by Colu.
+Smargon said that it would work much the same on the bitcoin testnet and that it's ready to go on the real bitcoin network, at least, if and when a feature known as Segregated Witness is triggered on the main bitcoin network that will the enable Lightning Network.
+(Miners can begin signaling their support for the feature once a certain number of blocks have been added — probably as soon as 18th November).
+For now, the demo's a taste of what the network might look like once it’s ready for users.
+Disclosure: CoinDesk is a subsidiary of Digital Currency Group, which has an ownership stake in Colu and Lightning Labs.
+Rainbow lightning image via Shutterstock
+Colored CoinsColuLightning Network
+369
+50
+1
+PREVIOUS ARTICLE
+The Price of Bitcoin Just Jumped $30 in One Hour
+NEXT ARTICLE
+Peernova Quietly Collects $4 Million for Big Data Blockchain...
+Don't miss a single story
+Subscribe to our free newsletter and follow us
+RELATED STORIES
+FEATURE
+Nov 12, 2016 at 15:30 | Alyssa Hertig
+What's Left Before Bitcoin's Lightning Network Goes Live
+There aren't many steps left before bitcoin's Lightning Network will be finished — or at least an early version of it.
+NEWS
+Oct 18, 2016 at 21:17 | Alyssa Hertig
+Bitcoin's Lightning Network Takes a Big Step Toward Interoperability
+While several implementations of the much-anticipated Lightning Network have emerged, new specifications could bridge these splintered projects.
+NEWS
+Oct 6, 2016 at 14:02 | Alyssa Hertig
+Scaling Bitcoin Preview: 5 Talks to Watch at Bitcoin's Big Summit
+Bitcoin's scaling conferences are known for spawning big ideas.
+NEWS
+Oct 5, 2016 at 17:17 | Alyssa Hertig
+Bitcoin Lightning Payments Pass 'Milestone' With Blockstream Test
+Bitcoin's Lightning Network has passed another key milestone.
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+Registration Is Open!
+Only 75 tickets available at $999
+REGISTER NOW
+FEATURES
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+INDUSTRY PRESS RELEASES
+Nov 23 | 14:13
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Nov 23 | 09:00
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Nov 22 | 15:25
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Nov 22 | 01:30
+Accepting Cash Deposits with Flexepin
+VIEW MORE
+
+SUBMIT RELEASE
+
+Got a news tip or guest feature?
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+
+Never Miss a Story
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.
+No, thanks.

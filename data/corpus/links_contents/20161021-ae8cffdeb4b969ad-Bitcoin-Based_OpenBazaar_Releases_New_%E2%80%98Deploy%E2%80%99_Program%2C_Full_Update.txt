@@ -1,0 +1,36 @@
+https://cointelegraph.com/news/bitcoin-based-openbazaar-releases-new-deploy-program-full-update
+Bitcoin-Based OpenBazaar Releases New ‘Deploy’ Program, Full Update
+Toggle navigation
+BTC
+738.33
+0.33%
+ETH
+9.45
+1.2%
+Advertise
+  2016-10-21 10:40 AM
+Author Evander Smart
+Bitcoin-Based OpenBazaar Releases New ‘Deploy’ Program, Full Update
+2083 Total views 270 Total shares
+The forever-in-the-making OpenBazaar trading platform has been one of 2016’s bright spots in the Bitcoin space. After over a quarter of a million downloads (I was one of them) and thousands of new store ideas taking over a decentralized, user-powered digital space, it is time for a second refresh, months in the making.
+On Thursday, the group behind OpenBazaar known as OB1 released information on a new program they have developed called ‘Deploy,’ along with a long-awaited program update. Let’s start with the new ‘Deploy’ program first.
+Are you ready to Deploy?
+I know I am. Building an OpenBazaar store, at launch, six months ago was cool and all, but up to this point the store was only operational if my computer was online to power it. Since my computer isn’t on 24/7, it goes into sleep modes, and I don’t always open the app, it leads to a very non-committal way of doing decentralized business.
+Your standard website or email campaign works whether you are on your computer or not, with no batteries required. It's a better system, and more functional for everyone involved. It seems that OB1 sees it the same way, as they have released Deploy to fill in these gaps. It appears this is for new users or store builders, and won’t work with current stores. Honestly, this makes me want to get started with a new store all over again.
+Deploy makes your OpenBazaar store as convenient to operate as any website online. Deploy allows you to create and operate your new OpenBazaar store no matter what condition your computer is in, 24 hours a day, seven days a week. It will auto-update for you and govern your security as well. There are people who cannot handle servers all day, nor keep an open line, and Deploy fills in this space with its open-source code.
+“The real solution to this problem is OpenBazaar 2.0, which uses IPFS to distribute store data between peers so that your store is available 24/7 even if you’re offline,” said co-founder Washington Sanchez. “But until this is released, we want to help anyone create a permanently online store, whatever your skill level is.”
+This will work in association with a Digital Ocean cloud hosting account, which will provide you a node for just $5 a month. Create your API key, which OB1 never sees, click Deploy, and you are ready to open your new store by uploading your images and products.
+Client-only desktop application and new features
+OB1 is also releasing a client-only desktop application. Up until now, when you downloaded the OpenBazaar application, you received both the server and client. For users who are only running a node in the cloud, this was a little awkward as the application would run a local node in the background.
+The new app lets you connect directly to remotely hosted store. Once OpenBazaar 2.0 arrives, OB1 says they Deploy will create a store for you with just one-click, so think of Deploy as Version 1.0, but a very fast first version.
+OB1 also release 1.1.8, the first full update since the April launch. It will give vendors many interested and requested new features like setting a maximum quantity for order amounts, for better inventory management. Hidden listings will allow vendors to post items on their site that may require a direct link to see, deciding who can see an offer, and when. Also, the new pinned listings provide a way to feature certain products that have higher margins.
+OpenBazaar 2.0 to hit next April?
+OpenBazaar users will receive much more functionality when it comes to how they can use and display store images, addresses, shipping information and other page tools. For more information on these updates, click here.
+Maybe OB1 will release these new versions every six months, and OpenBazaar 2.0 will hit next April? This is just speculation, but this new update and Deploy program should reinvigorate early adopters like me, and ready to bring new users easily into the fold.
+OpenBazaar
+Bitcoin
+Applications
+Markets
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

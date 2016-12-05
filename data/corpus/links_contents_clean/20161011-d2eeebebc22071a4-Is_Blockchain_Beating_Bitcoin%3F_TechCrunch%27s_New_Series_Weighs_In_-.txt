@@ -1,0 +1,23 @@
+What is the blockchain? Where did bitcoin come from? And are bitcoin and blockchain still competing?
+These are the kinds of questions up for grabs in TechCrunch's new streaming series, "Trust Disrupted: Bitcoin and the Blockchain". Launching yesterday, the show explores how global finance is being forced to change and adapt thanks to the arrival of this technology.
+Narrated by New York Times reporter Nathaniel Popper, the series seeks to answer the all-too-difficult question of what actually makes a blockchain. Taken a step further, it explores how the same entities that bitcoin hoped to disrupt – banks, financial institutions and governments – are now looking at the blockchain as a way of streamlining or improving how they work.
+The series, broken into six episodes, is to be released over the rest of the week.
+The series features commentary from well-known industry voices like Gavin Andresen, one of the earliest bitcoin developers; Vitalik Buterin, creator of ethereum; and Fred Wilson, founding partner at Union Square Ventures, with each one giving their own take on the definition of "blockchain".
+Wilson, in particular, offered a clear-cut reason for his bullish attitude on blockchain tech, explaining that many of the largest companies today control vast bulks of user data, which creates an environment ripe for disruption.
+"Every time somebody amasses one of these big monopolies, something comes along that is a complete and total game changer and I think it's blockchain technology," Wilson said.
+Yet, as the first episode showcases, there's a real struggle between those that look at bitcoin the currency as the true innovation and those that are looking to leverage the underlying technology for other use cases.
+On one hand, there’s Charley Cooper, managing director at blockchain consortium R3CEV, who suggested that moving away from the "founding principles of bitcoin" to a focus on blockchain and distributed ledger technology is the right approach.
+Larry Summers, former US Secretary of the Treasury, echoed Cooper's points, suggesting that those that believe bitcoin is going to become a savior currency are wrong, but that the blockchain could help reduce financial frictions.
+But then there’s Roger Ver, an early bitcoin investor, who believes that these non-bitcoin focused projects are actually a sign that bitcoin, itself, is winning.
+"Now this many other people are interested in this technology ... that’s pretty exciting. Bank of America, Wells Fargo, and Western Union are here and in this space, that means we’re winning."
+In the second episode, Popper introduces the history of the growth of bitcoin mining from "the fanatics who had fallen in love with this idea [bitcoin]" to the "specialized profession" its become today.
+But what's essentially occurred, Popper explained, is that only people that have access to cheap computer hardware and access to cheap electricity are those that can mine bitcoin profitably.
+"Right now, the place where those things are easiest to find are China," he said.
+The episode then takes users into an unknown bitcoin mine in the Szechuan province, where 15 people work and live to keep an eye on the bitcoin miners that are always running. Due to the perfect storm that Popper described, these remote parts of southwestern China are seeing a huge explosion in new mine launches.
+But with 60-75% of all mining power done in China, there are some that have expressed concern in the episode, including Dave Carlson, founder of US-based MegaBigPower.
+"Think about the possibility that, due to a governmental ruling or something, no transactions originating in the US for bitcoin should be accepted to any of the blocks in China," he said, adding:
+Despite notable exits, sources say the majority of R3's members are likely to participate in its ongoing funding round.
+One of R3CEV's initial members isn't renewing its agreement with the world's largest blockchain consortium.
+Blockchain consortium startup R3CEV and eight major banks are said to be participating in the forthcoming trial.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

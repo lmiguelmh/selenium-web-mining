@@ -1,0 +1,56 @@
+https://www.cryptocoinsnews.com/viabtc-might-block-segwit-calls-1mb-blocks-network-suicide-moves-bitcoin-unlimited/
+ViaBTC Might Block Segwit, Calls 1MB blocks “Network Suicide”; Moves to Bitcoin Unlimited - CryptoCoinsNews
+Explore
+Menu
+
+CryptoCoinsNews
+Bitcoin MiningNews
+ViaBTC Might Block Segwit, Calls 1MB blocks “Network Suicide”; Moves to Bitcoin Unlimited
+Andrew Quentson on 12/10/2016
+
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+The never ending bitcoin blocksize debate returns to the forefront as ViaBTC, a new pool with around 10% network hashrate, moves all of its mining operations to Bitcoin Unlimited.
+I
+n a new public statement, ViaBTC delivered the most scathing criticism yet of the current bitcoin scaling situation. Written by Haipo Yang, CEO of ViaBTC, formerly at Tencent with experience in the development of distributed, highly concurrent network servers, the article argues that, in effect, the 1MB limit will destroy miners:
+“[W]ithout growing capacity for on-chain transactions the business model of the miners who secure the bitcoin network against attacks will be destroyed. If mining ceases to be a profitable enterprise, and it will if we do not allow conditions which enable more on-chain transactions to occur, the network will lose the enormous amount of computing power that keeps it secure from attackers. This is guaranteed to bring about the failure of Bitcoin the protocol as well as bitcoin the currency.”
+In a previous article the founder, Mr Yang, is described as a die-hard bitcoin fan who learned about the digital currency in 2011. Based on his “high performance server and background development” experience at Tencent, Yang developed a mining pool in just two months and now has shot all the way to 10% of the bitcoin mining network. The newcomer has been very vocal about on-chain scaling with the latest action placing in doubt bitcoin’s future trajectory.
+Segwit Enables “bitcoin’s death march [to] continue”
+Until ViaBTC’s actions, it was assumed that the network was to transform into a bank like clearing system, with segwit, now long overdue, to be activated sometime this winter. ViaBTC’s actions, however, make it very clear that’s not going to happen unless Bitcoin Core takes a hypocritical stance and lowers the threshold despite year-long insistence on 95%. Holding nothing back, Yang states:
+“SegWit activation will enable Bitcoin Core to keep refusing an actual block size increase and bitcoin’s death march will continue… to characterize bitcoin transactions on the Lightning Network as “bitcoin transactions” is false…The deployment of the Lightning Network will lead to the creation of centralized hubs, where users will be required to lock-up their coins within these hubs in order to have them available for transactions…the notion that bitcoin should be a “settlement layer” is ridiculous… to say that [LN] will become the primary method of transacting small amounts of bitcoin is patently absurd.”
+The chosen language indicates a strong conviction which raises the question of how exactly bitcoin’s capacity will now move forward, if it will move forward at all. Yang argues that Bitcoin Unlimited solves this problem once and for all. The new bitcoin client operates somewhat like Jeff Garzick’s BIP100, but without training wheels. Miners choose two main parameters, the max size of blocks they will produce and the max size of blocks they will accept. These parameters are then communicated to other miners through mined blocks.
+In many ways the system is very similar to the increase of the soft-blocksize limit that has been in operation since at least 2011 when the blocksize cap was at 250kbs. Without any centralized co-ordination or developers input, miners increased the soft limit to 500k, then 750k, and now to the max 1mb. Bitcoin unlimited allows this to continue, changing the soft cap to max size of blocks produced and the hard cap to max size of blocks accepted, thus fully decentralizing the decision.
+Many bitcoin miners think it’s an elegant and preferred solution, but the debate has now gone for so long that they seem resigned to bitcoin’s transformation. However, considering Roger Ver’s new pool and ViaBTC’s move to Bitcoin Unlimited, segwit’s soft fork could lead to a hardfork and two chains as it did during testing as miners would be using incompatible clients.
+It seems therefore that BTC either fully stagnates in a stalemate, segwit – now clearly having become controversial and unacceptable to more than 10% of the hashrate – is nonetheless forced through showing all previous arguments to have been utterly insincere, or other miners move to Bitcoin Unlimited and Bitcoin Core PoW hardforks (creating a paradox whereby they are willing to hardfork to avoid a hardfork) with investors and traders then fighting it out in about a month as to which coin should have more value while holders continue holding so having coins in both chains. Thus ending this almost two year’s long debate that in Yang’s words is ultimately a “trivial technical question of block size.”
+Threshold? What Threshold?
+Yang states that if there is to be a hardfork through the Bitcoin Unlimited client, there should be a 75% threshold and a 28 days period. However, that changes the nature of Nakamoto’s consensus from a balanced nash equilibrium where 51% need to be honest, to a disbalance where 75% need to be honest.
+Bitcoin Unlimited has its own consensus mechanism which applies nakamoto’s consensus. It errs on no change, until a 51% threshold is reached. Prior to this threshold, as all miners are applying the same rules, the network is in consensus, once the 51% threshold is reached, 49% of the miners will probably want to quickly move over so as to not accidentally risk a fork if one of the 51% of miners decides to actually mine a bigger than 1mb block.
+However, miners are not compelled to mine such block after 51% is reached or 75% or even 95%. They probably have the luxury of seeing as good as 100% of the hash rate accepting bigger than 1mb blocks shortly after the 51% threshold is passed before they actually mine a bigger than 1mb block. An added artificial threshold of 75%, therefore, only ensures a continued stalemate and is probably one of, if not the, biggest reason for previous failures as it requires prior social consensus, undermining nakamoto’s consensus.
+In any event, after now almost two years of discussion, it is difficult to see how words can be turned into action. Yang’s programming background and previous employment with Tencent, a tech giant that in many ways is more advanced than even Apple and Facebook, especially in payments, may perhaps give the big blockers who keep holding out some hope, but, we’ve seen this story before.
+Featured image from Shutterstock.
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+Posted in: Bitcoin Mining, News Tagged in: Bitcoin Unlimited, Hardfork, scalability, ViaBTC
+
+Recent Posts
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+Advertisement
+NextBlockchain Startup Contest – Call for Applications12/10/2016
+PreviousBitcoin Bull Market is Still Intact12/10/2016
+Advertisement
+Recent Comments
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

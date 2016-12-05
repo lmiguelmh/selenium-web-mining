@@ -1,0 +1,48 @@
+https://bitcoinmagazine.com/articles/searching-for-practical-applications-of-bitcoin-and-blockchain-at-money-1477322373
+Searching for Practical Applications of Bitcoin and Blockchain at Money 20/20 | Bitcoin Magazine
+ABOUT ©2016 BTC Media LLC
+ADVERTISESTORECONTACTBTC CHANNELS ▾
+BITCOIN PRICE
+$629.02
+SUBSCRIBE
+MEMPOOL:#core-dev #blockchain #technical #wall-street
+Searching for Practical Applications of Bitcoin and Blockchain at Money 20/20
+Searching for Practical Applications of Bitcoin and Blockchain at Money 20/20
+Oct 24, 2016 03:19 PM by Kyle Torpey
+Money 20/20, often touted as the world’s largest fintech conference, begins today at The Venetian in Las Vegas. The event is expected to attract over 10,000 attendees, and will feature among its speakers and panelists some big names from the Bitcoin and blockchain space. There is an entire track dedicated to blockchain technology at this year’s Money 20/20, but guests from the blockchain ecosystem will also be found speaking on panels related to more general aspects of the fintech industry.
+Who Will Be at the Event?
+Entrepreneurs, investors, developers and legal experts from the blockchain industry will all be on hand at this year’s Money 20/20 event. Coinbase CEO, Brian Armstrong, will offer his view on the future of digital currencies during a chat with Fortune reporter, Robert Hackett. Circle General Counsel and COO, John Beccia, will be featured on a panel related to public policy and regulation of the blockchain industry (moderated by Chamber of Digital Commerce President, Perianne Boring,) and Ethereum creator Vitalik Buterin will provide an update on his project with Don Tapscott.
+With appearances by everyone from Digital Asset Holdings’ Chris Church to BTCC’s Bobby Lee, it’s clear that the entire spectrum of the Bitcoin and blockchain ecosystems will be covered at this year’s event.
+Bitcoin vs Blockchain
+While there have been fierce debates over the merits of Bitcoin and blockchain technology in the past, it’s clear that some companies are now simply looking at whether these technologies offer practical solutions to real world problems. In the debate of Bitcoin versus blockchain technology (whatever that is supposed to mean these days,) the correct option is going to depend on what sort of functionality is needed to solve a problem.
+“We are using the Bitcoin blockchain because we believe it is the most secure and tamper proof  distributed public ledger out there,” Civic CEO, Vinny Lingham, who is a speaker at Money 20/20, told Bitcoin Magazine. “It's not perfect, but it serves our needs for now. We are ultimately not dependent on it, but choose to use the Bitcoin blockchain on its merits. If things change over time and we find a better solution, we will consider switching, but for now nothing else comes close to serving our needs.”
+Civic is a startup focused on identity theft protection. Before becoming the CEO of Civic, Lingham founded Gyft, which is popular method of converting bitcoin into gift cards that can be used in everyday transactions.
+Many of the blockchain technology projects in development right now don’t look much like Bitcoin, and they also come with a different set of security tradeoffs. Those who are still focused on Bitcoin find proof-of-work to be the most interesting aspect of this new technology.
+The Limits of Blockchain Technology
+The eventual direction of Bitcoin and blockchain technology is still unclear at this point, and according to Lingham, it will not be a one-size-fits-all solution for every startup. In Lingham’s view, blockchain is a protocol, and “it delivers [exceptionally] low-level value for new companies in particular.”
+“As you add layers of abstraction on it, you can build cheaper, faster and more secure businesses that can disrupt the status quo.”
+Lingham’s point is that competent developers and entrepreneurs are needed to build on top of blockchain protocols. “If you have a bunch of amateurs who can't build a business in the first place, giving them blockchain to innovate on is probably not going to yield favorable results. Because at the end of the day, the technologists and entrepreneurs using it need to still build real companies that capture and create value for end users,” said Lingham. “Blockchain is a tool and if you give the worst builder in the world the best tools, you're still going to get junk.”
+For now, Lingham and Civic see Bitcoin as the most practical tool for the startup in the realm of blockchain protocols.
+Money 20/20 will run from October 23 - 26, 2016 in Las Vegas.
+by Kyle Torpey
+Kyle Torpey is a freelance writer and researcher who has been following Bitcoin since 2011. His work has been featured on VICE Motherboard, Business Insider, NASDAQ, RT’s Keiser Report, and many other media outlets. You can follow @kyletorpey on Twitter.
+KEYWORDS: #bitcoin #lingham #money #companies #entrepreneurs
+You Might Like:
+MAY 10, 2016
+Dark Web Conference Coming to New York May 12
+#CONFERENCE
+Related Articles:
+SEP 06, 2016
+MoneyShow University: Searching for the Next Generation of Investors, Entrepreneurs and Business Leaders
+#CONFERENCE
+SEP 29, 2016
+BitFiniti: Industry Meets Blockchain in Miami
+#CONFERENCE
+JUN 06, 2014
+Bitcoin Central & Eastern European Conference
+#CONFERENCE
+FEB 25, 2016
+MIT Hosts Annual Bitcoin Expo March 5 and 6 to Explore Challenges Facing Bitcoin
+#CONFERENCE
+About Advertising Careers Contact Terms of Service yBitcoin Store
+© Copyright 2016 BTC Inc. All Rights Reserved.

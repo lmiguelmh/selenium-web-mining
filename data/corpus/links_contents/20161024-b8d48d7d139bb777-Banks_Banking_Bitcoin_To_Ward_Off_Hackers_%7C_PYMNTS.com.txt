@@ -1,0 +1,76 @@
+http://www.pymnts.com/news/bitcoin-tracker/2016/banks-banking-bitcoins-to-ward-off-hackers/
+Banks Banking Bitcoin To Ward Off Hackers | PYMNTS.com
+BITCOIN
+Banks Banking Bitcoin To Ward Off Hackers
+By
+PYMNTS
+Posted on October 24, 2016
+After the recent DDoS attack, London’s largest banks say they’re planning to build up an inventory of bitcoin to negotiate and pay off hackers who threaten to pull down their IT systems.
+Bitcoin is the preferred currency because it cannot be traced and is highly valued by hackers and criminal groups.
+Friday’s hack included infiltrating a whole host of high-traffic websites, like Netflix, GitHub, Twitter, Spotify, The New York Times, Crunchbase, Pinterest and many others. The list seems endless, with no industry being safe. The site DownDetector.com said the attack mostly affected the U.S. Experts say the reason for the disruption was that hackers unleashed a enormous distributed denial-of-service attack on the servers of Dyn, a major DNS host.
+While Dyn may not be the subject of extortion demands, hackers have been threatening other businesses into paying them off with bitcoin in order to avoid risks of becoming the target of more or similar attacks.
+And that’s why experts say certain banks are hoarding bitcoin in order to ready themselves in case of another attack. Technology and security expert Dr. Simon Moores said that companies are weighing the options, netting out on a decision that it may be cheaper to pay off the criminals than risk being attacked.
+“Big companies are now starting to worry that an attack is no longer an information security issue; it’s a board and shareholder and customer confidence issue,” Moores told The Guardian. “What we are seeing is the weaponization of these [hacking] tools. It becomes a much broader issue than businesses ever anticipated.”
+As for which banks have begun hoarding, that is not clear and may never be. Likely, other companies may take similar measures to plan for warding off future attacks.
+RELATED ITEMS:BANKS, BITCOIN, DDOS, HACK, HACKERS, LONDON, NEWS
+RECOMMENDED FOR YOU
+Shoppers Flock To The Internet Over Stores
+Ex-Expedia Exec Raises Funds For Secretive New Startup
+Hackers Threaten Retailers From The Inside Out
+Get our hottest stories delivered to your inbox.
+Signup for the PYMNTS.com Newsletter to get updates on top stories and viral hits.
+CLICK TO COMMENT
+TRENDING RIGHT NOW
+BLOCKCHAIN
+Goldman Sachs’ Membership In R3 Lapses
+PARTNERSHIPS / ACQUISITIONS
+Cardtronics Expands Relationship With Carnival Cruise
+NEWS
+Financial Regulators Race To Get Reforms On The Books Before Inauguration Day
+SECURITY & FRAUD
+Why Insider Threats Are Hurting North American Businesses
+B2B PAYMENTS
+Asia-Pacific’s Anti-Cash Migration Spreads To Corporates
+RIDESHARING
+Amidst New Cash Rules, Uber Debuts Indian Wedding Service
+SECURITY & FRAUD
+Online Fraud Expected To Grow 43 Percent This Holiday Season In The US
+ALTERNATIVE FINANCES
+Prosper’s Climb Back
+CFPB
+CFPB Sues Company That Scammed Lead Paint Poisioning Victims
+AMAZON
+Prime Is The Ticket For Amazon: Prime Tickets On The Way
+B2B PAYMENTS
+India’s Axis Bank Joins Earthport In X-Border Payments
+EMV
+October Visa Data Shows Rise In EMV-Enabled Merchants
+FASTER PAYMENTS
+Cash Flow, Each And Every (Same) Day
+AMAZON
+Amazon’s Brand Central Aimed At Ridding Counterfeiters From Marketplace
+B2B PAYMENTS
+India VCs Target SME Cash Management FinTech
+What's next in payments and commerce
+LATEST NEWS
+Black Friday Sales At Patagonia Go Green
+Middle-Market Retailers Optimistic About Digital Sales
+Report: Sephora Lookin’ Pretty On Social Media
+Monday Is Black Friday For Shipments This Holiday Season
+Shoppers Flock To The Internet Over Stores
+OPINION: KAREN WEBSTER
+Mastercard’s Call To Digital Payments Action
+November 21, 2016
+The Seven Deadly Data Sins Of The 2016 Presidential Election
+November 14, 2016
+Microsoft’s Shoulda-Woulda-Coulda Mobile Story
+November 7, 2016
+The 2016 Presidential Election And Banks’ Next Four Scary Years
+October 31, 2016
+What the Uber Driver Revolt Means for Payments
+October 24, 2016
+NEWSLETTER SIGNUP
+ABOUT
+TERMS & CONDITIONS
+CONTACT
+© 2016 What’s Next Media and Data Analytics, LLC

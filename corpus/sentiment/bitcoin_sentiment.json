@@ -1,0 +1,336 @@
+{
+  '20161004': {
+    'Verynegative': 43,
+    'Verypositive': 2,
+    'Neutral': 127,
+    'Negative': 736,
+    'Positive': 129
+  },
+  '20161104': {
+    'Verynegative': 30,
+    'Verypositive': 2,
+    'Neutral': 79,
+    'Negative': 535,
+    'Positive': 108
+  },
+  '20161013': {
+    'Verynegative': 38,
+    'Verypositive': 1,
+    'Neutral': 83,
+    'Negative': 460,
+    'Positive': 65
+  },
+  '20161107': {
+    'Verynegative': 48,
+    'Verypositive': 4,
+    'Neutral': 128,
+    'Negative': 570,
+    'Positive': 135
+  },
+  '20161111': {
+    'Verynegative': 37,
+    'Verypositive': 3,
+    'Neutral': 846,
+    'Negative': 565,
+    'Positive': 165
+  },
+  '20161026': {
+    'Verynegative': 32,
+    'Verypositive': 5,
+    'Neutral': 1159,
+    'Negative': 524,
+    'Positive': 119
+  },
+  '20161011': {
+    'Verynegative': 37,
+    'Verypositive': 3,
+    'Neutral': 72,
+    'Negative': 507,
+    'Positive': 114
+  },
+  '20161007': {
+    'Verynegative': 23,
+    'Verypositive': 4,
+    'Neutral': 46,
+    'Negative': 393,
+    'Positive': 63
+  },
+  '20161017': {
+    'Verynegative': 46,
+    'Verypositive': 3,
+    'Neutral': 101,
+    'Negative': 579,
+    'Positive': 107
+  },
+  '20161010': {
+    'Verynegative': 28,
+    'Verypositive': 2,
+    'Neutral': 723,
+    'Negative': 405,
+    'Positive': 120
+  },
+  '20161115': {
+    'Verynegative': 42,
+    'Verypositive': 3,
+    'Neutral': 123,
+    'Negative': 648,
+    'Positive': 139
+  },
+  '20161025': {
+    'Verynegative': 34,
+    'Verypositive': 2,
+    'Neutral': 86,
+    'Negative': 662,
+    'Positive': 129
+  },
+  '20161027': {
+    'Verynegative': 37,
+    'Verypositive': 2,
+    'Neutral': 89,
+    'Negative': 617,
+    'Positive': 88
+  },
+  '20161021': {
+    'Verynegative': 30,
+    'Verypositive': 3,
+    'Neutral': 84,
+    'Negative': 558,
+    'Positive': 137
+  },
+  '20161109': {
+    'Verynegative': 41,
+    'Verypositive': 1,
+    'Neutral': 98,
+    'Negative': 588,
+    'Positive': 122
+  },
+  '20161023': {
+    'Verynegative': 16,
+    'Verypositive': 3,
+    'Neutral': 128,
+    'Negative': 451,
+    'Positive': 124
+  },
+  '20161116': {
+    'Verynegative': 48,
+    'Verypositive': 6,
+    'Neutral': 148,
+    'Negative': 730,
+    'Positive': 129
+  },
+  '20161105': {
+    'Verynegative': 32,
+    'Verypositive': 1,
+    'Neutral': 58,
+    'Negative': 388,
+    'Positive': 83
+  },
+  '20161014': {
+    'Verynegative': 28,
+    'Verypositive': 2,
+    'Neutral': 68,
+    'Negative': 575,
+    'Positive': 104
+  },
+  '20161012': {
+    'Verynegative': 35,
+    'Verypositive': 1,
+    'Neutral': 71,
+    'Negative': 552,
+    'Positive': 63
+  },
+  '20161030': {
+    'Verynegative': 26,
+    'Verypositive': 44,
+    'Neutral': 5963,
+    'Negative': 498,
+    'Positive': 399
+  },
+  '20161019': {
+    'Verynegative': 43,
+    'Verypositive': 4,
+    'Neutral': 83,
+    'Negative': 693,
+    'Positive': 93
+  },
+  '20161016': {
+    'Verynegative': 21,
+    'Verypositive': 1,
+    'Neutral': 64,
+    'Negative': 381,
+    'Positive': 90
+  },
+  '20161110': {
+    'Verynegative': 34,
+    'Verypositive': 4,
+    'Neutral': 133,
+    'Negative': 664,
+    'Positive': 138
+  },
+  '20161117': {
+    'Verynegative': 39,
+    'Verypositive': 4,
+    'Neutral': 84,
+    'Negative': 495,
+    'Positive': 93
+  },
+  '20161003': {
+    'Verynegative': 43,
+    'Verypositive': 1,
+    'Neutral': 69,
+    'Negative': 508,
+    'Positive': 103
+  },
+  '20161029': {
+    'Verynegative': 29,
+    'Verypositive': 7,
+    'Neutral': 917,
+    'Negative': 589,
+    'Positive': 137
+  },
+  '20161101': {
+    'Verynegative': 38,
+    'Verypositive': 2,
+    'Neutral': 71,
+    'Negative': 481,
+    'Positive': 94
+  },
+  '20161022': {
+    'Verynegative': 21,
+    'Verypositive': 3,
+    'Neutral': 77,
+    'Negative': 524,
+    'Positive': 71
+  },
+  '20161005': {
+    'Verynegative': 49,
+    'Verypositive': 4,
+    'Neutral': 69,
+    'Negative': 613,
+    'Positive': 101
+  },
+  '20161108': {
+    'Verynegative': 40,
+    'Verypositive': 2,
+    'Neutral': 77,
+    'Negative': 475,
+    'Positive': 81
+  },
+  '20161002': {
+    'Verynegative': 23,
+    'Verypositive': 2,
+    'Neutral': 71,
+    'Negative': 515,
+    'Positive': 102
+  },
+  '20161006': {
+    'Verynegative': 32,
+    'Verypositive': 1,
+    'Neutral': 51,
+    'Negative': 311,
+    'Positive': 66
+  },
+  '20161018': {
+    'Verynegative': 31,
+    'Verypositive': 2,
+    'Neutral': 101,
+    'Negative': 609,
+    'Positive': 138
+  },
+  '20161028': {
+    'Verynegative': 38,
+    'Neutral': 64,
+    'Negative': 487,
+    'Positive': 93
+  },
+  '20161020': {
+    'Verynegative': 32,
+    'Verypositive': 4,
+    'Neutral': 86,
+    'Negative': 544,
+    'Positive': 127
+  },
+  '20161001': {
+    'Verynegative': 22,
+    'Verypositive': 5,
+    'Neutral': 38,
+    'Negative': 334,
+    'Positive': 66
+  },
+  '20161113': {
+    'Verynegative': 34,
+    'Neutral': 70,
+    'Negative': 460,
+    'Positive': 104
+  },
+  '20161102': {
+    'Verynegative': 34,
+    'Verypositive': 5,
+    'Neutral': 101,
+    'Negative': 630,
+    'Positive': 108
+  },
+  '20161112': {
+    'Verynegative': 24,
+    'Verypositive': 4,
+    'Neutral': 80,
+    'Negative': 465,
+    'Positive': 61
+  },
+  '20161009': {
+    'Verynegative': 23,
+    'Verypositive': 2,
+    'Neutral': 86,
+    'Negative': 406,
+    'Positive': 69
+  },
+  '20161114': {
+    'Verynegative': 43,
+    'Verypositive': 4,
+    'Neutral': 84,
+    'Negative': 531,
+    'Positive': 139
+  },
+  '20161008': {
+    'Verynegative': 23,
+    'Verypositive': 3,
+    'Neutral': 62,
+    'Negative': 458,
+    'Positive': 98
+  },
+  '20161103': {
+    'Verynegative': 27,
+    'Verypositive': 2,
+    'Neutral': 63,
+    'Negative': 413,
+    'Positive': 84
+  },
+  '20161106': {
+    'Verynegative': 31,
+    'Verypositive': 1,
+    'Neutral': 64,
+    'Negative': 387,
+    'Positive': 90
+  },
+  '20161015': {
+    'Verynegative': 24,
+    'Verypositive': 1,
+    'Neutral': 67,
+    'Negative': 491,
+    'Positive': 87
+  },
+  '20161024': {
+    'Verynegative': 35,
+    'Verypositive': 3,
+    'Neutral': 116,
+    'Negative': 674,
+    'Positive': 127
+  },
+  '20161031': {
+    'Verynegative': 45,
+    'Verypositive': 11,
+    'Neutral': 1091,
+    'Negative': 632,
+    'Positive': 151
+  }
+}

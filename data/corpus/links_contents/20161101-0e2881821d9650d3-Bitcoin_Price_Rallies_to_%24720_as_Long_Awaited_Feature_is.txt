@@ -1,0 +1,148 @@
+http://www.financemagnates.com/cryptocurrency/trading/bitcoin-price-rallies-to-720-as-long-awaited-feature-is-finally-released/
+Bitcoin Price Rallies to $720 as Long Awaited Feature is Finally Released | Finance Magnates
+About
+Newsletter
+English
+My Area
+
+
+
+
+News
+Intelligence
+Events
+Directory
+Thought Leadership
+FM HomeCryptoCurrencyTradingBitcoin Price Rallies to $720 as Long Awaited Feature is Finally Released
+Bitcoin Price Rallies to $720 as Long Awaited Feature is Finally Released
+The release of Segregated Witness, SegWit, could mark the beginning of the end for the Bitcoin scaling debate.
+Avi Mizrahi | Trading (CryptoCurrency) | Tuesday, 01/11/2016|12:33 GMT
+3
+0
+Photo: Bloomberg
+The BTC/USD exchange rate is now back above the $720 per Bitcoin level, marking a jump of about 10% in just a week. In the last twenty-four hours alone Bitcoin rose by over 3% thanks to high trading volumes (about $95 million), and the market capitalization of the entire network is now over $11.5 billion.
+Join the industry leaders at the Finance Magnates London Summit, 14-15 November, 2016. Register here!
+The driving force behind this recent rally is investors’ hopes that a newly released figure will finally solve one of the largest issues to plague Bitcoin adoption, limited block size. Last week’s update to the latest version of Bitcoin core included for the first time support for Segregated Witness, SegWit, that could help the blockchain handle more transactions per minute without clogging the system. If implemented by the majority of miners the new feature could be activated as soon as the middle of December 2016.
+At the beginning of the year Bitcoin Core developers, community and industry leaders met at the Hong Kong Cyberport. Among the points of the consensus agreement that they reached was a commitment to develop code for a safe hard-fork based on the improvements in SegWit by July 2016.
+Charles Hayter, the CEO of CryptoCompare.com, comments: “Segregated Witness’s release is a long-awaited milestone and opens the door for bitcoin scaling. Although it’s not a 100% certain – there’s a very good chance this is will be the end of the scaling debate.”
+“The bitcoin price has been subject to a number of catalysts over the past month or two – mostly driven by China and its frictionless “0%” trading fee exchanges,” added Hayter.
+Got a news tip? Let Us Know
+FOUND A MISTAKE? LET US KNOW
+Tags: Bitcoin Price
+How do you feel about the article?
+Educated
+Surprised
+Intrigued
+Indifferent
+Annoyed
+Discuss the Article
+Share your thoughts
+I agree to the Terms of Use
+Notify me of followup comments via e-mail.
+You can also subscribe without commenting.
+Tony
+Segwit will not end any debate. It is sad to see journalist not digging any further into the technical development but relying only on Core opinions. The way Segwit has been implemented diminish miners profitability block space wise and threaten the security of the network in the long term.
+November 1, 2016 at 2:56 pm 0 0
+Greg
+Absolutely no reason for Segwit to be the end-all solution to the scaling debate. No one, not even Core, would believe this, so it’s strange to see a journalist make this patently absurd claim.
+November 1, 2016 at 5:06 pm 0 0
+simul
+Segwit makes the complex multisig transactions required for side chains, lightning networks and other real scaling solutions cheaper and more feasible for the long term.
+The change to block sizes is a red herring. No way to scale on-chain for mass bitcoin use. Better to have some pain now and be forced into real scaling paths, than delay/defer/deny the real issue.
+November 1, 2016 at 6:37 pm 4 0
+ALL FM NEWS
+Borsa İstanbul Inks MoU With Islamic Development Bank ... / 9 hours
+Trump to Make Greek Banks Great Again – Piraeus Bank ... / 11 hours
+CME Group Strikes New Daily Record Open Interest Amidst ... / 12 hours
+Canadian Regulator OSC Warns Against Zurich Prime / 12 hours
+MOST POPULAR
+Day | week
+Borsa İstanbul Inks MoU With Islamic Development Bank
+Trump to Make Greek Banks Great Again – Piraeus Bank Chairman
+CME Group Strikes New Daily Record Open Interest Amidst Shortened Trading Week
+Canadian Regulator OSC Warns Against Zurich Prime
+RELATED ARTICLES
+Jason Granger and Charlie Shrem Set to Launch Private Equity Investment Fund
+Bitcoin Market Cap Above $12 Billion as Price Climbs Back to $750
+Bitcoin Price Jumps Over $735 As Donald Trump Wins US Presidency
+DIRECTORY CATEGORIES
+Social Trading
+28
+Wealth Management
+26
+Physical Precious Metal
+6
+Forex Brokers
+343
+Binary Option Brokers
+116
+Marketing Agencies
+30
+Affiliate Programs
+58
+Affiliate Software
+7
+Regulation Consulting
+20
+Tool Providers
+49
+Mobile Developers
+20
+Platforms
+127
+Industry Websites
+212
+Regulators
+50
+Telecom
+6
+KYC
+1
+White Label Solutions
+30
+Industry Start Ups
+12
+Lawyers & Incorporation
+13
+Translation Services
+9
+Risk Management
+11
+Liquidity Provider
+29
+Platform Providers
+70
+MT4/MT5 Bridge Providers
+34
+Development Firms
+80
+Binary Software Providers
+16
+Payment Processors
+46
+Industry Executives
+272
+Keep in touch with us
+Content Channels
+Retail FX
+Institutional FX
+Binary Options
+Executives
+CryptoCurrency
+FinTech
+About
+Overview
+Careers
+Contact
+Advertise with us
+Services
+Directory
+Intelligence
+Events
+About
+Website
+Newsletter intro
+Terms and Conditions : Finance Magnates
+Cookies policies
+Finance Magnates is a global B2B provider of multi-asset trading news, research and events with special focus on electronic trading, banking, and investing.
+Copyright © 2016 "Finance Magnates Ltd." All rights reserved. For more information, read our terms and conditions

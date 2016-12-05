@@ -1,0 +1,18 @@
+A new cryptocurrency launched late last week, claiming to allow users to make online purchases anonymously and sparking controversy and a negative reaction from the authorities.
+Zcash launched last Friday and is currently worth $498 dollars per coin, in comparison to $706 for one bitcoin.
+Zcash uses a technique called "zero-knowledge proofs" to ensure coin exchanges are valid but without revealing extra information to either user. It conceals identifying information from the public blockchain - the massive public ledger that records all transactions of a digital currency - which effectively allows Zcash users to make private and anonymous exchanges.
+"Companies need the protection of privacy along their supply chain in order to conduct their business, especially in the context of public blockchains," the Zcash company says on its website.
+"In addition, we believe that personal privacy is necessary for core human values like dignity, intimacy, and morality."
+But is this level of anonymity technologically possible? Tom Robinson, COO and co-founder of bitcoin specialists Elliptic says it is. Elliptic is able to trace bitcoin transactions and link them to a real world address, helping law enforcement around the globe track illicit activity involving bitcoin.
+"I think that it's certainly possible to have a high level of anonymity and Zcash seems to have achieved that," he told CNBC during a phone interview.
+However, anonymity could be a barrier to the potential success of Zcash, as it may not receive support from businesses or officials.
+"Bitcoin has been accepted by regulators and government because there is some level of accountability," explained Robinson.
+Zcash is not the first cryptocurrency to offer advanced anonymity features. Another example is Monero, which claims to offer uses untraceable transactions and private purchases.
+According to Robinson, there is demand for greater anonymity among users of crypto currencies as more and more realize that bitcoin can be traced. The main use case for anonymity is for buyers wishing to make purchases from the so-called dark web, an encrypted network of the internet where users can buy illicit items including drugs.
+How governments react to Zcash's promise of anonymity will be an important indicator for the wider use and acceptance of cryptocurrencies such as bitcoin, according to Charles Hayter, CEO and founder of Crypto Compare.
+"There has been growing interest by the security services from a number of countries in tracking bitcoin after rumours of terrorist activity using the digital currency. The use on the darknet for buying drugs or other illicit will no doubt be a worry and will lead to regulation and blanket bans," Hayter said in a note.
+"How founders, partners and investors are treated if there is jarring with authorities will again be a litmus test to the intentions of the authorities."
+However, Robinson also pointed out that Zcash has been created by a private company, which - while it does not have to rely on the open-source community to develop the currency as with bitcoin -- could potentially be sued by governments or regulators in order to reveal information.
+Here’s what Steve Jobs had to give Ken Burns to create the 'Ken Burns' effect for iMovie
+The Ken Burns binge effect: Steve Jobs, Donald Trump and the birth of binge-watching   
+Steve Jobs once told Ken Burns he should ditch PBS because they weren’t paying him enough

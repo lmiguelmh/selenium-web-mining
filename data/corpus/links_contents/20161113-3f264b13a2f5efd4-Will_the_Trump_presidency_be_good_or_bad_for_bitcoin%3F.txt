@@ -1,0 +1,92 @@
+http://siliconangle.com/blog/2016/11/13/will-the-trump-presidency-be-good-for-bitcoin/
+Will the Trump presidency be good or bad for bitcoin? - SiliconANGLE
+NEWS
+PEOPLE
+RESEARCH
+Wikibon
+TheCUBE
+SIGN IN
+Will the Trump presidency be good or bad for bitcoin?
+BY DUNCAN RILEY
+UPDATED 22:50 EST . 13 NOVEMBER 2016
+1 VIEWS / 2 MIN READ
+Will Donald J. Trump, the next President of the United States, be good for bitcoin?
+That’s a question many in the cryptocurrency space are currently grappling with. Many do believe that a Trump presidency will be good for the bitcoin market — but some also believe it will be good only because Trump could trash the economy badly enough to make bitcoin a safe haven.
+Negatives
+Bitcoin surged along with gold on Wednesday as investors were looking for places to park their money. The uncertainty following an election result that few predicted saw global equity markets plunge, though markets surged higher in the U.S. to its biggest weekly gain since December 2011. The former was attributed by The Next Web to some believing a Trump presidency could spell the end of markets and cash as we know it:
+People are becoming increasingly unsure about the future of their country, and that’s why they’re buying gold and bitcoin, bringing up the price. Both are seen as investments that would retain its value in a doomsday scenario where regular fiat currencies would quickly crash.
+Bitcoin headed downward as the markets recovered, coming off a high of $732 to settle at $702 as of early Monday morning in Europe.
+Neutral
+Michael J. Casey from the Digital Currency Initiative at the MIT Media Lab, writing for Coindesk, is negative on the Trump presidency itself but suggests that disastrous economic policies could lead to the rise of bitcoin or an alternative digital currency in place of the U.S. dollar:
+So if, you’re worried and/or excited about the disruption that a Trump presidency could do to the global monetary system  –  I’m both, I suppose  –  bitcoin might just be a creative way to bet on whatever emerges next.
+Positives
+Two positives, at least for bitcoin, do come out of the Trump presidency, one is related to his proposed changes to financial laws, and the second comes from some one who has had advising him on policy.
+Renowned Silicon Valley investor Peter Thiel (above) has been appointed to Trump’s transition committee and given his prominent position in the campaign, both as a speaker and donor of Trump himself, it is likely that he may be given a position in the administration itself. Thiel is an investor in bitcoin and blockchain companies, meaning that someone near the top of power actually understands how the sector works. Moreover, he even said in 2013 that bitcoin has the potential to save the world.
+The second potential positive from a Trump presidency includes changes to financial laws, including the reform or elimination of the Dodd-Frank Act, an act used to stop Bitfinex using leveraged trading and also used to strictly enforce KYC regulations, along with a possible easing of SEC rules relating to crowdfunding, according to a report from Coinjournal.
+Whatever a Trump presidency brings, there’s one thing for sure: Bitcoin isn’t going anywhere for the time being.
+Image credit: heisenbergmedia/Flickr/CC by 2.0
+MORE FROM SiliconANGLE
+Japan plans to build the fastest deep learning supercomputer
+Stripe’s valuation reaches $9B thanks to new $150M funding round
+Are you ready for new data recovery regulations?
+Huawei is now the world's most profitable Android smartphone brand
+Systran Group launches neural machine translation tool for enterprises
+Snowflake Computing declares cloud storage price war on Amazon
+RELATED ARTICLES
+EMERGING TECH
+Bitcoin startup Blockchain passes 10 million wallets
+BY DUNCAN RILEY . 2 WEEKS AGO
+EMERGING TECH
+iPayYou launches bitcoin-to-Amazon payment service
+BY DUNCAN RILEY . 2 WEEKS AGO
+EMERGING TECH
+Walmart and IBM test blockchain for custom supply chain tracking
+BY DUNCAN RILEY . 2 WEEKS AGO
+CH00 #THECUBE CHANNEL
+This is the main channel...
+CUBE NEWS
+SEE MORE
+Can cross-pollinating data and security block the new cyber-hacking threat? | #theCUBE
+Data confluence: handling the scale of distributed computing | #CDSUSA
+Too big to fail: How a popular online community monetized its platform | #Amplify
+Crowd-sourcing online talent to win a million-dollar competition | #CDSUSA
+Helping software help us: How one startup is making the most of APIs | #Amplify
+Data science: What does it mean and how is it best applied? | #CDSUSA
+TRENDING STORIES ON THE WEB
+ARS TECHNICA
+Japan plans 130-petaflop China-beating number-crunching supercomputer
+USA TODAY
+For Apple deals, you're better off at other retailers
+IT PRO
+Is ransomware targeting Facebook Messenger users?
+MAC RUMORS
+Expercom Offering MacBook Pro With Touch Bar For Up to $225 Off With AppleCare
+DIGITAL TRENDS
+Save big with the best smartphone deals on Black Friday
+UPCOMING EVENTS
+HPE Discover 2016: November 29th – December 6th (London, UK)
+AWS re:Invent: November 28th – December 2nd, 2016 (Las Vegas, NV)
+5th Annual CloudNOW Top Women in Cloud Awards: December 7th (Mountain View, CA)
+Spark Summit East 2017: February 7-9 (Boston, MA)
+BigData SV 2017: March 13-16 (San Jose, Ca)
+Dataworks Summit EU 2017: April 2-4 (Munich, Germany)
+BigData UK 2017: May 22-25 (London, UK)
+Spark Summit 2017: June 6-8 (San Francsico, CA)
+Dataworks Summit US 2017: June 13-15 (San Francisco, CA)
+SPONSOR POSTS
+Are you ready for new data recovery regulations?
+Join Our Community
+For personalised content stay with us.
+I AM INTERESTED IN
+PRIVACY POLICY
+TERMS
+ABOUT US
+JOIN US
+SEND US NEWSTIP
+2016 SiliconANGLE Media, Inc. All rights reserved.
+JOIN OUR COMMUNITY
+theCUBE
+Wikibon
+FOLLOW US
+DESIGN PARTNER
+UXReactor

@@ -1,0 +1,143 @@
+http://www.wallstreetdaily.com/2016/10/04/blockchain-financial-services-industry/
+Blockchain: The Little-Known Innovation Quietly Disrupting the Financial Services Industry
+Wall Street Daily
+Blockchain: The Little-Known Innovation Quietly Disrupting the Financial Services Industry
+Published Tue, Oct 4, 2016  |  David Dittman, Editorial Director
+When it comes to understanding if and/or when a “breakthrough” technology will actually establish a viable market, there’s no one better to consult than Wall Street Daily Chief Investment Strategist Louis Basenese. Today, he joins us to talk about Bitcoin and blockchain.
+Today, in the second installment of our look at Bitcoin and blockchain, we turn to Wall Street Daily Chief Investment Strategist Louis Basenese for answers to questions about the technology and its potential to disrupt the market.
+Lou is a student of innovation, with a keen understanding of what it takes to actually evolve a breakthrough technology from “hype” to actual revenue generation.
+There is, indeed, enormous potential for blockchain to change the way we transact. But the journey from “potential” to “production” is long and hard.
+What follows is a clear-eyed perspective on where blockchain is today and where it can take us in the future.
+David: Is “distributed ledger technology” just a fancy phrase for “database”?
+Lou: It’s a fancy phrase for a fancy database.
+Whereas most databases are privately controlled or maintained by a single entity, distributed ledgers rely on a decentralized network of users to verify all transactions.
+Anytime a change is made, all users are notified immediately. Then, a majority of users must sign off on the transaction to verify it.
+Since each change or “block of transactions” references the prior one and is added to the database only if it is verified, distributed ledgers eliminate the possibility of fraudulent transactions.
+There is, indeed, enormous potential for blockchain to change the way we transact. But the journey from “potential” to “production” is long and hard.
+David: What is it about the promise of blockchain that has so many investors and firms excited?
+Lou: Distributed ledgers first gained popularity with the creation of Bitcoin in 2009, as a way to track Bitcoin transactions.
+But they could theoretically be used to record anything. And if you believe all the hype being spouted by firms like Goldman Sachs, the blockchain has the potential to “change… well everything.”
+I wouldn’t go that far. Not yet, at least.
+I’ve seen enough technologies get overhyped and then flame out to blindly believe that blockchain will have such far-reaching impact.
+Nonetheless, there’s tremendous potential for blockchain to eliminate middlemen from transactions and, therefore, cut billions in costs from the financial system.
+In the U.S. stock market alone, industry experts estimate blockchain technology could result in $2 billion in annual savings by streamlining settlement and clearing processes.
+Whenever you talk about saving money on such a large scale (or expanding profit margins by that much), people get excited. In turn, investment dollars, naturally, follow suit in an effort to make it a reality.
+David: Isn’t Bitcoin’s success a direct result of the size of the “mining” community that records/validates transactions, creates new blockchain entries and collects rewards (more Bitcoins) for their efforts?
+Lou: There is a network phenomenon. The bigger, the better. But with size comes cost.
+Take the strength of the blockchain underpinning Bitcoin, for example. It’s a function of the sheer number of miners signing off on each transaction. Some estimates peg the total number of active miners at 100,000. But they don’t do it for free, of course.
+Bitcoin incentivizes miners by rewarding them with Bitcoins. Replicating this reward system in other blockchain implementations would similarly be costly.
+And if the rewards don’t cover the overhead of “mining” — plus a profit — miners will stop.
+I’ve seen enough technologies get overhyped and then flame out to blindly believe blockchain will have such far-reaching impact.
+David: Companies — financial institutions in particular — that try to streamline their disparate databases are centralizing a concept whose very success is predicated on decentralization, no?
+Lou: Indeed.
+There’s a bit of irony at work here. We’re talking about potentially disrupting the “central banking” system by getting the major players to voluntary decentralize.
+Here’s where a major challenge comes in — regulations dictate the actions of financial institutions. Yet currently, there are few, if any, regulatory frameworks for blockchain-based financial services.
+In their absence, consumers are, naturally, leery about using them. It’s no surprise, then, that roughly half of FSIs evaluating blockchain cite legal/regulatory uncertainty as their biggest concern.
+Of course, adding regulations runs counter to the decentralized nature of blockchain.
+This tug of war will take time to play out.
+David: How will private entities creating proprietary blockchains protect them?
+Lou: They won’t.
+They’ll try, of course. But as we’ve seen in every area of technology, nothing is completely secure.
+The more people and data stored on a network, the greater the attack surface area. Or, more simply, the more targets for cyber criminals.
+The appeal of blockchains is that once data are logged, they can’t be changed. So blockchains are more secure than most databases.
+But I can envision a scenario where false trades are placed or confidential information of who’s trading with whom could be exposed, thereby undermining the main benefits touted by early adopters.
+The more people and data stored on a network, the greater the attack surface area. Or, more simply, the more targets for cyber criminals.
+David: Why is “going blockchain” better than building/updating a regular database?
+Lou: Candidly, we don’t know if it is just yet.
+We’re being sold on the cost savings and increased security of a decentralized network. But until it’s adopted en masse, we’re going to notice the words “could” and “if” a ton.
+In essence, we shouldn’t believe it until we see it. Or, more accurately, until we’re using it.
+David: So is it possible to manufacture a network-wide productivity and profit boom — for, say, the financial services industry — by limiting data proliferation via an “opt in,” rules-based system such as blockchain?
+Lou: Again, the allure of blockchain is the potential to enable financial institutions to process transactions at near-zero cost by streamlining and dividing the cost of verifying transactions across a decentralized network.
+Productivity is bound to go up once you eliminate the need for verification.
+At first, those savings are bound to boost profitability, too. Then, basic economics is going to kick in. There’ll be more margin to cut, and customers will eventually demand it.
+It’s no surprise that so many financial services companies are reluctant to embrace blockchain. It could lead to their own obsolescence by automating the very services they provide.
+David: Don’t you have to do it universally?
+Lou: The aspect of universality is key. Unless there’s an industry standard, you’re going to have multiple, disparate systems competing to gain mainstream acceptance. Companies are already working to prevent this.
+The Chain Open Standard is a collaboration between major financial institutions to avoid this fragmentation issue. It includes the likes of Visa, Nasdaq, Capital One, Citi, Fidelity, First Data and Fiserv, among others.
+But that doesn’t mean blockchain will be able to successfully overcome this hurdle. Debates and standards, by their nature, don’t get resolved quickly.
+David: When can we expect blockchain-based services to hit the market?
+Lou: Not anytime soon, if ever.
+By all measures, blockchain development is still in its early stages. Despite the runaway hype, few companies are actively deploying blockchain-based services.
+In fact, a recent survey by Efma and Deloitte found that only 17% of FSIs are collaborating in groups to explore potential uses of blockchain technology.
+A mere 6% of FSIs are using blockchain internally. It will be a while before we see any meaningful product rollouts. The only external deployment I’m aware of comes from the U.K. arm of Spain’s Santander Bank and San Francisco-based Ripple.
+These companies are piloting applications that use blockchain technology to facilitate international money transfers in hours, versus the current status quo of about three days.
+Even after more companies follow suit with external launches, challenges abound that could prevent blockchain from ever achieving mass adoption.
+David: What do you see as the major challenges?
+Lou: Aside from the regulatory and standards issues already discussed, it goes without saying that blockchain systems will need to be proven reliable and secure.
+Scalability is another major challenge.
+Whereas the Bitcoin blockchain handles somewhere along the lines of about one dozen transactions per second, we would need a system to handle upward of 2,000 transactions per second to equal the current throughput of a company like Visa.
+This Week In…
+Hope, courtesy of Tori Rodriguez and Scientific American: “A vast new study finds that a sense of humor lowers mortality rates, especially for women.”
+Smart Investing,
+David Dittman
+Editorial Director, Wall Street Daily
+Editorial Director David Dittman is an investment newsletter professional with more than 10 years' experience at staff, management, and strategic levels. Before joining Wall Street Daily he was Chief Investment Strategist for Utility Forecaster, Canadian Edge, and Australian Edge. David, who was present at the creation of several highly successful newsletters, founded and wrote the noted e-letter Maple Leaf Memo. Learn More >>
+
+
+Newsletter FAQ | Cancel Any Time | We Value Your Privacy
+
+
+RELATED ARTICLES
+Can Quantum Computing Produce a Hack-Proof Network?
+Cyber Security: Five Firms Working to Squash Cyber Attacks
+Profit From the Death of Cash With This Mobile Payment Leader
+Biomedicine: How to “Print” a Heart on a Chip
+Add Comment
+Name (required, will be published)
+Mail (required, will not be published)
+Newsletter FAQ | Cancel Any Time | We Value Your Privacy
+
+
+INNOVATION
+Pass the Seaweed: Notes From Thanksgiving Future
+By David Dittman - Nov 22, 2016
+Someday, our planet will no longer be able to sustain the agricultural and industrial demands of the food industry. So we’d better find an alternative — and fast. That’s where this nutritional powerhouse comes in.
+
+
+GEOMACRO
+Does Donald Trump Really Hate Science?
+By David Dittman - Nov 15, 2016
+Donald Trump ran a campaign on hyperbole and vagueness. Now as he prepares to take office, we take a closer look at his contradictory statements on science to make sense of the future of our favored industries.
+
+
+SPECIAL SITUATIONS
+The Rational Shopper’s List for Black Friday and Cyber Monday
+By David Dittman - Nov 23, 2016
+With the holidays upon us, we steer you toward innovative products that aren’t just cool, they’ll also save you money and time at the checkout line.
+
+
+SEARCH
+PREMIUM RESEARCH
+True Alpha
+VentureCap Strategist
+Extreme Alpha
+COMPANY
+About
+Contributors
+Contact Us
+Whitelist Instructions
+Privacy Policy
+Disclaimer
+Syndicate Us
+FAQ
+LEARN MORE
+Free Reports
+Premium Research
+Income
+Growth
+Commodities
+Geomacro
+Money
+Trading
+Funds
+Saturday Spotlight
+CONTACT US
+T. 1.800.708.1020
+T. 410.454.0499
+F. 410.864.1650
+808 St Paul St.
+Baltimore, MD
+21202
+
+
+© 2016 Wall Street Daily, LLC. All rights reserved.

@@ -1,0 +1,55 @@
+http://themerkle.com/bitcoin-unlimited-team-may-have-received-stolen-kraken-funds/
+Bitcoin Unlimited Team May Have Received Stolen Kraken Funds – The Merkle
+About
+Contact
+Jobs
+Privacy Policy
+Team
+Login Register 0 items - $0.00
+NEWS
+REVIEWS
+EDUCATION
+HomeNewsBlockchainBitcoin Unlimited Team May Have Received Stolen Kraken Funds
+Bitcoin Unlimited Team May Have Received Stolen Kraken Funds
+JP Buntinx October 1, 2016 Blockchain, Cryptocurrency, News
+A few months ago there was a report regarding a Kraken exchange user suffering from a minor hack. Although this news has gone by largely unnoticed, some users have been keeping tabs on the funds. As it turns out, the funds have ended up in the donation address for Bitcoin Unlimited–a coincidence, or did the hacker realize there is no way to convert the stolen funds to begin with?
+BITCOIN UNLIMITED RECEIVES STOLEN EXCHANGE FUNDS
+This story dates back to July 20, 2016, a day on which a Reddit user reported  that his Kraken account had suffered from a hack. Although it remains unclear who is behind this theft or why it occurred in the first place, the stolen funds did not move until nearly a month later. Ever since August 18, the funds has been moving between different Bitcoin addresses.
+One Reddit user conducted a thorough taint analysis that follows some of the stolen funds. It is important to note that this analysis contains the address allegedly stolen from and the address these stolen funds were sent to. Despite the hacker using so-called Bitcoin mixing services, it is still possible to trace back some of the transactions.
+The result of this taint analysis is rather surprising, as some of the funds ended up in the donation address belonging to the Bitcoin Unlimited project. That is very surprising, to say the least, as the developers have received an official grant to conduct their development of this alternative Bitcoin fork.
+What is even more interesting is how the Bitcoin Unlimited address received close to half a million in BTC on the same day, and it was mixed in a very similar manner. While this may be a pure coincidence, there are very few completely unrelated events in the world of Bitcoin and cryptocurrency.
+All of this does not necessarily prove that something illicit has been going on. It is possible that somebody sent funds from Kraken to the Bitcoin unlimited donation address and then reported it as “stolen” funds. It creates an interesting investigation, though, which may yield some surprising results in the end.
+Image credit 1
+If you liked this article, follow us on Twitter @themerklenews and make sure to subscribe to our newsletter to receive the latest bitcoin and altcoin price analysis and the latest cryptocurrency news.
+Related Posts
+Security Experts Warn Bitcoin Users After Recent Spate of Attacks
+Tor Lashes Out at the Upcoming Changes to Rule 41
+KeepKey Is The World’s First Hardware Cryptocurrency Wallet To Integrate Shapeshift.io
+About The Author
+Jdebunt
+JP Buntinx is a 30-year old FinTech and Bitcoin enthusiast living in Belgium. His passion for finance and technology made him one of the world's leading freelance Bitcoin writers, and he is working to achieve the same level of respect in the FinTech sector.
+SEARCH SITE
+Search
+POPULAR POSTS
+WhatsApp Looks To Integrate Two-factor Authentication Shortly
+November 12, 2016
+Facebook And Google Will Penalize Sites Publishing …
+November 15, 2016
+Samsung Pay Incentivizes Users With New Rewards …
+November 15, 2016
+Visa Wants To Replace Passwords With Multiple …
+November 15, 2016
+OCBC Bank Pilots Blockchain-based Funds Transfer Between …
+November 15, 2016
+SUBSCRIBE
+Subscribe to our mailing list
+RECENT POSTS
+Incent To Offer Its ICO Technology To Other Organizations Focusing On Loyalty Rewards November 25, 2016
+Developing Nations Show A Great Appetite For Payment Card Acceptance November 25, 2016
+POPULAR POSTS
+WhatsApp Looks To Integrate Two-factor Authentication Shortly
+November 12, 2016
+Facebook And Google Will Penalize Sites Publishing …
+November 15, 2016
+CONNECT WITH US
+The Merkle Copyright © 2016.

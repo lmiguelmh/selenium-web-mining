@@ -1,0 +1,92 @@
+https://hacked.com/bitcoin-wallet-provider-blockchain-info-suffers-dns-hack-attack/
+Bitcoin Wallet Provider Blockchain.info Suffers DNS Hack Attack | Hacked
+HACKED
+TECH. SECURITY.
+ eSentire Partners with Carbon Black to Provide Endpoint Detection Capabilities to the Midmarket
+ SecurityScorecard Announces Data Science Partnership with Columbia University
+ New Book – ‘Hacked Again’ – It can Happen to Anyone… Even a Cyber Security E...
+
+
+148520
+2
+0
+BITCOIN WALLET PROVIDER BLOCKCHAIN.INFO SUFFERS DNS HACK ATTACK
+by ELLIOT MARAS
+OCTOBER 13, 2016
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+Blockchain.info suffered a domain name system (DNS) hacking yesterday that sent users to the wrong servers, exposing bitcoin users’ passwords. Blockchain.info took its website offline for several hours to restore its service. The problem has been corrected and the website is now functioning.
+The hack occurred around 11:00 GMT as the DNS information switched from Cloudfare to a cheap host provider in Tulsa, Okla. in the United States.
+Bitcoin users immediately began warning one another on Twitter and Reddit. Blockchain took itself offline to reclaim its DNS records and direct users to the proper servers.
+Blockchain Advises Users
+Blockchain tweeted that it was researching a DNS issue and looking into it at 6:26 a.m. and tweeted several updates until 2:01 p.m., when it noted the services were restored and running normally.
+Blockchain also confirmed the attack on Reddit and stated it would be several hours before service would be fully restored.
+One Reddit post noted that with such an attack, funds are at risk, and that API requests and logins could have ended up being redirected to a server hosted by another party.
+DNS hacks can allow an attacker to direct a site’s visitors to the wrong IPs. An attacker can collect login credentials for every user authenticating on the false portal.
+Also read: Blockchain.info vs. the block chain: Redditors express discontent
+Password Protection Urged
+Users accessing Blockchain during the attack were advised to change wallet passwords immediately, Softpedia noted. Users of desktop and mobile apps who use the Blockchain API, which queries the same DNS server, should do the same thing.
+Blockchain regained access to its DNS records at about 21:00 GMT and issued a statement, noting they took immediate action to resolve the issue. The statement said they were waiting for the DNS to propagate universally across the web before restoring services. Once the DNS propagated, service would be restored as soon as possible. Blockchain.info apologized for the inconvenience.
+Softpedia confirmed late yesterday that the Blockchain website was functional and its DNS records pointed to the proper servers.
+Blockchain, Softpedia noted, was served from two IPs, 192.236.200.26 and 198.44.48.226, and loaded from the following DNS servers:
+Name Server: DED88057-1.HOSTWINDSDNS.COM
+Name Server: DED88057-2.HOSTWINDSDNS.COM
+DNSStream (1.2). and OpenDNS also detected the attack.
+Images from Shutterstock.
+
+LIKE
+WHAT'S YOUR REACTION?
+LOVE IT
+0%
+FUNNY
+0%
+MEH..
+25%
+WHAT!?
+50%
+HATE IT
+25%
+POSTED IN
+Bitcoin, Cybersecurity
+TAGS
+YOU MIGHT ALSO LIKE
+BITCOIN
+CYBERSECURITY
+ 222448
+Zcash: A Cryptocurrency More Secure and Anonymous Than Bitcoin?
+ 47175
+vDice.io, The World’s First Full Decentralized Gambling Platform
+ 249869
+How to Avoid Bitcoin Scams
+
+ 151626
+Russian Fraudster Lures Thousands in Kenyan Pyramid Scheme with a Bitcoin Twist
+ 63271
+The Future of Digital Rights Management Might Be Decent with Blockchain
+ 324458
+Is a Decentralized Internet the Solution to Outages?
+
+TRENDINGMOST VIEWS
+SORT
+ Final NASA Eagleworks Paper Confirms Promising EmDrive Results, Proposes Theoretical Model
+24400
+ The Biggest DDoS Attack of 2016 Was Caused by an Angry Gamer
+9427
+ NASA Scientists Sketch Tentative Theory of EmDrive Propulsion
+5187
+ FBI Releases Darknet Marketplace Primer
+2797
+ Chinese Physicists Achieve Record-Breaking Quantum Cryptography Breakthrough
+2569
+ How to Avoid Bitcoin Scams
+2099
+ Zcash: A Cryptocurrency More Secure and Anonymous Than Bitcoin?
+1898
+ Dutch Police Warns Dark Web Marketplace Users: “You Have Our Attention”
+1452
+BREAKING BITCOIN NEWS
+COPYRIGHT © 2016 HACKED, ALL RIGHTS RESERVED.
+T&C. PRIVACY POLICY. ABOUT. IN PARTNERSHIP WITH CRYPTOCOINS NEWS.

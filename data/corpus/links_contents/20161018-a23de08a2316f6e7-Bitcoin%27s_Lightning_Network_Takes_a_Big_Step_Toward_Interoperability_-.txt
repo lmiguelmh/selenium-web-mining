@@ -1,0 +1,114 @@
+http://www.coindesk.com/bitcoin-lightning-network-interoperability-milan-scaling/
+Bitcoin's Lightning Network Takes a Big Step Toward Interoperability - CoinDesk
+TRENDING
+Vote Now for CoinDesk's Most Influential People in Blockchain
+BITCOIN PRICE INDEX (24H)
+Created with Highstock 1.3.7
+$729
+$734
+$738
+USD -0.06%
+$737.87
+CNY 0.16%
+¥5,192.97
+EUR €696.48
+GBP £591.14
+NEWS
+–
+PRICE & DATA
+–
+GUIDES
+–
+EVENTS
+RESEARCH
+PRESS RELEASES
+NEWS  •  TECHNOLOGY
+Bitcoin's Lightning Network Takes a Big Step Toward Interoperability
+Alyssa Hertig (@AlyssaHertig) | Published on October 18, 2016 at 21:17 GMT
+NEWS
+431
+50
+36
+The development of a key bitcoin scaling solution has been fragmented to date – but that could soon change.
+Major developers behind the Bitcoin Lightning Network met last week in Milan to determine how work on the micropayment layer will advance and how the varied efforts in progress will be standardized. In total, representatives from six projects attended, with those involved calling it a "culmination" of efforts that have taken place since the technology was first proposed in 2015.
+According to organizers, the idea behind the meeting was to design rules for every implementation to follow so that the currently fragmented projects (of which there are at least eight following their own designs) can ultimately be made interoperable.
+Prior to the meeting, Lightning Labs co-founder Elizabeth Stark said the loose group had largely synched up over a series of bi-weekly phone calls and over technical discussion on the Lightning Network mailing list.
+Stark told CoinDesk:
+"Without proper in-depth conversations there might be incompatibilities and different ideas. We want all implementations to talk to each other and to work with each other."
+Other participants provided details on how information would be shared as work progresses, with some suggesting early versions of Lightning could be ready for use by the year's end.
+For example, Blockstream core tech engineer Christian Decker indicated he feels confident development can now continue toward its goals as a result of the meeting.
+"We managed to nail down all the details needed to interoperate. This concludes the initial exploratory phase and we can now move forward combining all the lessons learned," he said.
+The highly-anticipated top layer for the bitcoin network is designed to boost transaction capacity and speed (hence “lightning”) in a way that developers say follows bitcoin's original value proposition (a digital currency that doesn't require users to rely on intermediaries).
+Widely considered to be the method by which bitcoin will scale without increasing the throughput of its blockchain, the Lightning Network has also been criticized by those that support on-chain methods of scaling.
+The decisions
+Described at length in the blog post, the group made several decisions about protocol compatibility (what Lightning Network architect Joseph Poon called the "critical core protocol") and ultimately decided how each implementation should work into the future.
+The specifications include a "core commitment protocol," which will determine how micropayment channels between two users are updated. (The Lightning Network hinges on a cryptographic method called hashed timelock contracts (HTLCs), which ensures payments on the network can not be stolen by intermediaries).
+One specification decision was to include a two-stage HTLC scheme proposed by Mats Jerratsch, who is working on Blockchain's Thunder implementation.
+The group also discussed specifications for a basic routing protocol for how payments will ultimately hop across the network, and several other implementation details.
+These include a format for scrambling the communications between nodes for privacy and a format for outsourcing how channels will be monitored for fraud so that this responsibility does not fall to users.
+Progress ahead
+So far, the group is planning to solicit feedback from the rest of the bitcoin community before finalizing the specifications and testing the compatibility of the implementations over the coming weeks.
+"For me personally the fact that all teams came to similar conclusions and solutions is a sign that we are on the right track. Now we continue to work on writing a joint specification and adapting the implementations to that specification," Decker said.
+Elsewhere, representatives expressed the idea this update is a sign that work on more advanced bitcoin technologies continues to more forward.
+Valery Vavilov, CEO of Bitfury Group, for example, was keen to cite the progress made by the Scaling Bitcoin event as a whole, which saw a number of technological proposals presented and critiqued and served as a meeting place for the Lightning discussions.
+Vavilov told CoinDesk:
+"We feel that the event in Milan was an important step forward for the global adoption of bitcoin and blockchain, for our community and for the Lightning Network overall."
+Lightning image via Shutterstock
+Lightning NetworkScalabilityScaling Bitcoin
+431
+50
+36
+PREVIOUS ARTICLE
+Major Hong Kong Lenders Plot Blockchain Mortgage System...
+NEXT ARTICLE
+Winklevoss Brothers Tap State Street for Key Bitcoin ETF...
+Don't miss a single story
+Subscribe to our free newsletter and follow us
+RELATED STORIES
+NEWS
+Nov 16, 2016 at 13:59 | Alyssa Hertig
+Bitcoin's Lightning Network is Now Digital Asset Compatible
+Colored coins over Lightning? A demo mash-up of the two experimental bitcoin technologies went live today.
+FEATURE
+Nov 12, 2016 at 15:30 | Alyssa Hertig
+What's Left Before Bitcoin's Lightning Network Goes Live
+There aren't many steps left before bitcoin's Lightning Network will be finished — or at least an early version of it.
+FEATURE
+Oct 26, 2016 at 18:35 | Alyssa Hertig
+A Lower Block Time Could Help Bitcoin Scale, But Will It Work?
+A small tweak to bitcoin could have a big impact.
+FEATURE
+Oct 8, 2016 at 18:54 | Pete Rizzo
+What If One Bitcoin Isn't Like the Others? Fungibility Debated At Scaling Conference
+The fungibility of bitcoin emerged as a central topic of debate on day one of the annual Scaling Bitcoin conference in Milan.
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+Registration Is Open!
+Only 91 tickets available at $999
+REGISTER NOW
+FEATURES
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+INDUSTRY PRESS RELEASES
+Nov 23 | 14:13
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Nov 23 | 09:00
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Nov 22 | 15:25
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Nov 22 | 01:30
+Accepting Cash Deposits with Flexepin
+VIEW MORE
+
+SUBMIT RELEASE
+
+Got a news tip or guest feature?
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+
+Never Miss a Story
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.
+No, thanks.

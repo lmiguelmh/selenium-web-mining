@@ -1,0 +1,47 @@
+https://cointelegraph.com/news/trust-revolution-bitcoin-potential-for-latin-america-in-focus-of-latam-bitcoin-conference
+Trust Revolution, Bitcoin Potential for Latin America in Focus of Latam Bitcoin Conference
+Toggle navigation
+BTC
+738.12
+0.8%
+ETH
+9.41
+1.25%
+Advertise
+  2016-11-09 04:45 PM
+Author Adam Dubove
+Trust Revolution, Bitcoin Potential for Latin America in Focus of Latam Bitcoin Conference
+2580 Total views 252 Total shares
+After three long years, the Latin American Bitcoin and Blockchain Conference (laBITconf) returned to Buenos Aires, Argentina, for its fourth annual edition. While many of the cryptoworld conferences around the world have became more and more business oriented, the Latin American event has managed to retain the spirit of the good old days.
+Over 35 speakers from across the world attracted an audience of more than 350 people to listen to some of the most prominent figures within the Bitcoin ecosystem. Hot topics such as the blocksize debate, Bitcoin price, regulatory environment, mining, and startups were addressed throughout the two day event.
+Bitcoin Potential for the Region
+Security expert and author of Mastering Bitcoin, Andreas Antonopoulos, kicked off the first day of the conference addressing what the “trust revolution” means for the Bitcoin world. He told Cointelegraph how his previous visit to Argentina in 2013 changed his “whole perspective on what Bitcoin was and why it mattered.”
+“In most places I go in the developed world I not only have to explain how Bitcoin works but also why it is necessary,” he said.
+“But here, they already know why it matters, what they want to know is how and how quickly. It’s a whole other level.”
+The Argentinean government lifted exchange controls in late 2015, after four years of stringent restrictions and the country, which has experienced several massive bank failures throughout its history, still suffers roughly 40 percent inflation.
+The first day continued with talks addressing both the potential of Bitcoin and Blockchain technology.
+However, RSK Labs CEO and co-organizer of the conference Diego Gutierrez Zaldivar noted, in his talk on the “Internet of Value,” that a private or licensed Blockchain brings nothing new to the table.
+“A Blockchain protected by a federation is more transparent but it’s still a closed system,” he said.
+“If you put the Blockchain in a server it is just a database that can’t be edited. It has no disruptive value.”
+Antonopoulos agreed:
+“Private Blockchain is a contradiction in terms, it makes as much sense as private internet, it doesn’t.”
+Rodolfo Andragnes, another of the co-organizers and MC of the conference, said that they acknowledge that “the world is talking about Blockchain, and belittle Bitcoin.” He told Cointelegraph that companies ask them about the Blockchain so he “takes that as a starting point, where they are comfortable, and then move on to explain how Bitcoin is still relevant.”
+The event attracted Bitcoin newcomers eager to learn more about the cryptocurrency as well as veterans. For the old timers, the second day of the conference offered some of the most awaited talks focused on technical issues, including Zooko Wilcox’s presentation on the new anonymous cryptocurrency Zcash, the launch of Tumeric, the testnet of Rootstock Bitcoin’s smart contracts platform, and Bitcoin Core developer and keynote speaker Peter Todd.
+RSK Labs co-founder and Bitcoin security expert Sergio Lerner explained that they have “30 percent of the Bitcoin merge miners already testing Rootstock software” and an additional 50 percent have expressed their intention to merge mine Rootstock. He also announced companies such as Jaxx, Wings, and Torguen are working with the smart contracts platform to start creating the ecosystem. Finally, he said that Rootstock production network Ginger will be available in April 2017.
+Important role
+Gutierrez Zaldivar believes Latin America will continue to play an important role for the development of Bitcoin and Blockchain technology.
+“Bitcoin is the first layer of a larger ecosystem that is being built - the Internet of Value - which is the first neutral, decentralized, and interoperable  network. The network will be more useful in countries with weak rule of law,” he told Cointelegraph.
+He also noted a positive change regarding Bitcoin Latin America throughout the years.
+“Four years ago, the press asked a lot about how Bitcoin facilitates illegal transactions and money laundering. It is still difficult for them to understand that this is the cornerstone of a revolution, and is more than a means of payment, but now they look at Bitcoin as a store of value and a reliable technology.”
+For the first time, the event included an after-conference launch that included a traditional Argentinian asado - barbecue - and horse riding demonstrations for VIP ticket holders.
+“One thing that distinguishes laBITconf is that we try to include the local culture of the hosting country. We like to live the whole experience,” said Andragnes.
+The conference ended on a high note with an auction of artwork for BitGive and the organizing team on stage wearing Guy Fawkes masks. “Remember, remember laBITconf in November,” they chanted.
+Bitcoin
+Latin America
+Bitcoin Conference
+Andreas Antonopoulos
+LaBitConf
+Argentina
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

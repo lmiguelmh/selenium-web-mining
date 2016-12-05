@@ -1,0 +1,33 @@
+Bitcoin's global development community is scheduled to meet this week for the latest edition of a conference series focused on the network's more pressing problems, like scaling to accommodate more transactions.
+Launched in 2015 in response to mounting demand for scaling to support a larger userbase, this weekend's Scaling Bitcoin is slated to see a number of talks focused on issues like scalability, as well as one on Segregated Witness (SegWit), a much-lauded and debated scaling compromise announced in December.
+While no big updates are expected at the conference, bitcoin developers say the release of activation code that would see SegWit disseminated for download and testing is expected soon, representing another step in a long line that has preceded its expected launch.
+Before officially making the change, however, developers are still testing for potential bugs.
+"We’re making a lot of changes to the network right now," Bitcoin Core contributor Eric Lombrozo said, arguing that they need to tread carefully to ensure that the update is compatible with other recent changes (as seen in the latest software release).
+"One of the remaining open issues is making SegWit work with compact blocks," Bitcoin Core contributor Bryan Bishop added. Integrated in August, compact blocks allow nodes to send data more quickly and efficiently when they "talk" to one another.
+Despite the wait, there's reason for excitement. The code, when launched, is expected to nearly double the number of transactions bitcoin can process and perhaps bring some resolution to what has been a long and contentious debate over bitcoin scaling.
+Not only does it immediately grow the amount of transactions that the network can process, but it also lays the groundwork for future projects that could potentially expand capacity further.
+SegWit provides a fix to the "transaction malleability" problem, which is necessary for top-level networks like Lightning Network to be deployed.
+The last software upgrade, released in August, was the first to feature the SegWit code, but it didn't include the code needed to activate the change on the network.
+The next update 0.13.1, Core developers say, will allow the code to be downloaded. From there, bitcoin miners can begin upgrading their software as a way to signal that they support the change.
+As explained by the Bitcoin Core website, the code will "lock-in" the change once 95% of the last 2,016 blocks (roughly two weeks worth of transactions) are broadcast by those running the new code.
+Roughly two weeks after that (after another 2,016 blocks), SegWit will officially be activated.
+"That means all full nodes running SegWit-aware code will begin requiring miners to enforce the new SegWit consensus rules," Core explained in a recent blog post.
+Lombrozo said that core developers hope that the process will unfold "pretty quickly," mentioning that it took about 2 to 3 months for another big bitcoin update, checksequenceverify, to activate.
+From there, the change will ripple out to the rest of the bitcoin ecosystem.
+The more consumer-facing bitcoin world has already begun to prepare for the changes, with different wallet providers moving to upgrade for compatibility. Core developers say they are actively working with these businesses to ensure a smooth transition.
+But wallet providers won't need to actually make the shift until SegWit is activated. This state of affairs has resulted in what BitGo platform lead Benedict Chan called a bit of a chicken-and-egg problem.
+Chan estimated it would take about five "man weeks" of developer time to make the upgrade.
+"Not a huge amount, but not a small amount," he said. "We'd probably only prioritize that when we hear the activation date announced."
+Bitcoin Core developers are advising that users should even wait a few weeks after activation to upgrade. This, they say, is in order to guard against the possibility that a significant majority of the network isn't in agreement over the new rules.
+Lombrozo argued that it's a flexible process, since wallets can wait until they're comfortable to make the upgrade, although if they wait, they won't be able to take advantage of the increased block space.
+Still, there are some who believe such upgrades aren't worth the "politics" that accompany the changes.
+Jonathan Toomim, who runs a hosted bitcoin mining operation and advocated for larger blocks at the last Scaling Bitcoin, said he remains unconvinced that the performance changes will be enough to revive user interest in bitcoin.
+When asked if anything would change his mind about the performance of SegWit, Toomim, an organizer for the Bitcoin Classic project, was dour about the prospects, indicating he is now more excited about the potential of other blockchain platforms like ethereum and Zcash.
+Any campaign to win hearts and minds, Toomim said, is likely to leave his opinion unchanged.
+"[SegWit] has cost bitcoin in terms of restricted growth, lost developer time and lost market share to altcoins," he said, adding:
+If they so choose, miners can now safely signal their support for a major bitcoin update.
+There aren't many steps left before bitcoin's Lightning Network will be finished — or at least an early version of it.
+Bitcoin network data shows that 25 percent of nodes worldwide are signaling support for Segregated Witness.
+Work on bitcoin sidechains – long thought to be one of the best ways to improve the functionality of the network – is advancing. Here's how.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

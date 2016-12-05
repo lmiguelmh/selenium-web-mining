@@ -1,0 +1,55 @@
+http://motherboard.vice.com/read/colorado-hemp-farmers-are-turning-to-bitcoin-for-their-banking-woes
+Colorado Hemp Farmers Are Turning to Bitcoin for Their Banking Woes | Motherboard
+Sections
+Machines
+Discoveries
+Space
+Futures
+Gaming
+Earth
+Videos
+About
+EN
+THE VICE CHANNELS
+MOTHERBOARD
+Colorado Hemp Farmers Are Turning to Bitcoin for Their Banking Woes
+Written by DANIEL OBERHAUS
+November 5, 2016 // 10:00 AM EST
+You could almost say Veronica Carpio was born to sell cannabis. Aside from having a birthday on 4/20, the 38-year old Colorado native was also the first female dispensary owner in the state, ran a covert coffee shop appropriately called The Front, and now oversees the largest hemp seed exchange in the state while producing her own brand of hemp coffee.
+When I spoke with Carpio during a smoke break at the CryptoCannabis Conference in Denver last month, her passion for pot was palpable, but it was this very enthusiasm for ganja which had landed her in hot water in the past. In 2011, Carpio was arrested for brokering a $30,000 deal which would’ve sent ten pounds of pot from her dispensary out of state. The three-month undercover sting operation resulted in one felony charge and a year on probation, but for Carpio it was just the beginning of her cannabis woes.
+After she was raided and arrested, Carpio pivoted away from marijuana toward hemp, a type of cannabis with next to no THC content. In Colorado, hemp is legally defined as any cannabis plant with a THC concentration of less than .3 percent. Although hemp is not as strictly regulated by the Colorado government because the end product lacks a psychoactive component, this relaxed attitude doesn’t translate to federally regulated financial institutions operating in the state, a lesson that Carpio learned the hard way.
+It’s no secret that banks, credit card companies, and online payment apps like PayPal have no desire to work with businesses that traffic in legally nebulous goods (even though the Justice Department has gone on record to say that it's chill). This leaves most cannabusinesses with two options: don’t have a bank account or lie about the nature of your business to the bank. Many dispensaries and cannabis cultivators in Colorado have opted for the latter option, including Carpio. These cannabis entrepreneurs are inevitably caught (it’s really hard to not raise a red flag when you’re depositing tens of thousands of dollars in cash into your account every week) and punished.
+As I was told by Tim Cullen, the proprietor of the Colorado Harvest grow op, when Wells Fargo discovered his account was linked to marijuana cultivation, not only did they shut down Cullen’s business account, but they also shut down his family members accounts, including his four-year old son’s college savings account. While this might’ve been expected for a marijuana grow, hemp farming doesn’t have quite the same stigma, which is why Carpio was surprised when PayPal informed her that they were shutting down her business account and freezing her funds for six months.
+“I had my PayPal account for many years for selling my hemp products and then they just decided to red flag,” Carpio told me. “Then it was a spiral after that and everything got frozen—Amazon, Etsy. It’s kind of ironic because we want to do legitimate business, but we are forced to lie.”
+When Carpio tried to reason with PayPal about unfreezing her account, her pleas fell on deaf ears and she was told that she was “lucky” if she ever saw her funds again. With no way to accept online payment for her online hemp business, PayPal had effectively destroyed Carpio’s ability to make a living for six months. So after a brief meltdown, Carpio started pursuing options outside of the mainstream financial establishment.
+Edgar Hamm and Veronica Carpio at the 2016 CryptoCannabis Conference in Denver. Image: Daniel Oberhaus
+Necessity brought Carpio to bitcoin and after getting up to speed on the intricacies of the blockchain, she integrated Bitcoin as a permanent payment solution for her hemp businesses. After trying a number of different wallets and Bitcoin payment systems, Carpio eventually settled on Mycelium, a Bitcoin wallet that has been in development by a group of self-described anarchist hardware engineers since 2008.
+Mycelium offers a number of advantages for those in the cannabis industry including a high degree of anonymity and easy peer-to-peer transactions, but for Carpio, the decision ultimately came down to the user experience. On the business side, it was easy for Carpio to integrate Mycelium into her businesses’ existing web architecture and as far as the consumer side of things, there are very few Bitcoin wallets that are simpler or more intuitive than Mycelium.
+Yet despite Mycelium’s famously easy to use interface, Carpio saw that her hemp farming customers were still wary about adopting cryptocurrency for business purposes.
+“The biggest pushback from hemp farmers is just the lack of understanding,” said Carpio. “This is the older generation that doesn’t really get it. They have this notion that bitcoin is illegal, imaginary, and doesn’t really work. On the general level of consumers they're not there yet.”
+To facilitate the adoption of bitcoin as a solution to industrial hemp’s banking problem, Carpio co-founded a knowledge resource hub called 1620 Solutions with Edgar Hamm, a biodynamic hemp farmer and cannabis activist. The goal of 1620 Solutions is to educate hemp farmers on how they can easily implement bitcoin into their pre-existing business model.
+“We are an open source education hub because this is where agriculture has to go,” said Hamm. “Honestly, I see cannabis as low hanging fruit. If we're going to move toward a future that is actually sustainable then we need to move towards things [like bitcoin]. It moves everything back to local.”
+Although they weren’t ready to disclose numbers on how many hemp farmers have used 1620 Solutions to pursue Bitcoin as a financial solution, Hamm and Carpio says the response has been overwhelmingly positive. The main struggle remains educating the farmers about how bitcoin and blockchain technology actually works, and why it is a secure alternative payment solution.
+“Bitcoin is still really new to these people, but we're trying to show them that this is realistic,” said Carpio. “Bitcoin will absolutely work for them if they can just wrap their mind around how it works. It's just a huge learning curve.”
+TOPICS: weed, cryptocurrency, bitcoin, farming, colorado, denver, banks
+Contact the author by Twitter.
+You can reach us at letters@motherboard.tv. Letters may be published. Want to see other people talking about Motherboard? Check out our letters to the editor.
+RECOMMENDED
+This Is the DEA’s Internal Dictionary of Drug Slang
+Why You Can’t Legally Call Organic Weed ‘Organic’
+How to Get Zcash, Bitcoin’s Anonymous Baby Cousin
+Clinton Campaign Considered Accepting Virtual Currency Donations
+IRS Demands Identities of All US Coinbase Traders Over Three Year Period
+Bitcoin’s Former Chief Developer Regrets Playing the ‘Who Was Satoshi’ Game
+MOST POPULAR
+What a Trump Presidency Means For Science
+After 20 Minutes of Listening, New Adobe Tool Can Make You Say Anything
+Vancouver Considers Abandoning Parts of the Coast Because of Climate Change
+How We Plan to Cover the Environment In a Trump Presidency
+The Canadian Military Is Investigating a Mysterious Noise In the Arctic
+Why Some Apple Fans Are Considering a Hackintosh
+© 2016 Vice Media LLC
+About
+Contact
+Privacy Policy
+Terms of Use

@@ -1,0 +1,124 @@
+https://nakedsecurity.sophos.com/2016/10/13/popular-bitcoin-site-hit-by-dns-attack-loses-control-of-own-website/
+Popular Bitcoin site hit by DNS attack, loses control of own website – Naked Security
+Got it!
+This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. Learn More
+Naked Security
+SOPHOS.COM
+FREE TOOLS
+Award-winning computer security news
+Twitter
+Facebook
+Google+
+LinkedIn
+Feed
+Popular Bitcoin site hit by DNS attack, loses control of own website
+13 OCT 2016
+0
+Data loss, Denial of Service
+Get the latest security news in your inbox.
+Don't show me this again
+Previous: Facebook, Twitter, Instagram cut off surveillance tool used to track protesters
+Next: Clinton campaign official’s Twitter account hijacked: “I’ve switched teams”
+by Paul Ducklin
+0
+Share on Facebook
+Share on Twitter
+Share on Google+
+Share on LinkedIn
+Share on Reddit
+Popular Bitcoin transaction site blockchain.info seems to have suffered a temporary DNS attack that left the company’s internet properties under rogue control for a while.
+Normal service seems to have been restored now.
+The attack was what’s known as a DNS redirect or a DNS hijack, which is where a crook persuades the world to take a wrong turning on its way to your website.
+The name of the attack comes from the fact that the system to convert server names such as sophos.com to internet numbers such as 31.222.175.174 is known as the Domain Name System, or DNS for short.
+Sophos Home
+Free home computer security software for all the family
+Learn More
+The idea is that you run at least two DNS servers, or pay someone else to run them for you, that potential visitors to your internet sites can query to find out where all your other internet servers can be found.
+That means you can add and remove servers, move servers around, switch network providers, adapt to changing load, and react to IT issues such as outages, without needing to republish details of your new locations to any sort of massive centralised list. (DNS is a distributed global database that avoids any single point of failure or congestion.)
+You register your DNS servers with an official registrar – most countries have many to choose from, just like insurance providers or health insurers – and the registrar deals with process of the adding and updating the necessary entries in your country’s DNS database, so that visitors can find out where to find you online.
+Most registrars provide tools that let you update your own DNS records, for example by using a web portal, via email, or by calling a telephone support line.
+All traffic at risk!
+You can see where this is going.
+A crook who gets hold of your DNS password, or who can send the right sort of email, or who can sweet-talk your registrar into making unauthorised changes…
+…can effectively hijack all your network traffic and take over your servers, without hacking any of the servers themselves.
+A DNS hijack is a bit like a mobile phone SIM swap, where the crook persuades a mobile phone shop to re-issue your SIM card (this automatically cancels the old one), so your calls and text messages suddenly start going to his phone instead.
+Or it’s like a fraudulent postal redirect where the crook forges your signature at the post office, and all the mail that ought to have dropped through your letterbox gets delivered to his house (or PO Box) instead.
+As with a SIM swap or a mail redirect, a DNS hijack causes two related problems:
+You are effectively cut off, so although you can contact your service provider to seek a fix, they can’t easily reply to you. In fact, the crooks will get their replies instead.
+You are now effectively the outsider, and you need to convince your service provider to switch things back. You may end up needing social engineering skills of your own to establish that you’re not a DNS hijacking crook yourself.
+In this case, it seems as though blockchain.info was able to get back control of its own DNS records fairly quickly, so that the crooks behind the attack didn’t get very far with it.
+What to do?
+Many registrars allow you to turn on various “strict mode” options for DNS changes, for example:
+By enabling two-factor authentication for logging in. This makes it harder for the crooks to login fraudulently, because your password alone is not enough.
+By requiring a telephone callback to confirm change requests. By calling you back on a phone number you provided earlier, you’ll not only be notified when suspicious changes show up, but also be able to prevent those changes from going through.
+A callback typically adds a few minutes of delay when you are making changes, but it’s a modest inconvenience compared to finding that all your network traffic – notably web and email – has been taken over by an imposter.
+Don’t be afraid to trade a little bit of inconvenience for an awful lot of extra security!
+
+bitcoin
+Blockchain
+DNS
+DNS hijack
+Free tools
+Sophos Home
+for Windows and Mac
+XG Firewall
+Home Edition
+Mobile Security
+for Android
+Virus Removal Tool
+Antivirus
+for Linux
+Previous: Facebook, Twitter, Instagram cut off surveillance tool used to track protesters
+Next: Clinton campaign official’s Twitter account hijacked: “I’ve switched teams”
+About the author
+Paul Ducklin
+Paul Ducklin is a passionate security proselytiser. (That's like an evangelist, but more so!) He lives and breathes computer security, and would be happy for you to do so, too. Follow him on Twitter: @duckblog
+Leave a Reply
+Recommended reads
+DEC
+10
+BY PAUL DUCKLIN
+9
+Internet DNS servers withstand huge DDoS attack
+JUL
+13
+BY PAUL DUCKLIN
+8
+Lad who attacked Spamhaus in DDoS attack avoids prison, given a second chance
+MAR
+30
+BY PAUL DUCKLIN
+10
+Google reports new shenanigans in ongoing Turkish internet blockade
+12
+SOPHOS
+About Naked Security
+About Sophos
+Send us a tip
+Cookies
+Privacy
+Legal
+NETWORK PROTECTION
+XG Firewall
+UTM
+Secure Wi-Fi
+Secure Web Gateway
+Secure Email Gateway
+ENDUSER PROTECTION
+Enduser Protection Bundles
+Endpoint Antivirus
+Sophos Cloud
+Mobile Control
+SafeGuard Encryption
+SERVER PROTECTION
+Virtualization Security
+Server Security
+SharePoint Security
+Network Storage Antivirus
+PureMessage
+Twitter
+Facebook
+Google+
+LinkedIn
+Feed
+© 1997 - 2016 Sophos Ltd. All rights reserved. Powered by WordPress.com VIP

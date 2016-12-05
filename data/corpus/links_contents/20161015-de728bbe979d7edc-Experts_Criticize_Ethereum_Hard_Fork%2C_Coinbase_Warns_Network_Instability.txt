@@ -1,0 +1,38 @@
+https://cointelegraph.com/news/experts-criticize-ethereum-hard-fork-coinbase-warns-network-instability
+Experts Criticize Ethereum Hard Fork, Coinbase Warns Network Instability
+Toggle navigation
+BTC
+738.33
+0.33%
+ETH
+9.44
+1.2%
+Advertise
+  2016-10-15 03:05 PM
+Author Joseph Young
+Experts Criticize Ethereum Hard Fork, Coinbase Warns Network Instability
+6224 Total views 212 Total shares
+The Ethereum development team officially postponed the execution of EIP150, a hard fork designed to increase the gas cost of transactions, setting the target block to 2463000. While Coinbase warned its users against network instability, Bitcoin experts have begun to criticize the Ethereum network’s security measures.
+Since late September, an increasing number of denial-of-service attacks have targeted the Ethereum network by spamming the network with transactions. Despite the release of several geth and parity updates, the Ethereum network continuously failed to deal with the intensity of ongoing DoS attacks, which ultimately forced the foundation to execute a hard fork.
+“There are software changes that have been made, are being made and can be made in order to mitigate the situation; however, the fact will remain that such opcodes will be by a substantial margin, the easiest known mechanism to degrade network performance via transaction spam,” wrote Ethereum co-founder Vitalik Buterin.
+Buterin further emphasized that the hard fork’s major alteration in cost of storage will mitigate the delays and prevent more DoS attacks in the future.
+He added:
+“This EIP increases the cost of storage reading opcodes to address this concern.”
+Coinbase warns network instability
+Following the statement from the Ethereum development team, Ethereum wallet service provider and trading platform Coinbase warned its users of network instability and decided to suspend ETH transactions starting October 17.
+The Coinbase team noted that users will most likely suffer from deposit and withdrawal delays over the next week.
+“This [hard fork] will likely cause ETH network instability for a period of time. Customers should expect delays to ETH deposits and withdrawals from Coinbase for up to the next 7 days. All customer ETH funds will be safely secured on Coinbase during this period,” announced Coinbase.
+However, Coinbase clarified that the firm is willing to support only one fork of the Ethereum protocol and does not plan to address any other fork of the protocol. Ethereum Classic withdrawal support will also be delayed until the successful execution of EIP 150.
+According to Ethereum Classic China, Ethereum Classic is also planning a new hard fork based on the proposal of the Chinese Ethereum community leader Roy Zou.
+Experts criticize Ethereum hard fork
+Regardless of the foundation’s effort in attempting to mitigate and prevent the incoming DoS attacks, Bitcoin experts aren’t satisfied with the underlying structure of the protocol.
+The majority of Bitcoin experts particularly condemned the excessive flexibility of the Ethereum network, which they believe is resulting various network delays and security issues.
+In his recent two-part series on Ethereum network’s vulnerabilities, Adamant Research chief editor Tuur Demeester explained:
+“No matter which configuration you choose, there will be a trade off between cost, security, speed, and flexibility… Ethereum has a different approach. It prioritizes flexibility and, I argue, it compromises on security, speed, and even cost.”
+Ethereum
+Hard Fork
+Coinbase
+Vitalik Buterin
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

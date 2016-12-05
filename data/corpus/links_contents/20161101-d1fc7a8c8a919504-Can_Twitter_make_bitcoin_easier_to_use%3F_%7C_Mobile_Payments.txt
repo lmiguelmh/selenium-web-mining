@@ -1,0 +1,188 @@
+http://www.mobilepaymentstoday.com/articles/can-twitter-make-bitcoin-easier-to-use/
+Can Twitter make bitcoin easier to use? | Mobile Payments Today
+TOPICS
+SUPPLIERS
+PROJECT HELP
+RESOURCES
+
+
+MORE
+9
+Can Twitter make bitcoin easier to use?
+ Nov. 1, 2016 | by Bradley Cooper
+It is no secret that bitcoin has not been able to gain mainstream acceptance. Although the reasons for this are numerous — it has a reputation of being seedy and volatile —  one of the biggest reasons is its high learning curve. At the bare minimum, users need a good bitcoin wallet, a secure password for that wallet and a bitcoin address to send bitcoin to someone else. Several companies have attempted to make the process easier with bitcoin ATMs and apps, and one company —  iPayYou —  has created a new method to let users send bitcoin through Twitter.
+Gene Kavner, CEO of iPayYou and a former director of Amazon Associates, recognized that bitcoin is too difficult for the average user.
+"It has so far developed in a way that is too complex for average person. If you talk to people in your life, you are going to get blank stares if you mention bitcoin," Kavner said in an interview.
+The company initially created a method to allow people to send bitcoins via email. For many people, however, an email address is still considered private information, so iPayYou planned to develop a method to send bitcoin payments without exposing any private information. The company chose Twitter due to its popularity.
+Known as Pay by Twitter, it is designed so that once an iPayYou completes the payment, the receiver receives a Tweet informing him or her of the payment. The receiver can click a link on the Tweet that redirects to the iPayYou website. The user can then create a profile and choose from there what to do with the bitcoin.
+The receiver can choose to keep the bitcoin in his iPayYou wallet for future use, or he or she can convert the bitcoin into U.S. dollars or even send the money to someone else. When iPayYou launched this service in July, the company gave users the chance to try out the service by donating bitcoin to U.S. Presidential candidates.
+"We chose to use the presidential candidates as an example of how little information is truly required to send payments over our Pay-by-Twitter feature. It will open the doors for individuals to not only send payment to friends, families and colleagues but also support causes and charities which will benefit from its true peer-to-peer functionality," Kavner said in a press release.
+The sender can also choose to cancel the payment before the receiver accepts the funds.
+IPayYou isn't the company  trying to make bitcoin easier to use. Earlier this year, BitAccess announced the launch of a tool to allow 6,000 Canadian retailers to sell bitcoin. Customers can purchase a Flexepin voucher at the stores, which can then be used to purchase bitcoin.
+Customers at the store can purchase bitcoins in denominations of $10, $30, $50, $100 or $250 a day with a credit or debit card. The vouchers can be redeemed on the BitAccess website and then added to their bitcoin wallet of choice.
+These developments point to a key reality within the bitcoin world.  If it is to gain mainstream acceptance, it needs to be user-friendly. 
+Topics: Bitcoin, In-App Payments, Social Media
+Bradley Cooper / Bradley Cooper is a Technology Editor for KioskMarketplace.com and VirtualCurrencyToday.com. His background is in information technology, advertising, and writing.
+www
+Sponsored Links:
+Mobile POS
+Secure Payments
+In-App Payments
+Loyalty Programs
+Related Content
+Top 3 benefits of mobile payments in Africa
+Visa Direct expands reach for real-time, card-based P2P and funds disbursement
+Banks and the blockchain: Do they fit together?
+Mobile payments play a role in Messenger's quest to become more like WeChat
+Latest Content
+Loyalty could attract US millennials to mobile payments
+Creating loyalty, engagement and influence through mobile payments
+Cardless cash transactions: What's in it for consumers?
+Samsung Pay first 'Pay' to add system-specific rewards program
+Subscribe To Our Newsletter
+Subscribe
+LinkedIn
+Twitter
+Facebook
+RSS
+NEWS
+OTI enters Australian market to provide NFC-payment acceptance at unattended machines
+European mobile marketer adds coupons, payments
+Verifone brings emerging payments options to Japan
+Diebold, Cuscal test benefits of beacon technology at ATMs
+2016 sees a rapid uptick in mobile wallet uptake
+Chase Pay officially debuts with acceptance at Best Buy, Starbucks
+Cardtek gets involved with wearable payments
+See More »
+RESOURCES
+Why mobile social media money transfers are going to be huge
+Vritti The Mobile Payments Guide Edition 5 Mahindra Comviva
+Carrier billing in 2016: Middle East & Africa
+The challenge of digital transformation: Farewell to the traditional bank branch?
+Why Haters are Wrong about Loyalty Programs
+See More »
+TRENDING
+Here comes Citi Pay
+Samsung Pay first 'Pay' to add system-specific rewards program
+The end of payments as we know it
+Creating loyalty, engagement and influence through mobile payments
+Kickstarting mobile payments in the Middle East
+ONLINE STORE
+2016 Mobile Wallet Comparison Guide
+$349.00
+Mobile Payments State of the Industry 2016 - Omnibus edition
+$699.00
+Mobile Payments State of the Industry 2016 - U.S. edition
+$349.00
+Visit our store »
+FEATURES
+Creating loyalty, engagement and influence through mobile payments
+Samsung Pay first 'Pay' to add system-specific rewards program
+Kickstarting mobile payments in the Middle East
+Why mobile social media money transfers are going to be huge
+Vritti The Mobile Payments Guide Edition 5 Mahindra Comviva
+TOPIC CENTERS
+ATMs
+Bill Payment
+Bitcoin
+Card Brands
+Carriers / Operators
+CONNECT Mobile Innovation Summit
+Contactless / NFC
+Direct Carrier Billing
+EMV
+Handsets / Devices
+HCE
+In-App Payments
+Loyalty Programs
+Mobile Banking
+Mobile/Digital Wallet
+Mobile Marketing
+Money Transfer / P2P
+POS
+Regulatory Issues
+Restaurants
+Retail
+Security
+Trends / Statistics
+STRATEGIC PARTNERS
+
+
+NEWSLETTER SIGN-UP
+Subscribe To Our Newsletter
+Subscribe
+
+FOLLOW US
+
+COMPANY INFO
+About Us
+Bloggers
+Media Kit / Editorial Calendar
+Contact Us
+Editorial Policy
+Privacy Policy
+Terms Of Use
+Site Map
+Design Guides
+FEATURED
+Creating loyalty, engagement and influence through mobile payments
+
+Samsung Pay first 'Pay' to add system-specific rewards program
+
+Kickstarting mobile payments in the Middle East
+
+TOPICS
+ATMs
+Bill Payment
+Bitcoin
+Card Brands
+Carriers / Operators
+CONNECT Mobile Innovation Summit
+Contactless / NFC
+Direct Carrier Billing
+EMV
+Handsets / Devices
+HCE
+In-App Payments
+Loyalty Programs
+Mobile Banking
+Mobile/Digital Wallet
+Mobile Marketing
+Money Transfer / P2P
+POS
+Regulatory Issues
+Restaurants
+Retail
+Security
+Trends / Statistics
+Contact Us
+
+
+
+
+
+
+
+
+  Copyright © 2016 Networld Media Group, LLC. All rights reserved.
+Visit Other Networld Media Group Sites:
+Select a site
+ATM Marketplace
+Church Central
+Digital Signage Today
+Fast Casual
+Kiosk Marketplace
+Mobile Payments Today
+Pizza Marketplace
+QSRWeb
+Retail Customer Experience
+Virtual Currency Today
+Bank Customer Experience (BCX) Summit
+CONNECT Mobile Innovation Summit
+Fast Casual Executive Summit
+Interactive Customer Experience (ICX) Summit
+Restaurant Franchising & Innovation Summit
+Recommended for you
+The most important mobile payment infographic. Ever.
+www.mobilepaymentstoday.com
+AddThis

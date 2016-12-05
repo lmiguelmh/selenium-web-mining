@@ -1,0 +1,92 @@
+http://www.businessinsider.com/the-winklevoss-brothers-are-speeding-up-sec-approval-for-their-bitcoin-fund-2016-10
+The Winklevoss brothers are speeding up SEC approval for their bitcoin fund - Business Insider
+FINANCE
+BI Intelligence Events
+Sign-in
+Edition 
+The Winklevoss brothers are speeding up SEC approval for their bitcoin fund
+BI Intelligence
+Oct. 21, 2016, 1:30 AM 2,836
+FACEBOOK
+LINKEDIN
+TWITTER
+EMAIL
+PRINT
+BII
+See Also
+Smart contracts pose enforceability issues
+London tops fintech index for second straight year
+Australia's second go at regulating crowdfunding
+This story was delivered to BI Intelligence "Fintech Briefing" subscribers. To learn more and subscribe, please click here.
+Tech entrepreneurs Cameron and Tyler Winklevoss have appointed State Street as the transfer agent for their bitcoin-based exchange-traded fund (ETF), the Winklevoss Bitcoin Fund, according to their latest regulatory filing on Tuesday, the Wall Street Journal reports.
+This means State Street will act as the fund's administrator. The brothers also appointed San Francisco-based Burr Pilger Mayer to act as auditor for the fund.
+The Winklevoss brothers likely brought these major players on board to increase the likelihood of SEC approval for their ETF. As transfer agent, State Street will record ownership changes, calculate daily net asset values, and maintain all records for the fund. As auditor, Burr Pilger Mayer will be responsible for carrying out monthly "proof of control" exercises to ensure that all of the Bitcoin reported as held by the ETF are legitimate.
+The entrepreneurs probably hope that such rigorous oversight will reassure regulators that their fund is playing by the rules, and that the reputation of these firms will add respectability to their venture — increasing their chances of SEC approval. 
+The two businessmen likely want SEC approval because they think this will attract mainstream investors to their fund. The approval process for the Winklevoss fund has already dragged on for three years, according to the WSJ, and the SEC recently put approval on hold once again. We expect the brothers are persisting because success would mean they had the first Bitcoin-based ETF approved by the SEC, which could boost the attractiveness of the fund.
+But first they have to convince the SEC that their ETF will not be unduly risky for investors — a hard task since Bitcoin has proven to be a very volatile currency, suffering a boom and bust from 2013 to 2014. It stabilized only recently, and its recovery is still tentative. Given this volatility, even with SEC approval, there's no guarantee that investors will be reassured or willing to use the product.
+Blockchain technology, which is best known for powering Bitcoin and other cryptocurrencies, is gaining steam among finance firms because of its potential to streamline processes and increase efficiency. The technology could cut costs by up to $20 billion annually by 2022, according to Santander.
+That's because blockchain, which operates as a distributed ledger, has the ability to allow multiple parties to transfer and store sensitive information in a space that’s secure, permanent, anonymous, and easily accessible. That could simplify paper-heavy, expensive, or logistically complicated financial systems, like remittances and cross-border transfer, shareholder management and ownership exchange, and securities trading, to name a few. And outside of finance, governments and the music industry are investigating the technology’s potential to simplify record-keeping.
+As a result, venture capital firms and financial institutions alike are pouring investment into finding, developing, and testing blockchain use cases. Over 50 major financial institutions are involved with collaborative blockchain startups, have begun researching the technology in-house, or have helped fund startups with products rooted in blockchain. 
+Jaime Toplin, research associate for BI Intelligence, Business Insider's premium research service, has compiled a detailed report on blockchain technology that explains how blockchain works, why it has the potential to provide a watershed moment for the financial industry, and the different ways it could be put into practice in the coming years.
+Here are some key takeaways from the report:
+Spending on capital markets applications of blockchain is expected to grow at a 52% compound annual growth rate (CAGR) through 2019, according to Aite Group, to reach $400 million that year.
+Banks and major financial institutions are working both collaboratively and independently to develop blockchain tech. Over 50 major financial institutions are involved with collaborative blockchain startups, like R3 CEV or Chain. And many are investing in the technology on their own as well.
+Putting blockchain to use for real-world transactions is likely not that far off. If working groups' tests are successful, firms could be using it to transact real value as early as the end of this year and we could see widespread industry application within the next few years. 
+In full, the report:
+Examines the funding increases that are pouring into blockchain
+Assesses why blockchain is becoming so popular and what factors are driving up increased research and development
+Explains in full how blockchain technology work and what assets make it valuable and vulnerable
+Identifies pain points in the financial industry and profiles how various firms are using blockchain to solve them
+Demonstrates the challenges to mainstream adoption and their potential solutions
+To get your copy of this invaluable guide, choose one of these options:
+Subscribe to an ALL-ACCESS Membership with BI Intelligence and gain immediate access to this report AND over 100 other expertly researched deep-dive reports, subscriptions to all of our daily newsletters, and much more. >> START A MEMBERSHIP
+Purchase the report and download it immediately from our research store. >> BUY THE REPORT
+The choice is yours. But however you decide to acquire this report, you’ve given yourself a powerful advantage in your understanding of blockchain technology.
+Learn more:
+Credit Card Industry and Market
+Mobile Payment Technologies
+Mobile Payments Industry
+Mobile Payment Market, Trends and Adoption
+Credit Card Processing Industry
+List of Credit Card Processing Companies
+List of Credit Card Processing Networks
+List of Payment Gateway Providers
+M-Commerce: Mobile Shopping Trends
+E-Commerce Payment Technologies and Trends
+Follow Fintech Briefing and never miss an update!
+Get updates in your Facebook news feed.
+Get updates in your inbox.
+Privacy Policy
+More: BI Intelligence BI Intelligence Content Marketing Fintech Blockchain
+FACEBOOK
+LINKEDIN
+TWITTER
+EMAIL
+PRINT
+  by Taboola 
+Promoted Links 
+Recommended From The Web
+Declassified Photos Left Us Purely Speechless
+The Brofessional
+1,000,000 Are Using This App To Learn A New Language
+Babbel
+Las Tres Anécdotas De Lotería Más Increíbles De Todos Los Tiempos
+theLotter.com
+Financial Incentives For Pharmas To Develop Antibiotics
+Global Health Action
+Are You A Strategic Thinker? Test Your Skills With Millions Of Addicted Players!
+Soldiers: Free Online Game
+The Ultimate Cheap Flights Finder Is Here!
+Save70.com
+Recommended For You
+Powered by Sailthru
+Watch the trailer for the new Martin Scorsese film that took over 20 years to make
+People have paid a company $40,000 to dig a giant hole for no reason — and the money is still pouring in
+Apple's one-day shopping event is today, and the company is offering free gift cards up to $150
+These are all of Walmart's Black Friday deals you can get online this year
+We went to Walmart for Black Friday — and it was nothing like we expected
+Top Trump aide acknowledges grassroots furor over Mitt Romney as potential secretary of state
+Follow us on: Also check out:
+* Copyright © 2016 Business Insider Inc. All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer Commerce Policy Made in NYC
+Stock quotes by finanzen.net
+International Editions: UKDEAUSIDINMYSGPLSENLFR

@@ -1,0 +1,13 @@
+US telecom giant AT&T is seeking a patent for a kind of home subscriber server that utilizes a blockchain.
+The application, filed on 6th April and published on 6th October, outlines a “decentralized and distributed secure home subscriber server device”. It was filed by Roger Piqueras Jover and Joshua Lackey, both of whom worked as researchers at AT&T before being hired as security architects for Bloomberg LP.
+A home subscriber server performs authentication and media delivery functions for those who, for example, have a television subscription. According to the application, AT&T wants to boost the security of these multimedia delivery networks by distributing the nodes that store and transmit the information – that’s where the blockchain comes in.
+AT&T is seeking to patent both the proposed device itself as well as the method of using it. Perhaps both notably, the application outlines how it would be preferable to leverage the bitcoin blockchain as opposed to an internal, private network, though this approach is outlined in the application as well.
+“.... in cases where the decentralized and distributed secure home subscriber server system utilizes the bitcoin blockchain, advantage can be taken of the plethora of nodes contributing and maintaining the security of bitcoin transactions.”
+The application goes on to cite how a high number of nodes within the proposed network would allow it to continue operating under attack conditions.
+“...in the event of a node (e.g. base station device) being down or overwhelmed by an overloading attack, the disclosed distributed secure home subscriber server system operation would be unaltered and only mobile devices under the coverage of a victim base station device would be affected,” the authors explain.
+The patent represents the first known application of the technology by the US telecom. Last month, social media observers spotted a job listing for a "senior blockchain developer", though that listing was not available online at press time.
+The US Patent and Trademark Office (USTPO) has published a patent application submitted by bitcoin startup Blockstream for its work on sidechains.
+This week's coverage is a testament of just how varied things in the bitcoin space can really get.
+Often a topic of contention in the bitcoin community, CoinDesk has rounded up some of the most high profile patent submissions filed to date.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

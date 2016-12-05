@@ -1,0 +1,66 @@
+https://bitcoinmagazine.com/articles/after-scaling-bitcoin-a-lightning-winter-release-is-now-within-reach-1476814566
+After Scaling Bitcoin, a Lightning Winter Release Is Now Within Reach | Bitcoin Magazine
+ABOUT ©2016 BTC Media LLC
+ADVERTISESTORECONTACTBTC CHANNELS ▾
+BITCOIN PRICE
+$629.02
+SUBSCRIBE
+MEMPOOL:#core-dev #blockchain #technical #wall-street
+After Scaling Bitcoin, a Lightning Winter Release Is Now Within Reach
+Oct 18, 2016 06:16 PM by Aaron van Wirdum
+As last week’s Scaling Bitcoin workshops came to an end and its attendees returned home, the main task for 12 of Bitcoin’s prominent lightning network developers was really just starting. Last Monday and Tuesday, representatives from ACINQ, Amiko Pay,  BitFury, Blockstream, Lightning Labs and Purse gathered on the third story of a working space in the center of Milan. Sitting around a table filled with humming laptops and emptied out pizza boxes, the world’s first “lightning network summit” took place.
+The specific task at hand was to establish interoperability between the different implementations of what is perhaps the most highly anticipated technology to be rolled out on the Bitcoin blockchain in the near future.
+The Lightning Network
+The lightning network was first proposed by Joseph Poon and Thaddeus “Tadge” Dryja well over a year ago. Utilizing Bitcoin’s basic programmable features — like multisig and time-locks — users can establish networked payment channels on top of Bitcoin, creating in effect an off-blockchain transaction layer leveraging Bitcoin’s security. This should allow for a near-infinite amount of trustless, instant and low-cost transactions with little added burden on the Bitcoin network and its users.
+“The promise of this work is exceptional,” long-time Linux kernel developer Paul “Rusty” Russell wrote in a 2015 blog entry, after examining Poon and Dryja’s lightning network white paper.
+It was this same Rusty Russell — now employed by Blockstream — that led important parts of the discussion in Milan. With his marker scribbling out proposed design specifications on a broad white sheet, the goal was to find common ground among the different teams. If all their implementations can connect and communicate with all the other implementations, utility of the lightning network will increase drastically.
+“Unlike Bitcoin, where safety is having a gold standard implementation to minimize consensus surprises, lightning is strongest if we have multiple, independent implementations,” Russell explained to Bitcoin Magazine.
+“We've seen a great deal of progress by the different groups experimenting and discovering problems and solutions. This is research and development in true open source style. We're now at the point where we've explored the landscape enough to make some decisions we feel will last. It’s the perfect time to come together and combine our powers into a single spec that we can all aim for.”
+High Stakes
+Ever since the idea for the lightning network was first proposed, the stakes have increased significantly. Whereas Poon and Dryja mostly hoped to realize instant confirmations and affordable micro-transactions, over the last year the payment layer was hurled into the midst of a raging scaling debate. As a result, the lightning network is now often considered a centerpiece of Bitcoin Core’s scalability road map.
+But the proposal has been receiving increased scrutiny as well. Over the past months in particular, questions have been raised about the effectiveness of proposed routing solutions, potential Denial of Service (DoS) vectors and other failure modes, as well as usability of a system that requires users to lock up some of their funds.
+To help overcome these kinds of challenges, non-lightning specific companies like the full-service Blockchain technology company, BitFury, and wallet provider and block explorer, Blockchain.info, have been investing resources to ensure the realization of the technology as well.
+“As with many new technologies, there may be challenges in practice that we have not yet experienced in testing,” a representative from BitFury told Bitcoin Magazine, regarding potential difficulties ahead. “But we believe we are completely prepared for the implementation of the lightning network and are working tirelessly with our partners to ensure implementation goes smoothly.”
+Scaling Bitcoin
+The lightning network had already claimed center stage in the days prior to the summit at the Scaling Bitcoin conference itself. Three presentations on Saturday focused exclusively on the proposed scaling layer, while a workshop on lightning network routing continued later that afternoon.
+At Scaling Bitcoin, Pavel Prikhodko, a developer with BitFury who has been researching routing solutions, presented what is generally considered to be the most advanced transaction routing solution so far: Flare. Initial tests of Flare were published by ACINQ a week earlier, with both ACINQ and BitFury professing to be happy with the results.
+“Flare specifies how lightning network users may find routes to forward their payments through the network in a secure and decentralized manner,” said BitFury. “Flare is generally agreed upon in that it is a working solution for payment routing, and we are encouraged to see outside testing of the algorithm. We have found very favorable results in our internal tests, and are now working with the community to finalize the algorithm and to prepare it for medium-scale implementation.”
+Lightning Labs' Olaoluwa “Laolu” Osuntokun, in a different presentation, explained how the lightning network can include the Sphinx algorithm for Tor-style onion-routing. With Sphinx, each peer on the network knows from which other peer it “received” a transaction, and to which peer that transaction must be “forwarded.” But peers don’t know if they’re the first step in the transaction chain, the last, or somewhere in between. They have no way of telling where a transaction originated or where it will end up. This would be a big boon for privacy, and is compatible with Flare as well as other routing solutions.
+Lastly, Dryja proposed a solution to outsource important security measures. In the original lightning design, participants in lightning payment channels needed to monitor Bitcoin’s blockchain to check if a counterparty was trying to cheat them. With Dryja’s proposal, this task can be outsourced to a multitude of different peers. If even one of these peers notices the cheater — perhaps in exchange for a small fee — all funds are secured, and the cheater penalized. Furthermore, all this can be done while retaining full privacy, as the outsource service only gets to see an encrypted package.
+Summit Conclusions
+After two days of brainstorming, designing, discussion and some “horse trading,” as Russell put it, all teams managed to converge on a shared design. Over the next weeks, they will all plan to dig into their code to implement the Milan specification.
+Emerging from Tuesday evening with a shared sense of optimism, the developers now believe there will be trustless lightning transactions on Bitcoin’s blockchain sooner than many expected.
+“At the meeting and over the past months, Rusty and Christian Decker have been instrumental in contributing great work into low-level protocol design and specifications; without them, lightning would not be the same,” said Joseph Poon — who now works with Lightning Labs — of the participating developers. “Laolu and Tadge are doing critical fundamental work on the crypto design, and BitFury has been doing long-term thinking about payment routing. But really, there are too many people involved to mention. This is a growing team effort across many sectors of the Bitcoin ecosystem.”
+Russell, too, said that he was impressed by the commitment of all the different teams as they came together to work on a shared specification.
+“There's a … pervasive feeling of a group of people trying to push their brains for two days to reach a common goal. It's pretty intense. Exhausting, but there was so little bullshit,” he said. “Well, until Christian started playing Rebecca Black videos for some reason. That kind of ended the second day.”
+Real-world Use
+While there are still some open questions — especially regarding fee structures, countering DoS attacks, network topology and end-user experience — the teams expect early versions of the lightning network to be bootstrapped on top of the Bitcoin blockchain within months.
+“A fully-functional lightning implementation without custodial trust would require a malleability fix — Segregated Witness — activated on main-net,” Poon explained. “As soon as that’s merged in, you should see users transacting on lightning.”
+According to the BitFury representative, "The BitFury Group is actively working on a lightning network wallet with a graphical user interface for desktop and mobile platforms, so users will be able to send lightning transactions to each other soon after the Bitcoin Blockchain is ready for it.”
+From then on, real-world use of the technology can further inform developers to continue and improve the system. Since it’s still hard to predict how the lightning network will be used exactly, or by whom, the developers in Milan agreed that some of the potential problems are best solved as they occur.
+Speaking to Bitcoin Magazine, Amiko Pay’s Corné Plooy explained that, as a second-layer solution, the lightning network is expected to be relatively flexible and future adjustments should be easy to implement.
+“Technology-wise, lightning has it easier than Bitcoin,” Plooy said. “Bitcoin has this one-and-only blockchain, with its consensus rules that everybody has to agree on. But with lightning, the concept choices we made are probably — hopefully — not set in stone forever. We made an effort to not paint ourselves into a corner, and I think we are still in a flexible position, able to incorporate future developments as they occur.”
+An account of the post-Scaling Bitcoin meet-up by its participants can be found on their Medium post.
+Note: An earlier version of this article mistakenly attributed the comments from BitFury to Pavel Prikhodko rather than to a BitFury spokesperson. This post has been edited to amend the error.
+by Aaron van Wirdum
+Aaron van Wirdum (Twitter / email / pgp / bitcoin) has a background in political history, with a specialization in the effects of new technology on societies. He discovered Bitcoin in early 2013, and has been writing his way through the rabbit hole since. Interested in decentralized consensus, FOSS, privacy in the digital age, censorship resistant payments, and more of that stereotypical Bitcoin stuff.
+KEYWORDS: #bitcoin #bitfury #users #developers #implementations
+You Might Like:
+MAR 24, 2016
+The Role of Bitcoin Nodes: Do Full Nodes Running in Data Centers Benefit the Bitcoin Network?
+#TECHNICAL
+Related Articles:
+APR 07, 2016
+Replacing Bitcoin Transactions: Community Responses to Opt-In Replace-By-Fee
+#TECHNICAL
+APR 13, 2016
+Bitcoins Are Not Tied Up on the Lightning Network, Say Creators Poon and Dryja
+#TECHNICAL
+APR 15, 2016
+Bitcoin Core 0.12.1 Released, Major Step Forward for Scalability
+#TECHNICAL
+APR 19, 2016
+Greg Maxwell: Lightning Network Better Than Sidechains for Scaling Bitcoin
+#TECHNICAL
+About Advertising Careers Contact Terms of Service yBitcoin Store
+© Copyright 2016 BTC Inc. All Rights Reserved.

@@ -1,0 +1,13 @@
+Nasdaq is looking to patent a method by which a blockchain could be used to secure records of exchange transactions.
+On 6th October, the US Patent and Trademark Office (USTPO) released an application for "systems and methods of blockchain transaction recordation", originally submitted by Nasdaq on 31st March. It is attributed to Tom Fay, Nasdaq’s senior vice president of enterprise architecture, and Dominick Paniscotti, associate vice president for enterprise architecture.
+Essentially, the application details an exchange system comprising digital wallets, an order book and matching engine, with a "closed blockchain" utilized as a record of transactions that is updated in real-time.
+“A match is identified between data transaction requests and hashes associated with the digital wallets associated with the respective data transaction requests are generated. The counterparties receive the hashes of the other party along with information on the match and each party causes blockchain transactions to be added to the blockchain of the blockchain computing system.”
+From there, the exchange checks the contents of the blockchain, looking for the data associated with those digital wallets. An additional backup of that information is also kept in a separate database.
+While new, it's perhaps unsurprising that Nasdaq would move to file applications related to the technology. Last year, the exchange operator unveiled Linq, a blockchain project focused on private markets, and in May, it launched new blockchain services for its global client base.
+The application's contents reveal that the company is largely looking to apply claims to the method of using a blockchain in an exchange environment, rather than the system itself. USTPO records show that Nasdaq originally sought a number of claims related to the tech, but that these were cancelled after the application was first filed in March.
+How easy would it be to patent a blockchain invention in the face of complex and arcane legal processes?
+Stock exchange giant Nasdaq discussed its vision for blockchain post-trade at an event in the UK last week.
+Digital Asset Holdings' patent application reveals new details about how its blockchain product will work.
+There’s a patent land grab developing that could potentially make doing business more challenging for blockchain startups.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

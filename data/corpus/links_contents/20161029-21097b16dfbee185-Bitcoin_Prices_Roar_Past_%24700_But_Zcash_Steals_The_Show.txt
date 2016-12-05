@@ -1,0 +1,116 @@
+http://www.coindesk.com/bitcoin-breaks-700-zcash-steals-show/
+Bitcoin Prices Roar Past $700 But Zcash Steals The Show - CoinDesk
+TRENDING
+Vote Now for CoinDesk's Most Influential People in Blockchain
+BITCOIN PRICE INDEX (24H)
+Created with Highstock 1.3.7
+$731
+$735
+$739
+USD -0.1%
+$737.53
+CNY 0.16%
+¥5,192.97
+EUR €696.15
+GBP £590.86
+NEWS
+–
+PRICE & DATA
+–
+GUIDES
+–
+EVENTS
+RESEARCH
+PRESS RELEASES
+FEATURES  •  PRICES
+Bitcoin Prices Roar Past $700 But Zcash Steals The Show
+Charles Bovaird | Published on October 29, 2016 at 16:07 GMT
+FEATURE
+403
+39
+1
+Bitcoin may be nearing annual highs, but newcomer Zcash stole the show this week, generating robust momentum even before its launch.
+The digital currency, whose use of zero-knowledge proofs is said to offer cryptocurrency users new levels of privacy, released its blockchain and first tokens (zerocoins) on 28th October.
+In anticipation of the launch, nascent Zcash futures markets saw robust trading. The pairs, which traded against bitcoin prior to the release of zerocoins, rose from a low of 0.027 BTC ($18.50) on 15th September to 0.78 BTC ($535) on 28th October. Yet, this figure surged nearly 1,200% to 10 BTC ($6,864) on the day of their launch.
+This wasn't the end of its story, however. With a unique release schedule, speculation hit highs often unseen even in the volatile cryptocurrency sector.
+Zcash rose to far more impressive heights on digital currency exchange Poloniex, with the price of 1 ZEC reaching roughly 3,300 BTC (or more than $2m), on 28th October. This sharp increase gave way to equally jolting losses, as Zcash was trading at 48 BTC later in the day.
+Tim Enneking, chairman of Crypto Currency Fund, described the price movements as "crazy".
+"There's no way this valuation’s gonna hold," he said in reference to the lofty prices reached by Zcash futures.
+He added:
+"This is scarcity driving the train, that’s it."
+Longevity concerns
+In spite of all the momentum surrounding Zcash, some market observers emphasized that more than one currency has enjoyed surging value before fading from relevance.
+"Like all other cryptos, Zcash will need to prove useful to a large enough market for a long enough period of time to avoid death or irrelevance," said Petar Zivkovkski, director of operations for leveraged bitcoin trading platform Whaleclub.
+Digital currency hedge fund manager Jacob Eliosoff took a different tack, asserting that Zcash may be slightly overhyped.
+In particular, he cited other blockchain communities that have focused on privacy solutions and that are already in use in the market.
+"Zcash looks like it may offer slightly more thorough anonymity than Monero, but not a major difference from a user or business perspective,” he told CoinDesk.
+Eliosoff emphasized that users don’t need the latest cryptocurrency so much as they need digital currencies that protect their identities and work effectively.
+Bitcoin enjoys big gains
+While Zcash grabbed the lion’s share of attention this week, bitcoin enjoyed a 9% gain as market dynamics and concerns about China’s continued devaluation of the yuan pushed prices higher.
+Bitcoin prices surged from $628.62 at 12:00 UTC on 21st October to $686.52 by 12:00 UTC on 28th October, CoinDesk USD Bitcoin Price Index figures reveal.
+At press time, bitcoin had jumped even further, rising almost 4% to a high of $713.
+The digital currency's upward price movement triggered many short squeezes "across leveraged trading platforms," said Zivkovkski, though others suggested the renewed momentum may amount to more of a comeback after weeks of sideways trading.
+Whaleclub data indicates that during the week through 12:00 UTC, the market was more than 90% long on all but one day.
+The cryptocurrency might enjoy further gains as traders shift their focus away from altcoins, said Eliosoff. He emphasized that bitcoin has both recovered from the Bitfinex hack and approached $700.
+Now, "investors have begun to take profit on various altcoins and focus on the king crypto."
+Ethereum's identity crisis
+Both ethereum (ETH) and its alternative blockchain ethereum classic (ETC) suffered weekly losses as the two currencies seem clouded by uncertainty.
+The former dropped 6% week-over-week amid sustained denial-of-service attacks, and the latter dropped 4.6% as the ethereum classic blockchain executed a hard fork to stop the same issues.
+"The hard fork as well as turmoil and DDoS attacks on the ethereum network have impacted prices negatively," said Zivkovski. "ETH and ETC are going through an identity crisis: of what use will they be in a future powered by digital currencies?"
+Enneking also weighed in on the future relevance of the two currencies, though he stated that the price declines were an obvious side effect of the more immediate technical issues.
+"When ethereum is being attacked repeatedly, that doesn’t look good in the eyes of consumers," he quipped.
+Carousel image via Shutterstock
+Market WeeklyPriceszcash
+403
+39
+1
+PREVIOUS ARTICLE
+Bitcoin's Block Size Debate is Back (And It Might Be Worse...
+NEXT ARTICLE
+Making Sense of Hillary Clinton's Bitcoin Rejection
+Don't miss a single story
+Subscribe to our free newsletter and follow us
+RELATED STORIES
+FEATURE
+Nov 19, 2016 at 15:25 | Charles Bovaird
+Bitcoin Breaches $750 But Struggles to Set New 2016 High
+Bitcoin prices repeatedly breached $750 during the week through 18th November as traders responded to macroeconomic uncertainty.
+NEWS
+Nov 18, 2016 at 13:25 | Pete Rizzo
+Bitcoin Price Passes $750 as it Nears Five-Month High
+The price of bitcoin is now trading above $750, its highest total in nearly five months.
+NEWS
+Nov 16, 2016 at 13:30 | Pete Rizzo
+The Price of Bitcoin Just Jumped $30 in One Hour
+The price of bitcoin rose nearly $30 over the course of one hour today, rising to a high of $740 as the price continued to flirt with annual highs.
+FEATURE
+Nov 14, 2016 at 13:38 | Michael del Castillo
+Zcash and the Art of Security Theater
+As bitcoin core developer Peter Todd published his role in helping create the Zcash cryptocurrency doubt is cast on the system's "trustless setup."
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+Registration Is Open!
+Only 91 tickets available at $999
+REGISTER NOW
+FEATURES
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+INDUSTRY PRESS RELEASES
+Nov 23 | 14:13
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Nov 23 | 09:00
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Nov 22 | 15:25
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Nov 22 | 01:30
+Accepting Cash Deposits with Flexepin
+VIEW MORE
+
+SUBMIT RELEASE
+
+Got a news tip or guest feature?
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

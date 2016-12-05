@@ -1,0 +1,106 @@
+http://www.coindesk.com/brave-bitcoin-micropayments-publishers/
+Brave Offers First Bitcoin Micropayments to Publishers - CoinDesk
+TRENDING
+Vote Now for CoinDesk's Most Influential People in Blockchain
+BITCOIN PRICE INDEX (24H)
+Created with Highstock 1.3.7
+$728
+$733
+$739
+USD -0.02%
+$738.17
+CNY 0.2%
+¥5,194.84
+EUR €696.75
+GBP £591.37
+NEWS
+–
+PRICE & DATA
+–
+GUIDES
+–
+EVENTS
+RESEARCH
+PRESS RELEASES
+COMPANIES  •  NEWS
+Brave Offers First Bitcoin Micropayments to Publishers
+Michael del Castillo (@DelRayMan) | Published on October 7, 2016 at 16:17 GMT
+NEWS
+484
+30
+10
+Browser software startup Brave has some bitcoin it would like to give to The Wall Street Journal.
+The controversial browser that blocks third-party ads, also gives users the ability to offset lost ad revenue in the form of bitcoin micropayments reconciled at the end of each month.
+The first of these reconciliation cycles ended last week and Brave has now published a step-by-step process explaining how website owners can claim their bitcoin.
+"The Wall Street Journal is number one," Brave co-founder Brenden Eich during a conversation with CoinDesk earlier this week.
+Eich added:
+"Those funds are piling up. We have an accounting system that says you voted for this publisher this many times and that website you liked."
+CoinDesk can independently verify that The Wall Street Journal tops the list, but Brave is not sharing how much bitcoin the publication can collect, or which other sites qualify.
+In total, about 8,000 Brave users visited 827 websites over the month-long period ending Friday.
+Users can select if some of the sites they visit frequently don’t get paid and control the percentage of a set monthly amount to be allocated to each site.
+To collect that bitcoin Brave’s an interested party first needs to verify he or she owns the website by pasting code securely provided by the Brave into its own website, similar to the challenge-response protocol employed by Let's Encrypt, said Eich.
+"Now it’s time to start talking to publishers," added Eich.
+Partners or competitors?
+The newly launched webpage that walks publishers through the process of creating a wallet and receiving funds is part of a larger push to change the way publishers view Brave.
+Shortly before the San Francisco-base firm raised $4.5 million, it received an informal cease-and-desist letter from the Newspaper Association of America, which has rebranded as the News Media Alliance.
+With this latest release, Brave is seeking to position itself with those publishers as a replacement for revenue that is already being lost by people who use other ad-blocking services, not a new way to muscle in on the publishers’ advertising dollars.
+But Paul Boyle, vice president of News Media Alliance, remains skeptical.
+After a meeting he had with Eich and other publishers in May, Boyle told CoinDesk he thinks there are other ways for the industry to respond to customer demands for better, more private forms of ads.
+"We don’t see where a process of blocking ads and then replacing it with a minimal amount of bitcoin users spread across many users will provide the meaningful revenue we receive today," he said.
+Olive branch
+To coincide with the completion of the first reconciliation cycle, Eich is currently visiting New York City, where he’ll meet with several publishers, including Dow Jones, which publishes the Journal.
+So far, only a "handful" of publishers have signed up, according to Eich, who has also met with this publication.
+He concluded:
+"We’re trying to get CoinDesk to be one of the first."
+Disclosure: CoinDesk is a subsidiary of Digital Currency Group, which has an ownership stake in Brave.
+Image via Brave
+BraveWall Street Journal
+484
+30
+10
+PREVIOUS ARTICLE
+What's Left Before SegWit Goes Live
+NEXT ARTICLE
+Blockchain Healthcare Conference Showcases Skepticism and...
+Don't miss a single story
+Subscribe to our free newsletter and follow us
+RELATED STORIES
+OPINION
+Sep 18, 2016 at 15:17 | Josh Metnick
+Bitcoin and the Brave Future of Browsers
+A new bitcoin-powered browser called Brave promises to bring users a more private, ad-free Internet experience, and boost income for web publishers.
+NEWS
+Apr 7, 2016 at 22:36 | Michael del Castillo
+Bitcoin Browser Brave Draws Fire from Major News Publishers
+Brave Software responds to a cease-and-desist letter it received from a newspaper association about its ad-blocking software.
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+Registration Is Open!
+Only 75 tickets available at $999
+REGISTER NOW
+FEATURES
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+INDUSTRY PRESS RELEASES
+Nov 23 | 14:13
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Nov 23 | 09:00
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Nov 22 | 15:25
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Nov 22 | 01:30
+Accepting Cash Deposits with Flexepin
+VIEW MORE
+
+SUBMIT RELEASE
+
+Got a news tip or guest feature?
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+
+Never Miss a Story
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.
+No, thanks.

@@ -1,0 +1,77 @@
+http://www.pymnts.com/news/bitcoin-tracker/2016/zcash-bug-bitcoin-private-transactions/
+Bitcoin Alternative Zcash Has A Bug Post-Launch | PYMNTS.com
+BITCOIN
+Zcash Finds A Bug That May Stop Private Transactions From Being Mined
+By
+PYMNTS
+Posted on November 3, 2016
+Zcash, the anonymous new bitcoin alternative that was just launched, found a bug that may stop private transactions from being mined.
+According to a blog post on Zcash’s website, the company said there is one known bug that causes private transactions to not get mined. “We’re going to release v1.0.1 shortly to fix it,” the company said.
+What’s more, Zcash disclosed there was a “brief” DDoS attack that caused the site to be down for a little bit as the company engaged in DDoS defenses.
+Zcash is a new digital currency that is taking the world by storm, rendering bitcoin to the sidelines. Zcash is a product designed by academics to be all but untraceable. Speculators love it and have been paying for $1,000 a unit to get their hands on the next big thing. Zcash is the brainchild of a firm led by developer Zooko Wilcox. It has already secured $3 million in backing from a number of Silicon Valley venture capitalists who are involved in the virtual currency industry.
+The secret to its secretiveness — according to the developers that built it — is an advanced cryptography.
+Though bitcoin had initially been billed as untraceable, to actually use bitcoin in any meaningful way, each user has a bitcoin address that law enforcement can — and has — linked to its owner. Zcash, on the other hand, allows transactions to be confirmed by the network without anyone recording the Zcash addresses involved in the transactions.
+Users can opt out of this privacy function if they wish.
+The question is whether or not regulators will like seeing so much secrecy for a currency — and what regulators frown on, banks tend to avoid. Bitcoin, on the other hand, has been capturing an increasing amount of bank interest, particularly since the fall of Silk Road.
+RELATED ITEMS:BITCOIN, DIGITAL CURRENCY, PAYMENT METHODS, ZCASH
+RECOMMENDED FOR YOU
+Stripe Is Now Valued At $9.2 Billion After Latest VC Round
+Blockchain Opened 10 Millionth Digital Wallet Thanks To Uncertainty
+Revolut Suspends New Card Issues As It Seeks Its Own License
+Get our hottest stories delivered to your inbox.
+Signup for the PYMNTS.com Newsletter to get updates on top stories and viral hits.
+CLICK TO COMMENT
+TRENDING RIGHT NOW
+BLOCKCHAIN
+Goldman Sachs’ Membership In R3 Lapses
+PARTNERSHIPS / ACQUISITIONS
+Cardtronics Expands Relationship With Carnival Cruise
+NEWS
+Financial Regulators Race To Get Reforms On The Books Before Inauguration Day
+SECURITY & FRAUD
+Why Insider Threats Are Hurting North American Businesses
+B2B PAYMENTS
+Asia-Pacific’s Anti-Cash Migration Spreads To Corporates
+RIDESHARING
+Amidst New Cash Rules, Uber Debuts Indian Wedding Service
+SECURITY & FRAUD
+Online Fraud Expected To Grow 43 Percent This Holiday Season In The US
+ALTERNATIVE FINANCES
+Prosper’s Climb Back
+CFPB
+CFPB Sues Company That Scammed Lead Paint Poisioning Victims
+AMAZON
+Prime Is The Ticket For Amazon: Prime Tickets On The Way
+B2B PAYMENTS
+India’s Axis Bank Joins Earthport In X-Border Payments
+EMV
+October Visa Data Shows Rise In EMV-Enabled Merchants
+FASTER PAYMENTS
+Cash Flow, Each And Every (Same) Day
+AMAZON
+Amazon’s Brand Central Aimed At Ridding Counterfeiters From Marketplace
+B2B PAYMENTS
+India VCs Target SME Cash Management FinTech
+What's next in payments and commerce
+LATEST NEWS
+Black Friday Sales At Patagonia Go Green
+Middle-Market Retailers Optimistic About Digital Sales
+Report: Sephora Lookin’ Pretty On Social Media
+Monday Is Black Friday For Shipments This Holiday Season
+Shoppers Flock To The Internet Over Stores
+OPINION: KAREN WEBSTER
+Mastercard’s Call To Digital Payments Action
+November 21, 2016
+The Seven Deadly Data Sins Of The 2016 Presidential Election
+November 14, 2016
+Microsoft’s Shoulda-Woulda-Coulda Mobile Story
+November 7, 2016
+The 2016 Presidential Election And Banks’ Next Four Scary Years
+October 31, 2016
+What the Uber Driver Revolt Means for Payments
+October 24, 2016
+NEWSLETTER SIGNUP
+ABOUT
+TERMS & CONDITIONS
+CONTACT
+© 2016 What’s Next Media and Data Analytics, LLC

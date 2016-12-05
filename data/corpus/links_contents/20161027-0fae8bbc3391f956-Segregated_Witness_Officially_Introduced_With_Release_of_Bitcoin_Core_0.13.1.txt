@@ -1,0 +1,51 @@
+https://bitcoinmagazine.com/articles/segregated-witness-officially-introduced-with-release-of-bitcoin-core-1477611260
+Segregated Witness Officially Introduced With Release of Bitcoin Core 0.13.1 | Bitcoin Magazine
+ABOUT ©2016 BTC Media LLC
+ADVERTISESTORECONTACTBTC CHANNELS ▾
+BITCOIN PRICE
+$629.02
+SUBSCRIBE
+MEMPOOL:#core-dev #blockchain #technical #wall-street
+Segregated Witness Officially Introduced With Release of Bitcoin Core 0.13.1
+Segregated Witness Officially Introduced With Release of Bitcoin Core 0.13.1
+Oct 27, 2016 11:34 PM by Aaron van Wirdum
+Today marks the release of Bitcoin Core version 0.13.1. This is the official introduction of Segregated Witness, the long-awaited centerpiece of Bitcoin Core’s scalability road map. Starting November 15, Bitcoin miners can signal support for the proposed protocol upgrade, which, if activated, enables a number of new features on the Bitcoin network as well as an effective block size limit increase.
+According to Bitcoin Core developer and Ciphrex Co-CEO, Eric Lombrozo, “Segregated Witness is the biggest extension of the protocol to date.”
+Segregated Witness
+Segregated Witness is a proposed upgrade to the Bitcoin protocol first introduced by Bitcoin Core and Blockstream developer, Dr. Pieter Wuille, at the Scaling Bitcoin conference in Hong Kong in December of 2015. The technological innovation separates signature data from Bitcoin transactions. This has several advantages, including — but not limited to — a malleability fix, more flexible programmability, and an effective block size limit increase.
+“It's the most significant improvement to the protocol to date, and lots of exciting innovations become possible as a result,” Lombrozo told Bitcoin Magazine. “We're going through a period of tremendous innovation  in Bitcoin — the greatest innovations since Bitcoin’s inception are taking place right now.”
+Segregated Witness has been in the pipeline for almost year. Wuille started coding it in November 2015, and was joined by Lombrozo, Johnson Lau and several other Bitcoin Core developers in the following months. Counting almost 5,000 lines of code, Segregated Witness was completed last April.
+Since that time, the proposed innovation has been subject to rigorous checks and analysis. Lombrozo explained:
+“We’ve done a lot of review, and a lot of testing. We’ve had three dedicated Segregated Witness test networks, and it has been successfully running on Bitcoin’s main testnet since May. Additionally, compact blocks had to be developed and integrated in Bitcoin Core to mitigate latency and bandwidth issues. This was included in the latest version, 0.13.0.”
+Activation
+Segregated Witness is a proposed soft fork; a change that technically makes Bitcoin’s protocol rules more restrictive.
+Activation will follow the standards as established by Bitcoin Improvement Improsal (BIP)9. This means that, within a single difficulty period of 2016 blocks (about two weeks), at least 95 percent of blocks must be mined by a miner that signals support for Segregated Witness. If this threshold is reached, the following difficulty period allows everyone who wants to upgrade the chance to do so. After that, Segregated Witness support is activated, and Segregated Witness transactions are accepted by Bitcoin miners.
+Signaling will start on November 15. In the earliest possible scenario, this means that Segregated Witness could activate by mid-December. That seems somewhat unlikely at this time, however. A relatively new Chinese mining pool — ViaBTC — recently indicated it will not support a Segregated Witness soft fork. As ViaBTC currently controls about 9 percent of all hash power on the network, it could effectively block activation — assuming it remains above at least 5 percent.
+Lombrozo indicated that the Bitcoin Core development team is not too worried, however.
+“Changes to the consensus rules are hard by design,” he said. “In this case, I think the benefits vastly outweigh the risks, as Segregated Witness enables a bunch of new innovation in Bitcoin that will improve scalability and will allow for more use cases. My hope is that miners will appreciate these great benefits and will want to take advantage of this significant improvement to the protocol.”
+If Segregated Witness is not supported by 95 percent of hash power by November 15, 2017, it can no longer activate. Until then, it’s unlikely that Bitcoin Core developers will present an alternative proposal, Lombrozo said.
+“We've worked very hard to find a path forward that gives everyone in the ecosystem something they want,” said Lombrozo. “It's not always possible to please everyone, but we've made a great effort. We put this forward for the community. I hope the community appreciates our work and likes what we've done. At this point, it's in the community's hands to decide its fate.”
+Bitcoin Core 0.13.1 can be downloaded from bitcoincore.org and bitcoin.org.
+For more information on Segregated Witness, see Bitcoin Magazine’s three-part series.
+by Aaron van Wirdum
+Aaron van Wirdum (Twitter / email / pgp / bitcoin) has a background in political history, with a specialization in the effects of new technology on societies. He discovered Bitcoin in early 2013, and has been writing his way through the rabbit hole since. Interested in decentralized consensus, FOSS, privacy in the digital age, censorship resistant payments, and more of that stereotypical Bitcoin stuff.
+KEYWORDS: #bitcoin #core #november #miners #blocks
+You Might Like:
+MAR 24, 2016
+The Role of Bitcoin Nodes: Do Full Nodes Running in Data Centers Benefit the Bitcoin Network?
+#TECHNICAL
+Related Articles:
+APR 07, 2016
+Replacing Bitcoin Transactions: Community Responses to Opt-In Replace-By-Fee
+#TECHNICAL
+APR 13, 2016
+Bitcoins Are Not Tied Up on the Lightning Network, Say Creators Poon and Dryja
+#TECHNICAL
+APR 15, 2016
+Bitcoin Core 0.12.1 Released, Major Step Forward for Scalability
+#TECHNICAL
+APR 19, 2016
+Greg Maxwell: Lightning Network Better Than Sidechains for Scaling Bitcoin
+#TECHNICAL
+About Advertising Careers Contact Terms of Service yBitcoin Store
+© Copyright 2016 BTC Inc. All Rights Reserved.

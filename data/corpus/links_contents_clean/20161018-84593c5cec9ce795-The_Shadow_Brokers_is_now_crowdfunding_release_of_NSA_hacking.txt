@@ -1,0 +1,14 @@
+The Shadow Brokers is now crowdfunding release of NSA hacking tools - SiliconANGLE
+Hacking group The Shadow Brokers has abandoned its efforts to auction off the hacking tools it stole from National Security Agency linked the Equation Group and is now running a crowdfunding campaign instead to raise the 10,000 bitcoin ($6.38 million) it is seeking.
+The group stole the hacking tools in August and claimed to have obtained “many many Equation Group cyber weapons,” releasing a 300MB dump that included around 50 percent of the tools along with a list of other hacking tools they had in their possession. The Equation Group has previously been named by Kaspersky Lab as the most advanced hacking group they had ever seen with evidence of their links to the NSA being found in top secret documents released by Edward Snowden.
+Confirmation that the hack came from Cisco Systems Inc., which issued a security warning in response to a tool being offered by the hackers that could compromise a number of its products. In particular, a remote code exploitation tool called EXTRABACON targeted a vulnerability in the Simple Network Management Protocol (SNMP) code of Cisco Adaptive Security Appliance (ASA) Software.
+In a post reported by Security Week, the group said that they were only interested in making money from the tools:
+TheShadowBrokers is not being interested in fame. TheShadowBrokers is selling to be making money and you peoples is never hearing from TheShadowBrokers again!. TheShadowBrokers is being disappointed peoples no seeing novelty of auction solution. Auction is design for to make benefit TheShadowBrokers.”
+In a separate post on Medium (even hackers now use Medium apparently), they announced that they were abandoning their auction for the hacking tools and instead now crowdfunding the money they desire:
+TheShadowBrokers is being bored with auction so no more auction. Auction off. Auction finish. Auction done. No winners. So who is wanting password? TheShadowBrokers is publicly posting the password when receive 10,000 btc (ten thousand bitcoins). Same bitcoin address, same file, password is crowdfunding. Sharing risk. Sharing reward. Everyone winning.
+Should the 10,000-bitcoin sum be reached, the group said it would release all remaining tools in its possession for free, but with reports claiming that it has so far managed to raise only two bitcoin, the chances of it reaching its goal is extremely slim.
+Too big to fail: How a popular online community monetized its platform | #Amplify
+Helping software help us: How one startup is making the most of APIs | #Amplify
+Data science: What does it mean and how is it best applied? | #CDSUSA
+Expercom Offering MacBook Pro With Touch Bar For Up to $225 Off With AppleCare
+5th Annual CloudNOW Top Women in Cloud Awards: December 7th (Mountain View, CA)

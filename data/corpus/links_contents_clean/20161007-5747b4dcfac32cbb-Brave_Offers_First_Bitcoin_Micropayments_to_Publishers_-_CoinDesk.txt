@@ -1,0 +1,22 @@
+Michael del Castillo (@DelRayMan) | Published on October 7, 2016 at 16:17 GMT
+Browser software startup Brave has some bitcoin it would like to give to The Wall Street Journal.
+The controversial browser that blocks third-party ads, also gives users the ability to offset lost ad revenue in the form of bitcoin micropayments reconciled at the end of each month.
+The first of these reconciliation cycles ended last week and Brave has now published a step-by-step process explaining how website owners can claim their bitcoin.
+"The Wall Street Journal is number one," Brave co-founder Brenden Eich during a conversation with CoinDesk earlier this week.
+"Those funds are piling up. We have an accounting system that says you voted for this publisher this many times and that website you liked."
+CoinDesk can independently verify that The Wall Street Journal tops the list, but Brave is not sharing how much bitcoin the publication can collect, or which other sites qualify.
+In total, about 8,000 Brave users visited 827 websites over the month-long period ending Friday.
+Users can select if some of the sites they visit frequently don’t get paid and control the percentage of a set monthly amount to be allocated to each site.
+To collect that bitcoin Brave’s an interested party first needs to verify he or she owns the website by pasting code securely provided by the Brave into its own website, similar to the challenge-response protocol employed by Let's Encrypt, said Eich.
+The newly launched webpage that walks publishers through the process of creating a wallet and receiving funds is part of a larger push to change the way publishers view Brave.
+Shortly before the San Francisco-base firm raised $4.5 million, it received an informal cease-and-desist letter from the Newspaper Association of America, which has rebranded as the News Media Alliance.
+With this latest release, Brave is seeking to position itself with those publishers as a replacement for revenue that is already being lost by people who use other ad-blocking services, not a new way to muscle in on the publishers’ advertising dollars.
+After a meeting he had with Eich and other publishers in May, Boyle told CoinDesk he thinks there are other ways for the industry to respond to customer demands for better, more private forms of ads.
+"We don’t see where a process of blocking ads and then replacing it with a minimal amount of bitcoin users spread across many users will provide the meaningful revenue we receive today," he said.
+To coincide with the completion of the first reconciliation cycle, Eich is currently visiting New York City, where he’ll meet with several publishers, including Dow Jones, which publishes the Journal.
+So far, only a "handful" of publishers have signed up, according to Eich, who has also met with this publication.
+Disclosure: CoinDesk is a subsidiary of Digital Currency Group, which has an ownership stake in Brave.
+A new bitcoin-powered browser called Brave promises to bring users a more private, ad-free Internet experience, and boost income for web publishers.
+Brave Software responds to a cease-and-desist letter it received from a newspaper association about its ad-blocking software.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

@@ -1,0 +1,31 @@
+https://cointelegraph.com/news/blockchaininfo-down-users-have-no-access-to-wallets
+Blockchain.info Down, Users Have No Access to Wallets
+Toggle navigation
+BTC
+738.33
+0.33%
+ETH
+9.44
+1.2%
+Advertise
+  2016-10-12 02:33 PM
+Author Olusegun Ogundeji
+Blockchain.info Down, Users Have No Access to Wallets
+3205 Total views 234 Total shares
+The world's most popular Bitcoin wallet with more than 8 mln Blockchain wallet users is down.
+As at the time of this publication, Blockchain.info has been down for more than four hours. The web server reports a bad gateway error, with a message on the website’s landing page that says:
+“Looks like our site is down. We're working on it and should be back up soon”.
+A tweet from the wallet says they are looking into a DNS issue. In another tweet, they say they are making progress with resolving the issue but need several hours to fully restore services.
+However, as expected, since many users have been denied access to their transactions, several suggestions have started popping up on what could be behind the sudden breakdown.
+Users fears
+In response to Blockchain.info’s tweet, users say they hope the wallet has not been hacked or funds stolen. Another user fears losing stored Bitcoins.   
+A post on Reddit by a user who claimed to use the wallet’s API suggested that Blockchain.info has had its domain name hijacked saying “the Whois and DNS records suddenly jumped from CloudFlare to a cheap web host.”
+The OP post says the web host transferred to is on cheap cpanel (shared website) boxes:
+“This is completely deliberate, changing the name of the server to something other than CloudFlare isn't an accident, it can't happen with a misclick or someone pushing codes to the wrong box. Do not use their website until they've explained what just happened. Based on the only information I have here, they have been compromised.”
+According to recent figures from the Blockchain wallet, there are about 8.8 mln registered Bitcoin users on its platform. This year alone has produced the highest number of daily confirmed Bitcoin transactions. It reached an all time high daily transactions of 276, 448 in March 2016 and it almost repeated same some three days ago - 9/10 October 2016 - at 274, 486 transactions.
+So far, the reaction from users has been mild and only bothering on the safety of their Bitcoins. It may get worst if the downtime prolongs.  
+Blockchain.info
+Bitcoin Wallet
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

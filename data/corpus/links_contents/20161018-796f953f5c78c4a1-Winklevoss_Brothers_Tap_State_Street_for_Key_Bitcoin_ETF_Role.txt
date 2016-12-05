@@ -1,0 +1,102 @@
+http://www.coindesk.com/state-street-winklevoss-bitcoin-etf-sec-filing/
+Winklevoss Brothers Tap State Street for Key Bitcoin ETF Role - CoinDesk
+TRENDING
+Vote Now for CoinDesk's Most Influential People in Blockchain
+BITCOIN PRICE INDEX (24H)
+Created with Highstock 1.3.7
+$729
+$734
+$739
+USD -0.03%
+$738.05
+CNY 0.2%
+¥5,195.24
+EUR €696.64
+GBP £591.28
+NEWS
+–
+PRICE & DATA
+–
+GUIDES
+–
+EVENTS
+RESEARCH
+PRESS RELEASES
+BANKING  •  EXCHANGES  •  NEWS
+Winklevoss Brothers Tap State Street for Key Bitcoin ETF Role
+Pete Rizzo (@pete_rizzo_) | Published on October 19, 2016 at 01:10 GMT
+NEWS
+368
+73
+32
+State Street has been tapped to help launch the first bitcoin exchange-traded fund (ETF).
+In a new SEC filing, State Street is now listed as the administrator and transfer agent for the Winklevoss Bitcoin Trust, a proposed bitcoin ETF backed by investors Cameron and Tyler Winklevoss, the founders of the Gemini bitcoin exchange.
+According to the filing, State Street would be responsible for the "day-to-day administration of the Trust" when it is launched, as well as maintaining its books of account and calculating the Trust’s net-asset value (NAV), or the value per share of the offering.
+Also noteworthy are other changes that address questions that have come up during the filing's still ongoing comment period.
+For example, the filing indicates the ETF would use a "purpose-built" system to verify that the associated custodians hold control of the private cryptographic keys that would allow them to transition ownership.
+The new documentation touts this as a benefit of the Winklevoss filing in comparison to other efforts that have sprung up to launch alternative bitcoin ETFs.
+"Other Digital Asset ETPs may not be able to or willing to provide 'proof of control' of the private keys that control their bitcoin," the filing reads.
+Waiting game
+While a step forward, the development comes amid a now years-long effort by the Winklevoss brothers to launch the ETF as a way to allow investors additional exposure to digital currency market movements.
+The effort picked up momentum earlier this summer when the Winklevoss brothers filed to move their application to the BATS exchange, a decision that has set off what has become an extended period of public comment.
+Despite the advancements, however, market observers believe it could be years before any of the multiple proposed bitcoin ETFs goes live.
+Adding fuel to this speculation is the relative lack of education about digital currencies, as well as the continued issues faced by the bitcoin exchange sector, which remains plagued by breaches and security issues.
+Image via Flickr
+Cameron WinklevossExchangesState StreetTyler Winklevoss
+368
+73
+32
+PREVIOUS ARTICLE
+Bitcoin's Lightning Network Takes a Big Step Toward...
+NEXT ARTICLE
+Walmart Blockchain Pilot Aims to Make China's Pork Market...
+Don't miss a single story
+Subscribe to our free newsletter and follow us
+RELATED STORIES
+NEWS
+Nov 15, 2016 at 12:59 | Pete Rizzo
+Bitcoin Exchange Gemini Adds APIs for Automated Traders
+New York bitcoin exchange Gemini has announced a series of new API offerings aimed at automated traders.
+NEWS
+Nov 8, 2016 at 18:29 | Stan Higgins
+Coinbase Redesigns Wallet Website for Digital Assets
+Coinbase has launched a redesigned version of its website, an unveiling it said marks its transition from a wallet to a digital asset exchange.
+NEWS
+Nov 1, 2016 at 11:02 | Pete Rizzo
+BTCC Takes Aim at Bitfinex With US Dollar Bitcoin Trading
+BTCC announced today that it will be adding US dollar (USD) to its existing bitcoin exchange service.
+NEWS
+Oct 21, 2016 at 23:05 | Pete Rizzo
+Bitfinex to Hacker: Can We Have Our Bitcoin Back?
+Bitfinex is now seeking to strike a deal with the hacker or hackers who stole $65m in bitcoin from the exchange back in August.
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+Registration Is Open!
+Only 75 tickets available at $999
+REGISTER NOW
+FEATURES
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+INDUSTRY PRESS RELEASES
+Nov 23 | 14:13
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Nov 23 | 09:00
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Nov 22 | 15:25
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Nov 22 | 01:30
+Accepting Cash Deposits with Flexepin
+VIEW MORE
+
+SUBMIT RELEASE
+
+Got a news tip or guest feature?
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+
+Never Miss a Story
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.
+No, thanks.

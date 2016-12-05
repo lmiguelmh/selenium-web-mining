@@ -1,0 +1,14 @@
+Unocoin API will enable individuals and companies in India to generate bitcoin wallets and buy, sell, send and receive bitcoin.
+Bitcoin startup Unocoin has released its API (Application Programming Interface), allowing individuals and companies in India to generate bitcoin wallets and buy, sell, send and receive bitcoin.
+They will also be able to securely store bitcoin, retrieve real-time or historical price information, receive notifications when payments arrive, accept and request bitcoin payments for merchants as well as enable companies around the world to remit bitcoin to India and submit KYC details of beneficiaries.
+Paycase, a mobile-first Canadian remittance platform, is using Unocoin's API and Blockstream's Liquid network to carry out money transfers from Canada to India. Paycase uses bitcoin and blockchain technology to send money around the world.
+"We have worked together from Canada and India to establish the technical, regulatory, and business logic needed to enable Canadian dollar to Indian rupee money transfer with bitcoin efficiencies in place. With the API and infrastructure in place, we can now scale this model beyond our current corridors and into the promising Indian market," Paycase Co-founder and CEO Joseph Weinberg said.
+Unocoin's iOS app and upcoming Android app are also built entirely on this API, the company said.
+"Our API is the engine powering our mobile apps, through which customers will be able to store and spend bitcoin on the go, and also be able to buy bitcoin with just a click of a button," said Unocoin co-founder and CEO Sathvik Vishwanath.
+In September, Bengaluru-based Unocoin had raised $1.5 million funding from Blume Ventures, Mumbai Angels and ah! Ventures with participation from international investors such as Digital Currency Group, Boost VC, Bnk to the Future and FundersClub. The company had said it plans to use the funds raised for product development, team expansion and geographical expansion.
+Started in 2013, Unocoin operates BTC (Bitcoin)-INR trading platform which enables people to buy, sell, store, use and accept bitcoin, created and held electronically. The company claims to be servicing over 100,000 users and employs more than 30 employees.
+Flipkart's Bansals on why they invest in startups & what have they learnt from it
+Chinese online travel giant Ctrip is buying travel meta search site Skyscanner in $1.74Bn deal
+Brigade Group ties up with Microsoft & Intel for its real estate accelerator program
+About Us| Contact Us| Advertise with us| Newsletter| Submit a startup| RSS Feeds| Invite Friends| Enroll Company Employees| Embed ETtech.com Widgets on your Website
+Privacy Policy| Terms & Conditions| Guest-Post Guidelines| Sitemap| Copyright © 2016 ETtech.com . All Rights Reserved.

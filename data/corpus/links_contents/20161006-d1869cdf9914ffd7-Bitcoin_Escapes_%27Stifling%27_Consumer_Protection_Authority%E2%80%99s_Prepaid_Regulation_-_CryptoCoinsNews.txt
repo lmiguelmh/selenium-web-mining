@@ -1,0 +1,67 @@
+https://www.cryptocoinsnews.com/bitcoin-escapes-consumer-protection-authoritys-prepaid-regulation/
+Bitcoin Escapes 'Stifling' Consumer Protection Authority’s Prepaid Regulation - CryptoCoinsNews
+Explore
+Menu
+
+CryptoCoinsNews
+Bitcoin RegulationNews
+Bitcoin Escapes ‘Stifling’ Consumer Protection Authority’s Prepaid Regulation
+Samburaj Das on 06/10/2016
+
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+The CFPB, the government agency overseeing consumer protection in the financial sector has not included bitcoin and other virtual currencies and related products from its new prepaid regulatory requirements.
+V
+irtual currencies like bitcoin and related products are outside the scope of a newly amended prepaid regulation [PDF] by the Bureau of Consumer Financial Protection (CFPB), a new final ruling on Wednesday revealed.
+Revealing the process prior to the ruling, the governmental agency revealed that a number of commentators weighed in on to facilitate the Bureau’s decision. Those who submitted their comments and opinions included banks, a digital wallet service, a digital currency exchange, industry trade associations, consumer advocacy groups, a law firm representing a coalition of prepaid users and a non-governmental virtual currency policy organization.
+The Case
+The ruling was determined to see if digital currencies like bitcoin ultimately fell within the scope of Regulation E [PDF], which implements the Electronic Fund Transfer Act.
+Fundamentally, the regulation provides consumers with protections, as law, while using electronic fund transfer and remittance transfer systems. While this is, of course, inherently a good thing, existing laws are determined from the workings of a financial ecosystem that has, until recently, not seen any digital currencies.
+If Regulation E includes virtual currencies under its purview, digital currency advocates and industry experts believe that regulation – without properly determining and researching the innovation – would stifle its progress.
+FOR Bitcoin Regulation. The Banks.
+The final ruling revealed that two trade organizations representing banks argued that digital currencies should be included in the definition of a “prepaid account”.
+Interestingly, these trade associations “submitted a definition of virtual currency they urged the Bureau to adopt.” The definition itself wasn’t revealed but CCN is looking for it.
+Pointing to virtual currencies as “funds” as determined by the EFTA (European Free Trade Association), the banks’ representative associations also asserted that virtual currency products and systems are greater risks to consumers, when compared to fiat currency-enabled systems.
+AGAINST Bitcoin Regulation, The Digital Currency Industry, Advocacy Groups
+One of the foremost arguments against Regulation E for bitcoin is its potential to stifle innovation.
+Another significant assertion from commentators points to the fact that the Bureau had not adequately studied the virtual currency industry (confirmed by the CFPB itself) and that any proposed ruling to extend the existing regulations developed for GPR (General Purpose Reloadable) cards would be “unsuitable” for virtual currency products and services.
+One law firm representing a coalition of prepaid users supported the Bureau’s intentions to ensure consumer protection for digital currency users but did not support prepaid regulations for the industry. So too, did a virtual currency trade association that agreed with implementing consumer protection with a separate rulemaking, away from the prepaid regulation.
+Presumably, that association is the Chamber of Digital Commerce (CDC), a Washington D.C.-based trade organization that promotes and advocates digital currencies and blockchain technology. In its submitted comments [PDF], the CDC stated:
+We underscore that the Chamber supports the provision of consumer protections to customers of virtual/digital currency related companies that are involved functions similar to those regulated by the CFPB.
+These protections should include appropriate consumer disclosures with respect to how the value of the currency is determined, the rights of the consumer with respect to settlement and error resolution and how the use of them in transactions may differ from the use of fiat currency in order to avoid any potential assertions of unfair, deceptive or abusive acts or practices.
+However, such regulatory initiatives should occur outside the context of this Proposed Rule.
+Another prominent digital currency industry advocacy group, Coin Center, pointed to the low adoption rate of digital currencies among consumers as reasons to exclude them from the ruling. It’s primary contention, much like other commentators, argued that the CFPB had not adequately studied the virtual currency industry needed to enforce effective regulation toward the industry.
+In its submitted comments [PDF], Coin Center wrote:
+Given a need for procedural fairness to virtual currency companies, the need for meaningful and perhaps novel consumer protection strategies with regards to virtual currency technology, and the relatively slow rate of virtual currency adoption, we respectfully suggest that the Bureau formally exempt virtual currencies from the present rulemaking.
+Coin Center also wrote to the Bureau that companies such as bitcoin wallet provider BitGo and digital currency exchange Uphold (formerly BitReserve), among other bitcoin companies would “relish the opportunity to work alongside the Bureau” to implement a careful and deliberate regulatory process.
+The Verdict
+Notably, the Bureau had previously stated that its analysis of virtual currencies and its industry was a still-ongoing approach. Deliberating over the different comments and opinions put forth, the CFPB wrote:
+The proposed rule did not resolve specific issues with respect to the application of either existing regulations or the proposed rule to virtual currencies and related products and services.
+Accordingly, although the Bureau received some comments addressing virtual currency products and services, the Bureau reiterates that application of Regulation E and this final rule to such products and services is outside of the scope of this rulemaking.
+Images from Shutterstock and CFPB.
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+Posted in: Bitcoin Regulation, News Tagged in: CFPB, https://www.cryptocoinsnews.com/tag/cfpb/, Regulation E
+
+Recent Posts
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+Advertisement
+NextAlleged Bitcoin Thief in Dark Web Phishing Scheme Arrested06/10/2016
+PreviousThe First End-To-End Bitcoin Micropayment Test on Lightning Network is Successful06/10/2016
+Advertisement
+Recent Comments
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

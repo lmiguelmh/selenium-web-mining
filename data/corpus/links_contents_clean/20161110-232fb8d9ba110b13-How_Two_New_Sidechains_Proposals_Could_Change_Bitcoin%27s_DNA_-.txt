@@ -1,0 +1,41 @@
+A long-proposed bitcoin feature called 'sidechains' may soon take a big step forward thanks to a pair of proposals.
+The idea behind sidechains, most associated with the startup Blockstream (whose team boasts its originators), is to make it easier to add new features to bitcoin, something that's proven difficult in the past due to bitcoin's design.
+In short, sidechains are supposed to make it possible for users to move bitcoins between different bitcoin-based blockchains with different rule sets. For example, in this way, new techniques for preserving the privacy of transactions or a smart contract system similar to ethereum's could be added to a bitcoin blockchain, without changing the bitcoin blockchain.
+Bitcoin security consultant Sergio Demian Lerner, who is spearheading one effort to add sidechain functionality to bitcoin, explained that sidechains would broadly remove the difficulty developers today face in expanding bitcoin's capabilities.
+"Improving bitcoin the network has been compared to repairing a plane during flight."
+But in addition to Lerner's team, another group is working on proposals that could potentially put sidechains into the official bitcoin codebase.
+In late September, Lerner revealed a proposal for code that could add this functionality to bitcoin, and Bloq economist Paul Sztorc told CoinDesk that he is working on code of his own.
+Both are so-called "drivechain" proposals, a spin on sidechains first described by Sztorc last November. As such, each proposes a set of new features, called an opcode, that could potentially be added to bitcoin via a change known as a soft fork (an update that doesn't require all nodes to upgrade the software).
+However, the two projects have different ideas about how to implement the opcode and don't plan to join forces on one proposal (at least not yet).
+In a transfer between sidechains, bitcoins are sent from one blockchain to another, or that's what it looks like.
+But in reality, bitcoins from one chain (say bitcoin) are locked on the main bitcoin blockchain, while they're simultaneously unlocked on the sidechain that they're being "transferred" to.
+The key difference between drivechains and regular sidechains is who ultimately submits the necessary information to transfer the bitcoins back and forth: the users or the miners.
+Lerner's version of drivechain relies on miners to be "algorithmic proxy custodians," or programs that help make miners aware of other sidechains attached to the network.
+"Bitcoin miners observe the state of the sidechain and when they receive a command from the sidechain having proven consent (eg a hundred confirmations), they execute a coordination protocol to make sure they all agree on the authenticity of the command," Lerner explained.
+He added: "If they agree, they will make a payment using locked funds."
+Lerner's proposal introduces a new bitcoin script called OP_COUNT_ACKS, which implements the above drivechain functionality (bitcoin scripts are like smart contracts) in about 600 lines of code, in what he called a small change.
+Lerner also noted that Segregated Witness, the newest major change to bitcoin, once triggered, could help with this. The code was officially added to bitcoin earlier this month, and the change could be activated by miners as early as this December.
+While it's widely seen as a scaling solution, it comes with other benefits.
+"SegWit provides a new system for easy soft-forking: the witness script versioning system. Our BIP uses this system to add a new opcode without the limitations of the previous soft-forking system," Lerner explained.
+But while Sztorc and Lerner have discussed and collaborated, each seems to think that their own project is best and wants to continue pursuing them separately.
+Sztorc's main critique with Lerner's implementation is that it's using the sidechain from another one of his efforts, Rootstock, which features ethereum-style smart contracts, rather than a copy of bitcoin.
+"Drivechain is a new idea. So it's a risk as it is. I don’t like the idea of compounding that by doing two new ideas at once," Sztorc said. 
+Other differences are smaller details, Sztorc noted, using the invention of a hammer as an analogy. Say someone invents a hammer, a tool that never existed before, but they are debating whether the hammer should be built out of stone or wood.
+If accepted, either could eventually make its way into bitcoin in the form of a soft fork.
+But again, we’re talking about an update that developers compare to an in-flight airplane fix.
+Sidechains may be a proposal that's supposed to help with this problem, but to first add this functionality to bitcoin, it needs to pass this hurdle as other optimizations and additions, such as SegWit, have.
+Blockstream core tech engineer Russell O’Connor described some potential problems with Lerner's proposed opcode that boil down to the opcode depending on data values that are specific to the block that a transaction is added to.
+He explained that other opcodes that have been recently added to Bitcoin Core "were carefully constructed to ensure this property."
+Also of note is that there might not have been full discussion of the proposal yet. Bitcoin Core contributor Peter Todd declined to discuss the new drivechain opcode because of Lerner's past bitcoin-related patents, and said that he will reject the proposal "until this is rectified."
+Lerner responded that he has no plans to patent drivechain. Further, he said other bitcoin protocol developers, including Matt Corallo and Pieter Wiulle, are open to discussing the change.
+When asked about his patent strategy, Sztorc said he has "absolutely zero intent" on a patent, even a defensive one.
+Besides these specific criticisms, there's plenty of skepticism to go around to every sidechain project, with accompanying discussion about the security of each. Some long-standing criticisms boil down to whether or not sidechains are viable at all.
+"The main discussion relates to the effects of putting more power in the hands of the miners and what are the long-term consequences. More specifically, the question is what would happen if a bitcoin sidechain grows so popular that [miners mining both bitcoin and the popular sidechain] need to run higher-end computers, outcompeting solo miners," Lerner explained.
+But Sztorc seemed optimistic despite the criticism, some of which he plans to address in a "very long" blog post in the coming weeks.
+"The philosophy is mostly done and the code is mostly done. We’re both really close," he said.
+If they so choose, miners can now safely signal their support for a major bitcoin update.
+There aren't many steps left before bitcoin's Lightning Network will be finished — or at least an early version of it.
+The US Patent and Trademark Office (USTPO) has published a patent application submitted by bitcoin startup Blockstream for its work on sidechains.
+A concept that could enable new functionality for bitcoins on the bitcoin blockchain is being tested by Blockstream.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

@@ -1,0 +1,15 @@
+At least that's how BTCC CEO Bobby Lee describes his Shanghai-based bitcoin exchange startup's affiliation with its domestic market. Formerly known as BTC China, BTCC markets itself as the "world's longest-running bitcoin exchange", but it's now taking steps to expand its customer base internationally.
+BTCC announced today that it is launching a new service BTCC USD Exchange, one that boasts a new user-interface and that is operated by a separate legal entity. Run out of Hong Kong, the US dollar trading arm will complement BTCC's Chinese yuan trading, and Lee said support for more currencies is likely to follow. It officially launches tomorrow.
+"The USD exchange is our first concrete step to show the world we're going to be an international company."
+Notably, the offering will not yet be available to US customers, as BTCC has yet to receive approval from FinCEN or the NYDFS. (Lee said the startup had applied for both, though it's far from alone in waiting to launch services in New York).
+But Lee also sees a strategic opening in the market given the breach of Bitfinex, the Hong Kong-based bitcoin exchange that this August lost nearly 120,000 BTC (then worth more than $60m) in a high-profile hack.
+"We're trying to go up against Bitfinex," Lee said. "I think their volume is thin."
+In conversation, Lee was open about thinking that BTCC could "outdo" the exchange, which has long held an appeal with traders given its margin trading system.
+In this light, Lee said that BTCC is exploring whether to add margin trading, and that it is taking steps to court already active bitcoin exchange users.
+BTCC said it will use a link-based referral program, FIX APIs and maker-taker model to incentivize customers. Further, it will offer faster deposits due to an integration with its existing mining pool.
+UBS plans to invest in blockchain as part of an expansion plan in China.
+The Korea Exchange, South Korea’s sole securities exchange operator, has launched a new service that utilizes blockchain technology.
+Blockchain consortium startup R3CEV and eight major banks are said to be participating in the forthcoming trial.
+China's CITIC bank, one of the country's largest commercial banks, recently held a seminar devoted to blockchain.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

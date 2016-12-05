@@ -1,0 +1,112 @@
+http://www.newsbtc.com/2016/10/08/ransomware-provider-encryptor-raas-goes-offline-master-decryption-key-deleted/
+Ransomware Provider Encryptor Raas Goes Offline, Master Decryption Key Deleted
+25-11-2016
+08:46 pm
+      BTC
+      LTC
+      USD
+      EUR
+      GBP
+      CNY
+      JPY
+      =
+      USD
+      GBP
+      EUR
+      JPY
+      CNY
+      BTC
+      LTC
+      sponsored by SimpleFX
+LATEST NEWS
+Bitcoin Price Watch; A Slow End To The Week
+EY Unveils Strategy to Create Mainstream Bitcoin Traction In Switzerland
+Ethereum Platform Receives a New Geth Update after Consensus Flaw
+Redefining the Short Term Recruitment Industry -- ChronoBank
+Bitcoin Price Watch; End Of The Week Trading
+Ledger Blue Hardware Cryptocurrency Wallet Now Available For Pre-order
+Ethereum Price Technical Analysis – ETH/USD Downsides To Continue
+Bitcoin Price Technical Analysis for 11/25/2016 - Hold or Fold at Channel Support?
+Fortunejack – The only Gambling Site Offering Binary Options Trading
+Japan's Mitsui Sumitomo Introduces New Bitcoin Insurance
+Bitcoin Price Watch; A Wasteland Of Volume
+Swift Boasts Blockchain Technology Will Not Disrupt Their Business Model
+Is IRS Overstepping Boundaries by Issuing Summons to Coinbase?
+Bitcoin Price Watch; Thanksgiving Volatility
+Tendai Biti: "Zimbabwe Should Adopt Bitcoin As The National Currency"
+Ethereum Classic Price Technical Analysis – ETC/BTC Almost Tested 0.00100BTC
+Ethereum Price Technical Analysis – Can ETH/USD Break This?
+Bitcoin Price Technical Analysis for 11/24/2016 - Eyes on This Triangle
+NEWS
+ANALYSIS
+CHARTS
+EDUCATION
+BROKERS
+CASINOS
+EVENTS
+ADVERTISE
+PR PLANS
+SUBMIT PR
+Ransomware Provider Encryptor Raas Goes Offline, Master Decryption Key Deleted
+Author
+JP Buntinx
+Categories
+Bitcoin News, News
+28
+
+
+
+All of this goes to show the No More Ransom initiative is bring the heat to internet criminals. Even though the popularity of ransomware has not diminished by any means, criminals have been warned about the consequences.
+The threat of ransomware goes well beyond the traditional websites trying to infect computers with malicious software. Encryptor Raas, a well-known Ransomware-as-a-Service platform, decided to shut down their service for good. They also deleted the master encryption key, which means infected victims will not be able to restore file access. Paying the ransom has no use in this case.
+Although paying the Bitcoin ransom demand is never a plausible option, users who are infected through Encryptor Raas will have zero reasons to do so. The service was initially launched in July of 2015 and quickly gained traction with the wrong crowd. Internet criminals have been flocking to this RaaS platform to score a quick big payday.
+Encryptor Raas Is No More
+Thanks to a thorough collaboration between Trend Micro and various law enforcement agencies, Encryptor Raas has been shut down. The authorities seized the servers, which was made possible thanks to the Encryptor Raas admin’s own mistake. One of the servers containing valuable information was not hidden on the Tor network, but publicly visible.
+Once the server was taken offline, things snowballed from there on out. The Encryptor Raas admin shut down his service, even though several attempts were made to revive the website. Ultimately, those plans did not succeed, and three additional servers were seized by law enforcement agents. Rather than fighting the uphill battle, the administrator threw in the towel.
+However, it did not take long for the platform owner to delete the master decryption key. If security researchers had obtained the key, they could create a free decryption tool for ransomware victims. That will not be possible now unless researchers somehow manage to crack the code. Anyone who gets infected through any of the remaining servers should not pay the Bitcoin fee. That will not magically result in restoring file access, unfortunately.
+All of this goes to show the No More Ransom initiative is bring the heat to internet criminals. Even though the popularity of ransomware has not diminished by any means, criminals have been warned about the consequences. An exciting development for the good guys, although the battle is far from over at this point.
+Header image courtesy of Shutterstock
+28
+PUBLISHED BY
+JP Buntinx
+JP is working hard to bring more credibility to the Bitcoin and blockchain news industry. Outside of being Europe Editor at Newsbtc, JP is also an active writer for the website, and does not shy away from letting his opinion be heard. View all posts by JP Buntinx
+NEWSBTC - EDITOR'S PICKS
+Brokers
+Casinos
+1
+Review Trade Now
+2
+Review Trade Now
+3
+Review Trade Now
+4
+Review Trade Now
+5
+Review Trade Now
+FEATURED PRESS RELEASES
+Nov 21 | 12:00
+Electronic Government as a Service — eGaaS Enters Beta Testing Phase
+Nov 17 | 12:25
+Bitcoin’s Fastest Growing Community Issues Innovative BitConnect Coin ICO
+Nov 16 | 20:26
+Darcrus: Decentralizing the Business World
+Nov 16 | 13:05
+IBM, Microsoft and Sberbank shared experience in blockchain developments. How did Blockchain & Bitcoin Conference in Moscow go?
+Nov 14 | 13:30
+A Better Ethereum Wallet for Investors
+VIEW MORE
+SUBMIT PR
+SUBSCRIBE TO OUR NEWSLETTER
+Ⓒ Copyright 2016 NEWSBTC. All Rights Reserved
+About
+Team
+Business Listing
+T & C
+Bitcoin Forum
+Contact Us
+Advertise
+Privacy Policy
+Comments Policy
+Franchise
+Sitemap
+NewsBTC is a news service that covers bitcoin news, technical analysis and forecasts for bitcoin and other altcoins. Here at NewsBTC, we are dedicated to enlightening people all around the world about bitcoin and other cryprocurrencies. We cover news related to bitcoin exchanges, bitcoin mining and price forecasts for various virtual currencies.
+×

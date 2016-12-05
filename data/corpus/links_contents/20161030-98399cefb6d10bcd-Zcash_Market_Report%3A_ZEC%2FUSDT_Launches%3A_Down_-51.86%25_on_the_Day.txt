@@ -1,0 +1,248 @@
+http://allcoinsnews.com/2016/10/31/zcash-market-report-zecusdt-launches-down-51-86-on-the-day/
+Zcash Market Report: ZEC/USDT Launches: Down -51.86% on the Day – allcoinsnews.com
+HOME
+ABOUT US
+MAJOR EVENTS
+BLOCKCHAIN DAPPS
+BITCOIN
+EXCHANGES
+MINING
+WALLETS
+CONTACT US
+HomeAltcoinsZcash Market Report: ZEC/USDT Launches: Down -51.86% on the Day
+Zcash Market Report: ZEC/USDT Launches: Down -51.86% on the Day
+KittyBitcoin October 31, 2016
+BRIEF:
+
+Zcash is down -51.86% on the day on a last price of $404.85. ZEC/USDT is trading between a 24hr high of $1711.10 and a 24hr low of $404.85 on a 24hr volume of 14,602 USDT or 16.5 ZEC. The all time trend is mixed.
+CONTENTS
+Brief
+Last price
+$USD
+Volume
+Remarks
+Price change
+Chart
+Data source
+Market capitalization
+Daily high low
+Trend
+Support
+Resistance
+Margin trading
+Market sentiment
+Summary
+Disclaimer
+Printed
+Coming soon
+Tags
+LAST PRICE
+404.85 ZEC/USDT
+$USD
+last price $ 404.85
+24 hours ago $ 841.00
+percentage -51.86%
+VOLUME
+The 24 hour volume on Poloniex is 14602.97760750 USDT or 16.52976358 ZEC.
+REMARKS
+The much heralded Zcash has launched for trading on a number of exchanges. The opening price was USDT$9,000 per Zcash on Poloniex. While the price is fluctuating strongly we are seeing a prominent downtrend from the opening high. The closing price at press time was the daily low – with a new fat red candle forming.
+Notwithstanding the launch overpricing of the digital asset, traders recognize that Zcash could have very real advantages over other altcoins.
+About
+“Zcash is the first open, permissionless financial system employing zero-knowledge security.”
+What is Zcash?
+“If Bitcoin is like http for money, Zcash is https. Zcash offers total payment confidentiality, while still maintaining a decentralized network using a public blockchain. Unlike Bitcoin, Zcash transactions can be shielded to hide the sender, recipient, and value of all transactions on the blockchain. Only those with the correct view key can see the contents. Users have complete control and can opt-in to provide others with their view key at their discretion. Zcash transactions do not depend on the cooperation of other parties.”
+Website
+https://z.cash/
+Forum
+https://forum.z.cash/
+PRICE CHANGE
+Price change is the percentage change within the period:
+period change
+day -51.86%
+CHART
+Tap or click chart to enlarge:
+The 2 day 30 minute candlestick chart above shows most of the ZEC history on Poloniex. Other exchanges launched earlier.
+DATA SOURCE
+Poloniex is the data source for this market report.
+MARKET CAPITALIZATION
+Market capitalization is the total $US dollar value of the Zcash market calculated using the formula:
+market cap = ( available supply x last price )
+Market cap Available supply Last price
+$ 445,335 1100 $ 404.85
+DAILY HIGH LOW
+daily high 1711.10
+daily low 404.85
+TREND
+The weekly trend is mixed.
+SUPPORT
+Support is the lowest price within the period:
+period support
+day 404.85
+all time 404.85
+RESISTANCE
+Resistance is the highest price within the period:
+period resistance
+day 1711.10
+all time 9000.00
+MARGIN TRADING
+The data source Poloniex does NOT offer margin trading on this digital asset.
+MARKET SENTIMENT
+Market sentiment is bearish.
+Image courtesy Pixabay.com
+SUMMARY
+Zcash is down -51.86% on the day and down from $9,000.00 on launch. The two day and all time trend is mixed. ZEC/USDT saw daily and all time support at 404.85, with a daily high of $1711.10 per Zcash. The market has seen a pronounced downtrend since launch. Market sentiment is bearish.
+DISCLAIMER
+Past history is NOT an indicator of future results. Read the legal disclaimer:
+http://kittybitcoin.com/docs/disclaimer.php
+PRINTED
+This report was printed on Monday October 31 2016 02:48 hours UTC. Contact KittyBitcoin to request custom reports.
+COMING SOON
+Watch for our next Bitcoin & Ethereum Market Reports coming soon – or browse reports:
+
+Ether
+http://allcoinsnews.com/2016/10/14/ethereum-market-report-ethbtc-down-8-36-on-the-week/
+
+Bitcoin
+http://allcoinsnews.com/2016/10/25/bitcoin-market-report-btcusd-up-3-24-on-the-week/
+Thanks for reading!
+TAGS
+Zcash, ZEC/USDT, Poloniex, Brief, Last price, Volume, Remarks, Price change, Chart, Data source, Market capitalization, Indicators, Daily high low, Trend, Support, Margin trading, Resistance, Range, Market sentiment, Summary, Disclaimer, Printed, Coming soon, cryptocurrency, bitcoins, BTC, altcoins, investing, trading, speculation, coins, investment, digital, assets, tags
+Related Posts
+Augur Tokens Available on ShapeShift
+Blockchain Travel Competition and Investment Tool From Drachmae Travel
+Dnotes Market Report: NOTE/BTC Up 72.76% on the Month
+About The Author
+KittyBitcoin
+@KittyBitcoin supplies mobile friendly blockchain intelligence on http://kittybitcoin.com. Their favorite color is pink and the bigger the wool ball the better.
+Leave a Reply
+Comment
+ADVERTISE WITH US
+CONTACT US FOR AD DEALS
+allcoinsnews Update
+Email Address
+Blockchain Tech in Finance
+Start-Ups in Insurance to Bring Benefits of New Technology
+Electronic Government as a Service Now in Beta Testing Phase
+Bitmark Raises $1.7M in Seed Funding
+Fluent Rebrands to Hijro, Announces Blockchain Trade Asset Marketplace
+Supply Chain Management and Security Through New Blockchain-Based CryptoSeal Prototype
+Blockchain Testing Gives Positive Results for Consumer Payments
+Know Your Customer Compliance Opportunities from New IBM and KYCK! Blockchain Project
+PwC Promotes Use of Digital Assets with New Launch
+First SteemFest Concludes, Sets Scene for Regular Events
+DOKU and OKLink Bring Blockchain Payments to Indonesia
+Categories
+Altcoins
+Appointments
+Banking
+Bitcoin
+BitShares
+Blockchain
+Blockchain DApps
+Blockchain Development
+Blockchain Governane
+Blog
+Bond
+Colored Coins
+Compliance
+Conference
+Consortium
+Contract Management
+Copyright
+Counterparty
+Dash (Darkcoin)
+Digital Assets
+Dogecoin
+Education
+Equities/Derivatives
+Ethereum
+Events
+Exchanges
+Financial Services
+Forum
+Fund Management
+Funding
+Gaming
+Global Standards
+Global Trade
+Governance
+Hackathon
+Healthcare
+ICO
+Identification
+Insurance
+Investment
+Investment Banking
+IoT
+Legal
+Lisk
+Litecoin
+Market
+Media Content
+Mining
+NEM
+NXT
+Omni-Layer
+Payment
+Regulation
+Remittance
+Reports
+Ripple
+Security
+Settlements
+Smart Contracts
+Social Media
+Start-Ups
+Supply Chain Management
+Trade Finanace
+Voting
+Wallets
+Tags
+altcoins
+assets
+Bitcoin
+bitcoins
+Brief
+BTC
+Chart
+China
+coins
+Coming soon
+Crowdfunding
+Crowdsale
+cryptocurrency
+Daily High Low
+Data source
+digital
+Disclaimer
+ether
+ethereum
+Events
+Indicators
+investing
+Investment
+IoT
+Last price
+Lisk
+Margin-Trading
+Market capitalization
+Market sentiment
+Poloniex
+Price change
+Printed
+range
+Remarks
+resistance
+speculation
+summary
+support
+Tags
+Trading
+trend
+UK
+USA
+VC
+volume
+allcoinsnews.com Copyright © 2016.
+AllCoinsNews.com is a publication of Hans Lombardo Hong Kong Tel: +852 96881719
+Follow us on Twitter - @allcoinsnews

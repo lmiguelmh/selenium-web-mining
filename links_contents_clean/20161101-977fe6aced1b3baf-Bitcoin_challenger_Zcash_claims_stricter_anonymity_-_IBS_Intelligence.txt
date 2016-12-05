@@ -1,9 +1,0 @@
-Bitcoin challenger Zcash claims stricter anonymity - IBS Intelligence
- Zcash, a new form of cryptocurrency, launched last week amid resounding claims about privacy and security. The Bitcoin challenger, which allows users to make online purchases anonymously, was first developed at the beginning of the year, with a number of investors jumping on board.
-The currency uses zero-knowledge proofs to ensure coin exchanges are valid without revealing any information to either party in a transaction. Zcash also eliminates any information from the public blockchain, adding to its claim to be a better anonymous cryptocurrency than Bitcoin.
-Companies need the protection of privacy along their supply chain in order to conduct their business, especially in the context of public blockchains,” Zcash says on its website. “In addition, we believe that personal privacy is necessary for core human values like dignity, intimacy, and morality.”
-While Bitcoin has generally tried to remove itself from its so-called “dark past”, where goods such as weapons, drugs and illegal services were exchanged using the currency, it seems Zcash is embracing that kind of world.
-Zcash is currently valued at $498 per coin, compared to $706 for Bitcoin. The firm also uses a “for-profit” model, whereby every transaction is taxed 11%.
-Central Bank of Kenya not a fan of Bitcoin
-Circle breaks into Europe to offer Bitcoin purchasing
-© IBS Intelligence and Cedar Management Consulting International, LLC.

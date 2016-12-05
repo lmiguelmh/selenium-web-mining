@@ -1,0 +1,39 @@
+Alex Sunnarborg is the founder of Lawnmower, a blockchain investing and market data platform founded in 2015.
+In this opinion piece, Sunnarborg compares bitcoin's attributes with those of the newly launched cryptocurrency Zcash, providing an overview of how he considers the market potential of each .
+With the launch of Zcash today (and the speculation surrounding it) you may be wondering how the decentralized, open-source cryptocurrency compares to bitcoin, the original digital currency.
+While many structural similarities to Satoshi Nakamoto's bitcoin design are obvious, Zcash utilizes advanced new cryptographic techniques to offer optional improved privacy and transparency, as well as its own unique blockchain.
+Zcash's supply model is extremely similar to bitcoin's, with a fixed and known issuance model that is cut in half approximately every four years. As well, there is a maximum of 21m units of both Zcash (ZEC) and bitcoin (BTC) which will be mined over time.
+Given these similarities, it's easy to see why the price and market caps of the two assets are often compared.
+Nearly eight years after bitcoin's genesis block was formed, more than 15.75m BTC have already been mined (representing over 75% of the supply that will ever exist on its blockchain).
+Zcash's developers are now standing by to launch a similar cryptocurrency, albeit with some key differences.
+Small changes to the blockchain and issuance structures mean ZEC will have a 2.5-minute average block time and an initial block reward of 12.5 ZEC.
+There will also be a "slow-start" period during the first 20,000 blocks (about 34 days) where the block reward linearly increases to 12.5 ZEC. This is designed to reduce the impact of a potential negative event like "a major bug" or "security vulnerability".
+As a result, the first blocks will reward extremely small amounts of ZEC, meaning the overall supply in the ecosystem will be limited as the block reward ramps up.
+Despite this, exchanges including Kraken and Poloniex have already announced they will be opening markets as soon as possible following the distribution of the first fractions of coins to miners and the network.
+As you can imagine, early exchange order books will likely display many buy orders for large quantities. The only initial sell orders will be small, as those first reduced block rewards are issued.
+In the days before its launch, derivatives exchange BitMEX already has a form of Zcash market open for traders before the first ZEC has even touched its blockchain.
+The futures contract it offers expires in about two months, on 30th December, and is based on the price of ZEC on that date as compared to bitcoin.
+The BitMEX price is currently 1.5 BTC, representing the market’s expectation that 1 ZEC will be worth 1.5 BTC on the above date, by which time about 330,000 ZEC will have been mined.
+At bitcoin's current price of $685, a ZEC price of 1.5 BTC would imply a market cap of about $350m, which would make it one of the top five digital assets.
+Of course, the demand side of the market may be willing to pay a higher price per unit of BTC than ZEC on 30th December, but the psychological impact of the pair reaching parity is undoubtedly noteworthy.
+Additional trading has already also occurred in a form entirely different than anything seen in bitcoin's anonymous and decentralized issuance structure.
+Zcash was created by a public team and company (Zcash Electric Coin Company) with a slew of additional high-profile employees, advisors and investors.
+As additional incentives beyond equity in the company, many of these team members are also set to receive a portion of future ZEC block rewards in the mining process.
+Ten percent (2.1 million) of the 21 million ZEC to ever exist are set to be allocated to groups outside of the miners who successfully place a new block on the ZEC blockchain.
+Investors, employees, advisors, founders, the company ("as a ‘strategic reserve’ to fund new projects") and the non-profit Zcash Foundation (created to "maintain and improve the Zcash protocol in the interests of all users, present and future") are all set to receive a specified portion of future block rewards over specified time periods.
+The 2.1m ZEC will all be distributed over the first four years, and up until the point where 10.5m ZEC will have been mined, thus representing a distribution of 20% to parties other than miners.
+After the first four years, the further 10.5m coins to be mined will be rewarded solely to miners.
+Zcash has also announced some additional details on its investors and previous fundraising structures.
+Its latest funding round of $2m was raised for 6.25% of the company, implying a valuation of $32m, while its previous round of $1m was raised for 10.15% of the company, implying a valuation of about $10m.
+Thus, the early investors paid about $1m for equity in the Zcash Electric Coin Company and 214,000 ZEC over the first year (about $4.66 per ZEC), while the most recent investors paid about $2m for equity and 132,000 ZEC (about $15.15 per ZEC).
+Another important concept to keep in mind with Zcash is the thought of the technology also being applied to other projects or protocols.
+There are even existing plans and talks around extending some of the functionality behind Zcash to ethereum, and possibly vice versa – bringing smart contract features to Zcash.
+Thus, the value of ZEC will obviously be based a multitude of factors, and consideration should be given to comparable and even competitive platforms and assets like BTC, ETH and future projects that can also adopt and iterate on these groundbreaking and open-source developments.
+Disclosure: CoinDesk is a subsidiary of Digital Currency Group, which has an ownership stake in Zcash.
+Disclaimer: The views expressed in this article are those of the author and do not necessarily represent the views of, and should not be attributed to, CoinDesk.
+Bitcoin prices repeatedly breached $750 during the week through 18th November as traders responded to macroeconomic uncertainty.
+The price of bitcoin is now trading above $750, its highest total in nearly five months.
+The price of bitcoin rose nearly $30 over the course of one hour today, rising to a high of $740 as the price continued to flirt with annual highs.
+As bitcoin core developer Peter Todd published his role in helping create the Zcash cryptocurrency doubt is cast on the system's "trustless setup."
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

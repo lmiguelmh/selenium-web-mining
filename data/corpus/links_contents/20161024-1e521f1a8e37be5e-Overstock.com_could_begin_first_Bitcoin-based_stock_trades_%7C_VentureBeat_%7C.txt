@@ -1,0 +1,30 @@
+http://venturebeat.com/2016/10/24/overstock-com-could-begin-first-bitcoin-based-stock-trades/
+Overstock.com could begin first Bitcoin-based stock trades | VentureBeat | Business | by Dylan Tweney
+NEWS l l
+EVENTS l l
+RESEARCH l l
+Sign up
+Login
+Overstock.com could begin first Bitcoin-based stock trades
+DYLAN TWENEY OCTOBER 24, 2016 5:16 AM
+TAGS: BITCOIN, BLOCKCHAIN, MONEY 2020, OVERSTOCK.COM, TOP-STORIES
+Above: Speakers at a Money 20/20 panel on the future of blockchain in capital markets.
+Image Credit: Dylan Tweney/VentureBeat
+Overstock.com has had it with the inefficiency of today’s equity markets, and it’s not going to take it anymore.
+The company announced a new blockchain-based platform for trading equities (stocks and bonds) called T0 last year. Today, at the Money 20/20 conference in Las Vegas, Overstock.com’s communications director, Judd Bagley, detailed T0’s advantages over traditional equities trading systems and made statements that lead to the conclusion that a company — likely Overstock.com itself — would soon begin selling its stock on the T0 platform.
+While other financial technology innovators might tread lightly for fear of offending the Wall Street types they eat lunch with every day, Bagley said Overstock is not going to hold back.
+“We’re from Utah. We don’t care. We’re really taking a ‘burn it down and start over’ approach,” Bagley said.
+After the panel, Bagley clarified that for regulatory reasons, T0 cannot be called a “stock exchange.” It is, he said, a platform for trading “widgets,” and the first use case will be equities (stocks and bonds).
+Bagley did not actually say that stock trading would begin on T0. All he said onstage was that T0 would be in operation some time this year, and pointed to an upcoming Tuesday morning announcement by Overstock.com.
+However, circumstantially, it seems quite likely that “being in operation” means trading stock, and that it would likely start with the stock of Overstock.com itself, which started accepting Bitcoin as a payment method a couple of years ago and has received SEC approval to sell stock for Bitcoin via T0.
+Overstock.com’s beef with current equities trading processes came about a few years ago, when the company was on the receiving end of some stock market manipulation. Investigating the problem, it found that the trouble came in part because of the complexity of settling trades. This is a complex process that involves many intermediaries and is aimed at ensuring that the transaction is legitimate. However, the complexity introduces vulnerabilities — and also means that trades aren’t fully settled for three days. (After the Trade is Made describes the process in detail, although Bagley said the book is unreadably dense.)
+“It shouldn’t take three days in this day and age,” agreed panelist Emmanuel Aidoo, who heads up cryptocurrency and blockchain strategy at Credit Suisse.
+By contrast, blockchain-based equities transactions can complete in 10 minutes.
+Yolanda Goettsch, a VP and associate general counsel at NASDAQ, begged to differ. “Our markets are very liquid, very efficient,” she told the panel, pointing to the extreme speed of the exchange’s electronic trading system. However, she did seem to acknowledge the three-day span required for full settlement, when it’s necessary to validate that the parties to a transaction have the funds, have the rights to the stock, and are meeting regulatory requirements.
+In other respects, all of the panelists agreed on one thing: Banks and exchanges can, and should, take blockchain technology very, very seriously.
+“Everybody’s in active trials,” said Jacob Farber, general counsel for R3, referring to financial services companies testing blockchain technologies. “There’s an assumption now that it will be deployed. The question is how and when.”
+R3 is a consortium of 75 financial institutions and is building an open-source platform for distributed ledgers, called Corda.
+NASDAQ, for its part, is testing a blockchain-based proxy voting system in Estonia, a country noted for its openness to fintech and digital identity technologies.
+The panel reflects a broader trend. There’s robust interest in blockchain in the financial services industry, according to a recent study by IBM, which found that 15 percent of top global banks plan blockchain products in 2017. Sixty-five percent are planning blockchain products within three years, IBM’s study found. And 80 percent of exchanges are testing blockchain, Goettsch noted.
+Updated 10/24/2016 to clarify details about T0 launch.
+   

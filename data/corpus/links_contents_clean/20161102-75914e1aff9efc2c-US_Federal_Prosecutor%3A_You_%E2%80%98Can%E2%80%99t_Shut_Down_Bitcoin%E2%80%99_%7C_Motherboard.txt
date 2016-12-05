@@ -1,0 +1,13 @@
+As bitcoin continues to miraculously hold itself together amid infighting and volatile economics, some governments have introduced regulations for the virtual currency, while other legislators have advocated for a more hands-off approach while the technology matures.
+That’s according to US federal prosecutor Kathryn Haun, who last year took down corrupt Silk Road investigators Shaun Bridges and Carl Mark Force IV, who said in Forbes’ Unchained podcast on Tuesday that you “can’t shut down bitcoin.”
+“I don’t think the reason the government didn’t shut down bitcoin [in the early days] was because the blockchain is useful to the government,” Haun said. “I think the reason is that the government realized they can’t shut down bitcoin. There’s simply no way.”
+“With these technologies, once the genie is out of the bottle you can’t put it back in,” she added.
+But since people are doing some pretty illegal things with bitcoin, such as buying and selling drugs or stolen credit card information, law enforcement has no choice but to deal with the technology on its own terms in order to prosecute wrongdoers.
+Read More: There Might Still Be Crooked Cops from the Silk Road Investigation
+For example, with bitcoin, every transaction is viewable on a public ledger called the blockchain. Investigators can trace suspicious transactions to their origin on the blockchain, although criminals may use services called “mixers,” which mix coins together so that it’s difficult or impossible to trace a transaction. According to Haun, although mixers were used in the Bridges and Force cases, law enforcement was still able to track the coins. This is because, she said, the mixers likely weren’t working as well as advertised.
+And, for the record, Haun said, plenty of feds own bitcoin. Though one has to wonder if they’d feel as comfortable with some new bitcoin alternatives like Monero that aim to offer even more anonymity for users, and headaches for police.
+While it’s only a “matter of time” before a bitcoin rival pops up that provides true anonymity for users, Haun said, for now it looks like bitcoin and the government have a kind of uneasy truce as the technology continues to not-quite-implode.
+TOPICS: bitcoin, police, law enforcement, kathryn haun, Carl Mark Force, shaun bridges, Silk Road, vritual currency, crime, forbes, news
+You can reach us at letters@motherboard.tv. Letters may be published. Want to see other people talking about Motherboard? Check out our letters to the editor.
+The FBI Hacked Over 8,000 Computers In 120 Countries Based on One Warrant
+After 20 Minutes of Listening, New Adobe Tool Can Make You Say Anything

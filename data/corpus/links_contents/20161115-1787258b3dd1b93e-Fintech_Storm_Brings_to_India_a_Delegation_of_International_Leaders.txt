@@ -1,0 +1,98 @@
+http://www.digitaljournal.com/pr/3143682
+Fintech Storm Brings to India a Delegation of International Leaders in Blockchain Technology and Cryptocurrencies, Led by Vitalik Buterin, Founder Ethereum - Dec 6 2016 - Press Release - Digital Journal
+Log In
+NEWS
+TECH & SCIENCE
+SOCIAL MEDIA
+BUSINESS
+ENTERTAINMENT
+LIFE
+SPORTS
+    More press releases»
+Press Release
+Fintech Storm Brings to India a Delegation of International Leaders in Blockchain Technology and Cryptocurrencies, Led by Vitalik Buterin, Founder Ethereum - Dec 6 2016
+This press release was orginally distributed by SBWire
+London, UK -- (SBWIRE) -- 11/15/2016 -- Fintech Storm is hosting the first ever Blockchain India Summit Dec 6 2016 at Shangri La Hotel, New Delhi with a posse of global Blockchain leaders. Vitalik Buterin, Founder of Ethereum, will be the Guest of Honour at the Summit, along with pre-eminent leaders in Distributed Ledger Technology (DLT) such as Ethereum, Consensys, Microsoft, Wipro, IBM. Blockchain or DLT is the technology behind bitcoin, the digital currency which has enjoyed a phenomenal ride since its introduction in 2008 just after the worldwide financial crisis.
+
+Blockchain, however, rose to prominence after Vitalik Buterin founded Ethereum in 2014 to extend the benefits of bitcoin beyond currency, and as an underlying code to create self-executing business contracts - Smart Contracts. These would potentially disintermediate many industries driving cost savings, and enhancing process efficiency. DLT has seen more than $1.4 billion invested in three years and 2,500 patent filings. It is predicted 80% of banks will have initiated DLT projects by 2017. Most DLT investments have been made by marquee banks such as Goldman Sachs, Barclays, J.P. Morgan, UBS, Credit Suisse, and financial services industry leaders such as Visa, Mastercard, NASDAQ etc.
+
+A World Economic Forum (WEF) Report August 2016 has opined that financial services infrastructure will be reshaped by DLT, coupled with many converging technologies including robotics, machine learning, biometrics, and cognitive, quantum and cloud computing.
+
+Global Payments, Investment Management, Commercial Property, Insurance and Claims Processing, Syndicated Loans, Trade Finance, Compliance, Proxy Voting, Asset Re-hypothecation and Equity Post Trade are some of the use cases identified by WEF.
+
+India is one of the top remittance-receiving countries in the world, claiming more than 12% of the world's remittances in 2015, with its high income-earning diaspora spread across the developed world. The 270 million unbanked adults in developing economies who send or receive domestic remittances using only cash represent a huge market opportunity for DLT.
+
+The most critical DLT applications require industry collaboration. Dubai recently launched its Global Blockchain Initiative (GBI) with 30 members from public and private sectors, and now has 47 members. Replacing existing financial infrastructure is a big undertaking, delaying DLT implementations in highly regulated markets. Ms Arifa Khan, Conference Chair for Blockchain India Summit has been engaged in discussions in India with RBI, CEO of National Payments Corporation of India (NPCI) and Banking sector players about collaborative efforts to explore Blockchain applications on common platforms.
+
+Ms Khan hosted a seminar on DLT for RBI's Working Group on Fintech in May 2016 in Mumbai and contributed to the regulator's early endeavours to understand the scope and challenges of bitcoin & blockchain. RBI CAFRAL further hosted a DLT seminar by Ms Khan in Mumbai in July 2016 drawing attendees from over 25 banks & FIs.
+
+Cryptocurrencies have repercussions on the economy as well as on many of the functions of RBI - some areas of regulatory interest being currency stability and volatility, effect on supply side economics through monetary supply, potential tool for inflation control, taxation etc.
+
+Press Release: http://www.prnewswire.co.in/news-releases/fintech-storm-india-summit-12-13-may-mumbai-concludes-successfully-stirs-up-interest-in-banks-fis-and-regulator-in-blockchain-579761361.html
+
+The long-held view that central banks have no competitors for issuing currency has been challenged by bitcoin. Vitalik Buterin's "ether" is the second most prominent cryptocurrency valued close to $1bn, after bitcoin which is valued at $20bn. Several new cryptocurrencies are now being launched, like Zcash. Many decentralised applications based on Blockchain are creating their own crypto tokens for use in circular economies, similar to QQ Coins, or tokens used in virtual games. Japan is dropping the 8% sales tax on bitcoin as an acceptance of its growing popularity.
+
+Former RBI Governor Dr Raghuram Rajan had publicly stated that bitcoin is "fascinating", and that RBI could release its own digital currency, but that such an issuance could take years to undertake if attempted, perhaps 10-20 years. "Over time, virtual currencies will certainly get much better, much safer and over time will be the form of transaction. That's for sure." Dr Rajan had said. Central banks of countries around the world are urging banks to adopt blockchain. Deputy Governor Rama Gandhi had urged banks to work to develop applications for digital currencies and distributed ledgers speaking at an event at IDRBT on 19th July 2016.
+
+Interestingly, India's first Blockchain Summit comes at a time when Indians are reeling under catastrophic effects of a surprise currency-ban imposed by the Government, just the type of ills of centralised authority & monetary control that bitcoin is immune from. The sudden ban of Rs500 & Rs1000 notes brought the predominantly cash economy in India to a screeching halt, and reduced citizens to Pokeman-go like players desperately trying to find some valid currency notes anywhere queueing up at dawn and waiting for hours in miles long queues. While the bitcoin world is never shorn of drama, India with its constant crises presents no low octane war zone! Even debit card usage in India is less than 20%. Since no one was prepared for this emergency, ironically neither the Government nor the Banks that introduced this ban, most industries and services were disrupted, greatly aggravating the population at large.
+
+India being neither a hyper inflation country like Argentina nor a lawless land where demonetisation was a necessity, this was a calamity even insurance firms had never foreseen. The prominent economists - Dr Raghuram Rajan and Dr Man Mohan Singh, the former Prime Minister had both been against demonetisation. Yet, this deliberate experiment was created ostensibly to control blackmoney, but failed on more counts than expected. Citizens took to buying Gold, Real Estate, Dollars and whatever they could lay their hands on to get rid of the soon-to-be-worthless notes, driving prices artificially high. Black money hoarders found means to preserve their hidden wealth moving from cash to other assets, albeit at inflated prices. Bitcoin/cryptocurrencies would have been the only alternative, perhaps safer in such an improbable exigency (a blackswan event). This is a problem that bitcoin would have certainly solved, had bitcoin been legal currency in India. But certainly Govt of India was not thinking of becoming inadvertent marketers of bitcoin, when they conceived this experiment!
+
+Still a far cry from being a cashless economy despite the success of PAYTM, India is home to 21% of World's unbanked population of 2 bn, which is fully cash reliant. Bitcoin and blockchain would both present numerous interesting propositions including financial inclusion (of great interest to Gates Foundation in india) and to a wide range of stakeholders such as RBI, NPCI and industries such as Banking & Financial Services, Healthcare, Education, and Government, which is what the Blockchain India Summit and its international participants aim to explore on 6 Dec 2016. Though India is lagging behind the west in Blockchain awareness, ICICI in a promising start has announced successful partnership experiments with Emirates. Arifa Khan's ambitious venture Zero Field Labs aims to change India's Blockchain readiness and will have gathered the who is who of the next global trillion dollar industry for the first time in India on 6 Dec at Shangri La Hotel in New Delhi. Among the invitees are bitcoin legends such as Roger Ver and Chandler Guo, the chinese bitcoin mining giant. Join us for privileged interactions with global pioneers of DLT!
+
+"With over 300mn people connected to internet, India is the fastest growing IT market in the world. Blockchain India Summit will serve as an effective way to introduce Ethereum throughout the region. ConsenSys is honoured to participate and will be showcasing the future of Blockchain technology at the summit" - Andrew Keys, Head of Global Business Dev, ConsenSys
+
+Indian Institute of Technology, Madras, Ms Arifa Khan's alma mater, will be hosting Vitalik Butyrin's special lecture on the future of crypto economies and cryptography on 9 Dec in Chennai. Ms Khan is pleased to be hosting Vitalik's first visit to India. She is excited to work with Banking and other industries in their transition to a Blockchain enabled world!
+
+Blockchain India Summit
+When: 6 December 2016 9:00am to 5:00pm
+Venue: Shangri La Hotel, Connaught Place, New Delhi
+
+Event website: http://europeindiaconclave.com
+
+Ticket site for foreign delegates: http://blockchainindia2016.eventbrite.com
+Ticket site for Indian delegates: https://in.explara.com/e/blockchain-india-summit
+
+Media Contact:
+Ms Arifa Khan
+Founder Fintech Storm
+CEO Zero Field Labs Pvt Ltd.
+340 The Highway London, E1W3ES
+Ph: 0044-7852312760
+arifa@fintechstorm.com
+info@blockchainstorm.co
+http://europeindiaconclave.com
+For more information on this press release visit: http://www.sbwire.com/press-releases/fintech-storm-brings-to-india-a-delegation-of-international-leaders-in-blockchain-technology-and-cryptocurrencies-led-by-vitalik-buterin-founder-ethereum-dec-6-2016-742033.htm
+Media Relations Contact
+Ms Arifa Khan
+Email: Click to Email Ms Arifa Khan
+Web: http://europeindiaconclave.com
+LATEST NEWS
+TOP NEWS
+Microsoft's Cortana now comes preinstalled on more Android phones
+Op-Ed: Are Trump’s health plans dangerous for health protection?
+Cuban revolutionary icon Fidel Castro dies: President
+Future solar storm could cause trillions in damage to technology
+Erdogan, Putin in Syria talks after Turkish soldiers killed
+EPA tells U.S. cities — it's illegal to use dry ice to kill rats
+Blast heard in Turkey's Gaziantep could be caused by jets: governor
+Logbooks reveal Antarctic sea ice barely changed in 100 years
+Men made a mess of Somalia, now women want to fix it
+Decision on Line 3 and Northern Gateway pipelines delayed
+CORPORATE
+Contact Us
+About Us
+Advertise
+Investors & Partners
+HELP & SUPPORT
+Editorial Guidelines
+Terms of Use
+Privacy Policy
+NEWS LINKS
+Latest News
+Live Events
+News Alerts
+GlobeNewswire News
+Global Press Releases
+24-7PressRelease.com
+copyright © 2016 digitaljournal.com   |   powered by dell servers

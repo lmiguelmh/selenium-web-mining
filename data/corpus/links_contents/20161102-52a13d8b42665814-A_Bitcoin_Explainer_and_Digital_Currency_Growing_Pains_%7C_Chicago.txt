@@ -1,0 +1,117 @@
+http://chicagoinno.streetwise.co/2016/11/02/a-bitcoin-explainer-and-digital-currency-growing-pains/
+A Bitcoin Explainer and Digital Currency Growing Pains | Chicago Inno
+CAREERS
+EVENTS
+NEWSLETTERS
+SIGN IN
+
+
+TWITTER
+FACEBOOK
+EMAIL
+SHARE
+How I Made a 31% Financial Gain in 12 Days Thanks to a Fork
+Digital Currency Growing Pains
+931
+Adam Swick - Associate with Pritzker Group Venture Capital
+11/2/16 @3:20pm in Tech
+I hope you didn’t come here to learn about increasing your net worth using cutlery. Instead, I hope to convince you that digital currencies are worth paying attention to. Oh yeah, and I wanted to brag about making 31% financial gains due to a Fork.
+What is a blockchain
+First, we are going to need a very basic understanding of blockchain. Ok… take a breath: A blockchain is a distributed public ledger/record of all transactions that have ever taken place. Thus, the Bitcoin Blockchain is a distributed public ledger/record of all Bitcoin transactions that have ever taken place. To oversimplify, a portion of the Bitcoin Blockchain could look like this:
+  In this example, we follow the path of 1 Bitcoin, which ends up split up between David (.5), Ian (.4), and Adam (.1)
+Every Bitcoin transaction is recorded on the Bitcoin blockchain. Thus, at any time, to determine who owns how many bitcoin, we need to read through the entire blockchain following Bitcoins as they move around and keeping running totals for users. (Note: Over 200k+ transactions take place daily, so thank goodness we have computers to help with this reading and tallying).
+Think of it like owning a house. How do you know who owns a house? You can ask City Hall, and every time that house is sold, the seller needs to tell City Hall that “I am selling this house to [blank]”, and City Hall records this transaction in their ledger.
+  This City Hall ledger shows that David currently owns the house in question 
+  So what’s so special about a public ledger/record of all transactions that have ever taken place? Well, blockchains are distributed public ledgers. Thus, instead of having one central authority maintaining the ledger (like City Hall), the ledger is maintained by thousands of computers scattered across the world. Instead of telling City Hall that you are selling your house, you tell these thousands of computers that you would like to send Bitcoin. There is a complex process wherein these computers check in with each other to make sure they have the same file, but the point is this ledger is public (anyone can download it), and if one computer gets unplugged, the ledger is not affected. Thus, in theory, to “steal” something on a blockchain you would have to take over thousands of computers and tell them all to modify the ledger.
+That’s a blockchain.
+Ethereum
+Blockchains are often associated with Bitcoin, as the two were sort of invented together. The first blockchain was a public ledger meant to track the ownership of Bitcoins. Today, there are countless blockchains keeping track of the ownership of various assets. Bitcoin is the most well-known digital asset, but a close second is Ethereum.
+All you need to know is that:
+1. Ethereum is an asset that you can buy with US Dollars (like buying gold or a stock)
+2. Ethereum ownership is tracked using a blockchain (the Ethereum blockchain).
+Where things went wrong — The DAO
+You can do a lot of cool innovative things with digital currencies, especially Ethereum. One of these innovative things was the DAO: the Decentralized Autonomous Organization. The DAO was a computer program that allowed people to deposit money (via Ethereum) into a big community pot-of-money, and then the depositors could vote on what they wanted the funds to be used for. Instead of having one “CEO” choosing how the “company’s” money should be invested, the DAO crowd sourced decisions.
+People were so excited about this innovative Decentralized Organization, they deposited over $160M worth of Ethereum into the community pot-of-money. Just as the DAO was beginning to allow people to vote on how to use this money, someone took advantage of a loophole in the DAO computer code to “steal” $60M worth of Ethereum.
+(Important Note: This thief did not hack the Ethereum blockchain. Instead, they hacked the DAO computer code and manipulated the voting mechanism, allowing them to vote to send the funds to themselves. The DAO then counted these votes, and sent orders to the Ethereum blockchain to move the funds from the community pot-of-money to the thief’s account. The blockchain did exactly what it was supposed to do, and remains “un-hackable”.)
+Thus, the Ethereum community faced a decision. They could:
+A.Continue to chug along, and just accept the fact that $60M worth of Ethereum had been “stolen”
+B.Erase and re-write the public ledger on the thousands of computers, effectively un-doing the “theft.”
+The Fork
+After much debate, the majority of the Ethereum community chose option B. They were going to re-write history. Thousands of owners of the thousands of blockchain-tracking computers downloaded a new code that would re-write their ledgers. However, there were dissenters who felt that this undermined the entire philosophy of blockchain claiming “If you allow people to go back and change things… what’s the point!?” These computer owners did not download the new code, so their computers would continue as usual.
+Thus, the Ethereum blockchain “Forked” into two different blockchains, resulting in 2 different assets:
+1. Ethereum — supported by the majority of the Ethereum community
+2. Ethereum Classic — supported by the minority dissenters
+  A fork in Ethereum created two different currencies: Ethereum, and Ethereum Classic
+Moving forward, each blockchain operated independently. However, looking backward is a different story. These 2 now-separate blockchains share a mutual pre-fork history. Thus, if you owned Ethereum before the fork, you now own Ethereum on BOTH new forks.
+With a single unified blockchain, it is impossible to spend the same Ethereum twice. When you send an Ethereum, the blockchain can clearly see you no longer have that Ethereum. However, with this fork, if you had an Ethereum pre-fork, you could now spend that Ethereum on both new forks, allowing you to spend 2 Ethereum when you originally only had 1.
+    My experience
+Both Ethereum and Ethereum Classic recognize that Adam has 1 Ethereum before the fork (Green Transaction). Thus, Adam is free to spend 1 Ethereum AND 1 Ethereum Classic after the fork (Orange Transactions)
+1. Pre-fork I bought 1 Ethereum for $12.34. I did this purely expecting the price to increase after a successful fork
+2. Post-fork, I now owned 1 Ethereum valued at $12.34, and now one Ethereum Classic valued at $0.88.
+3. Holding my assets until 12 days post-fork (because I was curious what would happen), my 1 Ethereum was valued at $10.51, and the Ethereum Classic valued at $3.30
+Notice that the assets were largely competing for popularity and price. As Ethereum Classic’s price rose, Ethereum’s price decreased. People didn’t know which side of the fork to have faith in.
+I then sold my Ethereum Classic for $3.30, and used the proceeds to buy .31 Ethereum, expecting that Ethereum Classic would eventually lose to Ethereum
+4. Today, excitement around Ethereum Classic has died down (price ~$1), and Ethereum’s price bounces around $11.50–13.50. However, thanks to the above, I now own 1.31 Ethereum, despite only initially buying 1 Ethereum
+I thus like to tell myself that I made a 31% return… thanks to a Fork
+    The secret to my success
+Takeaways
+Blockchains and digital currencies are awesome. They have the potential to change the world and cause us to re-think the way things have always been done. However, these ideas are new, and are experiencing some growing pains.
+I like to think those involved with digital currencies today are the Alexander Hamilton’s of our era (+1 for timely cultural reference)... wrestling with policies, governance, precedents, and structure, with the added complexity of throwing in computer code and cryptography.
+I hope that this has opened your eyes to the world of blockchains and digital currencies, and you go on to learn more, and perhaps even contribute to what they could become.
+Adam Swick is an Associate at Pritzker Group Venture Capital
+This post first appeared on Medium.
+Image via flickr
+FILED UNDER: BITCOIN, NEWS, PRITZKER GROUP
+RELATED NEWS
+ThoughtWorks CTO Rebecca...
+DePaul Researchers Are...
+UIUC's Naira Hovakimyan Talks...
+These Chicago Studios Are...
+FROM OUR PARTNERS
+FACEBOOK
+COMMENTS (0)
++
+TWEETS
+- SHOW MORE TWEETS -
+THE BEAT NEWSLETTER
+All the tech news in Chicago you need to know.
+GET IT
+MOST POPULAR
+Motorola Solutions Lays Off 200
+3.5K Jim Dallke
+This Startup Is Delivering...
+668 Jim Dallke
+Chicago Tech Gift Guide: Shop...
+632 Jim Dallke
+What's Next For Four Loko?
+568 Jim Dallke
+Could An Arts and Culinary Incubator...
+528 Karis Hustad
+SIGN UP FOR THE BEAT
+The Chicago Inno Beat is a daily newsletter covering Chicago tech news and events
+SIGN UP
+CLOSE
+SIGN UP FOR THE CHICAGO INNO BEAT DAILY NEWSLETTER
+SIGN UP
+OR
+SITES
+BOSTINNO
+DC INNO
+CHICAGO INNO
+AUSTIN INNO
+CATEGORIES
+TECH
+EDUCATION
+CAREERS & EVENTS
+CAREERS DIRECTORY
+EVENTS DIRECTORY
+SERIES
+SERIES DIRECTORY
+ABOUT CHICAGO INNO
+ABOUT STREETWISE
+WORK HERE
+THE TEAM
+ADVERTISE
+CONTACT US
+TERMS OF USE
+© 2016 STREETWISE MEDIA

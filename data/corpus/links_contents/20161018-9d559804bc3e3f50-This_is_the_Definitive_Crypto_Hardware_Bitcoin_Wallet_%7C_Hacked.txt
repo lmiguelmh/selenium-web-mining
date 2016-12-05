@@ -1,0 +1,89 @@
+https://hacked.com/this-is-the-definitive-crypto-hardware-wallet/
+This is the Definitive Crypto Hardware Bitcoin Wallet | Hacked
+HACKED
+TECH. SECURITY.
+
+
+272510
+5
+0
+THIS IS THE DEFINITIVE CRYPTO HARDWARE BITCOIN WALLET
+by JUSTIN OCONNELL
+OCTOBER 18, 2016
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+TREZOR is one of the best-respected Bitcoin hardware wallets in the industry.
+With years of research and development on their side, CEO Alena Vranova working with her team SatoshiLabs is developing TREZOR 2, which the startup says will bring new hardware features to make use easier and more comfortable by introducing a bigger display and an entirely new software stack.
+“It becomes super easy to develop any TREZOR security applications or to integrate them into the current systems,” Vranova told Hacked. “The knowledge of Python or JavaScript will be enough for people to code with / for TREZOR.”
+Alena Vranova
+TREZOR, which is also compatible with the smart contract based blockchain Ethereum, is the first bitcoin hardware wallet and with no doubt the benchmark for end-user bitcoin security until today.
+“The success of TREZOR stems from the fact that we’ve been solving real problems with a minimalistic approach and user experience in mind,” the CEO said. She adds: simplicity has been key.
+“You have to, when it comes to digital threats,” Ms. Vranova said. “Considering our computers and online systems are so complex, full of dependabilities and security holes, we needed to stick to a simple offline design. No wireless, no battery, no fingerprint readers. Until today not a single satoshi has been stolen from TREZOR wallets, proving our concept vital.”
+Vranova believes she brings balance to her team.“Having a woman in a bitcoin startup pays off,”  she said.
+I was able to give feedback to my very smart and nerdy core team on whether I could use TREZOR easily. I liked to say ‘If I can use it, anyone can.’
+TREZOR recently added “U2F” so you can log into Gmail, Dropbox, Dashlane, WordPress and other platforms using TREZOR as a second factor authenticator.
+Without compromising on the security of stored cryptocurrencies, TREZOR offers U2F, TREZOR Password Manager.
+“We want to showcase that sensitive data like passwords can, in fact, be stored online and secure,” she said.
+On September 29, TREZOR held a hackathon, recently announcing the winners, who turned in projects such as STEEM integration for TREZOR as well as a TREZOR password manager for Android.
+“I find lots of pleasure in building our company, in learning about Bitcoin, security and cryptography, and in meeting interesting people,” Ms. Vranova added. “But beyond that, working for Bitcoin gives me a distinct feeling of satisfaction, knowing that what we do makes sense. As an individual as well as a part of the TREZOR team, we are making significant difference to how people experience Bitcoin, crypto and digital security and empower people to a confident digital life.”
+Images from Shutterstock and Trezor.
+
+LIKE
+WHAT'S YOUR REACTION?
+LOVE IT
+88%
+FUNNY
+6%
+MEH..
+0%
+WHAT!?
+0%
+HATE IT
+6%
+POSTED IN
+Bitcoin, Cybersecurity
+TAGS
+Bitcoin, blockchain, TREZOR
+YOU MIGHT ALSO LIKE
+BITCOIN
+BLOCKCHAIN
+BITCOIN
+CYBERSECURITY
+ 91466
+Former Cop Charged with Selling Fake IDs for Bitcoin on the Darknet
+ 96682
+Bitcoin-Friendly Gavin Newsom Leads 2018 California Gubernatorial Race
+ 249203
+How to Avoid Bitcoin Scams
+
+ 63160
+The Future of Digital Rights Management Might Be Decent with Blockchain
+ 462766
+Breathe Easy Bitcoiners, Quantum Computing No Match For Sha-2 Encryption
+ 114332
+Metals Wants to Solve Payments for the Unbanked with the Bitcoin Blockchain
+
+TRENDINGMOST VIEWS
+SORT
+ Final NASA Eagleworks Paper Confirms Promising EmDrive Results, Proposes Theoretical Model
+24390
+ The Biggest DDoS Attack of 2016 Was Caused by an Angry Gamer
+9419
+ NASA Scientists Sketch Tentative Theory of EmDrive Propulsion
+5173
+ FBI Releases Darknet Marketplace Primer
+2789
+ Chinese Physicists Achieve Record-Breaking Quantum Cryptography Breakthrough
+2564
+ How to Avoid Bitcoin Scams
+2093
+ Zcash: A Cryptocurrency More Secure and Anonymous Than Bitcoin?
+1895
+ Dutch Police Warns Dark Web Marketplace Users: “You Have Our Attention”
+1452
+BREAKING BITCOIN NEWS
+COPYRIGHT © 2016 HACKED, ALL RIGHTS RESERVED.
+T&C. PRIVACY POLICY. ABOUT. IN PARTNERSHIP WITH CRYPTOCOINS NEWS.

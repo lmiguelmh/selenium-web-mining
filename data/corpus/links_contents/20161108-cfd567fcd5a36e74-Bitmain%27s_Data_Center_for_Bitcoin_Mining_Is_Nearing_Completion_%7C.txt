@@ -1,0 +1,48 @@
+http://www.investopedia.com/news/bitmains-data-center-bitcoin-mining-nearing-completion/
+Bitmain's Data Center for Bitcoin Mining Is Nearing Completion | Investopedia
+Bitmain's Data Center for Bitcoin Mining Is Nearing Completion By Prableen Bajpai, CFA (ICFAI) | November 8, 2016 — 6:53 AM EST
+One of most recognized and valuable bitcoin companies is set to launch one of the most high-powered data centers in the world. Beijing based Bitmain Technologies Limited in partnership with several investors is inching closer towards the completion of the state-of-the-art data center in Xinjiang province of China. (See also, Bitmain & John McAfee to Open Bitcoin Mining Pool)
+The data center would be capable of consuming up to 135 megawatts of power with wind and solar energy as its primary source. The first-of-its-kind data center is being designed especially for high-performance computing purposes, such as mining of cryptocurrencies like bitcoin. Although high-performance computing has other applications, Bitmain maintains that since its investor interest lies in bitcoin, mining would remain its top application.
+Bitmain hopes to set higher standards of efficiency and productivity for bitcoin mining facilities worldwide. The data center’s cooling and dust-free system has been designed by Bitmain which has also helped obtain the necessary permissions and infrastructure support from the provincial authorities as per Bitmain’s blog. Detailed plans of the data center will be released after its successful completion for learning more about the center and its usage. (See also, Could Bitcoin Triumph in a Mr. Robot-like World?)
+“We have seen that most data centers in the mining industry are wasting considerable money or other resources. We want to provide a more professional and cost-saving example to the industry” said Bitmain’s Co-CEO Jihan Wu.
+Bitmain was established in 2013 to develop and sell the world’s leading bitcoin miners using Bitmain's ASIC chip technology. Its initial bitcoin miner was Antminer S1 which was upgraded over time to match up to bitcoin’s “difficulty level.” In May of 2016, Antminer S9, the world’s first consumer-grade bitcoin and most power-efficient miner based on a 16nm process ASIC chip was released by Bitmain. The company is the proud owner of several brands, including Antminer, Antpool, and Hashnest, which are ranked number one in their respective fields. Bitmain is headquartered in Beijing, with offices in Amsterdam, Hong Kong, Tel Aviv, Qingdao, Chengdu and Shenzhen.
+According to Bitmain, a majority of the planned 45 structures were sold even before construction began. The data center originally scheduled for completion by end of this year could witness some delay due to the harsh cold in that region of China.
+RELATED ARTICLES
+INVESTING
+Bitmain & John McAfee to Open Bitcoin Mining Pool
+Cybersecurity guru John McAfee is way into Bitcoin.
+SMALL BUSINESS
+Ways To Earn Bitcoins
+There are many ways to earn and own Bitcoins other than just buying them on a Bitcoin exchange.
+SMALL BUSINESS
+Bitcoin Innovations And Obstacles
+Investopedia explains the development of the Bitcoin digital currency system and the risks associated with using and investing in it.
+INVESTING
+3 Reasons Bitcoin Has Rallied Above $700
+What's behind bitcoin's recent price rally--despite multiple security concerns?
+SMALL BUSINESS
+Bitcoin ETFs: How Do They Work?
+ETFs offer a cost-effective, safe and hassle-free way to invest and trade bitcoins as stocks, without worrying about the security of digital wallets.
+INVESTING
+Ways To Earn Bitcoins
+The most popular way to obtain Bitcoins is to buy them on a Bitcoin exchange. But that’s not the only way.
+SMALL BUSINESS
+The Rise And Fall And Rise Of Bitcoin
+A look at the reasons behind the recent spectacular surge in bitcoin prices.
+SMALL BUSINESS
+If You Had Purchased $100 of Bitcoins in 2011
+Learn how an investment of $100 in bitcoin in 2011 would have performed over the years, and find out what your purchasing power would have been for each year.
+SMALL BUSINESS
+Analyzing Bitcoin in 2016
+Discover the market dynamics behind bitcoin's latest price recovery in late 2015 and why its underlying value is expected to remain strong in 2016.
+SMALL BUSINESS
+How To Trade Forex With Bitcoin (XOM, EXPE)
+We look at ways to trade forex with bitcoin and the pitfalls in doing so.
+DICTIONARY: # A B C D E F G H I J K L M N O P Q
+CONTENT LIBRARY
+Articles Terms Videos Guides Slideshows FAQs Calculators Chart Advisor Stock Analysis Stock Simulator FXtrader Exam Prep Quizzer Net Worth Calculator
+CONNECT WITH INVESTOPEDIA
+WORK WITH INVESTOPEDIA
+About Us Advertise With Us Write For Us Contact Us Careers
+GET FREE NEWSLETTERS
+© 2016, Investopedia, LLC. Feedback All Rights Reserved Terms Of Use Privacy Policy

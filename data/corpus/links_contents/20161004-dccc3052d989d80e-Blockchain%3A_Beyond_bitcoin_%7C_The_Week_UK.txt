@@ -1,0 +1,135 @@
+http://www.theweek.co.uk/sponsored/77158/blockchain-beyond-bitcoin
+Blockchain: Beyond bitcoin | The Week UK
+We use cookies as set out in our cookie policy. By using this website, you agree we may place these cookies on your device. Close
+Skip to main content area
+Toggle search
+SUBSCRIBE
+Victory for Trump. Get the full picture
+News
+Business
+Technology
+Cars
+Money
+Arts & Life
+People
+Sport
+Subscriptions
+Offers
+SECTIONS
+SECONDARY MENU
+Brexit
+Article 50
+Islamic State
+Jeremy Corbyn
+Theresa May
+Oil price
+Gold price
+SPONSORED
+Blockchain: Beyond bitcoin
+Oct 4, 2016
+The technology underpinning the cryptocurrency could have a range of business applications
+WHATSAPP
+Bitcoin stormed into the spotlight at the beginning of 2014 as the price of the "cryptocurrency" skyrocketed.
+At one time it might have seemed we were witnessing the beginning of the end of conventional money, with all manner of dramatic implications for our financial institutions.
+But things have calmed down since then and bitcoin has withdrawn from the public consciousness, not least in the wake of the collapse of what was by far its biggest exchange, MtGox.
+In the background, though, a broader change could be taking place. Businesses have been looking at the technology behind bitcoin and thinking about the vast efficiencies it could bring to their processes.
+Last month, banking giant Barclays did something totally unprecedented – and that you probably didn’t hear about.
+The bank partnered with Israeli startup Wave to carry out what it claims was the world's first trade transaction using blockchain, the "distributed database" technology underpinning bitcoin.
+The transaction, which guaranteed $100,000 worth of dairy products being exported from Ireland to the Seychelles, took less than four hours. In the days of instant banking that might seem like a long time, but it’s actually phenomenally short – normally such a deal takes seven to 10 working days to complete.
+Blockchain is a permanent, immutable, decentralised ledger of transactions. A database is maintained and continually circulated by all of the parties involved, maintaining an ever-growing record of activity. For example, every bitcoin transaction ever conducted has been recorded on the blockchain.
+As the database is stored over a network of computers it is extremely difficult to alter or erase. It can also be public, allowing anyone including governments or law enforcement agencies to view it.
+One interesting application of the technology is Everledger, a permanent decentralised ledger recording the transaction history and certification of over 980,000 diamonds. Normally a diamond’s history would be full of various pieces of paper, which could be lost, stolen or forged.
+With Everledger, a diamond’s entire supply chain and history is recorded in an accessible, linear and secure way.
+Leanne Kemp, founder and chief executive officer of the company, says: “Blockchain has infinite possibilities but we’re still in the early stages of unlocking its potential. I envision the blockchain space evolving over the next 10 years similar to how we think about the web today; it will be the natural fabric of our everyday routine but not something we conspicuously think of day to day.
+“We’ve started to see a natural movement in business to digitise records and implement smart contracts to expedite the movement of assets and process payments in a highly secured environment. Our business at Everledger focuses on protecting the provenance of an asset as it moves through the supply chain process by creating a permanent record of the item built on the highly-secure IBM blockchain business network.”
+The idea of a “smart contract” is another tantalising possibility with blockchain.
+Imagine a trade contract that could alter itself based on changing conditions. If a buyer agreed to purchase a certain amount of a given commodity as long as it didn’t fall below a certain price, a smart contract could manage this – changing the registered ownership of the asset if the price was right, and switching it back if necessary.
+These kinds of paper-saving, cost-saving, ultra-efficient transactions are a mouth-watering prospect to gigantic banking institutions.
+An example of the use of blockchain in retail banking is the recent collaboration between IBM and a French bank, which used a "permissioned blockchain" – which only recognises transactions from a verified list of parties – to bring together all its different customer identity management processes into one efficient record, including everything from mortgage applications to bank account opening.
+In short, rather than having records spread across the business that would require a unique verification processes, blockchain brings all of this together. According to IBM, using blockchain in this way improves consistency, traceability and privacy of the information – necessary in such a highly regulated environment as banking.
+But the benefits are about more than just efficiency: it hints at an evolved business model that enables the bank to sell a wider cross section of relevant products. Indeed, IBM forsees blockchain making its way not only into financial services, but also risk management, digital rights management, the internet of things, and even healthcare.
+Kemp adds: “Blockchain as an environment allows industry to better engineer solutions for a variety of scenarios where trusted data and secure transactions are required. This will become increasingly important as the technology is used to facilitate communication between multiple stakeholders, from governments and citizens, to banks and customers.”
+Find out more on the benefits of blockchain and how you can transform your business networks
+Read how the IBM Cloud was designed to transform data into new insights and opportunities
+Sign up for our daily newsletter
+NEWSLETTER
+SIGN ME UP
+READ MORE: BUSINESSIBMSPONSOREDTECHNOLOGY
+You are here:
+HomeSponsoredBlockchain: Beyond bitcoin
+RELATED ARTICLES
+BLACK FRIDAY
+Black Friday 2016: iPhone 7, Galaxy S6 Edge offers and more
+ONE-MINUTE READ
+Scotland to trial universal basic income
+OIL PRICE
+Oil price could hit $60 after Opec deal - but 'may not last'
+AUTUMN STATEMENT 2016
+Autumn Statement 2016: Real wages 'won't grow for a decade'
+BLACK FRIDAY
+Black Friday 2016: Apple, console and camera deals
+BREXIT
+Brexit: 'Perfectly credible' case for second EU referendum
+HOUSE PRICES
+London's soaring house price growth 'coming to end'
+BUSINESS DIGEST
+British shares 'on brink of crash' says ECB
+FINANCIAL LIFE PLANNING
+In association with
+Pay it forward: Passing on financial skills to your children
+Your child's education: a private matter?
+Turn the family holiday into a family fortune?
+READ MORE
+BUSINESS BRIEFING
+GET THE LATEST NEWS FROM THE CITY AT 8AM
+UK shares 'on brink of crash', says ECB
+£5.8bn to be spent over Black Friday weekend
+Iceland the country takes Iceland the store to court
+READ MORE
+TRENDING TOPICS
+ISLAMIC STATE
+GOLD PRICE
+EU REFERENDUM
+JEREMY CLARKSON
+JEREMY CORBYN
+OIL PRICE
+OUR LATEST OFFERS, COMPETITIONS AND EVENTS
+SAVE up to £39 on our Christmas 12 bottle case of wine
+GREAT SAVINGS with The Week Tickets
+WIN tickets to see Maps and the 20th Century
+FIND OUT MORE
+TRY A FREE ISSUE
+of The Week Magazine
+TRY
+POPULAR
+Melania Trump: 15 things you never knew about Donald's wife
+PEOPLE
+Gold price nears ten-month low and could fall to $1,150
+MARKETS
+US election 2016: Could Hillary Clinton still become president?
+US
+London's soaring house price growth 'coming to end'
+ECONOMY
+Star Wars Rogue One: What does soundtrack reveal about new film?
+FILM
+DAILY BRIEFING
+TEN THINGS YOU NEED TO KNOW TODAY
+In partnership with Rolex
+EU leaders 'not bluffing' over free movement
+Ex-Newcastle United player says he was abuse victim
+Major puts case for second EU referendum
+READ MORE
+BACK TO TOP
+FacebookTwitter
+NewsBusinessTechnologyCars MoneyArts & LifePeopleSportSubscriptionsOffers
+The Week US
+The WeekDay
+Privacy
+RSS
+Sitemap
+Contact us
+Authors
+About us
+© Copyright The Week Ltd which is a subsidiary of Dennis Publishing Limited.
+The Week incorporates The First Post. The Week™ and The First Post™ are trademarks of Felix Dennis.
+Felix DennisJobsMedia InformationSubscription EnquiresBooksAppsYour Online Choices

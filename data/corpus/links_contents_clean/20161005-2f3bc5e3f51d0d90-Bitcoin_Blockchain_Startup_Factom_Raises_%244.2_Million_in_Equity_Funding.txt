@@ -1,0 +1,15 @@
+Factom, a startup that developers solutions that leverages the bitcoin blockchain has raised $4.2 million in a new round of funding led by Tim Draper of Draper Associates.
+actom Inc., a blockchain technology company that has previously revealed major projects such as creating land titles via the bitcoin blockchain in Honduras, has announced a Series A round of equity funding for $4.2 million.
+Led by Tim Draper of Draper Associates, the funding round will further help in bringing in new personnel and in the development of Factom software that leverages the bitcoin blockchain for real-world applications.
+This round of funding allows us to aggressively grow the company and the underlying technology.
+Lead investor Tim Draper sees decentralized, blockchain-secured data as the solution to many core concerns in infrastructure across various industries. Putting a pin on the growing concern of hacking and data tampering, Draper sees governments, banks, car manufacturers and retailers among other industry sectors susceptible to the steep pitfalls of data hacking.
+Centralized data is prone to critical failure by any individual mistake, whether by user error or malicious hacking. By decentralizing data through the blockchain, Factom avoids critical failures due to user error or hacker.
+The equity round also includes investors such as investment platform BnkToTheFuture, VC investors China Canada Angels, Star Vista Capital LLC and other angel investors.
+In its original whitepaper, Factom revealed its intention to secure data, with a data keeping layer of record of the bitcoin blockchain. At the onset, data is kept off the ledger, with Factom’s own protocol providing a decentralized public data layer. Factom then compiles the data in a merkle tree anchor before publishing it to the bitcoin blockchain, every 10 seconds.
+Factom’s new investment comes despite the perceived failure of its Honduran land title project which CEO Kirby said had “stalled.”
+In blockchain technology, three months seems like an eternity. It’s not uncommon for a land title project to have a 4-year preliminary research period before a proposal is drafted.
+We’ve reworked a lot of the software we built for titles and are using it as the core of our audit and compliance product. It will let any system have a blockchain back-end with permanent audit trails for any data.
+Undeterred, Factom revealed a new partnership with the Chinese government to help enable blockchain-based management and administration of “smart cities” in the country, earlier this year. The Austin, Texas-based company also announced a different Chinese initiative to enable electronic data notarization services.
+Posted in: Bitcoin & Blockchain Investments, Bitcoin Technology, Blockchain News, News Tagged in: factom
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

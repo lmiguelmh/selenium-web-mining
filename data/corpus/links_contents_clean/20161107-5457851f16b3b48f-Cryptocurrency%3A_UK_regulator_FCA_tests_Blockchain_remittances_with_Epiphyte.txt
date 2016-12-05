@@ -1,0 +1,17 @@
+London based blockchain remittance specialist Epiphyte will be working with the UK regulator, the Financial Conduct Authority (FCA), to test cryptocurrency. Epiphyte will be working within the FCA's sandbox, exploring ways to provide cheaper and more efficient cross-border payment services using blockchain systems such as Bitcoin.
+Under the sandbox testing, Epiphyte will be providing an alternative clearing and settlement mechanism to banking systems such as SWIFT, according to a statement.
+Epiphyte expects to launch this service, SpecialFX, later this week or next week. It is the first such system to receive regulatory authorisation and backing.
+Edan Yago, CEO of Epiphyte, said: "In practice it will be FCA regulated. But it's regulated as part of the sandbox; so it will be authorised."
+Yago also said the FCA has provided the project with a dedicated cryptocurrency case officer who will be collaborating with Epiphyte and essentially chaperoning the entire experiment.
+Epiphyte has a track record of working on remittance solutions with large financial institutions, notably Visa and BBVA. "The work that we did with Visa we have also done with a number of other banks – the only one that is public right now is BBVA.
+"It's the same technological platform that allows you to transfer funds over Bitcoin and Ethereum and really any blockchain system."
+Yago said Epiphyte can leverage the security of blockchain, and combine this with scale and high transaction speed. This basically translates into instantaneous transactions which can maintain the privacy of the institutions that are performing them, he said.
+"The FCA, through their sandbox, is going to provide us with an opportunity to start working with these customers to transfer real funds, as part of the ordinary course of their business.
+"So we are going to be providing this clearing and settlement platform to remittance companies, to FX companies, and potentially at a later stage – although I can't go into detail about it now – to corporates and even retail customers."
+Yago explained that blockchain optimisation comes into play for the international leg of transactions, which will bypass SWIFT or SEPA and actually be done on blockchain itself. The domestic leg of a transaction will still be done over CHAPS or Faster Payments.
+He pointed out that international transactions typically take between to two to three days and can take much longer. Some 7% of them either get lost or end up with an error or with unexpected fees.
+"There this huge amount of uncertainty. And there is no transparency, so while the transaction is being performed, you don't know where your funds are.
+"From regulatory perspective, it's much harder for regulators and law enforcement to track activity through these systems, because it's not real time.
+"They don't have real time visibility, they only have retroactive visibility and even then, they usually have to go and try and obtain information for multiple parties or intermediaries who are involved in this transaction to get a full picture."
+Epiphyte will add scale and speed to blockchains by adopting a payment channel approach similar to Bitcoin's Lightning Network. "It will allow us to perform within sort of like a walled garden or a VPN kind of environment, over the actual Bitcoin system, with actual Bitcoin, but many of the transactions don't need to be written to the blocks," he said.
+Crewe Alexandra and Penn State: Why were paedophiles allowed to prey on the young?

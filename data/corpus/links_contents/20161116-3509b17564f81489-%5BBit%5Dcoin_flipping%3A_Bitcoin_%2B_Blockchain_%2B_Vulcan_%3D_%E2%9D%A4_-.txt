@@ -1,0 +1,107 @@
+https://jaxenter.com/bitcoin-flipping-bitcoin-blockchain-vulcan-%E2%9D%A4-130218.html
+[Bit]coin flipping: Bitcoin + Blockchain + Vulcan = ❤ - JAXenter
+Accept
+We have changed our cookie policy. We use cookies to ensure that we give you the best experience on our website. This includes cookies from third party social media websites if you visit a page which contains embedded content from social media. Such third party cookies may track your use of our websites. We and our partners also use cookies to ensure we show you advertising that is relevant to you. More Infos
+conference is back!
+Blind Bird Sale ends in:
+days
+0
+5
+hours
+1
+5
+minutes
+0
+0
+seconds
+3
+1
+2
+Toggle navigation
+SEARCH
+RETHINK IT SURVEY: Have you taken the survey yet? Help us identify the latest trends in modern DevOps
+Teaching banks how to love bitcoin
+[Bit]coin flipping: Bitcoin + Blockchain + Vulcan =
+November 16, 2016 Gabriela Motroc
+#bitcoin #blockchain #fintech
+Facebook
+Google+
+Happy finger art image via Shutterstock
+Gartner gave blockchain a huge pat on its back when it included this technology in its Top 10 Strategic Technology Trends for 2017. But what about bitcoin? Who has its back? The answer is Vulcan Digital Asset Services, a joint effort by PwC, Libra, Bloq and Netki.
+The fact that blockchain is slowly becoming the darling of FinTech is not something new but bitcoin seems to have disappeared from the headlines (let’s say that the intensity has worn off). Vulcan Digital Asset Services is trying to change that by convincing banks to give this cryptocurrency a chance to prove its usefulness.
+According to the official website, “Vulcan Digital Asset Services is a next generation infrastructure, fusing financial and commercial services by using ground-breaking developments in digital currency technology. A single platform that connects your identity, money and assets, enabling users to spend, share, trade or track any physical or digital asset cheaply and quickly, no matter where you are.”
+In short, this initiative is trying to bring Bitcoin (and the cryptocurrency ecosystem around it) to the mainstream.
+Dissecting Vulcan
+Silicon Angle cited John Shipman, head of PwC’s Fintech Asia, as saying that the London-based multinational professional services network’s Vulcan developers believed that the current state of both cryptocurrency technology and blockchain had failed to address enterprise businesses’ needs in an efficient way. Shipman revealed that they were trying to solve Bitcoin’s greatest challenges, including anonymity and regulatory requirements.
+Robert Allen, Vulcan lead and PwC Australia blockchain leader, told CoinDesk that the idea sprung from their desire to convince banks that bitcoin can be useful and accessible. This initiative offers rewards in the sense that Vulcan becomes “ideally suited to a next generation rewards platform for launching new programs and issuing, managing and trading loyalty rewards points.” Plus, The Vulcan wallet allows users to have full control over the kind of notifications and offers they want. More importantly, it applies regulatory compliance to digital currency investment and allows the creation of new derivative crypto products.
+Vulcan Digital Asset Services is a joint effort by PwC, Libra, Bloq and Netki.
+Blockchain trouble: Money pipeline may be closing
+One cannot have it all, it appears. Now that bitcoin may finally receive some attention, blockchain may be entering a not-so-glamorous phase. According to a new report by KPMG and CB Insights, “while the market is still giving blockchain companies plenty of room to prove themselves, investors are also becoming more concerned about results.”
+Screenshot: “Pulse of Fintech” Q3 2016 report
+However, “the continued positive momentum in other areas such as blockchain and robo advisory, coupled with the ever-increasing consumer demand for alternatives to traditional financial services, should make FinTech the most dynamic sector for venture investing in 2017,” Conor Moore National Co-Lead Partner, KPMG Venture Capital Practice KPMG in the US said.
+Be the first to share this article with your network!
+Facebook
+Google+
+Author
+Gabriela Motroc
+@gabriela_motroc
+All Posts by Gabriela Motroc
+Gabriela Motroc is an online editor for JAXenter.com. Before working at S&S Media she studied International Communication Management at The Hague University of Applied Sciences.
+Recommended For You
+[Bit]coin flipping: “Blockchain will go mainstream in the next 5-10 years”
+[Bit]coin flipping: Is bitcoin headed for an internal civil war?
+[Bit]coin flipping: “Future applications of blockchain will likely include artificial intelligence and bots”
+Comments
+MEET US IN LONDON!
+FEATURED POSTS
+Demystifying DevOps: What are the values that constitute DevOps culture?
+Reactive Microservices with Scala and Akka
+The Lagom Framework
+Integration testing using Spring Boot, Postgres and Docker
+Tweets by @JAXenterCOM
+TRENDING POSTS
+Angular 3’s due date is approaching
+Building a secure REST API with Spring Data REST and Java 8
+Eclipse, NetBeans or IntelliJ: Which is the best Java IDE?
+Windows developers should follow the stable infrastructure…
+
+TIPS, TRICKS AND TUTORIALS
+Integration testing using Spring Boot, Postgres and Docker
+The Lagom Framework
+TOPICS
+DevOps
+Agile
+Java
+Careers
+Open Source
+IoT
+NetBeans
+Eclipse
+JavaScript
+Tutorials
+PAGES
+Contact
+Authors
+Found a bug?
+Advertise
+Privacy Policy
+Terms of Use
+Imprint
+FOLLOW JAXENTER
+Twitter
+Facebook
+Google+
+RSS
+S&S MEDIA
+JAXenter.de
+JAX Finance
+JAX London
+JAX Germany
+DevOpsCon
+Developer.Press
+International PHP Conference
+Webinale
+WebMagazin
+S&S Media
+Software & Support Media Group
+Contact

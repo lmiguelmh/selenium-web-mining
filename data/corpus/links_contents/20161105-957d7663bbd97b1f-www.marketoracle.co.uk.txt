@@ -1,0 +1,11 @@
+http://www.marketoracle.co.uk/Article57081.html
+www.marketoracle.co.uk
+No se puede acceder a este sitio web
+www.marketoracle.co.uk ha tardado demasiado tiempo en responder.
+Prueba a:
+Comprobar la conexión
+Comprobar el proxy y el cortafuegos
+Ejecutar Diagnósticos de red de Windows
+ERR_CONNECTION_TIMED_OUT
+Cargar de nuevo
+DETALLES

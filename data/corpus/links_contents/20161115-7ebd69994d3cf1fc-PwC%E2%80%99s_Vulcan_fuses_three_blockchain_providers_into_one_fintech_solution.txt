@@ -1,0 +1,81 @@
+http://siliconangle.com/blog/2016/11/15/pwcs-vuclan-fuses-three-blockchain-providers-into-one-powerful-fintech-solution/
+PwC’s Vulcan fuses three blockchain providers into one fintech solution - SiliconANGLE
+NEWS
+PEOPLE
+RESEARCH
+Wikibon
+TheCUBE
+SIGN IN
+PwC’s Vulcan fuses three blockchain providers into one fintech solution
+BY KYT DOTSON
+UPDATED 17:05 EST . 24 NOVEMBER 2016
+16 VIEWS / 3 MIN READ
+Financial technology consulting firm PricewaterhouseCoopers today announced the release of its new fintech platform, Vulcan Digital Asset Services, designed to put the power of digital tokens in the hands of business and the enterprise.
+To make this all happen, PwC’s Vulcan platform is built in conjunction with digital identity company Netki, enterprise blockchain solutions provider Bloq and blockchain integration, reporting, compliance and analytics company Libra.
+Blockchain-identity company Netki Inc. made news July this year after raising $3.5 million in a seed round to develop English readable “nicknames” for cryptocurrency wallet addresses. Chicago-based Bloq, cofounded by Bitcoin Core developer Jeff Garzik, is a blockchain infrastructure provider and provides the foundation of Vulcan. Analytics and information services company Libra Services, Inc. provides a blockchain information management layer for blockchains that allows for the aggregation and analysis of data from multiple sources, assists with auditing and regulatory compliance.
+“Vulcan is a cloud-based platform that enables banks and corporates to offer a suite of new digital currency related products and services to individual, retail and institutional customers within a trusted, transparent and compliant ecosystem,” said Robert Allen, PwC director and Vulcan lead. “It is the first of its kind globally and has been created to bring digital assets and currency to the mainstream.”
+Putting three blockchain tech firms to work
+The world is increasingly inundated with currencies and assets that are not quite money, such as rewards points from credit cards, gift card points from coffee shops, tokens from gaming services and even cryptocurrencies. In many current uses cases, financial mechanisms reside in different parts of the business and do not interact well with point-of-sale, customer service, billing and so forth.
+The Vulcan Digital Asset Services ecosystem seeks to help remove the friction of using such digital assets across enterprise systems. The platform does this by fusing financial and commercial services using blockchain technology and current digital currency breakthroughs in identity, money and asset management — with a full set of tools for in-house analysis, reporting and assurance of regulatory compliance. “Traditional financial services companies have taken a cautious approach to digital currencies because of the perceived issues with trust and transparency,” said John Shipman, head of PwC’s Fintech Asia.
+PwC’s Vulcan developers felt that the current state of blockchain and cryptocurrency technology did not address all the needs of enterprise businesses effectively. Shipman, citing Bitcoin as one pain point, suggested that a digital assets platform built with buisness in mind might better address those needs. “Vulcan came about because we were looking at these issues in relation to Bitcoin — the poster child of digital money — and in particular, how we can solve challenges relating to the issues of anonymity, and existing regulatory requirements, and recourse given its cross-border nature, function as a store of value and lack of central control.”
+Digital assets for the enterprise
+The Vulcan platform already provides a set of services for the enterprise including highly secure wallets for customers to store assets, international payments capability, crypto investment and trading, smart “programmable” money to establish rules and contracts and regulatory reporting services for taxes and compliance.
+PwC intends to add point-of-sale and merchant services such as payment processing without the need for customers to have an account, rewards-based platforms to mimic already-existing point systems and also native digital currencies so that businesses can “mint” their own coin for exchange.
+Although just announced publicly for launch, the Vulcan platform is already in use across the world, according to PwC, as part of a pilot program by an international banking group and a Central Bank, and is being assessed by an airline and three multinational banks.
+Featured image credit: Pixabay/Public Domain CC0
+MORE FROM SiliconANGLE
+Japan plans to build the fastest deep learning supercomputer
+Stripe’s valuation reaches $9B thanks to new $150M funding round
+Are you ready for new data recovery regulations?
+Huawei is now the world's most profitable Android smartphone brand
+Systran Group launches neural machine translation tool for enterprises
+Snowflake Computing declares cloud storage price war on Amazon
+RELATED ARTICLES
+EMERGING TECH
+Bitcoin startup Blockchain passes 10 million wallets
+BY DUNCAN RILEY . 1 WEEK AGO
+EMERGING TECH
+iPayYou launches bitcoin-to-Amazon payment service
+BY DUNCAN RILEY . 1 WEEK AGO
+EMERGING TECH
+IRS attempts to obtain a copy of every U.S. Coinbase bitcoin customer
+BY DUNCAN RILEY . 1 WEEK AGO
+CH00 #THECUBE CHANNEL
+This is the main channel...
+CUBE NEWS
+SEE MORE
+Can cross-pollinating data and security block the new cyber-hacking threat? | #theCUBE
+Data confluence: handling the scale of distributed computing | #CDSUSA
+Too big to fail: How a popular online community monetized its platform | #Amplify
+Crowd-sourcing online talent to win a million-dollar competition | #CDSUSA
+Helping software help us: How one startup is making the most of APIs | #Amplify
+Data science: What does it mean and how is it best applied? | #CDSUSA
+TRENDING STORIES ON THE WEB
+ARS TECHNICA
+Japan plans 130-petaflop China-beating number-crunching supercomputer
+USA TODAY
+For Apple deals, you're better off at other retailers
+IT PRO
+Is ransomware targeting Facebook Messenger users?
+MAC RUMORS
+Expercom Offering MacBook Pro With Touch Bar For Up to $225 Off With AppleCare
+DIGITAL TRENDS
+Save big with the best smartphone deals on Black Friday
+UPCOMING EVENTS
+SPONSOR POSTS
+Are you ready for new data recovery regulations?
+Join Our Community
+For personalised content stay with us.
+I AM INTERESTED IN
+PRIVACY POLICY
+TERMS
+ABOUT US
+JOIN US
+SEND US NEWSTIP
+2016 SiliconANGLE Media, Inc. All rights reserved.
+JOIN OUR COMMUNITY
+theCUBE
+Wikibon
+FOLLOW US
+DESIGN PARTNER
+UXReactor

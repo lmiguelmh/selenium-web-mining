@@ -1,0 +1,106 @@
+http://www.coindesk.com/south-korea-credit-card-blockchain-identity/
+Korean Credit Card Giant to Integrate Blockchain Identity Service - CoinDesk
+TRENDING
+Vote Now for CoinDesk's Most Influential People in Blockchain
+BITCOIN PRICE INDEX (24H)
+Created with Highstock 1.3.7
+$729
+$734
+$739
+USD -0.03%
+$738.05
+CNY 0.2%
+¥5,195.24
+EUR €696.64
+GBP £591.28
+NEWS
+–
+PRICE & DATA
+–
+GUIDES
+–
+EVENTS
+RESEARCH
+PRESS RELEASES
+BANKING  •  COMPANIES  •  NEWS
+Korean Credit Card Giant to Integrate Blockchain Identity Service
+Stan Higgins (@mpmcsweeney) | Published on October 17, 2016 at 15:39 GMT
+NEWS
+369
+169
+1
+South Korea’s largest credit card company is set to use a blockchain identity solution developed by local bitcoin startup Coinplug.
+The service will be based on what Coinplug calls FidoLedger, a “private blockchain technology” aimed at providing a distributed means of verifying and maintaining digital identities. KB Koomkin Card, a subsidiary of KB Koomkin Bank, plans to complete its integration by the end of this year.
+The startup has been working in the area of digital identity for some time, netting a $45,000 prize last year after submitting a prototype system based on the concept to a competition held by JB Financial Group.
+It’s a use case that has been pursued by established enterprises as well as new companies working in the blockchain space. Now, following additional development, Coinplug is pushing ahead with what it calls the “Coinplug Identification System”, or CIS.
+According to Richard Yun, director and chief operation officer from Coinplug, KB Koomkin wants to integrate the tool into its credit card onboarding services.
+He told CoinDesk:
+“KB will use this for commercial purposes and the availability of this service will be [for] all customers of the KB Card around mid-December.”
+In addition to its enterprise blockchain projects, Coinplug operates a bitcoin exchange service. The tech, launched last month, comes just under a year after Coinplug raised $5m in a Series B funding round. The startup has raised more than $8m to date.
+Targeting identity pain point
+Using FidoChain, the identity solution allows users – in this case, KB Koomkin Card – the ability to add, verify or revoke identities tied to a credit card product.
+Yun said the startup wanted to potentially resolve security and user experience problems associated with existing identity solutions in South Korea.
+“We thought it is very important to provide secure and easy to use identification and authentication service to banking service users, and we believed that private blockchain technology can be very effective to implement secure and scalable identification/authentication service.”
+It’s a prospect that, according to Yun, has attracted significant interest from KB Koomkin. The company, which reported $2.6b in operating profit for 2015, is said to be looking at applying the tech to both services it offers now as well as new ones in the future.
+“They [are considering whether to] expand the coverage of CIS to other existing and new services,” Yun explained.
+KB did not immediately respond to a request for comment.
+Image via Shutterstock
+Correction: This article has been updated to reflect that Coinplug's blockchain offering is called FidoLedger, not FidoChain. 
+CoinplugKB Koomkin CardSouth Korea
+369
+169
+1
+PREVIOUS ARTICLE
+Abu Dhabi Stock Exchange Launches Blockchain Voting Service
+NEXT ARTICLE
+Blockchain Trade Group Adds First Credit Union
+Don't miss a single story
+Subscribe to our free newsletter and follow us
+RELATED STORIES
+NEWS
+Nov 18, 2016 at 13:51 | Stan Higgins
+South Korea is Debating New Bitcoin Exchange Rules
+Financial regulators in South Korea are looking to introduce new regulations for digital currency exchanges by early next year.
+NEWS
+Nov 16, 2016 at 17:00 | Corin Faife
+Korea Exchange Launches Blockchain-Powered Private Market
+The Korea Exchange, South Korea’s sole securities exchange operator, has launched a new service that utilizes blockchain technology.
+NEWS
+Nov 8, 2016 at 21:42 | Stan Higgins
+Gemini Expands Bitcoin and Ether Exchange to New Asian Markets
+Digital currency exchange Gemini announced yesterday that it is opening its services to traders in South Korea and Japan.
+NEWS
+Oct 26, 2016 at 14:43 | Stan Higgins
+Singapore Central Bank Inks Blockchain Deals With India, South Korea
+It’s been a busy week on the blockchain front for Singapore’s central bank.
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+Registration Is Open!
+Only 75 tickets available at $999
+REGISTER NOW
+FEATURES
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+INDUSTRY PRESS RELEASES
+Nov 23 | 14:13
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Nov 23 | 09:00
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Nov 22 | 15:25
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Nov 22 | 01:30
+Accepting Cash Deposits with Flexepin
+VIEW MORE
+
+SUBMIT RELEASE
+
+Got a news tip or guest feature?
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+
+Never Miss a Story
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.
+No, thanks.

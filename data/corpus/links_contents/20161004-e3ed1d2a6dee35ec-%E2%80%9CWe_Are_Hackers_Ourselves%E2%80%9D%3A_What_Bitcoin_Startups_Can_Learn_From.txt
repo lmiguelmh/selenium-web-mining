@@ -1,0 +1,41 @@
+https://cointelegraph.com/news/we-are-hackers-ourselves-what-bitcoin-startups-can-learn-from-glass-hunt-hack
+“We Are Hackers Ourselves”: What Bitcoin Startups Can Learn From Glass Hunt Hack
+Toggle navigation
+BTC
+738.14
+0.16%
+ETH
+9.44
+1.82%
+Advertise
+  2016-10-04 03:58 PM
+Author Joseph Young
+“We Are Hackers Ourselves”: What Bitcoin Startups Can Learn From Glass Hunt Hack
+1746 Total views 246 Total shares
+Glass Hunt was hacked last week by an anonymous hacker, who penetrated the platform’s Double Spent Tool to steal nearly $5,000 Bitcoin. The company is now in search for the same hacker with a job offer.
+Glass Hunt is an anonymous organization established to secure the Blockchain technology and ecosystem by assisting a community of hackers in understanding the fundamentals of various attacks.
+The South Korea-based company uses major security breaches like the DAO and Bitfinex hacks in its Glass Hacker School to simulate the original hacking process and teach developers the different phases involved in cryptocurrency network attacks.
+Both hackers and existing Blockchain developers can utilize innovative tools and applications in exploiting the vulnerabilities of prominent Blockchain and Bitcoin platforms, discovering a wider range of ways in attacking the network’s back-end.
+Double Spent Tool Vulnerability & Fixes
+When Glass Hunt was first hacked on September 30, the company immediately implemented short-term fixes to ensure that the same hack or security breach doesn’t affect the platform again.
+The Glass Hunt development team believes that it is important to analyse the hacks carefully and appreciate them as they lead to stronger and more robust security measures.
+Glass Hunt team states:
+“The hacker can’t use the same exploit any more. In short, he/she/it cracked one of our read-only SQL account passwords, and we have since reset them to uber-super-super-amazingly strong pass-phrases that we personally could never remember.”
+Additionally, Glass Hunt implemented stronger encryption for private keys and added SSL encryption to the site Glass Hunt, to prevent suspicious activities engaged through proxy channels and VPN networks.
+What Bitcoin Startups and Users Can Learn
+Bitcoin startups and developers are overly concerned with covering up security breaches and attacks to secure their reputation. However, it is more important to either publicly or explicitly evaluate hacking attacks to come up with innovative and enhanced security measures and protocols.
+Glass Hunt’s approach in dealing with a hacking attack is unique in the sense that they revealed every possible aspect of its platform the hack may have compromised and released a public statement to unravel them.
+Unique Approach to User Compensation
+The Bitfinex security breach resulted a cumulative $70 million loss, which was spread across all users in the platform through a haircut deduction.
+Instead, the Bitfinex development team should have left the accounts that were drained handle their losses, as users share the responsibility of looking into the security measures of a platform and selecting the most reliable Bitcoin exchanges in the market.
+Bitcoin users must have known better to store their funds in a non-custodial wallet platforms. Bitcoin exchanges handle user private keys and act as a bank instead of a wallet platform. It is a well known fact that storing Bitcoin in exchanges is insecure.
+Glass Hunt for instance, revealed that none of the stolen $5,000 will be reimbursed to its users, because users use their “tool at their own peril.”
+“No, we will not return any lost funds to users. Again, we are hackers ourselves, and we have a belief set that would be completely compromised if we returned funds to people double spending… Essentially, you use our tool at your own peril,” wrote the Glass Hunt team.
+Hackers
+Startups
+Glass Hunt
+Security
+Bitcoin
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

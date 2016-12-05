@@ -1,0 +1,41 @@
+https://bitcoinmagazine.com/articles/bitpay-launches-bitcoin-payments-app-among-array-of-new-features-1477496150
+BitPay Launches Bitcoin Payments App Among Array of New Features | Bitcoin Magazine
+ABOUT ©2016 BTC Media LLC
+ADVERTISESTORECONTACTBTC CHANNELS ▾
+BITCOIN PRICE
+$629.02
+SUBSCRIBE
+MEMPOOL:#core-dev #blockchain #technical #wall-street
+BitPay Launches Bitcoin Payments App Among Array of New Features
+Oct 26, 2016 03:35 PM by Michael Scott
+Continuing a wave of momentum that began a few months ago, Bitcoin payment provider BitPay just introduced its next advancement — the release of a full-featured BitPay app for purchasing, storing and spending bitcoin. Announced on Monday October 24 at Money 20/20 in Las Vegas, this move brings together BitPay’s merchant payment tools with a growing compendium of consumer options, all in one place.
+This new app aims to offer security and ease of use in a manner appealing to non-technical users who may otherwise steer away from bitcoin. It allows for the conversion of bitcoin to dollars through an integrated BitPay Visa® Prepaid debit card, currently the only US-wide debit card for bitcoiners. Bitcoin can be purchased and sold by users via exchanges — all through the app. These features offer users a convenient means of aligning their digital and traditional finance worlds, without leaving BitPay.
+While many similar services have been launched, most require users to maintain their bitcoin in company-managed accounts, leading to increased vulnerability to security breaches and hacks. The BitPay app overcomes these concerns by allowing users full control over their funds at all times through device-based private keys, backup protocol and multi-device authentication. When the app is downloaded, new users are offered a simple tutorial with steps for easy navigation.
+This move, according to BitPay CEO, Stephen Pair, provides a “new way to bring more users and companies into the bitcoin ecosystem.” He notes that the BitPay app is currently available on all mobile and desktop platforms.
+“This app is built on years of work spent refining the bitcoin payment experience with BitPay merchants and building a more secure bitcoin wallet with the Copay platform,” BitPay Marketing and Communications Manager, James Walpole, said to Bitcoin Magazine. “We think we’ve been able to answer one of the core problems that have locked new users out of bitcoin: how to offer a beginner-friendly experience that doesn’t sacrifice security. This app is a way to get everything you need to start right with bitcoin, without trusting your money to a third party that can be hacked.”
+BitPay jumps into the project with solid track record of delivering bitcoin payment tools for companies like Microsoft, Steam and Newegg.com. The company has also been cultivating Copay — an open source, multi-signature platform that allows users to store multiple, distinct bitcoin wallets in order to keep their funds carefully separated.
+News of this app release follows another recent announcement involving BitPay — its role in assisting the betting site NetBet’s efforts to become the first online gambling operator licensed by the U.K. Gambling Commission (UKGC) to offer deposit and withdrawal options in bitcoin for online sports betting and casinos. This initiative is expected to take hold among the U.K.’s growing digital currency community as a safer and more secure environment for gaming interests.
+And on September 29, BitPay announced the launch of its modal invoice, a feature that allows for the automation of refunds for bitcoin payment exceptions. It addresses a common issue that continues to haunt new users, namely, instances where an incorrect amount of bitcoin is sent to a BitPay merchant. This new feature offers a means of handling these so called “payment acception” in an easy and streamlined manner that allows users a means of requesting refunds for overpayments and underpayments. For instance, shoppers who underpay, now have a mechanism for retrying their orders; and shoppers who have overpaid, can get their funds returned more quickly. The hope is that this new feature will be a benefit to merchant and consumer alike, allowing for the rapid correction of payments in a more seamless manner.
+“A year from now, we’d like the BitPay app to be the wallet that expert bitcoiners use to secure their bitcoin savings and live life on bitcoin," said Walpole. "We also want BitPay to be the wallet people think of when they want to get off to the right start with bitcoin, from getting their first bitcoin, to storing and spending funds securely.”
+by Michael Scott
+Michael Scott is a full-time freelance writer specializing in the areas of blockchain technology, cryptocurrency and digital cities. He is currently located in Denver, Colorado.
+KEYWORDS: #bitpay #users #funds #means #bitcoin
+You Might Like:
+OCT 26, 2016
+BitPay Launches Bitcoin Payments App Among Array of New Features
+#PAYMENTS
+Related Articles:
+FEB 22, 2016
+Bitcoin’s Emerging Growth Story: Gamers
+#PAYMENTS
+MAR 25, 2016
+Brave Browser to Launch Clean Ads for a Faster Web, Powered by Bitcoin Micropayments
+#PAYMENTS
+APR 01, 2016
+Teambrella Wants to Revolutionize Insurance Coverage With Peer-To-Peer Bitcoin Payments
+#PAYMENTS
+APR 04, 2016
+Wiper Messaging App Adds Bitcoin Micropayments for Independent Filmmakers
+#PAYMENTS
+About Advertising Careers Contact Terms of Service yBitcoin Store
+© Copyright 2016 BTC Inc. All Rights Reserved.

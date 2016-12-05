@@ -1,0 +1,31 @@
+https://cointelegraph.com/news/ripple-explodes-monday-morning-setting-all-time-best-market-cap-glitch-or-gain
+Ripple Explodes Monday Morning Setting All-Time Best Market Cap - Glitch or Gain?
+Toggle navigation
+BTC
+738.14
+0.16%
+ETH
+9.44
+1.82%
+Advertise
+  2016-10-10 11:05 AM
+Author Evander Smart
+Ripple Explodes Monday Morning Setting All-Time Best Market Cap - Glitch or Gain?
+3853 Total views 296 Total shares
+While the recent buzz on Bitcoin and Ethereum has gone cold as of late, Ripple has quietly been making quite a run within mainstream circles. Making fast friends within the banking industry of late, Ripple is starting to make an impact and may offer a future alternative to established global trading icons like SWIFT. However, something happened Monday morning that has never happened before in the history of Ripple. Here what we know so far.
+Trading doubles within a half an hour
+According to CoinMarketCap, Ripple has reached a new all-time market capitalization high in early Monday morning trading, or Sunday night if you are in the West. In one hour, Ripple trading volumes went from $3.25 million to over $8 million, pushing the market cap to a new record of over $1.25 Billion.
+However, Ripple trading on September 15th, 2016 reached higher levels, rates of over $22M, and Ripple’s values did not increase nearly this dramatically. Crypto Compare does corroborate that Ripple trading levels did spike Sunday/Monday.
+This story is developing and we will learn more as the day and week progresses, but there is one theory that may explain it, depending on their influence. Crypto Facilities out of London has released information on a Ripple/XRP Futures/Derivatives trading platform that will launch on Tuesday morning. Here is part one of their five-part tweet on the subject.
+Given that the primary volume buyers of Ripple at this point seem to be banks, and we all know the affinity bankers have for trading derivatives, this could explain the phenomenon. For a detailed description of their new platform, click here. Potentially, the bankers got wind of the new system and are moving in on it.
+Ripple recently made news with their new Global Payments Steering Group (GPSG) that seeks to create a global bankers’ network that works off of proprietary Blockchain. The banks involved include Bank of America/Merrill Lynch, Santander, UniCredit, Standard Chartered, Westpac Banking Corporation, and Royal Bank of Canada.
+Time will tell if this is a new sustainable market value for Ripple, but it appears that it has made quite an impression on the institutional market. We’ll update this story as it progresses.
+UPDATE:
+When Cointelegraph contacted CoinMarketCap about this, this was their official response, discussing their use of “payroutes” in establishing their metrics:
+The Ripple Charts API was (and still is) reporting a price of $0.25 from one of the higher volume exchanges, Payroutes, which throws of the weighted average of;our Ripple price.We've disabled that feed for now to correct the price. There isa forum post on xrpchat that might help explain it more in detail.
+On XRPChat.com, the speculation is rampant. Poster zero-2-9 sees the following possibility for the Ripple situation:
+"The issue is that Coinmarketcap includes a gateway that issues USD (in this case USD.payroutes) that is valued a lot lower than USD from gateways that deserve more trust (e.g. Gatehub, Bitstamp). One USD.gatehub = 40 USD.payroutes currently. If you include the Payroutes price in your average USD/XRP price, then you get a distorted view."
+Ripple
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

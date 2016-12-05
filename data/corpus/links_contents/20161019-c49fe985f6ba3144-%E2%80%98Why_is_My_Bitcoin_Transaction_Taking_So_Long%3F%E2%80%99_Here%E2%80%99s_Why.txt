@@ -1,0 +1,30 @@
+https://cointelegraph.com/news/why-is-my-bitcoin-transaction-taking-so-long-heres-why
+‘Why is My Bitcoin Transaction Taking So Long?’ Here’s Why
+Toggle navigation
+BTC
+738.33
+0.33%
+ETH
+9.44
+1.2%
+Advertise
+  2016-10-19 10:10 AM
+Author Evander Smart
+‘Why is My Bitcoin Transaction Taking So Long?’ Here’s Why
+3913 Total views 348 Total shares
+Maybe you haven’t noticed it, but I know I have. My Bitcoin wallet has recently taken longer and longer to receive a Bitcoin payment, have advised me of a delay, and sometimes even told me why I am still waiting. This wasn’t happening 2-3 months ago, but the issue of Blockchain delays for transactions has been happening off-and-on all year long. It is a two part problem, from what I can gather, so let’s review the main factors and potential solutions.
+Block size debate was kicked down the road
+In the summer of 2015, the block size debate was all the rage, as the Bitcoin protocol showed signs of transaction fatigue for the first time. Some major corporations wanted to spike the block size to as high as 8 MB to ease the flow of Blockchain transaction traffic. In the end, the community punted and kicked the block size can down the road. More efficient applications like the upcoming Segregated Witness are coming before year’s end, increasing the effective size by as much as 70%, and The Lightning Network should appear not too far after.
+If there were a bunch of empty blocks, and the world wasn’t clamoring to use Bitcoin, if Bitcoin was indeed “dead,” as the mainstream media likes to brand it, then there would be no problem. Alas, Bitcoin is just as popular as ever, but the total transactions per day has levelled off, most probably because of the current 1 MB limitations. There seem to be more transactions than overall space, so the block size is factor number one, but as I just mentioned, help is on the way.
+It’s always about the money
+My wallet has told me that the fees paid to miners for transactions are causing delays, so 21.co looked at the other factor. Here is what they found:
+In the above chart, which can be seen in real-time here, you will see a large orange bar at the top representing the “mempool” for the Blockchain. This denotes the number of transactions in the mempool over the last 72 hours, having endured some sort of delay in processing. The indicators on the right side show how long a transaction takes, in blocks or minutes, and these delayed transactions all have something in common. The fees paid were only 10 Satoshis or less. These transactions have been shown to be delayed as long as 20 blocks, or up to four hours.
+For those who paid more than 10 Satoshis to process a transaction, as you move down the chart, mempool transactions and delays become a distant memory. When fees exceed 50 Satoshis, transactions delays of any kind become almost impossible to see, and these transactions get VIP service.
+So, if you want faster transactions, contact your exchange or wallet provider’s support staff to see if you can manually adjust the miner fee paid for a transaction you may need in a timely fashion. I know I have waited for 2-3 hours myself for a transaction over the last month, and this seems like it can be avoided, but you will have to be proactive, and not all wallet providers give you this flexibility.
+Presumably, once Segregated Witness and Lightning arrive, 2017 will see a much better flow of Bitcoin, and the current logjam show all just be a memory of being an “early adopter,” living on the cutting edge of 21st-century financial technology. You can tell your grandkids; “Back in my day, we had to wait three hours for our Bitcoin!”
+Bitcoin
+Transactions
+Bitcoin Block Size
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

@@ -1,0 +1,70 @@
+https://www.cryptocoinsnews.com/how-tumblebit-builds-on-coinswap-to-improve-bitcoin-privacy-and-fungibility/
+How TumbleBit Builds On CoinSwap To Improve Bitcoin Privacy And Fungibility - CryptoCoinsNews
+Submit a Press Release Advertise Write for CCN News Tips Contact
+Explore
+
+CryptoCoinsNews
+Bitcoin Blockchain FinTech ETH Learn Free PR Widget
+Bitcoin ServicesBitcoin TechnologyBlockchain News
+How TumbleBit Builds On CoinSwap To Improve Bitcoin Privacy And Fungibility
+Elliot Maras on 30/10/2016
+
+195
+SHARES
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+A
+n innovation called TumbleBit that improves the privacy and fungibility of bitcoin transactions was presented at the Bitcoin Scaling conference in Milan, reports NASDAQ.
+TumbleBit builds on the CoinSwap intermediary solution with added layers of cryptography to improve both the privacy and fungibility of bitcoin transactions.
+The fact that the transaction history of each bitcoin is traceable puts all bitcoins’ fungibility at risk. “Tainted” bitcoins can be valued less than other bitcoins, possibly undermining bitcoin’s value proposition as money.
+A key problem for fungibility and privacy for the cryptocurrency is that the addresses can be linked. Blockchain analysis can reveal the addresses of parties to a transaction.
+CoinSwap Offers Improvement
+CoinSwap, proposed by developer Peter Maxwell on the Bitcointalk forum in 2013, uses a payment intermediary to break a link in the transactions. If Person A pays a bitcoin to an intermediary, and the intermediary pays a different bitcoin to Person B, Person A will have effectively paid one bitcoin to Person B, but no link exists between their addresses on the blockchain.
+The problem is that the intermediary can steal funds. If Person A pays the intermediary a bitcoin, the intermediary can simply decide not to pay Person B and keep the bitcoin.
+Hash Time-Locked Contracts (HTLCs) solves this problem. Person A and the intermediary establish a special type of payment channel, while Person B and the intermediary set up a payment channel as well.
+Through embedding dedicated cryptographic keys in transactions, the payment channels are effectively linked. Person B can claim one bitcoin from the payment channel between him and the intermediary, but only in a way that the intermediary can also claim a bitcoin from the channel between him and Person A. No one can steal funds.
+CoinSwap breaks the blockchain transaction link. But, unfortunately, it doesn’t solve all fungibility and privacy and fungibility issues. More importantly, the intermediary still knows Person A transacted with Person B and can re-establish the link.
+TumbleBit solves these issues by offering a completely trustless and private mixing service. It also offers increased scalability.
+TumbleBit Arrives
+TumbleBit, proposed last summer by Ethan Heilman, Foteini Baldimtsi, Sharon Goldberg and Alessandra Sacfuro of Boston University, was presented at the Scaling Bitcoin workshops in Milan.
+TumbleBit provides anonymity in numbers. It allows many users to set up payment channels with the same intermediary. All users can send payments to one another using the same intermediary.
+Second, cryptographic puzzles replace the payment channels between the intermediary and users. If Person A can provide the solution to the puzzles, he can claim a bitcoin. Person B buys the answers for these puzzles from the intermediary for a bitcoin. Person B then sends the answer to Person A as payment, which Person A accepts since he can claim a bitcoin with it.
+This all takes place through several layers of cryptography, ensuring. the intermediary does not know which solution he sold to which user, nor do the users know which puzzle solution they gave to each other. Once a user claims their bitcoins, the intermediary sees that puzzles are solved. But the intermediary cannot link any of the users to each other due to the anonymity in numbers.
+Third, the users can fund their payment channels with the intermediary by making several payments. Any user can pay any other user; it doesn’t need to be the same two parties each time. This feature makes the intermediary a beneficial payment hub.
+The puzzle-solving transactions between all the users and the intermediary never reach the blockchain. Instead, once everyone finishes transacting, the final state of the payment channels records on the blockchain once to let everyone withdraw their funds.
+Also read: Rutgers study: Misconceptions about bitcoin’s privacy and ease of use
+Added Feature: Scalability
+TumbleBit acts as a scalable, second-layer payment hub in addition to being a privacy-friendly solution.
+TumbleBit does not require changes to the bitcoin protocol.
+The developer team has coded a proof of concept and conducted successful tests on the blockchain. While the software is not yet ready for production, it is open source and free for anyone to use and contribute to.
+TumbleBit requires only one party to establish the service.
+Because fees are trivially implemented in the design, an incentive to exists to establish a TumbleBit server.
+Image from Shutterstock.
+195
+SHARES
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+Posted in: Bitcoin Services, Bitcoin Technology, Blockchain News, News Tagged in: CoinSwap, Peter Maxwell, TumbleBit
+
+Recent Posts
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+Advertisement
+NextApptrade Announces ICO to Create a ‘Stock Market of Apps’ at Coin Agenda 201630/10/2016
+PreviousWalt Disney Company Goes Big On Blockchain With Dragonchain30/10/2016
+Advertisement
+Recent Comments
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

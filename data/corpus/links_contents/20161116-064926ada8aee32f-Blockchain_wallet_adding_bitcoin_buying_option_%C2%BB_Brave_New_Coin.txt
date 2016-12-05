@@ -1,0 +1,30 @@
+http://bravenewcoin.com/news/blockchain-wallet-adding-bitcoin-buying-option/
+Blockchain wallet adding bitcoin buying option » Brave New Coin
+Blockchain wallet adding bitcoin buying option
+Luke Parker, 17 Nov 2016 - Bitcoin Adoption, Technology, Wallet
+Blockchain will soon provide users of their highly popular wallet with the option to buy bitcoin. After eight months of development, the service launches in the UK on Monday for a short period of testing. The company plans to push it out across the entire Eurozone by December, and across the US and some parts of Latin America early next year.
+Bitcoin can then be purchased with debit and credit cards, as well as bank transfers, although wallet funding through the latter method will only happen as fast as the banks themselves are able to settle.
+“This announcement represents a giant step forward in making bitcoin, still a nascent currency, a more compelling and efficient financial solution for new users.”
+- Peter Smith,  Blockchain CEO
+Blockchain is one of the industry’s best funded startups, having raised US$30.5 million early in 2014. The London-based company has about 25 employees, spread between their home office, New York, and Luxembourg.
+The company's wallet is nearing it’s 10 millionth user. Blockchain CEO Peter Smith told Business Insider that their busiest ever day was recently recorded. The day after Donald Trump was announced as the new President of America saw the single biggest increase in wallet downloads in the last year.
+The company claims that they are “The world's biggest provider of digital wallets for bitcoin, with over 50% market share.” And they process “Over 150,000 transactions a day on average.” The android version has been downloaded from the google play store between 500,000 and 1 million times.
+However, it’s unclear if that number includes all wallets or just web wallet accounts, and tracking the total number of bitcoin wallets is impossible due to the nature of open source software, which nearly all non-web-based wallets are built upon.
+“With Blockchain’s dominant position in the cryptocurrency wallet market, I believe this will be a real game changer.”
+- Mark Højgaard, Coinify Co-Founder & CEO
+The new purchasing option is provided through a partnership with a Denmark-based merchant processing service, Coinify. Blockchain offers its users a way to link their bank and credit card accounts into the app, and then uses Coinify to buy the bitcoins.
+Coinify is Europe’s answer to Bitpay. The Copenhagen-based company helps businesses accept 14 different cryptocurrencies, all over the continent, through various shopping cart solutions. “Tens of Thousands” of European vendors have already signed up to use their service, according to the company.
+There are no merchant fees if you live in Denmark or use the SEPA network, which is available in most of the Eurozone. Coinify makes their cut on the exchange rate.
+“Acquiring bitcoin and other digital currencies has, historically, been a difficult, slow, and risky process – hampered by high fees, long settlement delays, untrustworthy service providers, and opaque identity verification procedures. The Blockchain-Coinify integration will eliminate this friction, enabling near instantaneous wallet funding via credit and debit cards inside a single user interface.”
+- Blockchain
+Although Blockchain claims more user accounts than any other wallet provider, it isn’t the first to integrate bitcoin buying facilities directly into a wallet. Coinbase started the trend, and provides an equally successful product.  The Android version has also been downloaded between 500,000 and 1 million times. Circle followed shortly after, but hasn’t achieved the same growth.
+However, Coinbase started as a retail bitcoin exchange, and never allowed users to hold their own private keys to their online-only wallets. Popular bitcoin wallet alternatives Mycelium and Airbitz both grant users access to their private keys, as well as offering bitcoin purchasing services.
+The two companies are using Chicago bitcoin broker Glidera to process their payments. The startup offers low rates and an innovative API feed for integrating the service into any wallet. Meanwhile, Coinify offers an API, but it does not offer the ability to integrate bitcoin purchases.
+Blockchain seems to have hit a sweet spot. It lets users have access to their private keys, despite operating like a web wallet, it’s popular and growing, and now offers more functionality.
+"The trade off there historically has been if you have a wallet like that you can't buy and sell the bitcoin from that wallet.”
+- Peter Smith, Blockchain CEO
+Recommended Stories
+Insurance policy now available for bitcoin exchanges
+Shakeup at R3 CEV blockchain consortium as banks leave
+Bitcoin Price Analysis — Decision Time
+Yours raises funds for bitcoin based Reddit alternative

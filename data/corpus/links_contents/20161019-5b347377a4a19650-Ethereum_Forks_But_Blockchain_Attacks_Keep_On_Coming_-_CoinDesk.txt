@@ -1,0 +1,119 @@
+http://www.coindesk.com/ethereum-forks-blockchain-attacks-keep-coming/
+Ethereum Forks But Blockchain Attacks Keep On Coming - CoinDesk
+TRENDING
+Vote Now for CoinDesk's Most Influential People in Blockchain
+BITCOIN PRICE INDEX (24H)
+Created with Highstock 1.3.7
+$729
+$734
+$739
+USD -0.04%
+$738.02
+CNY 0.19%
+¥5,194.60
+EUR €696.61
+GBP £591.25
+NEWS
+–
+PRICE & DATA
+–
+GUIDES
+–
+EVENTS
+RESEARCH
+PRESS RELEASES
+ETHEREUM  •  FEATURES  •  TECHNOLOGY
+Ethereum Forks But Blockchain Attacks Keep On Coming
+Alyssa Hertig (@AlyssaHertig) | Published on October 19, 2016 at 20:30 GMT
+FEATURE
+421
+83
+8
+Between a block and a hard place?
+While ethereum's latest hard fork went according to plan yesterday (so far without any drastic side effects), attacks on its blockchain quickly began anew.
+In this case, ethereum executed a hard fork on Tuesday in a bid to stop denial of service (DoS) attacks that have been ongoing for about a month. Following weeks of transaction and block creation issues, the platform's developers determined that the best way to fix the issue was to reprice certain network functions, and users and miners responded by quickly upgrading their software (a process known as a 'hard fork'). 
+The stable transition to a new transaction record was what many in ethereum team arguably had expected, since the fork was a technical change (unlike the contentious move to rewrite the network's ledger after the hack of The DAO).
+However, the attacker appears to have switched gears, taking advantage of security holes that weren't expected to be patched until later.
+Developers are currently working on new fixes, according to Ethereum Foundation IT consultant Hudson Jameson, who told CoinDesk:
+"We are working on client updates to help mitigate the issues somewhat until the second hard fork happens."
+Not yet thwarted
+But this new wave of attacks has led to new problems, though they were (to an extent) forseen.
+From the start, ethereum developers had planned two hard forks, as the attacker had been taking advantage of a variety of attack vectors. The first aimed to increase the price of certain opcodes that the attacker was successfully abusing to make it harder for him or her to slow down the network. The second hard fork was expected to remove empty accounts the attacker created to bloat the blockchain.
+Still, with the second fork yet to be executed, short-term problems have emerged.
+In response to the most recent attacks, the Ethereum Foundation issued a recommendation to miners, advising them to lower the gas limit (thus limiting how many transactions can be carried out) before a second fork. At the time of press, cryptocurrency exchange ShapeShift has also paused the trading of ether (again).
+Ethereum creator Vitalik Buterin suggested he believes the two attacks can be thwarted with the second technical upgrade. "A successful hard fork round two would resolve this for the short and medium term as it would make the state possible to put in memory again," he explained.
+The problem, Jameson said, is that the blockchain state has grown too big, and the attacker is taking advantage of that.
+"The [second] hard fork will shrink the size of the blockchain state and disallow a specific attack that is being utilized to activate the empty accounts over and over again," he explained.
+One less severe attack, which increases processing times to an estimated one to three seconds, takes advantage of another mispriced opcode.
+Johnson and Buterin claimed that the plan is to raise the price in the second hard fork.
+Conditions ahead
+Even after the second hard fork, however, it's unclear what will happen or whether it will prevent attackers from finding other vectors.
+Around these attacks there have been wider conversations about how (and whether) ethereum can stop these sorts of attacks in the short term or long term.
+Many argue that the attacks are an inevitable result of the way ethereum is designed. (More on-platform capabilities mean that ethereum has a larger attack surface than other blockchain networks).
+The new attacks prompted BitGo engineer Jameson Lopp to wonder "how many hard forks it will take to plug all the holes".
+And some observers are questioning whether developers are taking enough care before making changes to the network.
+"The real story behind this attack and the hardforks is that they are not really testing well," said IBM blockchain leader of the Latin American division Martin Hagelstrom. "Even when the devs talk about these issues it does not sound like they are aware that their network has $1bn in it."
+But others remain optimistic about ethereum's future, especially since there haven't appeared to be any serious problems so far as a result of the fork.
+Even if the attacker isn't thwarted this time, to some this only furthers idea that hard forks are an option for combating them, and that each hurdle that ethereum jumps brings it closer to a working platform.
+Marco Streng, CEO of hosted ethereum mining firm, Genesis Mining, indicated he remains impressed by the network's response to the pressures it has faced in recent months.
+Streng concluded:
+"It sets a clear sign ethereum will go out of this stronger than before."
+Spinning top image via Shutterstock
+EthereumSecuritySmart Contracts
+421
+83
+8
+PREVIOUS ARTICLE
+MUFG is Using Digital Currency to Reward its Employees
+NEXT ARTICLE
+European Insurance Firms Launch New Blockchain Consortium
+Don't miss a single story
+Subscribe to our free newsletter and follow us
+RELATED STORIES
+NEWS
+Nov 23, 2016 at 04:23 | Pete Rizzo
+Bitcoin Pioneer Charlie Shrem Launches New Blockchain Venture
+Months after his release from prison for money laundering violations, entrepreneur Charlie Shrem has announced a new blockchain venture.
+NEWS
+Nov 22, 2016 at 18:15 | Alyssa Hertig
+Ethereum's Fourth Fork: So Far, So Good
+Ethereum rolled out its latest hard fork today, and so far, the side effects have been minimal.
+OPINION
+Nov 21, 2016 at 11:00 | Noelle Acheson
+The Most Worrying Slide in the State of Blockchain
+Venture capital in ethereum is surprisingly low, but is it really? Under the surface, ethereum is evolving differently than its predecessors.
+OPINION
+Nov 20, 2016 at 14:53 | Josh Stark
+Making Sense of Blockchain Governance Applications
+Ledger Labs' Josh Stark seeks to provide a high-level framework for understanding the potential of nascent blockchain governance applications.
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+Registration Is Open!
+Only 91 tickets available at $999
+REGISTER NOW
+FEATURES
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+INDUSTRY PRESS RELEASES
+Nov 23 | 14:13
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Nov 23 | 09:00
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Nov 22 | 15:25
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Nov 22 | 01:30
+Accepting Cash Deposits with Flexepin
+VIEW MORE
+
+SUBMIT RELEASE
+
+Got a news tip or guest feature?
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+
+Never Miss a Story
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.
+No, thanks.

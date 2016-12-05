@@ -1,0 +1,109 @@
+http://www.newsbtc.com/2016/11/04/security-concerns-force-developers-retire-bitcoin-alert-system/
+Security Concerns Force Developers To Retire Bitcoin Alert System
+25-11-2016
+10:04 pm
+      BTC
+      LTC
+      USD
+      EUR
+      GBP
+      CNY
+      JPY
+      =
+      USD
+      GBP
+      EUR
+      JPY
+      CNY
+      BTC
+      LTC
+      sponsored by SimpleFX
+LATEST NEWS
+Bitcoin Price Watch; A Slow End To The Week
+EY Unveils Strategy to Create Mainstream Bitcoin Traction In Switzerland
+Ethereum Platform Receives a New Geth Update after Consensus Flaw
+Redefining the Short Term Recruitment Industry -- ChronoBank
+Bitcoin Price Watch; End Of The Week Trading
+Ledger Blue Hardware Cryptocurrency Wallet Now Available For Pre-order
+Ethereum Price Technical Analysis – ETH/USD Downsides To Continue
+Bitcoin Price Technical Analysis for 11/25/2016 - Hold or Fold at Channel Support?
+Fortunejack – The only Gambling Site Offering Binary Options Trading
+Japan's Mitsui Sumitomo Introduces New Bitcoin Insurance
+Bitcoin Price Watch; A Wasteland Of Volume
+Swift Boasts Blockchain Technology Will Not Disrupt Their Business Model
+Is IRS Overstepping Boundaries by Issuing Summons to Coinbase?
+Bitcoin Price Watch; Thanksgiving Volatility
+Tendai Biti: "Zimbabwe Should Adopt Bitcoin As The National Currency"
+Ethereum Classic Price Technical Analysis – ETC/BTC Almost Tested 0.00100BTC
+Ethereum Price Technical Analysis – Can ETH/USD Break This?
+Bitcoin Price Technical Analysis for 11/24/2016 - Eyes on This Triangle
+NEWS
+ANALYSIS
+CHARTS
+EDUCATION
+BROKERS
+CASINOS
+EVENTS
+ADVERTISE
+PR PLANS
+SUBMIT PR
+Security Concerns Force Developers To Retire Bitcoin Alert System
+Author
+JP Buntinx
+Categories
+Bitcoin, Bitcoin News, News
+
+
+
+Right now, the key is at risk of falling into the wrong hands. If that were to happen, malicious individuals could disrupt the entire Bitcoin network.
+Many different features make the Bitcoin ecosystem attractive to people all over the world. One of those “tools” is the alert system, which shows warnings and informational messages to all users. Unfortunately, this feature will be retired soon, allegedly over security concerns. One of Satoshi Nakamoto’s original developments will cease to exist, which is a shame.
+The Bitcoin Alert system has been around for as long as the cryptocurrency exists. Showing alerts to all cryptocurrency users was quite a useful function. More importantly, this feature is available on mobile and desktop wallet solutions, making it a universal warning system. Most Bitcoin users will recall seeing messages of how their client is out of date. Additionally, users were also informed regarding phishing campaigns throughout the years.
+The End of The Bitcoin Alert System Era
+As is usually the case with initially developed features, the Alert system is not without flaws. Network-wide messages have to be signed with an Alert key, of which only one is in existence. It is equally impossible to change or revoke said key once it is issued to a particular user or developer. Throughout the years, many developers have held onto this key, rendering the concept a bit useless.
+In fact, the security concerns mentioned earlier are the driving factor in ending the Alert system. Right now, the key is at risk of falling into the wrong hands. If that were to happen, malicious individuals could disrupt the entire Bitcoin network. Preventing the potential abuse of the number one priority, which results in retiring the alert system altogether.
+But that doesn’t mean the Bitcoin network can’t be notified of important announcements. Most private wallet solutions have a built-in system that can be used for these purposes. Additionally, cryptocurrency news outlets, including NewsBTC, keep users up-to-date regarding all things Bitcoin. No significant news will go by unnoticed in the Bitcoin world; that much is certain.
+For now, there is no exact data as to when the Bitcoin alert system will retire. Developers indicated they plan to do so in the coming weeks. Major private Bitcoin wallet developers have already removed Satoshi Nakamoto’s alert feature from their codebase to accommodate these changes.
+Header image courtesy of Shutterstock
+PUBLISHED BY
+JP Buntinx
+JP is working hard to bring more credibility to the Bitcoin and blockchain news industry. Outside of being Europe Editor at Newsbtc, JP is also an active writer for the website, and does not shy away from letting his opinion be heard. View all posts by JP Buntinx
+NEWSBTC - EDITOR'S PICKS
+Brokers
+Casinos
+1
+Review Trade Now
+2
+Review Trade Now
+3
+Review Trade Now
+4
+Review Trade Now
+5
+Review Trade Now
+FEATURED PRESS RELEASES
+Nov 21 | 12:00
+Electronic Government as a Service — eGaaS Enters Beta Testing Phase
+Nov 17 | 12:25
+Bitcoin’s Fastest Growing Community Issues Innovative BitConnect Coin ICO
+Nov 16 | 20:26
+Darcrus: Decentralizing the Business World
+Nov 16 | 13:05
+IBM, Microsoft and Sberbank shared experience in blockchain developments. How did Blockchain & Bitcoin Conference in Moscow go?
+Nov 14 | 13:30
+A Better Ethereum Wallet for Investors
+VIEW MORE
+SUBMIT PR
+SUBSCRIBE TO OUR NEWSLETTER
+Ⓒ Copyright 2016 NEWSBTC. All Rights Reserved
+About
+Team
+Business Listing
+T & C
+Bitcoin Forum
+Contact Us
+Advertise
+Privacy Policy
+Comments Policy
+Franchise
+Sitemap
+NewsBTC is a news service that covers bitcoin news, technical analysis and forecasts for bitcoin and other altcoins. Here at NewsBTC, we are dedicated to enlightening people all around the world about bitcoin and other cryprocurrencies. We cover news related to bitcoin exchanges, bitcoin mining and price forecasts for various virtual currencies.

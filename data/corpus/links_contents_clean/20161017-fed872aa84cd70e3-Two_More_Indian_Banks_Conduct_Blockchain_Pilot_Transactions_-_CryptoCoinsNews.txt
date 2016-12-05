@@ -1,0 +1,17 @@
+wo more Indian private banks have started conducting pilot transactions using blockchain technology, days after the country’s leading private sector bank, ICICI, completed its successful blockchain pilot.
+Axis Bank Ltd., and Kotak Mahindra Bank Ltd., are two of the latest banks to join the growing number of global financial institutions jumping onto the blockchain bandwagon.
+According to Indian publication Livemint, the two banks are experimenting with blockchain-based solutions in different sectors of businesses and industry. Chief among them are applications for cross-border remittance and the trade finance industry.
+Kotak Mahindra Bank chief digital officer Deepak Sharma is convinced that blockchain, the technology powering bitcoin, is set to revolutionize the banking industry.
+We are theoretically convinced that blockchain is the way ahead. But we have to establish a practical use of the technology. As of now, the focus is on whether the technology is scalable in the near future.
+Last week, leading Indian bank ICICI announced the results of a blockchain pilot executed in partnership with Emirates NBD, Dubai’s largest bank. Two pilot transactions were revealed, one of which was an international trade finance transaction, enabling all parties of the transaction to access data in real-time. The other, was a real-time remittance transaction, with money transferred from an ICICI bank branch in Mumbai, India, to an Emirates NBD branch in Dubai.
+Blockchain’s efficiency in enabling near real-time cross-border remittance with relatively low or insignificant fees has its most wide-spread example in the increasing number of bitcoin transactions by adopters around the world.
+Indeed, Sharma also confirmed that the bank is working with other international banks and a technology provider, to test remittance transactions. He added:
+Typically, cross-border remittances take two days to settle. Using blockchain, we can reduce this time to a few minutes, which will save us a lot of time.
+The other bank conducing blockchain pilots, Axis, envisions a future wherein blockchain technology could facilitate the retail consumer banking sector. Not before seeing the light of day in corporate banking, however. Amit Sethi, chief information officer at Axis bank said:
+While we believe there might be some use of blockchain technology in the retail businesses, we think that it will first come out in corporation banking operations.
+Without revealing any timeframes, Sethi added the bank will develop and provide customer solutions “soon.”
+While Indian regulators have warned against the use of bitcoin in the past, recent developments in the Fintech ecosystem sees a thriving population of everyday adopters. Unocoin, one of the bigger bitcoin exchanges in the country recently raised a record $1.5 million in funding as it looks to expand. The funding round comes during the weeks leading up to India’s biggest shopping binge for the festival of Diwali. E-commerce websites offering significant discounts for online shoppers could encourage more shoppers to pay in bitcoin.
+Furthermore, Zebpay, a bitcoin wallet service provider is reportedly looking to raise $5 million in funding by the end of 2016.
+Posted in: Banking, Bitcoin Technology, Blockchain News, News Tagged in: Axis Bank, india, Kotak Mahindra Bank
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

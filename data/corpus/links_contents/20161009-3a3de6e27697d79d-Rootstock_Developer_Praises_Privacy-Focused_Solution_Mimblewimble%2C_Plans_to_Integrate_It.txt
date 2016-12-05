@@ -1,0 +1,31 @@
+https://cointelegraph.com/news/rootstock-developer-praises-privacy-focused-solution-mimblewimble-plans-to-integrate-it
+Rootstock Developer Praises Privacy-Focused Solution Mimblewimble, Plans to Integrate It
+Toggle navigation
+BTC
+738.14
+0.16%
+ETH
+9.44
+1.82%
+Advertise
+  2016-10-09 11:05 AM
+Author Joseph Young
+Rootstock Developer Praises Privacy-Focused Solution Mimblewimble, Plans to Integrate It
+893 Total views 117 Total shares
+Rootstock (RSK) developer and Coinspect security consultant Sergio Lerner praised the development of privacy-focused proposal Mimblewimble after revealing his plans to integrate it into Rootstock 2.0.
+At the Scaling Bitcoin conference in Milan, Italy, a variety of scaling and privacy-related solutions were introduced with a common theme to “make Bitcoin great again.”
+What is Mimblewimble?
+On the first day of the event, Blockstream and Bitcoin Core developer Gregory Maxwell’s Confidential Transaction-based and CoinJoin-inspired Mimblewimble was introduced as a solution for the enhancement of the Bitcoin network’s fungibility and scalability.
+In theory, Mimblewimble grants users in the Bitcoin network with solid anonymity, by encrypting the value of a transaction using “blinding factors.” With this, Mimblewimble performs a CoinJoin-like operation by validating transactions with dummy output signatures rather than traditional transactional data.
+The obscurity on the identity of inputs and outputs of Mimblewimble transactions guarantees the settlement of anonymous transactions, as it leaves no trace of the amount stored in the transactions and the flow of the funds.
+Sergio Lerner’s Plans
+Lerner is planning to integrate this feature into the Bitcon-based Rootstock smart contract platform, to provide users with increased privacy and data optimization.
+The Rooststock platform is specifically designed to improve two aspects of Bitcoin: scalability and speed of transactions. As a sidechain project based on a 2-way peg to Bitcoin, it achieves the same security as Bitcoin while offering higher scalability and speed of transactions through the RSK network.
+Mimblewimble will allow Rootstock to impose enhanced scalability by removing string of transactional data attached to every new transactions that are broadcast to the Bitcoin Blockchain. Since it encrypts every sets of data in a transaction and eliminates linked transactions (previous inputs), it decreases the amount of information that is stored in a transaction and ultimately, in a block of the Bitcoin Blockchain.
+Rootstock
+Mimblewimble
+Sergio Demian Lerner
+Privacy
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

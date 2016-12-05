@@ -1,0 +1,133 @@
+http://www.silicon.co.uk/workspace/banks-hoarding-bitcoin-pay-attackers-199436
+UK Banks 'Hoarding Bitcoin To Pay Attackers'
+By continuing browsing the site, you accept the use of cookies for audience measurement and ad targeting. Know more
+close
+Close
+Facebook
+Linkedin
+Twitter
+Follow us
+Newsletters
+Connect
+Silicon UK
+by
+techweekeurope.co.uk
+Menu
+Cloud
+Security
+Big Data
+IoT
+Networks
+Mobility
+Quizzes
+Events
+Whitepapers
+more …
+CloudDatacentreNetworksSecurityWorkspace
+Banks Are ‘Hoarding’ Bitcoin To Pay Attackers
+Matthew Broersma , October 24, 2016, 12:40 pm
+Facebook
+Twitter
+Google +
+Linkedin
+Subscribe to our newsletter
+Write a comment
+British financial institutions are reportedly looking into buying up stocks of bitcoin that could be used to pay off denial-of-service attackers
+Major British financial institutions are looking into hoarding bitcoins for use in buying off online attackers as the risk posed by distributed denial-of-service (DDoS) attacks grows, according to a prominent computer security expert.
+Banks are now looking into buying bitcoins in order to have a way of quickly dealing with online extortion, Dr Simon Moores, a former technology ambassador for the British government and chair of the annual international e-Crime Congress, told The Guardian.
+Bitcoin hoard
+“From a purely pragmatic perspective, financial institutions are now exploring the need to maintain stocks of bitcoin in the unfortunate event that they themselves become the target of a high-intensity attack,” he told the newspaper.
+Police admit they don’t have the resources to deal with attacks that can make websites inaccessible in real time and “might not be able to assist (banks) at the speed with which they need to put themselves back in business“, Moores said.
+Online attacks are no longer merely a matter of information security, affecting the confidence of boards, shareholders and customers, he argued.
+Moores didn’t identify particular institutions, but senior police officers have been informed of the practice, the newspaper said.
+Hackers usually demand payments in bitcoin because the digital currency can’t be traced.
+Latest DDoS attack
+Moores’ remarks follow a distributed denial-of-service (DDoS) attack on Friday that disabled a number of major websites, including Twitter, Spotify and Reddit, by targeting a service that provides domain name server (DNS) hosting.
+That attack appears to be directly linked to the explosive growth in Internet-connected devices such as set-top boxes and security cameras, which have little or no security and as such can be easily taken over en masse by hackers and used to carry out crimes.
+DDoS attacks use large, distributed networks of hacked devices to inundate servers with more traffic than they can handle.
+While most DDoS attacks to date don’t appear to be motivated by financial considerations, security experts have said extortion is a growing concern.
+IoT botnets
+Friday’s attack made use of Mirai, a botnet-building tool that relies exclusively on connected devices, sometimes called the Internet of Things (IoT), according to security firm Flashpoint.
+Mirai was recently used to launch a massive DDoS attack on the website of security journalist Brian Krebs and on France-based hosting firm OVH, and the hacker who developed the tool later publicly released its source code.
+Other hackers then used the code to create their own “copycat” botnets, and it may have been one of these that figured in Friday’s attack, Flashpoint said in an advisory.
+“While Flashpoint has confirmed that Mirai botnets were used in the 21 October, 2016 attack against Dyn, they were separate and distinct botnets from those used to execute the DDoS attacks against ‘Krebs on Security’ and OVH,” the firm stated. “It is unknown if the attacks against Dyn DNS are linked to the DDoS attacks against Krebs, OVH, or other previous attacks.”
+Chinese electronics firm Hangzhou Xiongmai over the weekend issued a recall in the US for the webcams identified as playing a role in the Friday attack on Dyn.
+Are you a security pro? Try our quiz!
+Advertising
+Facebook
+Twitter
+Google +
+Linkedin
+No Comments
+Register
+to receive TechWeekEurope Cloud Roundup
+Sign up
+Related themes
+Banking
+Bitcoin
+cybercrime
+DDoS
+extortion
+fintech
+Mirai
+security
+#TrustOpen Red Hat
+4 ways GE is boosting performance and reducing costs with IoT
+To fully grasp the potential benefits of the Internet of Things, look no further than General Electric. GE is making a big bet on industrial Internet of ...
+CIOs: Empower everyone in IT to see the bigger picture
+If you were to stop anyone working at SunTrust and ask them, “What is the purpose of your role?” I'd wager that not only would they be able to give ...
+Driving end-to-end customer experiences is a critical success factor for digital transformation
+Digital transformation is one of the key opportunities in today's business for CIOs to increase leverage with their internal and external customers. Digitization ...
+Five Links: We Are All Connected Edition
+Happy Friday, everyone. This has been a cool week on the web, and I noticed a trend in the things I was clicking. I saw a lot of articles and images that ...
+After interviewing 40+ CIOs, executive recruiter Martha Heller shares insights for the "New Era of IT"
+If you currently hold the role of CIO, or you aspire to, chances are you know Martha Heller. Perhaps you read her column in CIO Magazine or know her through ...
+Cybersecurity isn't an IT problem, it's a business problem
+The emergence of the CISO is a relatively recent phenomenon at many companies. Their success often relies upon educating the business from the ground up. ...
+powered by Red Hat
+
+Advertising
+Related
+  Whitepaper by Citrix
+SD-WAN: The answer to business networking demands
+  Whitepaper by Citrix
+Roadmap of a digital business
+  Article by techweekeurope.co.uk
+Banks Are 'Hoarding' Bitcoin To Pay Attackers
+  Article by techweekeurope.co.uk
+Hacker Releases IoT Botnet Source Code
+  Article by channelbiz.co.uk
+Cyren chooses Cloud Distribution for cloud security line
+  Article by channelbiz.co.uk
+E92plus to distribute NSFOCUS security solutions
+Advertising
+STAY CONNECTED
+Follow us
+Newsletter
+Connect
+Services
+IT Jobs
+Your Account
+4G Zone – Test your coverage
+Test Your Bandwidth
+What is My IP address?
+Sites
+White Papers
+Downloads
+ChannelBiz
+Legal notices
+Sales and Advertising
+Terms and Conditions
+Stay in touch
+About Us – Silicon UK
+Contact us
+NETMEDIAEUROPE
+Brazil
+Germany
+France
+Italy
+Portugal
+Spain
+United Kingdom
+WorldWide
+NetMediaEurope © Copyright 2016 All rights reserved. Part of NetMediaEurope. About NetMediaEurope

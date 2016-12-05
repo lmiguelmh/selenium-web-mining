@@ -1,0 +1,16 @@
+lockchain, arguably bitcoin’s most prominent wallet provider has commenced beta-testing a feature that will enable users to fund their bitcoin wallets near-instantaneously and directly. The feature comes as the result of a partnership between Blockchain and Danish Fintech payments startup Coinify.
+This announcement represents a giant step forward in making bitcoin, still a nascent currency, a more compelling and efficient financial solution for new users.
+  The in-wallet buying feature is aimed to circumvent the traditional process of buying that typically sees high fees, identity verification hurdles and intermediary service providers. The new buying option, powered by Coinify’s payment platform, will facilitate the process of purchasing bitcoin with near-instant wallet funding via credit or debit cards.
+“For the first time, users will not be subject to the delays, complexities, and security risks that have plagued digital currency adoption in the past,” Smith stated. “This partnership will make our wallet infinitely more user-friendly and, ultimately, more accessible for the mass market.
+Users will also be able to purchase bitcoin directly with their bank accounts, albeit at the speed at which banks process the transaction.
+The feature will see an initial rollout in its beta phase in the UK, followed by a European expansion, with select invite-only participants before tweaking the product for a global launch.
+Blockchain reveals its bitcoin wallet market share, dominating with a 50% cut of the pie with over 100 million transactions globally.
+Coinify’s partnership with Blockchain is perhaps its most notable collaboration in the blockchain space, but the blockchain-based services and payments enabler is heavily involved in the bitcoin industry, globally. Earlier this year, Coinify partnered Bitcoin Vietnam Co. Ltd., Vietnam’s first bitcoin exchange to facilitate bitcoin acceptance among merchants in the country.
+  Speaking to CCN, a representative for Coinify underlined the significance of the feature in one of the fastest-growing economies of the world.
+Owing to the fact that Coinify and Bitcoin Vietnam will launch the first merchant processing platform tailored for the country, this can be [used by] basically any online business/ shop owner in Vietnam.
+  More recently, Coinify announced a partnership with Hong Kong payments provider iPayDNA to enable blockchain payments to merchants in the Asia-Pacific region.
+Coinify saw a multi-million investment round of funding, estimated at over $25 million, as early as 2014. More recently, Coinify raised $4 million in a Series A funding round led by Swedish banking investor SEB.
+Posted in: Bitcoin Progress, Bitcoin Services, Bitcoin Wallets, News Tagged in: blockchain, Coinify
+PreviousYour Lifetime Might Become Money on the Ethereum Blockchain Thanks to this Startup15/11/2016
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

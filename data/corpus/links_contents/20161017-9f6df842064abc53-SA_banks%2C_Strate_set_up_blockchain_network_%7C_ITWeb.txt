@@ -1,0 +1,253 @@
+http://www.itweb.co.za/index.php?option=com_content&view=article&id=156744
+SA banks, Strate set up blockchain network | ITWeb
+FREE NEWSLETTERS
+IT DIRECTORY
+NEWS ALERTS
+RSS
+NEWS TIP-OFFS
+ADD TO FAVOURITES
+SECTION SPONSOR
+CO-SPONSOR
+GOVERNANCE, RISK AND COMPLIANCE
+HOME
+OPINION
+IN DEPTH
+PUBLICATIONS
+SURVEYS
+JOBS
+SERVICES
+EVENTS
+VIDEO
+ABOUT
+SCIENCE FORUM SA
+       - By sector
+        Access Control
+      ITWeb Africa
+      Apps
+      Audio and Video
+      Barcodes and RFID
+   BPM and Workflow
+      Broadband
+            Business
+      Business Applications
+      Business Continuity Management
+      Business Intelligence
+            CA Symposium 2016
+   
+      Career Moves
+      Cellular
+      CIO Zone
+      Channel
+      Cloud Computing
+      Consulting and IT Services
+      Contact Centres and CRM
+      Content Capture and Management
+            Data Management
+      Desktops and Notebooks
+      Digital Life
+      Digital Economy
+      Digital Office Solutions
+      eBooks
+      Electronic Billing and Marketing
+      Emerging Technologies
+      Enterprise
+      Enterprise Architecture
+      Enterprise Solutions
+      Financial
+            Governance, Risk and Compliance
+      Green IT
+      Hardware
+      HR and Payroll
+      ICT Management
+      Industry Solutions
+      Infographics
+      Innovations
+      Internet
+      IT in Banking
+      IT in Government
+   IT in Healthcare
+   ITWeb Africa
+      Legal View
+      Malware
+      Mobile Business
+      Networking
+      Open Source
+      Outsourcing & Managed Services
+      Printing and Imaging
+      Project Management
+      Retail Technology
+      Reviews
+   
+      Risk Management
+      Security
+         Security Summit 2016
+            Social Media
+      Smart Computing
+      SME
+      Software
+      Software Development and Testing
+      Start-ups
+      Storage
+      Tech Forum
+      Telecoms
+      Tender Watch
+      Training and e-Learning
+      Unified Communications
+      Virtualisation
+      VOIP
+   Webinars
+   White Papers
+     Wireless
+     BUSINESS
+CHANNEL
+COMPUTING
+ENTERPRISE
+FINANCIAL
+HARDWARE
+INTERNET
+NETWORKING
+SECURITY
+SOFTWARE
+TELECOMS
+    VIRTUAL PRESS OFFICES™
+    
+    COMPANY ZONES
+      Advertise on ITWeb         Sat, 26 Nov, 05:17:43 AM
+SA banks, Strate set up blockchain network
+By Matthew Burbidge
+Johannesburg, 17 Oct 2016
+Read in this storyKeeping ‘close'Getting going
+SA's financial institutions appear to be seriously investigating blockchain technology.
+South Africa's largest banks, along with Strate, the country's central securities depository, have set up a blockchain network among themselves.
+This was announced at a Strate blockchain conference in Johannesburg last week.
+Strate provides electronic settlement of equities and bonds transactions concluded on the Johannesburg Stock Exchange.
+The working group has representatives from Nedbank, FirstRand, Absa, Investec and Standard Bank. The Reserve Bank (SARB) and the Financial Services Board are also present in observer roles.
+The participation of the Reserve Bank is significant in that in the past it has viewed blockchain, or at least bitcoin, with suspicion, advising consumers in a statement in 2014 that it had "no legal status or regulatory framework, and poses risks for those who choose to transact with it".
+  See also
+Banks adopt blockchain 'dramatically fast'
+Accenture breaks blockchain taboo with editing system
+Blockchain network
+Strate
+Arif Ismail, head of oversight at the SARB, said being part of the working group had given the bank the opportunity to understand and learn what the underlying technologies were.
+A blockchain is a distributed ledger that records and manages the transfer and ownership of assets. The assets can be anything: shares, equities, bonds, or something more corporeal, such as a property or vehicle.
+The working group has now established a private blockchain, set up in a matter of weeks among its members, and has exchanged assets using a distributed ledger. Some advantages of using a blockchain include faster transactions as well as lower costs.
+Keeping ‘close'
+"[None of the stakeholders] wants to be left behind," said Ismail. "Everyone wants to get their hands on what's going on with blockchains and distributed ledgers. And some of the concepts are not that simple. So, from a regulator's perspective, it's imperative that we keep close to what's going on."
+He said in the past, there was often a substantial lag between innovation and regulation.
+"This time around, given how fast things are changing in the market, you probably want something called ‘just in time regulation', and the only way to achieve that is to keep as close as possible."
+By way of international use cases, Ismail said the Australian Securities Exchange was investigating ledger technology to assist banks with post-trade clearing and settlement. Another example was the Bank of America and Merril Lynch, which were testing a blockchain with the Infocomm Development Authority of Singapore to digitise the exchange of letters of credit.
+Getting going
+While it seems unlikely that a blockchain solution is going to be implemented any time soon in the South African financial markets, the institutions appear to be seriously investigating the technology.
+Tanya Knowles, executive director of Fractal Solutions, a division of Strate, said getting the banks and regulators to cooperate had been a "massive effort".
+Knowles said while the institutions had been keen to be part of the initiative, the focus so far had been on peripheral use cases instead of core ones, but she was hopeful the participants would eventually take bigger steps as they progressed on the blockchain journey.
+Farzam Ehsani, leader of Rand Merchant Bank's blockchain initiative, used the example of the post office which once had a monopoly on sending written communication between parties. While the post office hadn't adapted to new technology, members of the working group saw the widespread adoption of blockchain as an inevitable progression and one that would require them to adjust their business models.
+He added the World Economic Forum predicted that within a decade, 10% of the world's GDP would be registered on blockchains.
+Ehsani said if there was a possibility to reduce costs, improve access and financial inclusion for South Africans, "why wouldn't we do that?"
+"Who are we as a consortium to restrict use cases? Open it up, let people issue their own IOUs, their own paper, whatever they want. My personal belief is that in the future it will be rare that assets will not be on the blockchain. Let's get the platform going."
+33
+
+Subscribe to our
+newsletter
+Subscribe to
+Brainstorm
+Download our
+mobile apps
+
+Our comments policy does not allow anonymous postings. Read the policy here
+
+
+WHITEPAPERS
+Global DDOS mitigation
+The demand for distributed denial-of-service mitigation solutions is growing rapidly.
+Securing cloud applications and services
+The influx of personally owned devices, ubiquitous high-speed Internet connectivity and cloud-based applications is redefining the enterprise network.
+
+BEST READ GOVERNANCE, RISK AND COMPLIANCE
+Google CEO to meet with EU anti-trust chief
+Telecoms dept finalises appointment of new DG
+SASSA lambasted for irregular expenditure
+Access public, private cloud services through a single pane of glass
+RELATED ARTICLES
+How to survive digital disruption
+Young Jozi start-ups address the unmapped
+SPL extends Lenovo channel portfolio
+RDR, FAIS and robo-advice
+COMPANY NEWS
+BUSINESS
+Mint Group CEO stands out
+Silversoft wins Deltek Project Excellence Partner Award
+The Innovation Hub announces winners
+SOFTWARE
+Resonance app delivers smarter service, better control
+TELECOMS
+Activate-Telecoms offers #BlackFriday deal
+CHANNEL
+Pinnacle partners with Cibecs
+  VIDEOS
+SPONSORED
+Radware’s Hybrid Cloud DDoS Attack Mitigation Demo
+EVENTS
+The IITPSA President’s Awards 2016
+EVENTS
+IBM z Systems Executive Forum
+EVENTS
+View from the Top - what CEOs expect from their CIOs
+COMMENT
+ON THIS
+SEND TO
+A FRIEND
+QUICK
+PRINT
+FOLLOW US
+ON TWITTER
+FOLLOW US
+ON LINKEDIN
+FOLLOW US
+ON FACEBOOK
+SUBSCRIBE TO
+NEWSLETTER
+TRANSACTIONS
+TradeSwitch is a next-generation electronic product distribution, transaction management and mobile payment service delivery platform.
+RISKS
+DATA EXPLOSION - Data is everywhere. We assist organisations to mitigate data risks. Read more.
+SOLUTION
+Boost your profit and cloud ERP expertise with the world’s fastest-growing true cloud ERP.
+     J2 Software is focused on providing our clients world class solutions which are both comprehensive and easy to manage. The J2 Software solution offerings allow you to track, monitor and control all activity across your environment.
+BEST READ
+Local firms splurge on software
+Wipro to buy Appirio for $500m
+Tale of two companies
+Twists and turns in smartphone war
+SA banks find mobile money formula
+Mobile data disappoints once again
+Elevating business intelligence
+Renewables prove way cheaper than fossil fuels
+FNB app gets an update
+ICT White Paper 'creates telecoms monopoly'
+AFRICA
+Cost reduction not MNO's responsibility alone says Telkom boss
+Africa: almost US$70-bn in mobile revenue by 2021
+Zim consumers demand action on high data prices
+Adapt IT CEO named IT Personality of the Year
+Nigeria ready to spend billions on ICT importation
+Cyber Ransom Survival Guide
+How to engage with your insurance customer
+Digitally transform the way you work
+Transforming customer engagement: making first impressions last
+Radware presents DDOS handbook
+Sponsored links
+PUBLICATIONS
+ITWeb's Corporate IT Training Guide
+  South Africa's ultimate training reference.
+  Click here to download your FREE copy TODAY!
+16 & 17 May 2017 | Vodacom World, Midrand
+Agenda
+ Training Speakers Sponsor
+International Keynote:
+"I don't care how big you build the wall. I don't care how wide that moat is. I don't care if it's on fire with flame retardant crocodiles. It's just not going to work anymore, because they're (the hackers) paratrooping in," says Jayson Street, Infosec Ranger, Pwnie Express
+Take advantage of our early bird fee
+R 6,460.00 ex VAT - register NOW!
+PLATINUM SPONSOR
+Contact us Advertise Newsletters Terms of use Privacy policy itnews Twitter Facebook Google+ LinkedIn YouTube Google Play iTunes RSS
+Copyright (c) 1996 - 2016 ITWeb Limited. All rights reserved.
+Would you like to see your news here? Contact us for more details at itnews@itweb.co.za

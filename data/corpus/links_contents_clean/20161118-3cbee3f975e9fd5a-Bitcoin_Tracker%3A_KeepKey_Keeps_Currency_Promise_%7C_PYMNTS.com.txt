@@ -1,0 +1,20 @@
+The price of bitcoin saw a steady rise this week after briefly dipping down below 700. The price as of the time of writing sits around $745.
+For this week’s Bitcoin Tracker, PYMNTS spoke with Darin Stanchfield, founder and CEO of KeepKey, the cryptocurrency hardware wallet.
+Stanchfield is a long-time entrepreneur. Prior to founding KeepKey, he sold his first company at age 26 and cofounded a still-operational lead-generation company in 2009. He first became interested in bitcoin in 2011.
+Those early years of bitcoin were harrowing. “The experience was that there could be a large hack at any moment and people would lose a lot of funds,” said Stanchfield.
+After Mt. Gox — the former bitcoin exchange that in 2013 handled nearly 70 percent of all bitcoin transactions — went down in early 2014 and announced it had lost 750,000 of its customers’ bitcoins (valued at $620 million at the time), Stanchfield began looking for a solution.
+“I started KeepKey because I was fed up,” said Stanchfield. “At the time, there was no hardware solution available on the market where people could store their bitcoins securely.”
+What KeepKey does is bring digital currency into the physical realm and stores it securely. The standalone device doesn’t connect to the internet, has a limited protocol, never exposes users’ passwords but can still act on behalf the client.
+KeepKey can currently store and validate transactions for bitcoin, litecoin, dogecoin, dash and namecoin. It connects to the user’s computer via USB and to the internet via Chrome extension or bitcoin wallets Electrum or MultiBit.
+One of the perceived benefits of cryptocurrency is that its limited to no counterparty risk. But as bitcoin and other cryptocurrencies took off, consumers found they either had to store passwords on their own computers or to rely on third parties for protection.
+“When I started KeepKey, we were still reliant on third parties to secure our funds for us,” said Stanchfield. “Time and time again we were shown that it doesn’t work out very well — especially for cryptocurrency, because there is no place to get things reversed.”
+After transactions occur, there’s nowhere to fall back — no insurance, no fraud protection service.
+“The stakes are much higher than dealing with the money in your bank account,” he said. “What KeepKey does is it returns to the promise that you can hold cryptocurrency and not have to trust anyone else.”
+That promise extends to KeepKey as well: “All of the code that KeepKey runs is open source — because if it weren’t, you would have to trust us that we weren’t doing anything bad with your funds. We have transparent hardware, transparent software — you can hold these assets without trusting anybody,” added Stanchfield.
+“We focus on customers who aren’t sophisticated with cryptocurrency,” Stanchfield said. “Our competitors focus on people that came from this industry and already understand it. While those people need security, they don’t need it as much as the average consumer coming into the space.”
+Stanchfield believes that individual use of external, disconnected devices is where cybersecurity is headed — not just for big business and cryptocurrency, but for everyone.
+“Things that are important should not sit on a connected computer,” he said. “I think you’ll see devices like KeepKey become part of the devices that you already have. Banks already use secure modules that protect private keys. I think we’ll see this sort of technology becoming more mainstream small businesses and even for consumers. I hope that businesses hop on to using these offline devices for storing secrets.”
+Stanchfield reminds us that even in that future, cybersecurity still won’t be easy.
+“Cybersecurity is not something you can set and forget,” he said. “It’s something that you have to constantly watch. The attack vector is constantly evolving. They aren’t waiting around; they’re constantly improving their capabilities — and the threats are very real.”
+Signup for the PYMNTS.com Newsletter to get updates on top stories and viral hits.
+Online Fraud Expected To Grow 43 Percent This Holiday Season In The US

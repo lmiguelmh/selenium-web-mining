@@ -1,0 +1,12 @@
+Last week, Bitcoin Core version 0.13.1 was released, officially bringing Segregated Witness (SegWit) to Bitcoin. 4 days in, 13.7% of Bitcoin nodes has already upgraded to Bitcoin Core 0.13.1, supporting the activation of SegWit.
+SegWit is an innovative scaling technology developed and introduced by the Bitcoin Core development team. Once it reaches a soft fork activation threshold, it will separate the transaction signatures from the initial transactional data, which immediately increases the capacity of blocks and eliminate transaction malleability.
+Like all soft forks, the SegWit release (0.13.1) requires 95% of network hashpower to become activated. However, it is still difficult to speculate the future of SegWit due to the decisions of several major miners to prevent the SegWit release.
+Specifically, ViaBTC (6% hashpower) and Bitcoin.com (2.2% hashpower) are supporting Bitcoin Unlimited, a hard fork proposal that enables miners to openly choose the size of blocks that they deem fit.
+Since a soft fork activation requires 95 percent of hashpower, theoretically, ViaBTC and Bitcoin.com mining pools could stop the activation of SegWit if their hashpower remains intact.
+At the moment, 90.27% of hashpower is in support of Bitcoin Core while the other 10% supports other alternative proposals like Bitcoin Unlimited and Bitcoin Classic.
+Although, the voting process for BIP 141 (SegWit release) starts on November 15, a substantial number of node operators are already showing support for SegWit.
+According to 21 Inc’s Bitnodes, 13.7% of Bitcoin nodes has upgraded to Bitcoin Core 0.13.1 over the past 4 days, which is a significant growth rate considering that the voting process for BIP 141 hasn’t even started yet.
+The node count for Bitcoin Core 0.13.1 has already surpassed Bitcoin Unlimited, which has remained at around 6% since the release of SegWit.
+BitGo, arguably the largest multi-signature service provider and Blockchain security firm in the Bitcoin industry, officially announced that it has started to run Bitcoin Core 0.13.1, showing support for SegWit.
+Currently, BitGo is the security partner of leading wallet service providers including Kraken, Bitfinex, and Magnr. The firm has processed over 1 bln transactions since its launch in 2013.
+Apart from BitGo, many Bitcoin startups and platforms have completed the preparation for SegWit support. These startups include Ledger Wallet, GreenAddress, GreenBits, and Purse.Io’s BCoin.

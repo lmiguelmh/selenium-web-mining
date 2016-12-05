@@ -1,0 +1,95 @@
+http://www.broadwayworld.com/bwwgeeks/article/SuperNET-Team-Introduces-EasyDEX-Fully-Functional-Decentralized-Cryptocurrency-Exchange-20161112
+SuperNET Team Introduces EasyDEX: Fully Functional Decentralized Cryptocurrency Exchange
+⌂
+BWW
+MEET THE TEAM
+Log In Register Now
+GEEKSTODAY 
+TOP TOPICS 
+MOBILE APPS 
+TV/MOVIES
+MUSIC
+FOOD+WINE
+BOOKS
+ART & MUSEUMS
+DANCE
+CLASSICAL MUSIC
+OPERA
+FITNESS
+THEATER
+SuperNET Team Introduces EasyDEX: Fully Functional Decentralized Cryptocurrency Exchange
+November 12
+6:44
+2016
+👤by Geeks News Desk
+
+LISBON, Portugal, Nov. 12, 2016 /PRNewswire/ Centralized cryptocurrency exchanges, despite being extremely useful and convenient, deviate from the very premise on which Bitcoin was founded: The trustless exchange of value. These exchanges require users to convert their funds into IOU (I Owe You) tokens in order to exchange them within the market. When a user wants to withdraw his funds, the IOUs are converted back into real cryptocurrencies. However, this poses a huge risk for the user as centralized exchanges are prone to inside thefts and outside hacks, something that has been demonstrated repeatedly by the recent happenings in the cryptocurrency industry. Customers of these platforms have lost millions of dollars' worth of Bitcoin and other altcoin funds to hackers and cybercriminals.
+Photo - http://photos.prnewswire.com/prnh/20161112/438568
+There are few decentralized alternatives available at the moment, but more than often they lack the liquidity and convenience that users are otherwise used to. This may soon change as the team behind theSuperNETproject has recently released a whitepaper describing the implementation of a fully functional and decentralized exchange.
+The SuperNET team, headed by the infamous coder JL777, have developed a series of projects capable of interconnecting with each other to complete themselves in the SuperNET ecosystem. These include EasyDEX and most recent,Komodo Platform. Unlike most projects in the crypto industry, these projects don't seek to compete with Bitcoin or any other cryptocurrencies. Instead, they focus on creating tools and features that benefit all blockchain projects by strengthening them further. These tools include;
+The Iguana GUI wallet that can be used by any cryptocurrency without a GUI (Graphic User Interface) solution.
+The delayed Proof of Work consensus mechanism that allows any blockchain to be as secure as Bitcoin through Komodo's notary nodes.
+TheSuperNET team's white paper describes the implementation of EasyDEX a decentralized exchange that not only allows users to exchange cryptocurrencies among themselves without entrusting their funds to a third party but also a system that provides speed and liquidity, a key component that has been missing from almost every centralized exchange.
+Unlike other alternatives that have been implemented before,EasyDEXdoes not rely on proxy tokens, pegged assets or gateways to exchange cryptocurrencies, as these remove some counterparty risk. Also, in order to prevent any shortcomings in speed and convenience (which the centralized platforms are known for), the platform exchanges cryptocurrencies directly through an atomic cross-chain protocol.
+Page 2 >>
+
+Sponsored Content
+NHL Upgrades Its Defense
+Carbon Black
+Expensive London Estates Too Rich for Royalty
+Mansion Global
+A Trump Nomination to Heal the Party: Kelly Ayotte
+InsideSources
+Finding Foodie Heaven In Fresno County
+PlayFresno.org - Fresno/Clovis Convention and Visitors Bureau
+There is fast, and then there is electric fast
+CNN INTERNATIONAL
+Famous Actors who Have Hosted "Saturday Night Live"
+PrettyFamous | By Graphiq
+Recommended by
+
+VIDEO: DEAR EVAN HANSEN's Ben Platt Performs 'Waving Through a Window' on 'Late Night'
+UPDATE: Elton John Publicist Issues Strong Denial; Singer Will NOT Perform at Trump Inauguration
+Nathan Lane Weighs In on Trump's HAMILTON Twitter Rant
+Original Star Jason Alexander Set for Q&A at MERRILY WE ROLL ALONG Documentary Screening in L.A.
+Original Star Jason Alexander Set for Q&A at MERRILY WE ROLL ALONG Documentary Screening in L.A. Tonight
+ASPERGER'S ARE US | Netflix Premiere December 11th
+ALWAYS SHINE Opens in NYC This Weekend
+New Lisa Loeb Song from 'If You Give a Mouse a Cookie' Holiday Now on Amazon
+
+GEEKS VIDEOS
+VIDEO: Capgemini H1 2016 Results
+1
+2
+3
+4
+5
+6
+
+BECOME A FAN, FOLLOWER & SUBSCRIBER
+           Follow
+COMPANIES MAKING NEWS THIS WEEK
+HOT NEWS
+
+Sprint CFO Tarek Robbiati to Speak at Bank of America Merrill Lynch Leveraged Finance Conference on November 30
+
+Championing the New PayPal Brand Central
+
+.blog Domain Extension Now Available For Registration From GoDaddy
+   
+
+
+HOT ENTERTAINMENT NEWS FROM BWW
+more
+VIDEO: James Corden Challenges Usain Bolt to Epic Rap Battle
+TV/MOVIES - 's 'Some Like it Pop' Counts Down Top-10 Showtunes of All-Time
+ART - Blog: Intolerance in the Art World Today
+FITNESS - THE SUFFREST Releases 'New Yoga for Cyclists' Program
+MUSIC - VIDEO: Aretha Franklin Transfixes America with Performance of National Anthem
+CLASSICAL - STAGE TUBE: Italian Pianist Stefano Bollani Performs HALLELUJAH at TSO Performance
+OPERA - Photo Flash: First Look at Opera Collective's THE PROPOSAL at The Actors' Chapel This Week
+DANCE - Review: DORRANCE DANCE's THE BLUES PROJECT Invokes the Healing Powers of the Community
+BROADWAY - Angela Lansbury Doesn't Know Why BEAUTY AND THE BEAST is Being Remade
+
+ADVERTISING          CONTACT          JOIN US          SEND NEWS        PRIVACY POLICY   
+© 2016 Copyright Wisdom Digital Media. All Rights reserved.

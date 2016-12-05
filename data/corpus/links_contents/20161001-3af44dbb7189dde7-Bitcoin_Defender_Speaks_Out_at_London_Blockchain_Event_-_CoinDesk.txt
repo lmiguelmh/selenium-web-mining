@@ -1,0 +1,111 @@
+http://www.coindesk.com/bitcoin-defender-speaks-out-at-london-blockchain-event/
+Bitcoin Defender Speaks Out at London Blockchain Event - CoinDesk
+TRENDING
+Vote Now for CoinDesk's Most Influential People in Blockchain
+BITCOIN PRICE INDEX (24H)
+Created with Highstock 1.3.7
+$729
+$734
+$738
+USD -0.14%
+$737.23
+CNY 0.11%
+¥5,190.16
+EUR €695.87
+GBP £590.63
+NEWS
+–
+PRICE & DATA
+–
+GUIDES
+–
+EVENTS
+RESEARCH
+PRESS RELEASES
+FEATURES  •  OPINION  •  TECHNOLOGY
+Bitcoin Defender Speaks Out at London Blockchain Event
+Sid Kalla | Published on October 1, 2016 at 15:59 GMT
+OPINION
+472
+70
+7
+Simon Dixon, CEO of the online investment platform BnktotheFuture.com outlined his vision for blockchain startups recently at The Internet of Value: Blockchain and Financial Services Innovation conference in London.
+Making the conference keynote, Dixon laid out the history of bitcoin and blockchain companies, especially those working in the financial services sector, and what he considers lies ahead for the rapidly evolving industry.
+Dixon’s take as a venture capitalist comes at a crucial time in the industry, which is grappling with making sense of the growing ecosystem of bitcoin, ethereum, cryptocurrencies, digital assets, and private blockchains.
+Many early bitcoin startups have now pivoted into the private blockchain space, and several high-profile venture deals highlight the growing private blockchain industry.
+However, the debate is far from over, and as recently as Sibos, participants were divided on whether public blockchains can be used for financial applications like securities markets:
+One chain to rule them all
+Speaking to a packed room of bankers and FinTech entrepreneurs, Dixon said he believes that bitcoin is now the only viable blockchain that has proven its utility at scale, and that banks looking to build other ‘private blockchains’ will end up either using bitcoin or other non-blockchain technologies, such as distributed databases or other solutions.
+Further, Dixon defined what is needed to justify the use of a blockchain:
+“Blockchain introduces bearer assets. If there is no need of bearer assets, then there is no need for a blockchain. However, bearer assets carry risks, like hacking risk.”
+Banks and financial institutions seldom need or desire to give up their control with the creation of bearer assets – as opposed to the current models where they retain custody, he added. In such cases, banks will end up using distributed ledgers that are just databases, instead of true blockchains.
+The CEO further delved into the history of the space and its current terminology, saying at one point that venture capitalists that had invested in bitcoin wanted to get the banks on board.
+Considering that bitcoin was ‘tainted’ in the media thanks to its associations with drugs and hacking, the venture capitalists apparently pitched the banks on the use of blockchain. The "buy" side became interested in blockchain technology after Blythe Masters and her firm Digital Asset Holdings raised the appeal of the tech with Wall Street institutions.
+However there is only one blockchain that works at scale, he stressed, and that is bitcoin.
+Appealing to the extremes
+Looking to the future, Dixon suggested that startups focus their efforts on those applications that have the most utility.
+When it comes to bitcoin, he said, there are two disparate sections of populations that will find the most value going forward.
+On the one hand there are the ultra-wealthy, who invest in bitcoin as a hedge against bank deposits, therefore utilizing bitcoin as a store of value. On the other, are the poorest four billion or so of the world population who are underserved by the current banking system and could use bitcoin as a means of value transmission in applications like remittances.
+However, the first wave of bitcoin startups, like payment processor Bitpay, largely targeted the middle sector of the population, which is neither ultra-wealthy nor unbanked, he said.
+This segment of the population didn’t have a compelling case to use bitcoin for everyday transactions, and so the tech failed to really take off, even after gaining initial traction. Now, Dixon said, his company is investing in startups that cater to either end of the spectrum, and avoiding the middle.
+Moving on, Dixon said the interest of central banks in issuing digital currencies is a radical change in the relationship between central bank, money, and the financial industry.
+Such digital currencies, that don’t need to rely on a blockchain, would be issued directly by the central banks without involving the banking system, and would not be backed by debt.
+Digital currencies issued by a central bank would represent a way to reduce systemic risk in the financial sector and are likely to become more prominent during financial crises, he said. Investors would then be able to transact directly with central bank-issued digital currencies and bitcoin, thus cutting out the wider banking sector altogether.
+Addressing other use cases that are traditionally touted by the financial industry as requiring private blockchains, Dixon believes most such instances could be addressed using traditional or distributed databases rather than blockchains.
+Further, many such problems are not really technological problems, he suggested – for example, the hurdle to overcome when bringing about instant settlement of payments is a "compliance problem" rather than a technical one.
+Chess image via Shutterstock. Image of Simon Dixon courtesy of the author
+Disclaimer: The views expressed in this article are those of the author and do not necessarily represent the views of, and should not be attributed to, CoinDesk.
+Blockchain TechnologyBnktothefuture
+472
+70
+7
+PREVIOUS ARTICLE
+Would a Deutsche Bank Collapse Impact Bitcoin Prices?
+NEXT ARTICLE
+Why Blockchain Won’t Disrupt Banks First
+Don't miss a single story
+Subscribe to our free newsletter and follow us
+RELATED STORIES
+OPINION
+Nov 20, 2016 at 15:05 | Brian Zimbler, Dmitry Dmitriev and Andrey Ignatenko
+Blockchain Interest is Rising in Russia (Despite Legal Concerns)
+Moscow-based legal experts examine the thaw in attitudes towards blockchain and bitcoin in Russia.
+OPINION
+Nov 20, 2016 at 14:53 | Josh Stark
+Making Sense of Blockchain Governance Applications
+Ledger Labs' Josh Stark seeks to provide a high-level framework for understanding the potential of nascent blockchain governance applications.
+OPINION
+Nov 6, 2016 at 13:08 | Matthew Spoke
+Blockchain: Why the 'Big Guys' Can’t Win
+An industry commentator looks at moves by tech industry incumbents to capture the emerging blockchain market, and offers a warning for the future
+OPINION
+Oct 31, 2016 at 11:46 | Zaki Manian
+3 Reasons Hyperledger Has Blockchain's Best Development Model
+Skuchain's Zaki Manian argues that Hyperledger offers the best development model for the blockchain industry.
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+Registration Is Open!
+Only 75 tickets available at $999
+REGISTER NOW
+FEATURES
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+INDUSTRY PRESS RELEASES
+Nov 23 | 14:13
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Nov 23 | 09:00
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Nov 22 | 15:25
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Nov 22 | 01:30
+Accepting Cash Deposits with Flexepin
+VIEW MORE
+
+SUBMIT RELEASE
+
+Got a news tip or guest feature?
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

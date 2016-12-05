@@ -1,0 +1,52 @@
+http://themerkle.com/hackers-are-now-starting-to-use-bitcoin-atms-to-get-paid/
+Hackers Are Now Starting to Use Bitcoin ATMs to Get Paid – The Merkle
+About
+Contact
+Jobs
+Privacy Policy
+Team
+Login Register 0 items - $0.00
+NEWS
+REVIEWS
+EDUCATION
+HomeNewsCryptocurrencyHackers Are Now Starting to Use Bitcoin ATMs to Get Paid
+Hackers Are Now Starting to Use Bitcoin ATMs to Get Paid
+reminesjoseph October 4, 2016 Cryptocurrency, News, Security, Technology
+Part of any successful hacker’s toolkit is a money mule. This is someone who unloads the stolen funds and sends them to the hacker. The mule is usually ignorant of the fact that he is receiving and sending stolen funds, which is why it works so well.
+A recent report by cyber security expert, Brian Krebs, states that hackers are now having these money mules withdraw the funds at Bitcoin ATMs. Since the fiat currency is nonrefundable, once the transaction is complete the funds are as good as gone. Krebs was contacted by a reader that stated she was hired by a software development firm, LunarBay, to be a customer service officer. The reader was instructed to hire people that could process payments for LunarBay’s clients. LunarBay also stated she would be compensated $870 plus five percent on every transaction she handled, weekly. The reader then said that she was instructed to go inside the bank to withdraw money instead of going to the ATM because they have withdrawal limits. Krebs also said that the woman was sent a QR code to save on her phone, as well as the location she could find the nearest bitcoin ATM.
+Krebs wrote:
+“It’s not immediately clear why these thieves are avoiding tried-and-true methods of disbursing cash (like Western Union and MoneyGram) in favor of Bitcoin ATMS. I supposed it’s possible that the wire transfer companies are getting better at detecting and blocking suspicious transactions, but I doubt that’s the reason. More likely, sending cash via Bitcoin results in a more immediate payday for the scammers and avoids the costs and hassle associated with hiring ‘far-end’ mules to collect fraudulent wire transfers in the scammer’s home country.”
+Once this is certain, anyone can unknowingly become a money mule and suffer serious consequences. Be on the lookout for salaries that are way too high, unusually easy work for a lot of pay, and weird money transfers and payout systems. As technology grows to stop these types of crimes from happening, hackers will most definitely find another road to take, with little regard for anyone else’s wellbeing.
+If you liked this article, follow us on Twitter @themerklenews and make sure to subscribe to our newsletter to receive the latest bitcoin and altcoin price analysis and the latest cryptocurrency news.
+Related Posts
+Valyrian Tech Presents The Bitcoin Spellbook Project
+Cryptography Pioneer Christopher Allen Joins Blockstream
+Australian Government to Auction Nearly US$18 Million Worth of Bitcoin
+About The Author
+Reminesjoseph
+I am 30 years old. I live in Rural Ohio with my Fiance, and our dog, Bruce.
+SEARCH SITE
+Search
+POPULAR POSTS
+WhatsApp Looks To Integrate Two-factor Authentication Shortly
+November 12, 2016
+Facebook And Google Will Penalize Sites Publishing …
+November 15, 2016
+Samsung Pay Incentivizes Users With New Rewards …
+November 15, 2016
+Visa Wants To Replace Passwords With Multiple …
+November 15, 2016
+OCBC Bank Pilots Blockchain-based Funds Transfer Between …
+November 15, 2016
+SUBSCRIBE
+Subscribe to our mailing list
+RECENT POSTS
+Incent To Offer Its ICO Technology To Other Organizations Focusing On Loyalty Rewards November 25, 2016
+Developing Nations Show A Great Appetite For Payment Card Acceptance November 25, 2016
+POPULAR POSTS
+WhatsApp Looks To Integrate Two-factor Authentication Shortly
+November 12, 2016
+Facebook And Google Will Penalize Sites Publishing …
+November 15, 2016
+CONNECT WITH US
+The Merkle Copyright © 2016.

@@ -1,0 +1,45 @@
+Michael del Castillo (@DelRayMan) | Published on November 18, 2016 at 15:00 GMT
+Swiss Parliament member Franz Grüter could hardly be happier that his proposal for new blockchain regulations has been shot down.
+For months, he resisted the government's requests to kill his motion, which would have changed the definition of a bank to make it easier for cryptocurrency companies to open in Switzerland.
+"We got this," was the gist of what they told him. "Thanks, but no thanks."
+But Grüter, who was elected to represent the Lucerne region of Switzerland a year ago, remained skeptical.
+"The reason I was frustrated was that I didn't believe how bureaucracies work, how bureaucracy works in governments," Grüter told CoinDesk. "I was not expecting that they would really say what they were writing. So, I kept my motion in place."
+Two months later, he changed his mind. In August, the Swiss Financial Market Supervisory Authority (FINMA) (which oversees the nation's financial sector) finally convinced him what they were working on would amount to a real impact on blockchain companies — and soon.
+Instead of lowering the amount of capital required for banks to keep on hand, the regulation currently being prepared will create an entirely new category of financial institution, he said.
+Grüter calls this new breed of company a "crypto-bank," and since he's rescinded his own motion to change the law, he's pledged his support to these new financial entities.
+"I'm more than open to help the whole industry. If there are any further hurdles for them, we can eliminate those hurdles. Up to now, I can say my influence worked."
+Grüter said he first became aware of the issues faced by cryptocurrency startups when he was approached by Xapo CEO Wences Cesares, who was then considering whether to move his bitcoin wallet provider's headquarters to Switzerland.
+The information technology veteran and current chairmen of Swiss Internet firm Green.ch ended up receiving multiple "complaints" from blockchain entrepreneurs, and in order to better serve them, he sought the advice of local industry insiders.
+Following the recommendation of Zug, Switzerland-based lawyer Andreas Glarner and the Switzerland Bitcoin Association founder Luzius Meisser, Grüter opened his first bitcoin account and began to experiment by purchasing the cryptocurrency.
+Then, in May of 2015, Cesares officially moved Xapo's headquarters to the Zug region of Switzerland known as "crypto-valley". (He confirmed to CoinDesk that he continues his work with Swiss regulators and that he can't comment further).
+The following month, Grüter and fellow Swiss Parliament member Claude Béglé collectively filed three blockchain-related motions. According to Swiss law, FINMA then had the right to recommend that such motions be passed, shot down or the ability to make a counter-proposal.
+In this case, Grüter says he was unwilling to rescind or "liquidé" his own motion until he was contacted by a surprising source – the person who set him on on his cryptocurrency crusade, Wences Casares.
+"Wences approached me and he told me, 'Hey Franz, you won't believe it, they are totally excited, they want to introduce now a new group of crypto-banks that has totally different regulations,'" Grüter said, adding:
+"I decided there is no need at this point that I push it further since my intervention already worked and the government is making the changes proactively by themselves."
+Now that Grüter has rescinded his initial proposal, he says he’s only getting sporadic information about the future of these new financial entities.
+But thanks to a series of public documents, the crypto-banks makeup is beginning to take shape.
+Just days after Swiss rail operator SBB announced it would begin offering bitcoin via its ticket kiosks, Switzerland's Federal Department of Finance (FDF) published the first details about the project.
+Revealed earlier this month, these so-called "FinTech licenses" may be granted by FINMA with capital requirement as low as CHF 300,000, or 5% of the accepted public funds. (The total amount of public funds that can be accepted by those with a FinTech license may not exceed CHF 100m).
+The day before the FDF published the license details, FINMA released a corresponding document that helped lay the framework by redefining corporate governance guidelines for banks.
+Specifically, the document instituted the proportional application of certain regulations, "leaving institutions free to implement the requirements in a way that takes account of their differing business models and of the particular risks associated with them."
+But that isn't all. Yesterday, FINMA defined its strategic goals for the four years beginning in 2017. The document explicitly mentions a "pro-innovation approach to supervision and regulation, and tackling newly emerging risks," as among the regulator’s top priorities.
+"The long-term success of Switzerland's financial centre depends largely on its ability to innovate. FINMA is therefore adopting a more pro-innovation approach to regulation and supervision and will push for the removal of unnecessary regulatory obstacles for innovative business models."
+Though an exact timeline has yet to be published, Switzerland’s Federal Council has instructed the FDF to complete a draft of its legislative amendments by the beginning of next year.
+Some of the proposed measures could even be enacted by an executive order at an earlier date, according to Bitcoin Association Swtizerland founder, Luzius Meissner.
+As part of that work, the FDF is expected to join forces with related authorities to clarify certain stipulations and further reduce barriers for FinTech startups.
+According to Grüter, behind all these changes is nothing less than a total shift in the way Switzerland views cryptocurrency startups.
+Instead of being focused on the potential risks, Grüter argues that his colleagues have determined to prioritize the potential benefits.
+"The mindset is completely changing now from a certain critical, not really knowing what are the threats of the technology to a very open-minded, opportunity-driven people," said Grüter.
+"It is great to see that the government finally starts to think about realizing opportunities instead of eliminating risks. Often, governments tend to overemphasize the latter while neglecting the former," he said.
+"However, it is too early to cheer. It remains to be seen which suggestions actually will survive the political process."
+Since Grüter opened his bitcoin account with BreadWallet earlier this year, he said he’s mostly just focused on how to buy the digital currency and track its price changes.
+But over the coming months, he expects to make his first bitcoin purchase using the wallet.
+Already, the canton of Zug has voted to accept bitcoin for payment of certain government services, with further evaluation by the end of this year.
+But as the SBB plan to start accepting bitcoin goes into action, he thinks his first purchase will be for a ticket to ride.
+"This makes it much more widely public now, and probably I will use it mostly there."
+Ledger Labs' Josh Stark seeks to provide a high-level framework for understanding the potential of nascent blockchain governance applications.
+The IRS is seeking user records from Coinbase as part of a taxpayer investigation.
+CoinDesk spotlights ongoing efforts inside the top securities regulator in the US to better understand – and adapt to – advances in blockchain…
+Sweden's central bank could soon launch its own digital currency – though it hasn't yet decided how the offering would work.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

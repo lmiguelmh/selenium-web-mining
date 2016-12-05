@@ -1,0 +1,99 @@
+https://www.linux.com/news/move-over-bitcoin-blockchain-only-just-getting-started
+Move Over Bitcoin, The Blockchain Is Only Just Getting Started | Linux.com | The source for Linux information
+Jump to navigation
+Advertisement
+News for the Open Source Professional
+LOGIN / CREATE ACCOUNT
+Facebook
+Twitter
+Google Plus
+LinkedIn
+Feeds
+BROUGHT TO YOU BY
+NEWS
+TUTORIALS
+OPEN SOURCE PRO
+LEARN
+COMMUNITY
+RESOURCES
+WIRED
+NOVEMBER 8, 2016
+Move Over Bitcoin, The Blockchain Is Only Just Getting Started
+It's easy to think we've reached peak Bitcoin, but the blockchain at the heart of cryptocurrencies contains the seeds of something revolutionary.
+The blockchain is a decentralised electronic ledger with duplicate copies on thousands of computers around the world. It cannot be altered retrospectively, allowing asset ownership and transfer to be recorded without external verification.
+Investors have now realised the blockchain is bigger than Bitcoin. In the first quarter of 2016, venture-capital investment in blockchain startups overtook that in pure-play Bitcoin companies for the first time, according to industry researcher CoinDesk, which has tallied $1.1 billion (£840m) in deals to date.
+Read more at Wired
+Compartir
+Email
+Facebook
+Twitter
+LinkedIn
+Pinterest
+Google+
+Log in or register to post comments
+Print This
+Like
+  (0 likes)
+Click Here!
+Advertisement
+TRAINING
+SEE ALL
+LFS452 Essentials of OpenStack Administration
+DECEMBER 5, 2016
+LEARN MORE
+LFD401 Developing Applications for Linux ENEA
+DECEMBER 5, 2016
+LEARN MORE
+LFS426 Linux Performance Tuning
+DECEMBER 5, 2016
+LEARN MORE
+NEWSLETTER
+RELATED JOBS
+Senior DevOps Engineer
+Automation Architect and Developer Openstack
+OpenStack Engineer
+Sr Software Engineering Manager (ARM, Linux, Android) - 5359
+SEE ALL JOBS
+Jobs provided in partnership with Dice.com
+NEWS
+ENTERPRISE
+DESKTOP
+MOBILE & EMBEDDED
+OPEN SOURCE
+LINUX KERNEL
+DEVOPS
+NETWORKING
+CLOUD COMPUTING
+TUTORIALS
+OPEN SOURCE PRO
+LEARN
+WHAT IS LINUX?
+TRAINING
+CERTIFICATION
+EVENTS
+WEBINARS
+COMMUNITY
+PARTICIPATE
+Q&A
+FORUMS
+BLOGS
+RESOURCES
+NEWSLETTER
+DISTRIBUTIONS
+PUBLICATIONS
+INFOGRAPHICS
+PHOTOS
+VIDEOS
+JOBS
+ABOUT LINUX.COM
+TERMS OF USE
+PRIVACY POLICY
+EDITORIAL POLICY
+CONTACT
+The Linux Foundation is a non-profit consortium enabling collaboration and innovation through an open source development model.
+LEARN MORE
+© 2016 The Linux Foundation
+Don't Miss an Update!
+Get a digest of original Linux and open source news and tutorials from Linux.com delivered to your inbox weekly.
+First Name
+Email

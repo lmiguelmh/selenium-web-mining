@@ -1,0 +1,116 @@
+https://jaxenter.com/bitcoin-flipping-zcash-grabs-attention-bitcoin-grabs-money-129979.html
+[Bit]coin flipping: ZCash grabs the attention, Bitcoin grabs the money - JAXenter
+Accept
+We have changed our cookie policy. We use cookies to ensure that we give you the best experience on our website. This includes cookies from third party social media websites if you visit a page which contains embedded content from social media. Such third party cookies may track your use of our websites. We and our partners also use cookies to ensure we show you advertising that is relevant to you. More Infos
+conference is back!
+Blind Bird Sale ends in:
+days
+0
+5
+hours
+1
+5
+minutes
+5
+0
+seconds
+0
+7
+8
+Toggle navigation
+SEARCH
+RETHINK IT SURVEY: Have you taken the survey yet? Help us identify the latest trends in modern DevOps
+He who laughs last, laughs longest
+[Bit]coin flipping: ZCash grabs the attention, Bitcoin grabs the money
+November 2, 2016 Gabriela Motroc
+#bitcoin #zcash
+reddit
+LinkedIn
+Facebook
+Google+
+Silver coin image via Shutterstock
+There’s a new kid in town —everyone is talking about ZCash, a new cryptocurrency which stole the spotlight from bitcoin as the latter was celebrating eight years of existence with a new milestone: bitcoin price skyrocketed to over $700. However, ZCash is no exception to the unspoken cryptocurrency rule: its journey to stability is a rollercoaster ride.
+At press time, bitcoin had jumped to $724 while  ZCash was worth just over $1,000. Before you jump on the ZCash bandwagon, let’s see how this new digital currency managed to outshine bitcoin’s eighth birthday.
+ZCash vs Bitcoin: Different names for the same thing?
+Yes and no. “If Bitcoin is like http for money, Zcash is https,” according to the cryptocurrency’s website.
+Zcash offers total payment confidentiality, while still maintaining a decentralized network using a public blockchain. Unlike Bitcoin, Zcash transactions can be shielded to hide the sender, recipient, and value of all transactions on the blockchain. Only those with the correct view key can see the contents. Users have complete control and can opt-in to provide others with their view key at their discretion. Zcash transactions do not depend on the cooperation of other parties.
+If you take a look at the testimonials, you will see that privacy is one of ZCash’s greatest assets, along with a high degree of fungibility. Plus, it uses Equihash, a memory-oriented proof-of-work based on a computer science and cryptography concept named the Generalized Birthday Problem. As Zooko Wilcox, ZCash CEO and founder and software engineer Jack Grigg wrote in a blog post a few months ago, Equihash has “very efficient verification. This could in the future be important for light clients on constrained devices, or for implementing a Zcash client inside Ethereum.” In short, Equihash means that the amount of mining you can do is mostly determined by how much RAM you have.
+However, there are a lot of similarities between ZCash and bitcoin: they both have a fixed issuance model which is halved every four years and there is a maximum of 21 million units of BTC and ZEC.
+Since the ZCash technology was built by a company, it comes as no surprise that 10 percent of the mining reward will go to the stakeholders in the Zcash Company — they call this the “Founders Reward.”  At first, 50 ZEC will be created every ten minutes. 80 percent of the newly created ZEC will go to the miners, and 20 percent ZEC to the founders. After the first four years, the ZEC created per ten minutes will drop to 25 ZEC, but after the first four years, 100 percent of it goes to the miners.
+Mining situation
+If you want to mine ZCash, you can either build you own GPU rig or mine it in the cloud, Bitcoin Magazine reports. ZCash held an open source miner challenge between September 27 and October 27, 2016 and published some of the submissions on its website.
+The block rewards will be limited for the first 20,000 blocks. The idea behind the “slow start” was explained by Wilcox on GitHub eight months ago:
+With the “slow start” approach, we can pull the trigger to start mining, knowing that we still have a few weeks before it gets to be significantly valuable, giving us time to watch for failures, work on related operational things (updating our website, dealing with getting hacked and defaced and all that, collaborating with wallet makers, exchange operators, and other partners, touring the world to visit stadiums of screaming fans, etc.).
+How does ZCash work?
+Zcash uses a zero-knowledge proof construction called a zk-SNARK. According to the ZCash website, “these constructions allow the network to maintain a secure ledger of balances without disclosing the parties or amounts involved. Instead of publicly demonstrating spend-authority and transaction values, the transaction metadata is encrypted and zk-SNARKs are used to prove that nobody is cheating or stealing.”
+This protocol is believed to be the answer to bitcoin’s lack of fungibility. The “zk” part refers to the fact that the transaction may mean that you have access to funds but it says nothing about what they are. As Wilcox told Bitcoin Magazine a couple of months ago, “the dream is that people all around the world use Zcash and other cryptocurrencies directly, to cooperate and organize with one another in safety and privacy.”
+Happy birthday, Bitcoin!
+A lot of ink has been spilled lately on the topic of ZCash and its fluctuant price but that does not stop bitcoin from growing both in dollars and in years. It’s been eight years since Satoshi Nakamoto released the bitcoin whitepaper and this cryptocurrency is still going strong.
+Read the full bitcoin whitepaper released by Satoshi Nakamoto on October 31, 2008 here.
+Be the first to share this article with your network!
+reddit
+LinkedIn
+Facebook
+Google+
+Author
+Gabriela Motroc
+@gabriela_motroc
+All Posts by Gabriela Motroc
+Gabriela Motroc is an online editor for JAXenter.com. Before working at S&S Media she studied International Communication Management at The Hague University of Applied Sciences.
+Recommended For You
+#AboutLastWeek: Java EE Guardians speak up and Kotlin has a rendezvous with Gradle
+[Bit]coin flipping: Blockchain in the healthcare industry —dream or reality?
+[Bit]coin flipping: Bitcoin Core 0.13.0 — what does it mean?
+Comments
+MEET US IN LONDON!
+FEATURED POSTS
+Demystifying DevOps: What are the values that constitute DevOps culture?
+Reactive Microservices with Scala and Akka
+The Lagom Framework
+Integration testing using Spring Boot, Postgres and Docker
+TRENDING POSTS
+Angular 3’s due date is approaching
+Building a secure REST API with Spring Data REST and Java 8
+Eclipse, NetBeans or IntelliJ: Which is the best Java IDE?
+Windows developers should follow the stable infrastructure…
+
+TIPS, TRICKS AND TUTORIALS
+Integration testing using Spring Boot, Postgres and Docker
+The Lagom Framework
+TOPICS
+DevOps
+Agile
+Java
+Careers
+Open Source
+IoT
+NetBeans
+Eclipse
+JavaScript
+Tutorials
+PAGES
+Contact
+Authors
+Found a bug?
+Advertise
+Privacy Policy
+Terms of Use
+Imprint
+FOLLOW JAXENTER
+Twitter
+Facebook
+Google+
+RSS
+S&S MEDIA
+JAXenter.de
+JAX Finance
+JAX London
+JAX Germany
+DevOpsCon
+Developer.Press
+International PHP Conference
+Webinale
+WebMagazin
+S&S Media
+Software & Support Media Group
+Contact

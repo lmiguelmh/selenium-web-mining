@@ -1,0 +1,46 @@
+https://cointelegraph.com/news/susanne-tarkowski-tempelhof-on-hard-fork-hurdles-to-adoption-and-future-of-bitcoin
+Susanne Tarkowski Tempelhof on Hard Fork, Hurdles to Adoption and Future of Bitcoin
+THE COINTELEGRAPH
+future of money
+BTC
+738.12
+0.8%
+ETH
+9.40
+1.25%
+Submit a Post
+Submit Press Release
+News
+Guides & Analytics
+Events
+Podcast
+Advertise
+  2016-10-31 05:50 PM
+Author Frisco d'Anconia
+Susanne Tarkowski Tempelhof on Hard Fork, Hurdles to Adoption and Future of Bitcoin
+1182 Total views 134 Total shares
+Susanne Tarkowski Tempelhof, the woman who built her own nation on the Blockchain and got married on it, tells Cointelegraph on Bitcoin’s being at a crossroad.
+In the midst of discussion whether the pioneer cryptocurrency should fork or not, there have been talks of its eventual decline. But Susanne, founder of BitNation, is convinced that the Ecosystem is improving by the day. She opposed the view that Bitcoin is in decline as a result of its current obscure direction. Susanne does not see Bitcoin as a failure at all. On the contrary, she thinks it has been a massive success so far.
+She says:
+“Bitcoin is already growing exponentially as a traditional payment method. Here in the Netherlands for instance, it’s relatively easy to live on Bitcoin, from paying salaries, to order food, to go out, etc., because of an increased merchant adoption, in combination with a good infrastructure regarding local exchanges, Visa cards, support community, etc.”
+Bitcoin Hard Fork
+The Bitcoin community has been caught in an intense disagreement whether the network should be scaled or not. The current system permits only seven transactions per second which do not augur well for business. Some experts believe scaling from 1MB to 20MB is very crucial for the digital currency’s future and sustainability.
+Susanne stressed:
+“If Bitcoin core believes the scalability issue can be solved with SegWit, LN etc., I trust their assessment.”
+Hurdles to Adoption
+From her point of view, the only hurdle for Bitcoin  is its adoption and how to get it to those who need it. Susanne believes Bitcoin will do so well in geographies where people have no or little access to financial services.
+“In areas where people are unbanked, it’s typically where it would be the most useful and empowering for people to use Bitcoin. I’m not directly referring to merchant adoption in general, but the difficulty to pay more substantial everyday things, like rent, hospital bills, child care, etc.”
+The Bitcoin enthusiast stated that Bitcoin would free many people around the globe if they could have access. “That would make the difference to whether people in developing markets would start being able to receive salaries and payment for goods and services in Bitcoin, or not. I believe Bitcoin’s greatest potential is amongst the unbanked,” she ventured.
+Overcoming the Hurdles
+According to Susanne, the  best way of dealing with these hurdles is to build decentralized solutions. She said:
+“Local peer to peer infrastructure need to be built up. More companies like localbitcoins.com, BitPesa and BitRefill would help. More regular meetups to inform people what Bitcoin (and other cryptocurrencies) are and how to use them would help as well. Bitnation ambassadors, embassies and consulates around the world have been doing a lot concerning educating and empowering local cryptocurrency infrastructure,  from organizing meetups  to connecting enthusiasts both locally and globally with each other and doing projects that help people in their day-to-day lives, like Bitcoin cards for refugees and so on. We’re currently experimenting with our Decentralized Borderless Voluntary Nation (DBVN) infrastructure on Ethereum to see how we can fund more local governance initiatives using cryptocurrency. It could be everything from experimenting with currency paid solar grids in Ethiopia to supporting education on Blockchain application for governance in Bangladesh. Have a look and contribute with your proposals: https://bitnation.consider.it.”
+Older Generation Adoption
+“I’m not sure if that’s the right question to ask. In my opinion, it’s better to focus on the next generation in emerging markets, than wasting time on audiences that have limited usage and are unlikely ever to adopt it”, Susanne explained when asked to predict when the proverbial grandmother will start using Bitcoin.
+She adds:
+“When I’m a grandmother, I’ll be using it.”
+Susanne Tarkowski Tempelhof
+Bitcoin
+Hard Fork
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

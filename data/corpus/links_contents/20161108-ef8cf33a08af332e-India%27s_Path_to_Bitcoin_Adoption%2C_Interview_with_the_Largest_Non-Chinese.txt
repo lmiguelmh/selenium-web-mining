@@ -1,0 +1,39 @@
+https://cointelegraph.com/news/indias-path-to-bitcoin-adoption-interview-with-the-largest-non-chinese-mining-pool
+India's Path to Bitcoin Adoption, Interview with the Largest Non-Chinese Mining Pool
+Toggle navigation
+BTC
+738.12
+0.8%
+ETH
+9.40
+1.25%
+Advertise
+  2016-11-08 07:05 PM
+Author Joseph Young
+India's Path to Bitcoin Adoption, Interview with the Largest Non-Chinese Mining Pool
+5178 Total views 355 Total shares
+A new mining pool, called GBMiners, has emerged with nearly 5 percent of the Bitcoin network’s hashpower. It is the largest mining pool outside of China and the first to be based in India.
+India, which represents the world’s biggest remittance market with over $69.97 bln worth of payments received in 2013, is considered one of the fastest growing Bitcoin markets in the world. Over the past few years, major Indian Bitcoin startups, including Unocoin, have demonstrated significant growth in terms of daily trading volumes, user base, and online presence.
+Furthermore, Bitcoin has begun to gain some serious mainstream attraction in India, primarily due to the reporting of major news networks such as Zee News.
+In spite of its surging development, the Indian Bitcoin industry lacks several important infrastructures to serve both the underserved popular and high profile investors. GBMiners aims to fill this gap between Bitcoin and mainstream adoption by being the first firm to run a Bitcoin mining pool within the country.
+Cointelegraph interviewed both GBMiners Co-Founder Nikunj Jain and Co-Founder/investor Amit Bhardwaj.
+GBMiners Debuts With 5 percent Hashpower
+GBMiners mined its first block on Aug. 30 and since then it has recorded an incredible growth, obtaining nearly 5 percent in hashpower within two months.
+In an exclusive interview, GBMiners Co-Founder Nikunj revealed that he and his partner, Sahil Baghla, met Bhardwaj, whom had held a significant amount of hashpower in a variety of mining pools.
+After a long discussion in regards to the limitations and restrictions of the majority of mining pools in the Bitcoin market, Nikunj and his team began to research on possible solutions that could improve and enhance mining operations for both the mining pool operators and its miners.
+Immediately after a test server was set up and several trials were conducted, Nikunj discovered major improvements, particularly in terms of network efficiency and optimization.
+“We started researching, put out some of our test servers and most of what he [Bhardwaj] said resonated with us,” Nikunj told Cointelegraph.
+“A majority of the hashing power is owned by Amit, so that solved the chicken and egg problem for us.”
+Helping general population to understand Bitcoin
+Exchanges and regulated trading platforms are difficult to deal with, mostly because of strict KYC/AML policies that demand users to submit various documents for further verification.
+More importantly, purchasing of large amounts of Bitcoins through exchange has proven to be inefficient over the years, considering their tight deposit and withdrawal limits.
+The GBMiners team and Nikunj explained that they are hoping to convince high profile traders and conventional investors to engage in mining operations as an investment in Bitcoin. This way, they will have the opportunity of understanding both technological and economical benefits, strengths and limitations of Bitcoin.
+“People may start with holding Bitcoins as an investment instrument and those who learn faster and understand the economics faster would even like to invest in mining  and we’ll be very happy to help them set up servers. An efficient mining pool, running at scale from their homeland, will really give confidence [to investors],” GBMiners Co-Founder and investor Amit Bhardwaj told Cointelegraph.
+Moreover, Bhardwaj strongly believes that the successful debut of GBMiners will serve as a motivation for other entrepreneurs, startups and companies in India to accelerate the growth of Bitcoin. Overtime, an increasing number of people will gain confidence in holding Bitcoin as a secure asset and that will place Bitcoin one step towards mainstream adoption in India.
+“We hope GBMiners is a motivation, not just for creating pools but other products that accelerate Bitcoin’s adoption among the masses in India,” added Bhardwaj.
+India
+Bitcoin
+Mining
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

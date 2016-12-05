@@ -1,0 +1,19 @@
+Tim Draper Leads $4.2 Million Series A for Blockchain Startup Factom - CoinDesk
+Michael del Castillo (@DelRayMan) | Published on October 5, 2016 at 02:06 GMT
+Blockchain startup Factom has raised $4.2m in new funding to build a series of unnamed new products for its blockchain data network.
+The Austin, Texas-based company that lets users verify data using its Factom blockchain, fresh off winning a $200,000 grant from the US Department of Homeland Securities, now plans to scale with a series of hires to be announced over the coming months.
+Factom co-founder and CEO Peter Kirby said the Series A round, led by venture capitalist Tim Draper, will also be used to further develop its core technology and suite of products.
+"We really believe that when you move all the data in the world into the blockchain you can create a lot of transparency and value."
+Factom had previously raised over $3m, and already has three enterprise products: a data protection tool, an identity solution and distributed data storage service similar to a more traditional database.
+In total, Factom's protocol is being used to secure 67.4 million records, according to its official website.
+Investment news site Frisco Fastball picked up the Series A filing with the SEC and provided insight into the round, ultimately concluding that the funding could represent confidence in the company given that it sold 100% of its offering.
+"On average, companies in the not disclosed sector, sell 67.77% of the total offering size. Factom sold 100.00% of the offering," the news source wrote.
+The comments may be a surprise given that the startup has long been one of the more contentious in the industry. In addition to questions about its use of a publicly traded digital asset to fund its operations, Factom has also seen potentially key partnerships fail to materialize.
+Still, investor Tim Draper lauded the firm in statements to CoinDesk, focusing on how he believes the platform can mitigate issues common to centralized data storing services.
+"Centralized data is prone to critical failure by any individual mistake, whether by user error or malicious hacking. By decentralizing data through the blockchain, Factom avoids critical failures due to user error or hacker."
+Despite notable exits, sources say the majority of R3's members are likely to participate in its ongoing funding round.
+Venture capital in ethereum is surprisingly low, but is it really? Under the surface, ethereum is evolving differently than its predecessors.
+Bitcoin made an unexpected appearance on an episode of the popular TV series "Shark Tank" this week.
+Blockchain solutions provider Peernova is quietly raising money to bring its enterprise big data product to Asia.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

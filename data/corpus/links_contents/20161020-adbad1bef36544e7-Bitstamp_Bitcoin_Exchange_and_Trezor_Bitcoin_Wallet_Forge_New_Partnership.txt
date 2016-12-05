@@ -1,0 +1,31 @@
+https://cointelegraph.com/news/bitstamp-bitcoin-exchange-and-trezor-bitcoin-wallet-forge-new-partnership
+Bitstamp Bitcoin Exchange and Trezor Bitcoin Wallet Forge New Partnership
+Toggle navigation
+BTC
+738.33
+0.33%
+ETH
+9.45
+1.2%
+Advertise
+  2016-10-20 12:50 PM
+Author Evander Smart
+Bitstamp Bitcoin Exchange and Trezor Bitcoin Wallet Forge New Partnership
+1321 Total views 227 Total shares
+The world of Bitcoin can be intimidating, inconvenient and disjointed as the ecosystem still goes through “early adopter” growing pains. Bitcoin users want to increase Bitcoin security and convenience, and would prefer to stay with trusted names rather trying a new product every six months.
+Established Bitcoin brand names Bitstamp and Trezor have chosen to establish a new partnership that should help their growing customer bases get the best of both worlds quicker and easier than ever before.
+“Improved Bitcoin Security and User Experience”
+Many times, a Bitstamp user may have to transfer Bitcoins from their Trezor to a third-party Bitcoin wallet, or myTrezor.com, before entering those funds into the exchange, a needless step that is no longer necessary. Now the intended transfer can be done through one interface in seconds with a few clicks. The same can be done with withdrawals, moving Bitcoin funds directly to the Trezor.
+“What lead us to cooperate with SatoshiLabs and deciding to offer our users TREZOR hardware wallets, was the drive to make the Bitstamp experience even faster, more straightforward and as secure as possible. Selecting SatoshiLabs proved to be a choice well made, as the integration took about a month and results in a user friendly and secure solution that will impress the users with its convenience. After an already successful integration of the Ledger hardware wallet, TREZOR has been added as an important acquisition to Bitstamp's growing list of supported hardware Bitcoin wallets,” stated Kaja Ribnikar, Executive Assistant of Bitstamp.
+To deposit directly from Trezor to Bitstamp, here is what you do. After logging into your Bitstamp account, go to Deposit, then Bitcoin, then HD Wallet, then Trezor. Select desired amount and click on “Deposit.” Connect your TREZOR and follow the instructions. Authenticate to your TREZOR with PIN/Passphrase. Choose the account you want to send the Bitcoins from. Check and confirm the transaction on the Trezor screen, and you are done.
+To withdraw funds to your Trezor, this is the procedure: After logging into your Bitstamp account, go to Withdrawal, then Bitcoin, then HD Wallet, then Trezor.
+Connect your TREZOR and follow the instructions. Authenticate your TREZOR with your PIN/Passphrase. Choose the account you want to send the Bitcoins to. Select desired amount and click on “Withdrawal”. Confirm the withdrawal transaction via received e-mail and you are done.
+This came on the heels of Bitstamp’s integration with Ledger Bitcoin hardware wallet thirty days ago. Based in Luxembourg, Bitstamp is one of the oldest Bitcoin exchanges in existence, as it has passed five years performing transactions in the Bitcoin market this past August.
+Bitstamp
+Trezor
+Partnership
+Bitcoin Wallet
+Security
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

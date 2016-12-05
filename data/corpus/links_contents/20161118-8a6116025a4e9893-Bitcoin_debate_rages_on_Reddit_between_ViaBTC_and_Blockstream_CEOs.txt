@@ -1,0 +1,50 @@
+https://ibsintelligence.com/ibs-journal/ibs-news/bitcoin-debate-rages-on-reddit-between-viabtc-and-blockstream-ceos/
+Bitcoin debate rages on Reddit between ViaBTC and Blockstream CEOs - IBS Intelligence
+   IBS Newsletter
+Register/Log In
+Contact Us
+Your Cart - £0.00
+Menu
+18
+NOV 2016
+Bitcoin debate rages on Reddit between ViaBTC and Blockstream CEOs
+Previous | Next
+ Head of Bitcoin mining pool ViaBTC has said that many in China’s Bitcoin community support the introduction of a larger block size on the public blockchain.
+Haipo Yang took questions on news aggregator Reddit in an “ask me anything” (AMA) discussion thread. Yang was asked about Bitcoin Unlimited, a software that has been hyped as a successor to Bitcoin Core – the primary client for the Bitcoin network. ViaBTC itself was launched June this year.
+Yang says that the Chinese mining community wants a larger block size but hasn’t uniformly supported Unlimited. He did argue, however, that Unlimited is closer to the original ideas of Bitcoin’s pseudonymous creator, Satoshi Nakamoto. “Most pools in China have lost their trust in Core and shifted their attention to Unlimited,” writes Yang. “The reason that they haven’t shifted to BU is that they are waiting for a better chance and also a possible compromise from Core.”
+The AMA attracted others from the Bitcoin world, with Blockstream CEO Adam Back chiming in to say that Unlimited “is non-functional , little tested, partly-implemented, more aspiration than something that could be run. with limited developer experience, effectively no QA and bitcoin security management experience and would probably just crash the network for people who followed it’s blocks.”
+A debate emerged rapidly, with Yang telling Back that “the block size issue is much more urgent than transaction malleability, but for the previous two years you have done nothing to address this.”
+Other users rose to the ViaBTC CEO’s defence. “You hit the nail on the head in every point. The community is behind you, it’s time to democratize development and embrace forks as evolutionary rather than catastrophic,” writes one. As ever the Bitcoin community is divided in opinion on where to go next.
+By Alex Hamilton
+Follow Alex at @ADHamilton91
+Related Reports
+Core Banking Systems Case Studies
+£2,000.00
+ADD TO CART
+Core Banking Systems Market Dynamics Report 2016
+£2,000.00
+ADD TO CART
+IBS Journal
+
+£545.00
+SELECT OPTIONS
+Universal Banking Systems Report
+£1,500.00
+ADD TO CART
+
+
+Advertise with us
+Weekly Round-up – 28th October
+Market News
+About IBS
+IBS Journal
+Reports
+Consulting
+Buy
+Events
+Contact Us
+Privacy Statement
+Terms & Conditions
+Why buy from us
+© IBS Intelligence and Cedar Management Consulting International, LLC.
+Developed by: Pi Techniques

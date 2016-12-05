@@ -1,0 +1,25 @@
+Popular Bitcoin site hit by DNS attack, loses control of own website – Naked Security
+This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. Learn More
+Popular Bitcoin transaction site blockchain.info seems to have suffered a temporary DNS attack that left the company’s internet properties under rogue control for a while.
+The attack was what’s known as a DNS redirect or a DNS hijack, which is where a crook persuades the world to take a wrong turning on its way to your website.
+The name of the attack comes from the fact that the system to convert server names such as sophos.com to internet numbers such as 31.222.175.174 is known as the Domain Name System, or DNS for short.
+The idea is that you run at least two DNS servers, or pay someone else to run them for you, that potential visitors to your internet sites can query to find out where all your other internet servers can be found.
+That means you can add and remove servers, move servers around, switch network providers, adapt to changing load, and react to IT issues such as outages, without needing to republish details of your new locations to any sort of massive centralised list. (DNS is a distributed global database that avoids any single point of failure or congestion.)
+You register your DNS servers with an official registrar – most countries have many to choose from, just like insurance providers or health insurers – and the registrar deals with process of the adding and updating the necessary entries in your country’s DNS database, so that visitors can find out where to find you online.
+Most registrars provide tools that let you update your own DNS records, for example by using a web portal, via email, or by calling a telephone support line.
+A crook who gets hold of your DNS password, or who can send the right sort of email, or who can sweet-talk your registrar into making unauthorised changes…
+…can effectively hijack all your network traffic and take over your servers, without hacking any of the servers themselves.
+A DNS hijack is a bit like a mobile phone SIM swap, where the crook persuades a mobile phone shop to re-issue your SIM card (this automatically cancels the old one), so your calls and text messages suddenly start going to his phone instead.
+Or it’s like a fraudulent postal redirect where the crook forges your signature at the post office, and all the mail that ought to have dropped through your letterbox gets delivered to his house (or PO Box) instead.
+As with a SIM swap or a mail redirect, a DNS hijack causes two related problems:
+You are effectively cut off, so although you can contact your service provider to seek a fix, they can’t easily reply to you. In fact, the crooks will get their replies instead.
+You are now effectively the outsider, and you need to convince your service provider to switch things back. You may end up needing social engineering skills of your own to establish that you’re not a DNS hijacking crook yourself.
+In this case, it seems as though blockchain.info was able to get back control of its own DNS records fairly quickly, so that the crooks behind the attack didn’t get very far with it.
+Many registrars allow you to turn on various “strict mode” options for DNS changes, for example:
+By enabling two-factor authentication for logging in. This makes it harder for the crooks to login fraudulently, because your password alone is not enough.
+By requiring a telephone callback to confirm change requests. By calling you back on a phone number you provided earlier, you’ll not only be notified when suspicious changes show up, but also be able to prevent those changes from going through.
+A callback typically adds a few minutes of delay when you are making changes, but it’s a modest inconvenience compared to finding that all your network traffic – notably web and email – has been taken over by an imposter.
+Don’t be afraid to trade a little bit of inconvenience for an awful lot of extra security!
+Paul Ducklin is a passionate security proselytiser. (That's like an evangelist, but more so!) He lives and breathes computer security, and would be happy for you to do so, too. Follow him on Twitter: @duckblog
+Lad who attacked Spamhaus in DDoS attack avoids prison, given a second chance
+© 1997 - 2016 Sophos Ltd. All rights reserved. Powered by WordPress.com VIP

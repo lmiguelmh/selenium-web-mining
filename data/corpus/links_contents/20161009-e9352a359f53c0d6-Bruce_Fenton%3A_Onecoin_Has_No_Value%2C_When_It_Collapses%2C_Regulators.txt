@@ -1,0 +1,56 @@
+https://cointelegraph.com/news/bruce-fenton-onecoin-has-no-value-when-it-collapses-regulators-will-blame-all-cryptocurrencies
+Bruce Fenton: Onecoin Has No Value, When It Collapses, Regulators Will Blame All Cryptocurrencies
+Toggle navigation
+BTC
+738.14
+0.16%
+ETH
+9.44
+1.82%
+Advertise
+  2016-10-09 12:30 PM
+Author Frisco d'Anconia
+Bruce Fenton: Onecoin Has No Value, When It Collapses, Regulators Will Blame All Cryptocurrencies
+21076 Total views 1857 Total shares
+Bruce Fenton, founder of Bitcoin Foundation, adds his voice to the ubiquitous claims that OneCoin is a Ponzi scheme and its perpetrators should be arrested. In an interview given to Cointelegraph he explains why.
+Allegations of scam have reached its fever pitch after OneCoin claimed to have successfully  launched and transferred old coins to a new Blockchain at an event in Bangkok. It appears the company’s claims are unsubstantiated.  
+Cointelegraph spoke with Bruce Fenton about the situation:
+Cointelegraph: A couple of days ago OneCoin claimed to have successfully switched on their new Blockchain transferring coins from the old one to the new? Ain’t you impressed?
+Bruce Fenton: Heh.
+CT: Looks like if anything goes wrong it’s the reputation of OneCoin that’s at stake here. Why are you and some members of the community Concerned?
+BF: Because when OneCoin collapses and thousands lose their money the regulators will blame all cryptocurrencies.
+CT: Haven’t they showed enough proof of the existence of their Blockchain?
+BF: Oh no − it’s just a fake video they showed. Also, a Blockchain doesn’t mean anything. It doesn’t back the value.
+CT: Do the numbers of coins and minutes they were mined raise eyebrows?
+BF: It means nothing. And is unlikely true. I can launch a coin today and issue a billion coins. It doesn’t mean they have values. Why would my coin have value? It’s only worth something if people will pay. No one will pay for OneCoin. It’s a scam.
+CT: Not less than 8400 people were at the launch in Thailand...
+BF: Okay but would 8400 people mean it’s not a scam? Look − it’s like this − Dr. Ruja just made up this idea for a cryptocurrency and gets people to give her money. That’s it. If you invested I'm sorry but that money is gone. Onecoin has no value in the open market − that's why it doesn't trade.
+CT: Let's look at Onecoin’s claims. What cardinal features are the so-called digital currency missing?
+BF: Well where is the Blockchain? Can I see the code? What is the tech based on? Is there a block explorer? Is it transparent? Where were the coins before and how are they issued? Where does the money go once it's given to Onecoin? How do you know the amount of coins you have?
+CT: Do we have cryptocurrency without a wallet?
+BF: Not having a wallet is also a concern.
+CT: What about Packages that requires Know Your Customer (KYO). Looks like that contradicts cryptocurrency?
+BF: I don't care much about that.. It's mainly a device for the state to track people better.
+CT: If those investing in Onecoin care to listen, do you have a message for them?
+BF: Sure, research independently. There are entire sites that focus on why this is a scam… Also learn about what Blockchain tech really is and ask what would give this any value.
+No evidence of the real Blockchain
+The group made up of leading technical developers, business people, adopters and investors, in a release on Github expressed their sincere and worried concerns about the illegal activities of the Cryptocurrency outfit.
+Experts say that what the company has shown on screen at the Hong kong event was actually faked.
+“There is no evidence that there really is such a Blockchain by any readable definition,” the release stated. As a matter of facts up to now Onecoin has no wallet combined with some missing cardinal features of cryptocurrency.
+Lack of Transparency
+In their view Onecoin’s promises on returns are “mathematical impossible and shrouded in obscurity”.
+The statement said that the use of misleading information, in particular the use of stock footage claiming it was "mining" a cryptocurrency is alarming.
+The release stressed:
+“Onecoin places arbitrary values on fictitious tokens which do not have a relation to real value on any major exchange or other free market or independent measurement of value.”
+Industry’s Reputation
+Bruce and his peers consider the activities of Onecoin as an enormous blight on the Blockchain and the cryptocurrency ecosystem.  They believe this could lead to regulators clamping down on the activities and their investments. What they are clearly unhappy about is the false representation of Blockchain in the company’s marketing presentations.
+Call to Book
+The group are therefore calling on the authorities to look into the activities of the group. They are also appealing to the authorities to warn the public as well.
+“We request that Onecoin be investigated for violation of existing laws and that your agency consider issuing a consumer warning.”
+Bruce Fenton
+OneCoin
+BlockChain
+Ponzi Scheme
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

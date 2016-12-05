@@ -1,0 +1,74 @@
+http://www.banklesstimes.com/2016/10/08/esports-platform-delivers-decentralized-dispute-resolution/
+ESports platform delivers decentralized dispute resolution – Bankless Times
+Nov. 25, 2016, 8:50 pm
+Go to...
+Alt-Finance
+Crowdfunding
+Fin-Tech
+Peer-to-Peer (P2P)
+Real Estate
+Small Business
+Crowdfunding ESports platform delivers decentralized dispute resolution
+ESports platform delivers decentralized dispute resolution
+TONY ZERUCHA
+OCT. 8, 2016, 6:54 PM
+666 VIEWS
+0
+Actions
+Facebook
+Twitter
+Google
+The following is a guest post from FirstBlood Technologies.
+When gamers enter competitive eSports matches, there is always an element of trust involved.
+Competitors must have confidence that the opposing team or individual are playing by the rules.
+In addition to that is the post-match resolution. Competitors must duly know that the outcome of the game will be reported and registered accurately.
+FirstBlood, a U.S. company headquartered in Boston, is moving toward decentralizing the dispute resolution process in competitive eSports gaming through use of blockchain technology, which will also facilitate the platform’s matchmaking and rewards features.
+An Ethereum-based platform, FirstBlood’s disputes process is an interesting framework, explains FirstBlood smart contract architect, Zack Coburn, who said their system will consist of “pools,” made up of “witnesses” and “jurors.”
+Witnesses will provide the basic function of match verification. They are programmed to monitor game application programming interfaces (APIs) to determine match winners. Witnesses will operate on automated node software, much like a Bitcoin node.
+“Think of witnesses as Bitcoin miners,” says Coburn, who explained that witnesses confirm matches much like Bitcoin miners confirm monetary transactions.
+Each match is determined by two random witnesses. Witness node operators then receive a share of the platform’s game fee as a monetary reward for completing their function. These rewards come from the platform’s prize-pool.
+Initially, rewards will be solely in the form of FirstBlood tokens: “1SŦ” or “1ST”. However, as the project exits its alpha phase, developers plan to add support for reward payouts in other Ethereum-based tokens and digital currencies.
+When players disagree on the outcome of a match, jurors take over, said Coburn. Groups of jurors are randomly selected for each disputed match and will be real people reviewing evidence submitted by the players. After reviewing both witness API data and player evidence, jurors will then vote on who won the match.
+Jurors, according to Coburn, have an incentive to be honest because they receive monetary tokens as a reward for correct judgements. Correct judgements are determined by a majority vote. Incorrect or dishonest votes result in a penalty.
+Through this system, players “don’t have to trust each other, or even FirstBlood to correctly determine match winners,” said Coburn.
+FirstBlood isn’t the only eSports platform searching for the best dispute resolution solution.
+Major League Gaming, one of the largest competitive gaming organizations in North America, developed their own intricate dispute resolution system for its online GameBattles platform. This was enacted to try to combat dishonesty and the various disagreements that can surface in competitive gaming, especially online.
+If a GameBattles match gets disputed, the players have a responsibility to submit a ticket to the Community Match Resolution System (CMRS). From there, a volunteer GameBattles member reviews the match and then rules on the outcome.
+For paying members who have upgraded to premium status, there is still one more level of recourse. If a premium team or individual disagrees with the CMRS ruling, they can escalate the dispute to GameBattles staff. After escalation, a GameBattles employee will review the case and make the final decision on the match’s outcome, very much like an appeals process.
+Coburn states, the “[CMRS] is quite similar to [our] system of witnesses and jurors.”
+The major difference, however, as Coburn points out, is that “FirstBlood is decentralized, while GameBattles is not.”
+A few years ago, Reddit user IJumbot alleged an opposing team won a dispute by virtue of their premium status.
+“Can anyone give me a good reason to have [premium players]? No you can’t,” he wrote, adding, people who purchase premium memberships do so for one of two reasons: “you are buying your wins or you got it so you could win a dispute against [other] premium teams.”
+The best option to guard against this is by documenting each match with pictures and videos of gameplay and the final scoreboard. This is not something most gamers want to do on a regular basis.
+FirstBlood’s platform, said Coburn, works to automate and decentralize — thereby democratizing — the process. But, being Ethereum-based, the company has a unique worry within the eSports ecosystem.
+Having hitched their blockchain-based enterprise to that of the world’s second most valuable cryptographic currency by market capitalization (just over US $1.1 billion at time of writing), FirstBlood is embroiled in the warring battle currently in full swing.
+The conflict began with the hard fork of the Ethereum protocol in July. Failing to achieve consensus before moving ahead, Ethereum then split into two independent blockchains — Ethereum “Classic” and the new post-fork chain.
+This has led to each blockchain developing separate communities, both hoping to see their rivals fail in the battle to attain full consensus, if that ever occurs. Some went as far as planning a hostile takeover against Ethereum Classic.
+FirstBlood thus runs the risk of being burdened from any negative consequences that may offshoot from the conflict.
+Nevertheless, Coburn insists FirstBlood offers gamers benefits previously unseen in the eSports landscape.
+When it comes to fair and equitable judgment, a truly democratic system is one where a peer-to-peer framework is afforded, explained Coburn. Blockchain technology provides this and therefore an environment where objectivity and reason can pervade.
+Firstblood recently completed a crowdsale of its FirstBlood tokens (“1SŦ” or “1ST”) raising over $6.1 million in ether on Sept. 26, which, according to the terms of the crowdsale, will be locked away for a two-month period.
+Get Daily Digest
+0
+Actions
+Facebook
+Twitter
+Google
+About Tony Zerucha
+Tony Zerucha is managing editor of Bankless Times.
+
+The evolution of the crowdfunding and peer-to-peer lending scenes is absolutely fascinating to chronicle.
+
+It is a joy to be around people with such passion and vision.
+
+Leave A Comment
+Notify me of follow-up comments by email.
+Notify me of new posts by email.
+About Us
+Editorial Policy
+Mission
+Privacy Policy
+Start a conversation
+Bankless Times advertising rate card
+Affiliate Partnerships
+© Copyright 2016 Bankless Media Inc.

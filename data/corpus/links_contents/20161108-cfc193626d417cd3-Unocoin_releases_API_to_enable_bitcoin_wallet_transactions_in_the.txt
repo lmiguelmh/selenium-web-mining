@@ -1,0 +1,92 @@
+http://thetechportal.com/2016/11/08/unocoin-bitcoin-api-launched/
+Unocoin releases API to enable bitcoin wallet transactions in the country | The Tech Portal
+NEWS STARTUPS
+Unocoin releases API to enable bitcoin wallet transactions in the country
+3 weeks agoSimran Agarwal
+Latest News
+Airtel deploys 4G Advanced technolo ...3 mins ago
+PREV NEXT
+India’s popular bitcoin company, Unocoin has today launched its first-ever application programming interface (API). With the new API, companies and individuals will be able to generate bitcoin wallets. Further, they will also be able to buy, sell, send and receive bitcoins. Bitcoin wallets will permit merchants to request and accept payments across the globe. Also its partnership with Blockstream, cross-border transactions will be carried out at an economically driven faster pace.
+Commenting on the launch of the API, Sathvik Vishwanath, co-founder and CEO of Unocoin said,
+We’ve been excited to develop a robust API for use by companies around the world. Our API is best described as an on-ramp for firms looking for a simple way to gain entry into one of the world’s fastest growing and largest potential markets.
+Our team has been working non-stop prior to and during our pre-series A round to provide the most reliable, full-featured API, but one that, most importantly, is incredibly easy to adopt.
+The company had been hard at work to develop a robust API for use by companies around the world. This API is best described as “an on-ramp for firms looking for a simple way to gain entry into one of the world’s fastest growing and largest potential markets.” The Unocoin team has been working non-stop prior to and during our pre-series A round to provide the most reliable, full-featured API to its customers.
+The API will furnish the users with historical as well as real-time price updates of bitcoin. It also includes alerts regarding the arrival of payments. Further, it will enable companies to submit KYC(know your customer) details of beneficiaries and to remit bitcoins to India. The company is planning to release its android app which will be built entirely off the API.
+Our API is the engine powering our mobile apps, through which customers will be able to store and spend bitcoin on the go, and also be able to buy bitcoin with just a click of a button,
+adds Vishwanath.
+The funding of $1.5 million raised by the bitcoin company in September is being planned to be used for product development, and team plus geographical expansion. The major investors include Blume Ventures, Mumbai Angels and ah! Ventures along with international investors such as Digital Currency Group, Boost VC, Bank to the Future and FundersClub.
+Transfers from Canada to India are now much easier as Paycase, a Canadian remittance platform, is using Unocoin’s API and Blockstream’s Liquid network. With the release of its API, Unocoin still has a really long way to tread.
+With the API and infrastructure in place, we can now scale this model beyond our current corridors and into the promising Indian market,
+said Paycase Co-founder and CEO Joseph Weinberg.
+Simran Agarwal
+TagsAPI release bitcoin bitcoin wallet Unocoin Unocoin funding
+
+You may also like
+
+INTERNET NEWS
+Airtel deploys 4G Advanced technology in Tamil Nadu to deliver data speeds of up to 135 Mbps
+3 mins agoAnmol Sachdeva
+Bharti Airtel, popularly known to us as simply Airtel, is gearing up to tackle the rapidly scaling 4G services of a new arch-nemesis Jio. The company...
+INTERNET NEWS
+Russian propoganda campaign reportedly led to the flood of fake news on social media
+1 hour agoAnmol Sachdeva
+Ever since Donald Trump went on to an highly unexpected US Presidential elections win, fake news and its rampant propagation on social media has been...
+BUSINESS NEWS
+Payments platform Stripe adds further $150 Million at a $9 Billion valuation
+2 hours agoAastha Chugh
+American technology giant Stripe, which enables websites and apps incorporate payments services into their apps via an API and a few lines of code...
+GAMING NEWS
+Street Fighter 5 to be supported until “2020 or So,” says Capcom
+3 hours agoDhruv Chopra
+Capcom plans on supporting Street Fighter V “as far as 2020 or so,” as was stated by the game’s executive producer, Yoshinori...
+BUSINESS MOBILE NEWS
+Xiaomi isn’t making money on hardware, but reaffirms, that shrinking smart phone sales won’t hit the company
+15 hours agoAastha Chugh
+Chinese electronics upstart Xiaomi, has witnessed a sharp drop in its smart phone sales, but the company does not fear as it is of the view that they...
+NEWS STARTUPS
+Health-tech startup Idea Bubbles secures Rs 4.5 crore funding
+15 hours agoJeet Suthar
+Joining in the rather long list of Health tech startups raising funds this year, is Idea Bubbles. The company has raised Rs. 4.5 crore in its...
+NEWS SINGAPORE STARTUPS
+The Mobile Wallet collaborates with MatchMove to further grow its footprint in India and SEA
+16 hours agoKajal Joshi
+The Mobile Wallet (TMW) is India’s first complete payment solution that strives to make it easy and possible for its users to complete their daily...
+NEWS STARTUPS
+TapChief secures undisclosed investment from Paytm and a cohort of angel investors
+20 hours agoAnmol Sachdeva
+TapChief, the PitchOff Season 3 finalist startup which enables users to seek professional advice from industry experts in any domain via a simple...
+Add Comment
+Click here to post a comment
+recommended
+Samsung to acquire Harman in a $8 Bn all-cash deal to further bolster its connected car tech
+Anmol Sachdeva4 Min Read
+the latest
+Airtel deploys 4G Advanced technology in Tamil Nadu to deliver data speeds of up to 135 Mbps
+Anmol Sachdeva3 Min Read
+Russian propoganda campaign reportedly led to the flood of fake news on social media
+Anmol Sachdeva4 Min Read
+Payments platform Stripe adds further $150 Million at a $9 Billion valuation
+Aastha Chugh3 Min Read
+Street Fighter 5 to be supported until “2020 or So,” says Capcom
+Dhruv Chopra2 Min Read
+Xiaomi isn’t making money on hardware, but reaffirms, that shrinking smart phone sales won’t hit the company
+Aastha Chugh3 Min Read
+the latest
+Airtel deploys 4G Advanced technology in Tamil Nadu to deliver data speeds of up to 135 Mbps
+Anmol Sachdeva3 Min Read
+Russian propoganda campaign reportedly led to the flood of fake news on social media
+Anmol Sachdeva4 Min Read
+Payments platform Stripe adds further $150 Million at a $9 Billion valuation
+Aastha Chugh3 Min Read
+Street Fighter 5 to be supported until “2020 or So,” says Capcom
+Dhruv Chopra2 Min Read
+Xiaomi isn’t making money on hardware, but reaffirms, that shrinking smart phone sales won’t hit the company
+Aastha Chugh3 Min Read
+Share
+About Team <Contact
+GLOBAL NETWORK
+Australia 台灣 / 中國 China (English) Indonesian Singapore UK
+Copyright © 2016. All Rights Reserved TheTechPortal
+Indonesian bike-hailing giant Go-Jek acqui-hires Pune-based app development firm LeftShift Technologies
+Following positive Ubisoft earnings, Vivendi acquires even more of its stock
+COMMENT

@@ -1,0 +1,26 @@
+Following a promising trial of its routing network last week by French startup Acinq, Montreal-based Blockstream has announced that it has sent the first end-to-end transaction over the Lightning Network, a highly-anticipated top layer for the bitcoin network designed to boost transaction capacity.
+What the team called "Lightning's first strike" saw its developers send a transaction across a test version of the network successfully to another party, a process that included invoicing that party for bitcoin and routing the payment through multiple nodes.
+Sent over the bitcoin testnet, the transaction of 0.01 test BTC was used to "sell" a picture of two cats sitting in front of a sunset composed of ASCII characters.
+While this may seem trivial, the announcement can be seen as a sign that Lightning is progressing from the concept stage toward implementation. To date, most of the implementations have focused on high-level items like routing and privacy, rather than offering an example of how Lightning might enhance bitcoin at scale.
+"We had all these pieces. That's really exciting as a geek. In some ways, attaching them all together is trivial. In another way, it's a real milestone to get to that point."
+Though not the company's signature project, Blockstream has long been a contributor to the Lightning Network, as have several other startups. (There's even one VC-backed firm called Lightning, launched last year).
+In particular, Russell has been working on an implementation of Lightning Network since March 2015. Likewise, Blockstream core tech engineer Christian Decker, who joined Blockstream in August, originally proposed Duplex Lightning Micropayment Channels, another way to tap micropayment channels for the same purpose: scaling bitcoin.
+But the Blockstream engineers described the end-to-end implementation as quite a different test than Acinq's. Rather than focusing on efficient routing, the engineers were testing a successful transaction across the network.
+"Their work shows how, by way of simple analogy, one can create a streetmap to get from A to B in an efficient way, while the test we've demonstrated here ... has us actually walking that path on the street," the blog post explains.
+And the testing was conducted on the bitcoin testnet. The two developers view their move from bitcoin regtest (a way to test features on top of bitcoin) to the sometimes unpredictable testnet a big deal.
+"This is poking your nose a little further out into the real world," Russel said.
+The engineers also noted that the transaction speed was about a few tenths of a millisecond, a time they compared to those executed on the bitcoin blockchain and its 10-minute block confirmation times. The results, they inferred, thereby show the increased user experience Lightning could bring to the network at scale.
+"It's really incredible to us," Decker said, adding: "It took me longer to go back to the webpage and click on a link to get my cat, than the actual transfer."
+All of the implementers of different Lightning projects plan to meet in Milan, Italy, after this weekend’s big bitcoin developer conference Scaling Bitcoin to draw up new standards.
+Along the lines of this goal, Decker said the plan is to "set up a small ecosystem" on the bitcoin testnet for micropayment channels. Blockstream further plans to release its work so that anyone can try out the technology, or so that "you can buy your own cat on testnet," as Russell put it.
+But while the implementation is a working end-to-end system, the engineers say there are other features they have worked on that still need to be added to this testnet version.
+For example, each node in this testnet version has "global knowledge" of the topology of the network. So, as far as finding a path across the network, it doesn't use an efficient routing system that is able to scale to a larger number of network nodes.
+Nonetheless, they were able to put the pieces together for a working testnet transaction.
+"I think it was incredibly exciting to do this," Russell said. "I was surprised. Working for year on this, it’s easy to lose perspective on how exciting this stuff is. To see it come together and to see someone buy a cat is surprisingly cool."
+See the demo of the process by way of the command line here.
+If they so choose, miners can now safely signal their support for a major bitcoin update.
+Colored coins over Lightning? A demo mash-up of the two experimental bitcoin technologies went live today.
+There aren't many steps left before bitcoin's Lightning Network will be finished — or at least an early version of it.
+The US Patent and Trademark Office (USTPO) has published a patent application submitted by bitcoin startup Blockstream for its work on sidechains.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

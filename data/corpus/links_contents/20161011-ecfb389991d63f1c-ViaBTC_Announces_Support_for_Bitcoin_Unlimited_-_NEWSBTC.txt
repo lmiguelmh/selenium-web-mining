@@ -1,0 +1,113 @@
+http://www.newsbtc.com/2016/10/11/viabtc-bitcoin-unlimited-mining/
+ViaBTC Announces Support for Bitcoin Unlimited - NEWSBTC
+25-11-2016
+04:52 pm
+      BTC
+      LTC
+      USD
+      EUR
+      GBP
+      CNY
+      JPY
+      =
+      USD
+      GBP
+      EUR
+      JPY
+      CNY
+      BTC
+      LTC
+      sponsored by SimpleFX
+LATEST NEWS
+Bitcoin Price Watch; A Slow End To The Week
+EY Unveils Strategy to Create Mainstream Bitcoin Traction In Switzerland
+Ethereum Platform Receives a New Geth Update after Consensus Flaw
+Redefining the Short Term Recruitment Industry -- ChronoBank
+Bitcoin Price Watch; End Of The Week Trading
+Ledger Blue Hardware Cryptocurrency Wallet Now Available For Pre-order
+Ethereum Price Technical Analysis – ETH/USD Downsides To Continue
+Bitcoin Price Technical Analysis for 11/25/2016 - Hold or Fold at Channel Support?
+Fortunejack – The only Gambling Site Offering Binary Options Trading
+Japan's Mitsui Sumitomo Introduces New Bitcoin Insurance
+Bitcoin Price Watch; A Wasteland Of Volume
+Swift Boasts Blockchain Technology Will Not Disrupt Their Business Model
+Is IRS Overstepping Boundaries by Issuing Summons to Coinbase?
+Bitcoin Price Watch; Thanksgiving Volatility
+Tendai Biti: "Zimbabwe Should Adopt Bitcoin As The National Currency"
+Ethereum Classic Price Technical Analysis – ETC/BTC Almost Tested 0.00100BTC
+Ethereum Price Technical Analysis – Can ETH/USD Break This?
+Bitcoin Price Technical Analysis for 11/24/2016 - Eyes on This Triangle
+NEWS
+ANALYSIS
+CHARTS
+EDUCATION
+BROKERS
+CASINOS
+EVENTS
+ADVERTISE
+PR PLANS
+SUBMIT PR
+ViaBTC Announces Support for Bitcoin Unlimited
+Author
+Gautham
+Categories
+Bitcoin News, News
+39
+
+
+
+ViaBTC has announced its support to Bitcoin Unlimited, mines its first Bitcoin Unlimited block. Read more...
+Bitcoin Unlimited, the fork of Bitcoin blockchain is receiving a lot of support lately. Soon after Bitcoin.com mining pool announced its support to Bitcoin Unlimited, another mining pool, ViaBTC has followed suit.
+ViaBTC, which claimed itself to be the fifth largest Bitcoin mining pool on Twitter recently has allocated its full hashing power to mine Bitcoin Unlimited blocks. The mining pool, launched on June 5, 2016, has rapidly climbed through the ranks to be among the top mining pools on the Bitcoin network.
+Yesterday, ViaBTC mined its first 2MB Bitcoin Unlimited block before confirming its support to Bitcoin Unlimited on mainnet. According to recent statistics, ViaBTC currently accounts for over 10% of the total hash rate on the Bitcoin Network. This puts the mining pool in 4th position following AntPool at 17%, F2Pool at 15% and BTCC Pool at 12% respectively. BW.Com with a hash rate distribution of 9% currently stands in 5th position, after ViaBTC.
+ViaBTC is the brainchild of Haiyang who previously worked with Tencent. He is popularly known as the “Die-hard fan of Bitcoin” among his peers. The total number of Bitcoin Unlimited blocks mined are currently distributed between ViaBTC, Bitcoin.com, and SlushPool mining pools.
+ViaBTC’s contribution to Bitcoin Unlimited has led to an increase in the average number of blocks mined in the past two days. The contribution in the recent days has had a significant impact on the network. The number of Bitcoin Unlimited nodes have now crossed the previous threshold of 240 and is expected to reach 300 in the coming days.
+Bitcoin.com mining pool had initially chosen Bitcoin Classic over Bitcoin Unlimited on its testnet, only to switch back to the former during the launch of its mainnet. There are still few compatibility issues between bitcoin Unlimited and Bitcoin Classic, especially when it comes to BIP109 support. Whether these difference will be solved, is yet to be seen.
+READ MORE: Bitcoin.com Mining Pool Unravels Cracks in Bitcoin Community
+For those who believe that Bitcoin Unlimited is the only way forward, the future currently looks bright.
+Ref: Twitter | ViaBTC on Medium | Qntra | Charts: Blockchain.info | Coin Dance | Image: Bitcoin Unlimited
+39
+PUBLISHED BY
+Gautham
+Gautham has an eye for anything new. He has been part of multiple startups and his current project focuses towards the social good sector. An entrepreneur, engineer and enthusiast (bitcoin, of course), he has been moonlighting as a writer for multiple publications and currently writes at NewsBTC. Find him on twitter as @gautham_n and on facebook at /gautham.nm View all posts by Gautham
+NEWSBTC - EDITOR'S PICKS
+Brokers
+Casinos
+1
+Review Trade Now
+2
+Review Trade Now
+3
+Review Trade Now
+4
+Review Trade Now
+5
+Review Trade Now
+FEATURED PRESS RELEASES
+Nov 21 | 12:00
+Electronic Government as a Service — eGaaS Enters Beta Testing Phase
+Nov 17 | 12:25
+Bitcoin’s Fastest Growing Community Issues Innovative BitConnect Coin ICO
+Nov 16 | 20:26
+Darcrus: Decentralizing the Business World
+Nov 16 | 13:05
+IBM, Microsoft and Sberbank shared experience in blockchain developments. How did Blockchain & Bitcoin Conference in Moscow go?
+Nov 14 | 13:30
+A Better Ethereum Wallet for Investors
+VIEW MORE
+SUBMIT PR
+SUBSCRIBE TO OUR NEWSLETTER
+Ⓒ Copyright 2016 NEWSBTC. All Rights Reserved
+About
+Team
+Business Listing
+T & C
+Bitcoin Forum
+Contact Us
+Advertise
+Privacy Policy
+Comments Policy
+Franchise
+Sitemap
+NewsBTC is a news service that covers bitcoin news, technical analysis and forecasts for bitcoin and other altcoins. Here at NewsBTC, we are dedicated to enlightening people all around the world about bitcoin and other cryprocurrencies. We cover news related to bitcoin exchanges, bitcoin mining and price forecasts for various virtual currencies.
+×

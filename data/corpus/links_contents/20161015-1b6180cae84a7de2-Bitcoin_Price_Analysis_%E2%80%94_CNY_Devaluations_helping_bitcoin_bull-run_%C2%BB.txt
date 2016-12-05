@@ -1,0 +1,34 @@
+http://bravenewcoin.com/news/bitcoin-price-analysis-the-cny-devaluation-helping-bitcoin-bull-run/
+Bitcoin Price Analysis — CNY Devaluations helping bitcoin bull-run » Brave New Coin
+Bitcoin Price Analysis — CNY Devaluations helping bitcoin bull-run
+Nathaniel Freire, 15 Oct 2016 - Analysis, Bitcoin Price
+Nathaniel Freire is a full time day trader trading Digital Assets, Forex and Stocks. Based in New Jersey, Nathaniel Freire specializes in technical analysis with a twist of social sentiment and fundamental analysis. You can follow Nathaniel on Twitter @Cryptocoinrun
+The technical setups posted below use simple trend detection, support and resistance, channels, pattern and candlestick analysis. We aim for high-probability trade setups on BTCUSD and use very few indicators. All charts use BNC’s Bitcoin Liquid Index for maximum accuracy.
+The timeframe for trades is 1 to 7 days, so we’ll use 4h candlesticks. Bitcoin is best traded as a purely speculative commodity on 4h+ timeframes.
+Market Sentiment And Macro Key Points
+This section is an overview of news headlines or events that may affect BTCUSD.
+The mining pool ViaBTC, decided to move all of its mining operations to Bitcoin Unlimited. ViaBTC's pool shrank to roughly 10% of the network’s processing power since the announcement.
+SEC seeks additional comments on Winklevoss Bitcoin Trust ETF rule change. This action does not signal a rejection. It just merely delays the timeline for approval as the SEC looks for additional information before they make a final decision.
+Bitcoin update 0.13.1 Segwit update looks to be in its final stages, 96% done according to GitHub.
+The Germany Government reiterated that it will not take a stake in Deutsche Bank.
+The British Pound (GBP) took a beating, sliding to 31-year lows in a turbulent post-Brexit landscape. 
+CNY further devalued as China's foreign trade faces further pressure. 
+CNY / BTC showing an obvious pattern
+Bitcoin Liquid Index (BLX) / Chinese Yuan (CNY): Correlation window = 30 days
+A reoccurring theme was raised when speaking with various bitcoin dealer-brokers and investors based out mainland China this week. One of them put it concisely: "It's fairly straight forward what's happening; Wealthy Chinese are terrified their CNY will continue being depreciated and are looking for any and all Assets to hedge into. Bitcoin is just another option now and proving to be more and more attractive as a hedge". 
+Considering the devaluations and the fact that China accounts for the bulk of Bitcoin mining and trading activity globally, it is no surprise to see an almost diametric correlation between CNY & BTC.
+Some analysts are forecasting a 7:1 CNY/USD by end of this year, which will further strengthen the bullish case for bitcoin as a hedge. 
+Long Term Technical Analysis
+  We are finally showing progress in the long term chart, all of our core key indicators are showing bullish confirmations across the board. First, we can see that we are starting to break out of the lower part of the trend channel which is a very bullish signal. We can also see that the volume in the recent breakout has really picked up to levels we haven't seen in almost a year. On Balance Volume, which measures buying and selling pressure, is breaking out in all time highs showing that the recent volume is mainly buying pressure. And finally the inverse head and shoulders structure is still in play. We will see all time highs if this pattern completes.
+Long Term Trade Idea
+  In our last analysis we predicted that BTC will break out and test the $650 resistance area which it has. Now we are sandwiched between the $650 resistance and the .764 fibonacci level that is currently acting as strong support. We remain bullish as we still see much more upside, enforced by the fact that we are still in an uptrend. If looking to go long we recommend using the .764 fib support ($635) as your guide for entry with a long term reward of breaking recent highs of $780.00. It is possible that BTC fails the $635 support area sparking a sell off down to the next support area at $540.
+Short Term Trade Idea
+Zooming in to the 4hr chart gives us a better idea of what to expect. There is the possibility that BTC is in a rising wedge which could be considered bearish. BTC should test that upper trend line in the coming days which will act as some resistance. We should see a major short squeeze If BTC is able to break above the rising wedge. A short squeeze is when short sellers rush to exit their positions by buying at market price sparking a sharp increase in price. We will be keeping a close eye on that level to see how BTC reacts.
+Conclusion
+We remain bullish on Bitcoin as we are in a long term trend, the recent breakout confirms our bias. We will be keeping a close eye on the key levels mentioned above as BTC still has some tough resistance to break through. We should see a flood of new buyers with the potential banking crises at Deutsche Bank and the much anticipated scaling solution, Segwit, at its final stages before release.
+Disclaimer: The information presented in this article is general information only. Information provided on, and available from, this website does not constitute any investment recommendation.
+Recommended Stories
+Shakeup at R3 CEV blockchain consortium as banks leave
+Bitcoin Price Analysis — Decision Time
+Yours raises funds for bitcoin based Reddit alternative
+Indian Bitcoin exchange tackles liquidity shortage following the withdrawal of Rupee notes

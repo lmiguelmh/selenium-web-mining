@@ -1,0 +1,263 @@
+http://www.econotimes.com/bitpay-ramps-up-security-of-bitcoin-wallet-copay-with-intel-hardware-security-integration-364056
+BitPay ramps up security of bitcoin wallet Copay with Intel hardware security integration - EconoTimes
+Menu Search
+  |   Digital Currency
+Become a contributor
+FxWirePro: DASH/ USDT faces strong resistance at 21- day MA, good to sell on rallies
+BTC/SGD faces strong support at 23.6% fibo, good to buy on dips
+BTC/GBP takes support at 21-DMA, break below targets 550
+FxWirePro: ETH/EUR faces strong support 8 level, good to sell on rallies
+Digital Currency Revolution
+BitPay ramps up security of bitcoin wallet Copay with Intel hardware security integration
+Tuesday, October 25, 2016 6:51 AM UTC
+0 comments
+BitPay, a leading bitcoin payment processor company, has announced that it has integrated its bitcoin wallet Copay with the Intel Software Guard Extensions and Intel Identity Protection Technology (Intel IPT) with protected transaction display (PTD) security technologies.
+
+With this, Copay has become the first bitcoin wallet with Intel hardware security integration. BitPay said that this new solution will allow Copay users to rest assured that their data is better protected even if their application code or associated computer is compromised.
+
+“Providing user-friendly financial security is one of bitcoin's biggest opportunities, and Intel's silicon-based security helps us move bitcoin closer to the mainstream,” said Stephen Pair, CEO at BitPay. “We look forward to releasing this to Copay users in the coming months.”
+
+The Intel Software Guard Extensions integration offers hardware-level protection for the bitcoin wallet’s private key generation, transaction signing and private keys themselves. It will make Copay an even safer true bitcoin wallet alternative to bitcoin account services, which are vulnerable to security breaches.
+
+With this integration, users will be able to execute an application's most security-sensitive operations using the new 7th Generation Intel Core processors.
+
+“The decentralized trust which blockchain technology enables has the potential to transform interactions over the Internet, starting with bitcoin. With blockchain technology and our security and computing assets, Intel hopes to bring decentralized trust to a wide array of asset exchanges over the Internet,” said Rick Echevarria, vice president of Software and Services Group, and General Manager of the Platforms Security Division at Intel.
+
+BitPay expects to announce the general availability of the new integration soon. The firm believes that businesses that rely on Copay to receive and send high volumes of bitcoin payments will find this integration to be a welcome security tool.
+Hey guest, welcome to EconoTimes! Sign up and become a member.
+Facebook
+Google
+Twitter
+Email
+Popular In the Community
+OrangeElephant
+17h
+Vdice is neither provably fair or decentralised. https://bitcointalk.org/index.php?topic=1646783.msg16762837#msg16762837
+When Blockchain and Decentralization Disrupt Gambling - EconoTimes
+Thomas Morrison
+20h
+I think you meant to write 13.70 in the title...?
+FxWirePro: USD/ZAR rejects key resistance at 14.20 mark, sustained close below 14.01 targets 14.70 - EconoTimes
+EconoTimes 中文版 经客时代已上线
+深入了解中国动向
+开始阅读 >
+Editor's Picks
+New Finger Camera Tech Helps Blind People Read Printed Words
+Princess Leia Memory Wave Helps The Brain Better Store Memory
+Terrorism And AI Mix Seems Inevitable, Spells Disaster
+Biological vs chronological age: how old are you really?
+Watch: Virtual Reality Training For Police To Help Reduce Shootings
+IBM's Watson would do a better job at being a bank teller than most current staff
+Why batteries have started catching fire so often
+AI Should Get Credit For Its Inventions Law Expert Says
+Elon Musk: Advanced Artificial Intelligence Could Destroy The Internet
+Sexual assault enters virtual reality
+DIY networking: the path to a more democratic internet
+Samsung Banking On Foldable Phone Revolution, Patent Published
+|
+Business
+Electronics
+Bags
+Accessories
+Precious Metals
+360 Video Camera
+Portable 3D Camera
+Xiaomi Redmi 3S
+2017 Signature Diary
+ET PRO
+Market Data
+Market-moving news and views, 24 hours a day >
+305m U.S.-BASED SMALL-CAP VALUE FUNDS TAKE IN $591 MLN; 2ND-LARGEST INFLOWS ON RECORD -LIPPER
+306m U.S.-BASED ENERGY SECTOR FUNDS POST $403 MLN OUTFLOWS; LARGEST WITHDRAWALS SINCE SEPTEMBER -LIPPER
+306m MOODY'S - NEGATIVE OUTLOOK ON SOUTH AFRICA'S BAA2 GOVT BOND RATING REFLECTS RISKS RELATED TO IMPLEMENTATION OF STRUCTURAL REFORMS
+306m MOODY'S - SOUTH AFRICA'S NEGATIVE OUTLOOK RECOGNIZES DOWNSIDE RISKS WITH POLITICAL UNCERTAINTY, LOW BUSINESS CONFIDENCE, CHALLENGING EXTERNAL ENVIRONMENT
+306m MOODY'S ON SOUTH AFRICA - DELAYS TO GROWTH, FASTER-THAN-PROJECTED RISE IN INTEREST RATES AMONG RISKS TO STABILIZATION OF DEBT-TO-GDP RATIO BY 2018/19
+Most Popular
+1
+Tech City UK to deliver HM Treasury's fintech measures
+2
+FxWirePro: AUD/NZD bulls in intermediated trend rebuild positive momentum, major trend drives in non-directional, upswings implied by interest rate
+3
+UK Q3 GDP shows high resilience post-Brexit, Q4 could see positive surprise
+4
+What can obesity control learn from tobacco control's success?
+5
+US Election Series: Jill Stein raises $4.5 million to challenge election outcome
+6
+Study Says Practice Tests Help Maintain Memory Condition During Exams
+7
+National Bank of Malawi chooses fintech firm NetGuardians for fraud prevention
+8
+FxWirePro: GBP/USD faces strong resistance at 1.2530, good to sell on rallies
+9
+FxWirePro:USD/CHF forms Bearish Bat pattern, good to sell on rallies
+10
+Indian economy to expand below 7 pct this year, further upside in USD/INR likely
+Economics Monitor
+November 25 15:00 UTC
+Released
+MXCurrent Account/GDP*
+Actual
+2.9 %
+Forecast
+Previous
+3.00 %
+November 25 15:00 UTC
+Released
+MXCurrent Account*
+Actual
+-7571 mln $
+Forecast
+Previous
+-7852 mln $
+November 28 07:00 UTC
+51h 19m
+TREconomic Confid Idx
+Actual
+Forecast
+Previous
+80.56 %
+November 28 09:00 UTC
+53h 19m
+EZMoney-M3 Annual Grwth*
+Actual
+Forecast
+5.0 %
+Previous
+5.0 %
+November 28 09:00 UTC
+53h 19m
+EZLoans to Non-Fin
+Actual
+Forecast
+Previous
+1.9 %
+November 28 09:00 UTC
+53h 19m
+ITMfg Business Confidence
+Actual
+Forecast
+Previous
+103.0 bln $
+November 28 09:00 UTC
+53h 19m
+EZLoans to Households*
+Actual
+Forecast
+Previous
+1.8 %
+Back to Top ▲
+©EconoTimes 2016. All Rights Reserved. By using this site, you agree to the Terms of Service, Privacy Policy, and Cookie Policy.
+About us
+Advertise with us
+Contribute
+Contact Us
+Econotimes PRO
+Disclaimer: EconoTimes provides references and links to selected blogs and other sources of economic and market information as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and EconoTimes specifically advises clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Brokerage. Any news, opinions, research, data, or other information contained within this website is provided as general market commentary and does not constitute investment or trading advice. EconoTimes expressly disclaims any liability for any lost principal or profits without limitation which may arise directly or indirectly from the use of or reliance on such information. As with all such advisory services, past results are never a guarantee of future results.
+
+EconoTimes
+Newsfeed
+Hey guest, welcome to EconoTimes! Sign up and become a member.
+Sign Up
+Later
+Orange Elephant
+17h
+Vdice is neither provably fair or decentralised.  https://bitcointalk.org/index.php?topic=1646783.ms...more
+Attached link
+When Blockchain and Decentralization Disrupt Gambling - EconoTimes
+2 Replies
+Thomas Morrison
+20h
+I think you meant to write 13.70 in the title...?
+FxWirePro: USD/ZAR rejects key resistance at 14.20 mark, sustained close...
+1 Reply
+Gold Cloud
+17h
+I agreed totally!  I was 12 years old when I found out there was no Santa, I felt such a pain, because I then realized...
+Telling Kids Santa Claus Exists Is Irresponsible And Dangerous, Study Says...
+1 Reply
+Cyan Cactus
+18h
+Lol, if it was just $120k...
+Bitfinex spokesman resigns due to ‘insane conspiracy theories’ - Econo...
+1 Reply
+Red Bowtie
+1d
+I don't think BTC/EUR ever faces any resistance. Rather, it just follows what BTC/USD and EUR/USD are doing, and...more
+BTC/EUR faces strong resistance around 715, break above targets 740 - ...
+1 Reply
+Purple Hammer
+4d
+"   sell on rallies around 136.50 with SL around 135.40 for the  TP of  138/138.80  "
+
+Sell or Buy??
+FxWirePro: GBP/JPY Trade idea - EconoTimes
+1 Reply
+Blue Wheel
+2d
+I think the whole demonitization scheme is to protect the banks from collapse. Too many bad loans to the largest...more
+India likely to witness a weak Q4 on adverse demonetization effects, says...
+1 Reply
+Peter Knight
+4d
+11.9 trillion in the face value of open positions has priced in 1.4125% in rate hikes through December 2020, (4 after...more
+Attached photo
+December US Fed Interest Rate Hike – First of Many? - EconoTimes
+1 Reply
+Cyan Bucket
+18 Nov
+By the way, here is another interesting news: QIWI, one of the most popular payment services providers in Eastern...more
+Attached link
+MAS and R3 partner to carry out blockchain-based inter-bank payments -...
+1 Reply
+Thomas Morrison
+16 Nov
+Thank you very much for these daily articles on the USD/ZAR pair!
+FxWirePro: USD/ZAR breaks key support at 14.20 mark, good to sell on rallies...
+1 Reply
+Thomas Morrison
+4d
+Thank you for this insight!
+FxWirePro: USD/ZAR remains well supported below 14.50 mark, sustained close...
+1 Reply
+Olive Dice
+16 Nov
+In July of 2016. it was discovered that I got type 2 diabetes, By the end of the July month. I was given a prescription...more
+How can we prevent type 2 diabetes in children? - EconoTimes
+1 Reply
+JAZ1987
+18 Nov
+The article lacks depth:
+a) The leverage ratio should not be compared with US banks as US banks are alllowed to shift...more
+Deutsche Bank turmoil shows risks of weakening bank capital standards -...
+1 Reply
+Olive Strawberry
+18 Nov
+Stacey Epperson at Next Step said it well, "A home is a home." So the survey response is no surprise.
+more
+Attached link
+MHI/YouGov Survey Finds Americans’ Joys, Anxieties About Thanksgiving Are...
+1 Reply
+Thomas Morrison
+18 Nov
+Thank you once again for these daily articles - you have been spot on this week!(-:
+FxWirePro: USD/ZAR hits fresh 2-month high at 14.56, faces strong resistance...
+1 Reply
+Olive Popsicle
+17 Nov
+"Although ten countries became EU member states in 2004, attention focused on the “A8 countries” that had been part...more
+The huge political cost of Blair's decision to allow Eastern European migrants...
+1 Reply
+Green Butterfly
+16 Nov
+You do know his character's name is Steve, don't you? ;)
+‘Hawaii Five-O’ Season 7, Episode 9 Spoilers: "Two Days in November" –...
+3 Replies
+Olive Cactus
+3d
+A lot of great Bitcoin-exclusive deals on Black Friday. Want to purchase cheap with BTC? Follow the article.
+htt...more
+Attached link
+Bitcoin and blockchain investment activity drops in Q3 2016 - EconoTim...
+1 Reply
+EconoTimes Newsfeed

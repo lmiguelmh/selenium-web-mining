@@ -1,0 +1,9 @@
+Zcash, the anonymous new bitcoin alternative that was just launched, found a bug that may stop private transactions from being mined.
+According to a blog post on Zcash’s website, the company said there is one known bug that causes private transactions to not get mined. “We’re going to release v1.0.1 shortly to fix it,” the company said.
+What’s more, Zcash disclosed there was a “brief” DDoS attack that caused the site to be down for a little bit as the company engaged in DDoS defenses.
+Zcash is a new digital currency that is taking the world by storm, rendering bitcoin to the sidelines. Zcash is a product designed by academics to be all but untraceable. Speculators love it and have been paying for $1,000 a unit to get their hands on the next big thing. Zcash is the brainchild of a firm led by developer Zooko Wilcox. It has already secured $3 million in backing from a number of Silicon Valley venture capitalists who are involved in the virtual currency industry.
+The secret to its secretiveness — according to the developers that built it — is an advanced cryptography.
+Though bitcoin had initially been billed as untraceable, to actually use bitcoin in any meaningful way, each user has a bitcoin address that law enforcement can — and has — linked to its owner. Zcash, on the other hand, allows transactions to be confirmed by the network without anyone recording the Zcash addresses involved in the transactions.
+The question is whether or not regulators will like seeing so much secrecy for a currency — and what regulators frown on, banks tend to avoid. Bitcoin, on the other hand, has been capturing an increasing amount of bank interest, particularly since the fall of Silk Road.
+Signup for the PYMNTS.com Newsletter to get updates on top stories and viral hits.
+Online Fraud Expected To Grow 43 Percent This Holiday Season In The US

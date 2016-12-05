@@ -1,0 +1,92 @@
+http://www.bleepingcomputer.com/news/business/zcash-promises-the-anonymous-transactions-bitcoin-cant-deliver/
+Zcash Promises the Anonymous Transactions Bitcoin Can't Deliver
+NEWS
+DOWNLOADS
+VIRUS REMOVAL GUIDES
+TUTORIALS
+DEALS
+FORUMS
+MORE
+HomeNewsBusinessZcash Promises the Anonymous Transactions Bitcoin Can't Deliver
+  Zcash Promises the Anonymous Transactions Bitcoin Can't Deliver
+By Catalin Cimpanu
+November 7, 2016 11:00 AM 0
+A team of internationally-recognized cryptography experts has helped launch a new cryptocurrency called Zcash, which promises the anonymity Bitcoin couldn't deliver.
+The way Bitcoin works is to store details about a transaction inside a public blockchain ledger. The details the Bitcoin protocol saves includes the sender's Bitcoin wallet address, the recipient's Bitcoin wallet address, and the amount of Bitcoin transferred from one account to the other.
+Despite the apparent veil of secrecy, authorities have been able to link Bitcoin accounts to real persons and using the records stored in the public blockchain, create a history of financial activity for that particular person.
+Zcash hides wallet addresses and transaction sums
+Zcash is different because it creates a random hash of alphanumerical characters and uses it to replace the sender and recipient's wallet addresses. Additionally, the transaction sum is also hidden.
+Whenever someone looks at a Zcash transaction, he sees two random hashes that exchange an unknown quantity of Zcash. The hashes are unique per transaction, and can't be used to reconstruct a user's Zcash history.
+Under the hood, Zcash is a fork of the Bitcoin Core protocol, with a series of enhancements, based on the Zerocash system, a protocol for anonymous Bitcoin transactions developed by famous cryptographers such as Eli Ben-Sasson, Alessandro Chiesa, Christina Garman, Matthew Green, Ian Miers, Eran Tromer, and Madars Virza.
+At the heart of the Zerocash system is a newly-developed cryptographic concept called "zero-knowledge Succinct Non-interactive ARguments of Knowledge" (zk-SNARKs), also known as zero knowledge proofs.
+zk-SNARKs allows two entities to exchange data in a cryptographically-verified manner without needing in-depth information about each other. Basically, zk-SNARKs guarantees the validity of transactions without needing to reveal information about them.
+Zcash more private than Bitcoin and Monero
+Zcash launched at the end of October, and has been already hailed as more private than both Bitcoin and Monero, albeit not more secure, since the cryptocurrency is just a few days old and bugs might still be discovered that could deanonymize transactions.
+Nevertheless, all cryptocurrencies are plagued by bugs in the beginning. The same thing happened to Bitcoin as well. As such, the Zcash team made sure to subject its cryptocurrency to a series of security audits before its launch.
+Currently, there's only a Linux CLI-only client for Zcash, but GUI-based wallets for all operating systems are in the works, or in early release stages. Many cryptocurrency exchange portals have already added support for Zcash, and the community has taken notice as well.
+BITCOIN CRYPTOCURRENCY ZCASH
+CATALIN CIMPANU
+Catalin covers various topics such as data breaches, software vulnerabilities, exploits, hacking news, the Dark Web, programming topics, social media, web technology, product launches, and a few more.
+PREVIOUS ARTICLE
+NEXT ARTICLE
+Post a Comment
+Community Rules
+You need to login in order to post a comment
+Not a member yet? Register Now
+You may also like
+OVER ONE BILLION ANDROID USERS SUSCEPTIBLE TO APP HIJACKING VIA OAUTH 2.0 ATTACK
+CERBER 4.1.4 BEING DISTRIBUTED. USES 3 IP RANGES FOR UDP STATS
+FREE LEARNING NETWORK FORENSICS EBOOK OFFER
+MYSQL DATABASES NEED URGENT UPDATES TO ADDRESS THREE CRITICAL SECURITY BUGS
+LATEST FORUM TOPICS
+First Post.
+junior1505 in Introductions
+Windows 10: Explorer.exe crashing after login, black screen
+scorevi in Virus, Trojan, Spyware, and Malware Removal Logs
+Monitor Issues - Two of four don't wake up
+OstermanA in Windows 10 Support
+NEWSLETTER SIGN UP
+To receive periodic updates and news from BleepingComputer, please use the form below.
+LATEST DOWNLOADS
+Notepad++
+Version: 7.2.1 3,540
+DOWNLOADS
+Registry Backup
+Version: 3.5.3 29,353
+DOWNLOADS
+Windows Repair (All In One)
+Version: 3.9.17 893,573
+DOWNLOADS
+Recuva
+Version: 1.5.3 32,395
+DOWNLOADS
+ESET Uninstaller
+Version: NA 48,923
+DOWNLOADS
+NEWSLETTER SIGN UP
+Follow us:
+MAIN SECTIONS
+News
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+File Database
+Glossary
+COMMUNITY
+Forums
+Forum Rules
+Chat
+USEFUL RESOURCES
+Welcome Guide
+Sitemap
+COMPANY
+About BleepingComputer
+Contact Us
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+User Agreement - Privacy Policy
+Copyright @ 2003 - 2016 Bleeping Computer® LLC - All Rights Reserved

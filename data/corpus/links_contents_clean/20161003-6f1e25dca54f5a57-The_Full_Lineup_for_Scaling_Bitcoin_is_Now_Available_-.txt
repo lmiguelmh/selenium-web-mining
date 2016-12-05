@@ -1,0 +1,10 @@
+The lineup for the third edition of the bitcoin developer conference Scaling Bitcoin is now available.
+Released today, the lineup features a heavy emphasis on talks devoted to scaling, or proposed improvements that would boost the transaction capacity of the bitcoin protocol. Planned talks include "Sidechain Scaling" by Bloq’s Paul Sztorc and "Progress on Scaling via Client-Side Validation" by developer Peter Todd.
+The event is scheduled to be held from 8th to 9th October in Milan, Italy, at Politecnico di Milano.
+The full program is divided into six sections including fungibility, community, Lightning, Scalability on Top, Implementation and Small Changes, and Breaking the Chain.
+If they so choose, miners can now safely signal their support for a major bitcoin update.
+There aren't many steps left before bitcoin's Lightning Network will be finished — or at least an early version of it.
+Work on bitcoin sidechains – long thought to be one of the best ways to improve the functionality of the network – is advancing. Here's how.
+A bitcoin mining conference held by one of the network's largest miners saw what some have labeled an unscientific discussion of scaling the network.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

@@ -1,0 +1,80 @@
+http://www.pymnts.com/news/cross-border-commerce/2016/cross-border-blockchain/
+Visa Turns To Bitcoin For B2B Payments | PYMNTS.com
+CROSS BORDER COMMERCE
+Visa Takes Inspiration From Bitcoin For Cross-Border Payments
+Payments giant announces a new blockchain network called Visa B2B Connect.
+By
+PYMNTS
+Posted on October 25, 2016
+Visa has its eyes set on an international prize, and it’s planning to take some cues from a new type of currency in order to win it.
+According to The Wall Street Journal, the company recently rolled out a new technology aimed at taking on a new market by offering international B2B payments. The product is called Visa B2B Connect and, according to recent reports, will use a network modeled after the one powering bitcoin to navigate the complex world of cross-border payments between two companies.
+Frequent readers of the PYMNTS.com X-Border Payments Optimization Tracker know just how challenging the cross-border payments market can be. The tracker brings the latest news and headlines from around the space, along with a directory with the industry’s biggest and most influential players.
+According to WSJ, Visa B2B Connect is the product of a recent partnership between Visa and a tech startup, which Visa itself is an investor in, called Chain Inc. The company is one of just a few firms that works to use networks more commonly used to support bitcoin for other financial elements, including stocks or payments.
+Software created by the two companies will allow businesses and their banks to transfer cash using Visa’s technology, rather than using other methods, such as a check or wire transfer. The pair said the technology would enable real-time payments, similar to using a debit or credit card, which would speed up transactions and could reduce the need for complicated legal arrangements that typically accompany B2B transactions.
+Visa is one of the first companies to offer a commercial product based in blockchain, despite widespread industry investment. Banks have already spent millions on commercial products that use the technology, which is being called overhyped by some analysts, and some projects have financial institutions investing more than $1 billion in blockchain during 2016 alone.
+……………..
+To download the October edition of the PYMNTS X-Border Payments Optimization Tracker™, click the button below.
+About The Tracker
+The PYMNTS X-Border Payments Optimization Tracker™ is the framework for evaluating players in the cross-border payments landscape, and the quarterly index tests the readiness of the companies to serve a global audience.
+RELATED ITEMS:CROSS-BORDER, CROSS-BORDER ECOMMERCE, MAIN FEATURE, PAYMENTS, SHIPPING AND LOGISTICS, TRACKER SERIES, VISA, VISA B2B PAYMENTS, WHAT'S HAPPENING NOW, X-BORDER PAYMENTS
+RECOMMENDED FOR YOU
+Visa Adjusts Policies On Debit Routing
+Visa Says EU Proposal On Electronic Payments Could Hurt Online Shopping
+Hyperwallet Inks Deal With USA Media Rights
+Get our hottest stories delivered to your inbox.
+Signup for the PYMNTS.com Newsletter to get updates on top stories and viral hits.
+CLICK TO COMMENT
+TRENDING RIGHT NOW
+BLOCKCHAIN
+Goldman Sachs’ Membership In R3 Lapses
+PARTNERSHIPS / ACQUISITIONS
+Cardtronics Expands Relationship With Carnival Cruise
+NEWS
+Financial Regulators Race To Get Reforms On The Books Before Inauguration Day
+SECURITY & FRAUD
+Why Insider Threats Are Hurting North American Businesses
+B2B PAYMENTS
+Asia-Pacific’s Anti-Cash Migration Spreads To Corporates
+RIDESHARING
+Amidst New Cash Rules, Uber Debuts Indian Wedding Service
+SECURITY & FRAUD
+Online Fraud Expected To Grow 43 Percent This Holiday Season In The US
+ALTERNATIVE FINANCES
+Prosper’s Climb Back
+CFPB
+CFPB Sues Company That Scammed Lead Paint Poisioning Victims
+AMAZON
+Prime Is The Ticket For Amazon: Prime Tickets On The Way
+B2B PAYMENTS
+India’s Axis Bank Joins Earthport In X-Border Payments
+EMV
+October Visa Data Shows Rise In EMV-Enabled Merchants
+FASTER PAYMENTS
+Cash Flow, Each And Every (Same) Day
+AMAZON
+Amazon’s Brand Central Aimed At Ridding Counterfeiters From Marketplace
+B2B PAYMENTS
+India VCs Target SME Cash Management FinTech
+What's next in payments and commerce
+LATEST NEWS
+Black Friday Sales At Patagonia Go Green
+Middle-Market Retailers Optimistic About Digital Sales
+Report: Sephora Lookin’ Pretty On Social Media
+Monday Is Black Friday For Shipments This Holiday Season
+Shoppers Flock To The Internet Over Stores
+OPINION: KAREN WEBSTER
+Mastercard’s Call To Digital Payments Action
+November 21, 2016
+The Seven Deadly Data Sins Of The 2016 Presidential Election
+November 14, 2016
+Microsoft’s Shoulda-Woulda-Coulda Mobile Story
+November 7, 2016
+The 2016 Presidential Election And Banks’ Next Four Scary Years
+October 31, 2016
+What the Uber Driver Revolt Means for Payments
+October 24, 2016
+NEWSLETTER SIGNUP
+ABOUT
+TERMS & CONDITIONS
+CONTACT
+© 2016 What’s Next Media and Data Analytics, LLC

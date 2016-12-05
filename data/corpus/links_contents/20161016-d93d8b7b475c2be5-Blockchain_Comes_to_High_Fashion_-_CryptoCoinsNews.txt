@@ -1,0 +1,52 @@
+https://www.cryptocoinsnews.com/blockchain-comes-high-fashion/
+Blockchain Comes to High Fashion - CryptoCoinsNews
+Explore
+Menu
+
+CryptoCoinsNews
+Bitcoin TechnologyBlockchain NewsNews
+Blockchain Comes to High Fashion
+Andrew Quentson on 16/10/2016
+
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+Editor’s Note: The article has been corrected to reflect that VeChain uses an Ethereum-based blockchain.
+After FinTech and InsurTech, with some considering blockchain’s use for music, movies, and social media, Fashion Tech may be the next buzzword to describe blockchain’s disruption.
+S
+hanghai’s fashion week opened yesterday with all the glitz and glamour of high fashion, but uniquely, one up and coming fashion brand, BabyGhost, featured blockchain connected dresses in collaboration with VeChain.
+To prevent theft and ensure the dress is genuine, a small NFC chip is embedded containing a private key accessible by scanning with a smart phone. In interaction with the blockchain, the app can inform the user whether the dress is genuine and contain numerous other details, including personalized messages, images and even videos. Qioran Huang, BabyGhost Founder, stated:
+“When VeChain approached us to collaborate this season and explained what their technology could offer, we imagined a future where people could interact with our clothing on their smartphones. They explained how VeChain could elevate our interaction with the garments that we design to an entirely new level. Their technology offers a vast and until now relatively unexplored potential for a whole new level of label interaction.
+“Not only between that of a girl and the prized garments that she loves to wear but even more so one that could connect one customer to another. VeChain wasn’t just offering something with interesting archival applications, but in fact, it could be a new key in connecting the people who love our brand.”
+VeChain uses an ethereum based private blockchain. Sunny Lu, COO of BitSE, the company developing VeChain stated:
+Blockchain can’t be only shining inside of the community. VeChain pushes blockchain technology out to the world. We believe blockchain can change the world and that’s why we are building applications that everyone can use.
+Blockchain’s application in ensuring good’s authenticity is one of its most promising unique use where a genuine problem is solved in previously impossible ways. Alongside VeChain and perhaps in competition, Chronicled is applying largely the same method but towards high-end sneakers using Ethereum’s public blockchain. We can imagine the same general methodology being applicable towards all high end and medium value goods as well as bicycles and other vehicles.
+Interestingly, Joshua Robert Hupper, BABYGHOST Founder suggests not just practical, but added value uses of goods IoT:
+“VeChain can be programmed with photographs, videos, and even personalized information such as the date it was purchased and perhaps whom it was purchased for and why. This could change gift giving between friends, family and lovers. It could mark special occasions and holidays. We thought this was an amazing way of hiding secrets or telling stories behind the inspiration and graphics that we choose.”
+It is not fully clear how such videos would be stored, but arguably the connection of highly valuable and fashionable clothes to the blockchain opens new opportunities for entrepreneurs and brands that wish to distinguish themselves. Fashion Tech might, therefore, catch on and, perhaps, even become ubiquitous.
+Images from iStock and Ethereum.
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+Posted in: Bitcoin Technology, Blockchain News, News Tagged in: blockchain, fashion, qtum, vechain
+
+Recent Posts
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+Advertisement
+NextTelegram Bot For Cheap International Calls Accepts Payments In Bitcoin16/10/2016
+PreviousBitcoin Ends the Week on a Positive Note, as Expected16/10/2016
+Advertisement
+Recent Comments
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

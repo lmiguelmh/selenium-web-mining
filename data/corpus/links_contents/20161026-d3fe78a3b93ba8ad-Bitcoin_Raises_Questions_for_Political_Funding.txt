@@ -1,0 +1,60 @@
+http://dcebrief.com/bitcoin-raises-questions-for-political-funding/
+Bitcoin Raises Questions for Political Funding
+Home
+Bitcoin
+Business
+DNotes
+Featured
+Finance
+FinTech
+Recaps
+Regulation
+Technology
+Bitcoin Raises Questions for Political Funding
+Home
+»
+Bitcoin
+»
+Bitcoin Raises Questions for Political Funding
+Posted on Oct 26, 2016
+Executive Brief
+Campaign funding is always a hot topic in the usual election cycle, although this year it has been somewhat overshadowed by events in the election itself. However, that has not stopped the US Federal Election Commission deciding to take another look at Bitcoin and other digital currencies and the place they have in campaign contributions. Currently classed as assets, the campaign in receipt can hold the digital currency until they wish to sell. But then must place the funds from any sale within their campaign accounts within 10 days. This can create logistical issues, and if the FEC reassess and classify digital currency donations as cash payments, it could make things much easier to manage.
+Read the full story below. 
+The current election cycle in the US has raised many questions, most of them questions that none of us thought of asking in the first place. However, behind the chaos and hype of the daily utterings of the candidates, the US Federal Election Commission (FEC) has been looking at a significant issue for the digital currency industry.
+The issue at hand is bitcoin donations to PACs, which were originally made available through the May 2014 ruling by the FEC that they were an ‘in-kind’ contribution. At the time, there was a $100 limit on an individual Bitcoin donation. However, the ‘in-kind’ ruling placed Bitcoin in the same legal position as assets. The ruling came because like such assets, bitcoins cannot be deposited into a bank account. The rules instead allow bitcoins to be held as other assets for as long as the campaign wishes. When they do decide to sell, as with all other assets, the funds must be deposited with the campaign account within ten days.
+However, as public records of recent FEC meetings show, they are rethinking this position, instead reclassifying as cash contributions. The draft agenda from September 15th asks “Should the Commission revise its regulations to treat contributions of bitcoin and other Internet-based alternative mediums of exchange as cash contributions or...as in-kind contributions?”
+While this initial question is interesting, this is a long way from any changes or solution, however, the conversation about Bitcoin and other digital currencies is happening alongside other discussions about digital technology and the election process itself. With over half of campaign contributions made digitally in 2012, the separation of digital currency seems to make less sense with each election cycle. It is hoped that the broader overview of the nature of elections and the digital aspect of the whole process will allow a more comprehensive look at the roll digital currencies can play in elections as we move forward.
+As cash donations also have a $100 limit, or $50 made anonymously, it is unlikely any changes will allow large contributions to be made via Bitcoin or any digital currency, but it could make cryptocurrency donations much more practical for the campaign.
+4
+You may also like:
+Top 8 Bitcoin Apps for iPhone
+Connecting Public and Private Blockchains May Be Possible
+Digital Currencies and Fiat Currency Turmoil
+Tunisia Becomes First Nation To Put Nation’s Currency on a Blockchain
+.
+The views expressed by the authors on this site do not necessarily represent the views of DCEBrief or the management team.
+Author: Thomas Moore
+Thomas Moore is a writer and researcher with a love for the eclectic, family and the world we inhabit. He spends his spare time photographing the varied wildlife that surrounds us daily and contemplating why Firefly never made it past season one.
+Share This Post On
+Google
+Facebook
+Twitter
+Quotes
+Accounts at a money service business or financial institution can certainly be linked to identity, but the individual coins (or coin subunits) themselves cannot be.
+— Jon Matonis – e-money researcher and crypto economist
+Sponsor Ads
+
+
+Search
+Search for:
+Translate
+Hot Topics This Week
+Top 8 Bitcoin Apps for iPhone
+Connecting Public and Private Blockchains May Be Possible
+Tunisia Becomes First Nation To Put Nation’s Currency on a Blockchain
+Bank of Japan on Board
+Digital Currencies and Fiat Currency Turmoil
+Mission Statement
+DCEBrief is committed to focus on bringing issues that matter to your attention, utilizing an “Executive Summary” without fluff and filler. When appropriate, we may also include full length articles. Our mission is to keep you informed with timely information. We will need the cooperation of the mainstream media and the full support of our political leaders and regulators to help promote and not stifle innovation for the better good of mankind.
+© 2015 DCEBrief. All rights reserved.
+About Us Meet The Team Privacy Policy Comments Policy Terms & Conditions Content License Contact us

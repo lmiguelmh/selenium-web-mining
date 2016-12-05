@@ -1,0 +1,86 @@
+http://www.itworldcanada.com/article/blockchain-moving-beyond-bitcoin-and-digital-currency/386976
+Blockchain: Moving beyond Bitcoin and digital currency | IT World Canada News
+Follow
+MAIN MENU
+SKIP TO SECONDARY CONTENT
+CIO
+CSO
+MOBILE
+STORAGE
+CLOUD
+RESEARCH
+EVENTS
+NEWS
+VIDEO
+BLOGS
+MORE
+SUBSCRIBE
+Blockchain: Moving beyond Bitcoin and digital currency
+Steve Proctor - October 4, 2016
+If you know about blockchain at all, you likely think about it in connection with Bitcoin or 99 of the other digital currencies competing just below the horizon for a share of commerce.
+It is at the heart of distributed ledger technology that allows for secure and verifiable digital transfer of “value” between individuals or organizations. It has been around since 1995, but only found its way into the public lexicon in 2008 in association with the launch of Bitcoin. It has continued to be the focus of interest as startups – and big companies looking at disruptive forces on the horizon – try to determine its potential.
+Two speakers attending a recent CIO Summit, hosted by IT World Canada and sponsored by Cogeco Peer 1, presented an expanded view of blockchain, suggesting with a little time and effort it could be far more than an enabler for digital currency.
+William Mougayar speaking at CIO Canadas CIO Summit 2016
+“With distributed ledger technology, we may be witnessing one of those potential explosions of creative potential that drives exceptional levels of innovation,” said William Mougayar, author of The Business Blockchain. “The technology could prove to have the capacity to deliver a new kind of trust to a wide range of services.”
+Potential disrupter
+Describing the technology to a Google document where all previous transactions are verifiable, he suggested blockchain, with some clever RFID tags, could disrupt the way titles are searched on property, how art is authenticated or how high-value counterfeit sporting items can be detected. It could also be invaluable for multi-signature transactions and the creation of “smart” contracts.
+“For the first time we have a technology powerful enough to bring together software engineering, cryptography, and game theory for secure peer-to-peer transactions,” he said. “It’s the new overlay on the Internet.”
+Alan Wunsche speaking at CIO Canadas CIO Summit 2016
+Alan Wunsche, a founder of Blockchain Canada, said during another summit session that in the same way the Internet made email easy, blockchain will simplify and secure all trust transactions.
+He explained Blockchain Canada was created on the premise that blockchains have the potential to transform financial, social and governance systems and it is critical to have open conversations about the use of the technology to build Canada as a leader in blockchain technology.
+Canada should seek a leadership role because distributed ledger technology is fast, creates flat systems with little overhead, involves few fees and is resilient to attack.
+Security is unimpeachable
+With each blockchain message containing the history of all the previous messages, Mougayar said it’s not hard to see how the system is useful for validating the authenticity of almost anything. He added the security is unimpeachable because the information is backed up every 10 minutes on 6,000 computers around the globe.
+If you were inclined, you might be able to change the information in the data bases of a few computers, but he said an attack on data in 6,000 disparate computers in a 10-minute time frame is highly unlikely. There will always be one copy of the original chain available.
+Only the beginning
+“These are early days. I think there will be blockchain apps, but it might be three years out before there is an impact. But businesses should be starting to think about what kind of a blockchain strategy they want to have. Companies that didn’t plan for the impact of the Internet were wiped out. That could happen again.”
+There are some 270 blockchain companies in the Fintech space right now. Both speakers agreed they won’t all make it, but some will emerge and become big companies. In response to a question, Mougayar suggested that within a decade five to 10 per cent of GDP could be based on blockchain-enabled cryptocurrencies.
+To get to that kind
+of outcome, Wunsche believes business leaders need to begin experimenting with it at the personal level. To that end, he offered $1 worth of Bitcoin to each of the 25 CIOs in the audience willing to download an app to create a digital wallet. In  October 2016 one Bitcoin was worth $802 Canadian dollars, so each executive was transferred a fraction of a coin.
+Easy on the regulation
+From a regulatory perspective, the Summit speakers agreed some rules are required but they cautioned against intervention that would smother innovation and prevent fledgling opportunities to take flight.
+“There are 200 financial regulators, more than there are flavours of ice cream. If every one of them had their own set of regulations, it would be way too confusing,” said Mougayar.
+Britain and Europe appear to be the most welcoming when it comes to blockchain and fintech regulation. Ironically, California and New York, the areas with the greatest blockchain talent, have been ranked as the least regulatory friendly out of seven global centers.
+
+Related Download
+Sponsor: HPE
+Protecting Your Business in the Digital Transformation Journey
+Download this white paper to examine the various threats faced by mid-sized businesses and learn how a comprehensive approach to protection and resilience makes good business sense.
+Register Now
+Enterprise Applications, Enterprise Infrastructure, Information Architecture blockchain, FinTech
+Wireless operator to pilot e-health in Canada's north in 2017
+Out of this world storage: Startup aiming for data centres in space
+
+About Steve Proctor
+Steve is Vice-President Marketing and Communication with ITWC. He spent 25 years in progressively senior positions as a journalist and editor with the Halifax Herald, with his final ten years as Business Editor. He has published two books and his freelance articles have appeared in national and regional magazines. He has led social media and communication efforts for two crowdfunding ventures and written and directed numerous dinner theatres for charitable endeavours.
+Related Content
+CSO role was “fake PR” for Toronto startup, McAfee says
+John McAfee denies he is a Toronto startup’s chief security officer
+Top 10 strategic technology trends for 2017
+CanadianCIO Innovation Summit report: grappling with digital transformation’s human issues
+
+Related IT Jobs
+
+WEBSITES
+ITWC.ca
+ITBusiness.ca
+ComputerDealerNews.com
+DirectionInformatique.com
+PUBLICATIONS
+CSO Digital
+CanadianCIO
+Computer Dealer News
+Computing Canada
+COMMUNITY
+About Us
+Contact Us
+Events
+Technology Videos
+IT News
+Tech Research
+CSO Security News
+Canadian CIO TV
+FIND
+FOLLOW
+Produced By:
+© 2016 IT World Canada

@@ -1,0 +1,49 @@
+http://fortune.com/2016/10/19/coinbase-redesign-bitcoin-ethereum/
+Coinbase: From Bitcoin Wallet to Digital Asset Broker
+Fortune.com
+SUBSCRIBE
+J.C. Penney Says These Products Are Providing a Big Black Friday Boost 1:07 PM EST
+TECH THE 21ST CENTURY CORPORATION
+Behind the Redesign and Reinvention of Coinbase
+by  Robert Hackett @rhhackett OCTOBER 19, 2016, 3:00 PM EST
+Courtesy of Coinbase
+From Bitcoin wallet to digital asset broker
+Despite Bitcoin’s failure to achieve its initial promise as quickly as early enthusiasts expected, Coinbase, a digital money startup based in San Francisco, has continued to chug along, attempting to find its footing in a market defined less by everyday consumers than by speculators and aficionados.
+Founded four years ago by a former Goldman Sachs GS -0.44% trader and an Airbnb engineer, Coinbase is one of the most well-funded cryptocurrency ventures yet. It has raised $117 million at private valuation approaching $500 million, according to a source familiar the company’s finances.
+Given slower-than-expected adoption rates for Bitcoin combined with technological issues that have prevented the fundamental technology from processing a greater number of transactions, Coinbase has been subtly reinventing itself over the past year or so. First launched as a wallet for people to stash their Bitcoin online, Coinbase has been evolving into a broker that people can use to buy and sell digital money.
+On Wednesday, the company is debuting a “beta version” redesign of its website that will enter full production in the next two weeks. The changes are more than cosmetic—they’re indicative of a company that is adapting and pivoting into new businesses while hoping to attract a broader customer base.
+Get Data Sheet, Fortune’s technology newsletter.
+“Fundamentally, Coinbase is an easy on-ramp to this world,” says Fred Ehrsam, a Coinbase cofounder, comparing the software to AOL during the Internet’s early days. “You need the right interface for practical, everyday people to be able to use it.”
+Here’s a screenshot of the company’s newly designed brokerage page, where users can buy and sell digital money and various government backed bills. For example, a person can exchange U.S. dollars for Bitcoin, or vice verse.
+“The evolution shows what we are strategically focused on as a company,” said Dan Romero, vice president of operations at Coinbase, in an email.
+Jori Lallo, lead engineer on the project, clarified that “the new design is more like Fidelity or Schwab than Venmo.”
+For comparison, below is an image of the old layout.
+People have exchanged more than $5 billion in digital and regular currencies through Coinbase to date, the company says. This year the firm is on track to help people exchange $2.5 billion, a sum about equal to what was traded through it in the last three years combined, the company tells Fortune.
+In May, Coinbase added the option for customers to trade more than just Bitcoin. It added Ether, a rival cryptocurrency whose market capitalization exceeds $1 billion. Ether trading now generates 15% of Coinbase’s revenue, the company tells Fortune. (You can read more about Ethereum, the decentralized network that undergirds Ether, in this recent Fortune feature story about Vialik Buterin, its creator.)
+For more on Bitcoin, watch:
+The decision to expand beyond one cryptocurrency led Coinbase earlier this year to rename its Bitcoin exchange GDAX, or global digital asset exchange, a professionalized platform where traders can engage in high frequency trading. In August, the company added to GDAX another popular cryptocurrency, Litecoin, developed by Charlie Lee, a Coinbase engineer.
+Although Coinbase would not reveal its exact revenue figures, it said that its monthly revenues have grown three times in the past year. The numbers have been buoyed by interest following Brexit, as the British pound took a hammering and people looked for alternative stores of value. The uptick can also be attributed to the company’s international expansion into markets like Australia, increased transaction limits on Coinbase’s brokerage, as well as growing interest in alternative cryptocurrencies like Ether.
+“I think we’ve just hit our stride with a product that’s easier to use,” says Brian Armstrong, Coinbase CEO and cofounder. He adds that the company is committed to working with regulators and government authorities to ensure it is abiding by all financial rules in relevant jurisdictions, rather than storming into new markets with a freewheeling exchange and asking for forgiveness later.
+Here’s another shot of another page on the company’s newly redesigned website, a view of its “dashboard,” which shows a customer’s portfolio of currencies, recent transaction activity, and price changes.
+And, for comparison, the old “wallet” page is below.
+Ehrsam and Armstrong say they believe that “app coins” and tokens built on top of decentralized networks like Ethereum will lead to bolstered interest in cryptocurrencies.
+“I think this is a huge concept that the world does not yet understand, but will become very important over time,” Ehrsam says, pointing to examples such as “file coin,” a digital token designed to power a decentralized document storage app similar to Dropbox, as well as “reputation,” a token designed to let people bet on just about anything through the prediction market Augur.
+When asked about Augur’s rocky “initial coin offering,” the cryptocurrency equivalent of an initial public offering which took place on rival exchanges such as Poloniex and Kraken, Ehrsam attributes the post-debut price slump to “some irrational exuberance prior to the launch.”
+“People are getting their heads on straight,” Ehrsam says, mentioning that Coinbase plans to consider adding additional tokens and cryptocurrencies for trade in the future, after seeing them gain traction in other markets first. (No word yet on which ones.) “It’s exciting but early days,” he says.
+Sponsored Stories
+Sponsored Links by
+These Are The Best Western Movies of All Time
+(PrettyFamous)
+U.S. Presidents Who Accomplished the Least
+(InsideGov | By Graphiq)
+25 Names Nobody Wants to Name Their Child Anymore
+(MooseRoots | By Graphiq)
+Finally You Can Track Your Car Using Your Smartphone!
+(SMART DEVICE TRENDS)
+SPONSORED FINANCIAL CONTENT
+What makes the Isle of Man a strong and secure location for investors
+RL360°
+Weekly update on the financial markets
+MarketViews
+Expert financial and political views on Latin America
+MarketViews

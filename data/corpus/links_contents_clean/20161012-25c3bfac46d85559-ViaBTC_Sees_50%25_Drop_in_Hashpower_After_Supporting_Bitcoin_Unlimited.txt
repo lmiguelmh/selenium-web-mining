@@ -1,0 +1,9 @@
+ViaBTC, one of the largest mining pools in the world, experienced a 50% drop in its hashpower after allocating all of its resources in mining Bitcoin Unlimited blocks.
+Bitcoin Unlimited is an alternative project with which miners can decide the size of the blocks they wish to mine. ViaBTC for instance, is mining 2 MB blocks through Bitcoin Unlimited, while the Bitcoin.com mining pool is opting for a 16 MB blocksize.
+The team behind ViaBTC decided to move its entire mining pool to Bitcoin Unlimited due to their belief that the current capacity of the Bitcoin network significantly restricts the potential number of people that could be using the digital currency.
+As a result, the team has begun to run Bitcoin Unlimited on mainnet, mining its first Bitcoin block on October 10, 2016.
+ViaBTC and other Bitcoin Unlimited supporting pools believe in providing Bitcoin users and developers the choice to select whichever software that best suits the current needs of the Bitcoin network.
+Some mining pools went as far as attributing the recent rise in the price of Bitcoin to the increasing adoption of Bitcoin Unlimited.
+While ViaBTC claims that the market prefers Bitcoin Unlimited over Core, the recent decline in their hashpower shows that its miners may not necessarily agree with ViaBTC’s stance.
+According to Blockchain.info’s hashrate distribution, ViaBTC’s share of the Bitcoin hashrate has decreased from nearly 11% to 6%, representing nearly a 50% drop in its hashpower.
+Many developers decided to migrate to competing mining pools as they seem to believe that ViaBTC is attempting to stall the implementation and adoption of segregated witness, a Bitcoin Core scaling solution.

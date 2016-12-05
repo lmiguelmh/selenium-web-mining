@@ -1,0 +1,94 @@
+http://coinjournal.net/president-trump-means-bitcoin/
+What President Trump Means For Bitcoin - Coinjournal
+Coinjournal
+LATEST NEWS
+DATA
+PRESS RELEASES
+CONTACT
+WORK WITH US
+Home Bitcoin News What President Trump Means For Bitcoin
+Bitcoin NewsLegal Bitcoin NewsCryptocurrency Regulation NewsOpinionPoliticsEconomyPrice
+What President Trump Means For Bitcoin
+By Ian Demartino -
+November 10, 2016
+0
+1045
+Share on Facebook Tweet on Twitter
+It was clear something was wrong with the Clinton campaign as soon as the polls closed in Florida. Pundits and pollsters alike pointed to the high early voting numbers in Nevada, Florida and elsewhere as a positive sign for Clinton. Democrats historically dominate early voting in the states that have it, so a high turnout there, the thinking went, was a good sign for Clinton.
+But when the polls closed and the first numbers out of Florida, it was clear to everyone watching that assumption was dead wrong. Trump’s numbers were virtually tied the moment early voting numbers came in.
+It was a fast drop from that point. By 11:30, the Clinton team stopped updating their election party crowd on results. They were employing a tried and tested old election move. It is tried and tested in that campaigns always try it, and it always fails.
+The plan is to keep enthusiasm at their election party going for a bit longer by not announcing when returns come in. Every losing presidential campaign I have seen (starting with the ’96 Dole campaign) has employed this tactic. It never works. Once the returns stop coming in, the crowd knows they are in trouble and the election is all but over. The tactic is even less effective in the days of cell phones when party-goers simply have to look at a device in their hand to see they are not on the winning side.
+The images on TV of campaign staff trying to keep a brave face while everything collapses around them start out humorous, but end up feeling tragic. It is difficult to watch a man lie to himself, but it is harder to watch the realization hit live on the air. “Oh, I’m the losing interview guy.”
+Hillary Clinton was reportedly so upset, she couldn’t even console the people who worked to get her elected for the past 12 years. That was bizarre. In twenty years of watching elections, I have never seen that. Al Gore didn’t concede right away, but that was because he was still fighting. Clinton gave up. She just didn’t have it in her to tell anyone personally. It was final piece of vindication for the most misogynistic of Trump supporters, who claim a woman doesn’t have the emotional stability to be president.
+Her concession did finally come yesterday. She punished Tim Kaine for his debate performance by forcing him to do the sound check for her speech. People were generally favorable towards her words, which stressed unity. But that may have been a better thing to give when the people were still watching.
+And now Donald Trump is America’s President Elect.
+What does all this mean for Bitcoin? It is hard to say. This was not Bitcoin’s election. Digital currencies weren’t mentioned during the debates or really, at all. National elections are reactionary. The internet existed in 1992, but it didn’t become an issue in an election until 1996. By 1996, the internet’s affect on society was noticeable and what the government should do about it was, if not at the forefront, at least included in the national debate. Even old man Dole had a (surprisingly forward thinking) stance on the internet and technology.
+Bitcoin is not where the Internet was in 1996. Most people haven’t had their lives affected by it, so it is unlikely to be an election issue until that changes. What does matter, is what kind of regulatory environment President Trump will create.
+When it comes to bitcoin and cryptocurrencies, there are really three things to look at: What Trump thinks about Financial regulation, what Trump thinks about Technology and how much chaos will he create?
+Trump’s plan for financial regulation is unclear. Bloomberg described a meeting between then Candidate Trump and a group of financial bankers, or they would have, had Trump showed up.
+The Bloomberg piece doesn’t say what Trump did instead. But investors don’t like uncertainty and so when Trump won, the markets went down. Or at least that is the narrative. The markets have recovered, after someone suggested he would lower regulation. I left that “someone” intentionally vague because it was literally just “analysts” “predicting” that Trump would lower regulations, yet it seemed to have moved or at least settled the market.
+Trump has said some things. It just is not clear which of them he was serious about. Maybe all of them. Maybe none of them. But they seemingly conflict with each other at times.
+“Trump said in August he’d issue a temporary moratorium on new regulations. (Would such a move halt rules on bank capital that haven’t taken effect?) He’s said he’ll repeal Dodd-Frank. (Does he plan to swap it for new regulations to keep banks from sliding into the Wild West?) He’s also said he’ll bring back the Glass-Steagall Act’s wall between commercial and investment banking. (Isn’t that a new regulation?)”
+Repealing the Dodd-Frank act would be a major blow for people who think banks need regulation. It was passed in the wake of the 2008 crisis. One of the things it does is enforce some know-your-customer (KYC) laws. For Bitcoin, there is no telling what this will do. Theoretically, it should make it easier to start a bitcoin business. One of the highest hurdles for new Bitcoin businesses is dealing with KYC laws.
+“Elimination of Dodd-Frank would lower the barrier of entry for new businesses.” said Nathan Wosnack the Founder and President of Ubitquity LLC. “Coupled with the relaxed SEC rules surrounding crowdfunding, the opportunities are boundless.”
+Earlier this year, Bitfinex ran afoul of the Dodd-Frank Act with the U.S. Commodity Futures Trading Commission (CFTC) for allowing leveraged trading. They were fined $75,000 for the infraction.
+It will also lessen restrictions on overseas remittance, so a potential remittance bitcoin company may find a friendlier market, but the rules in the Dodd-Frank Act applying to remittance companies aren’t that stringent as they stand.
+The Republican-controlled Congress will likely support any moves to reduce regulation.
+But again, there is no telling how serious Trump was when he said he will repeal Dodd-Frank or if he will replace it with something else.
+Trumps Thoughts on Technology
+Trump has an interesting stance on technology. Mainly, he doesn’t seem to grasp it. That isn’t surprising for someone of his age and is no different than Clinton, but it doesn’t particularly bode well for Bitcoin.
+Transformative technologies, which Bitcoin hopes to be during the Trump Presidency, tends to scare the people who don’t understand it. If Bitcoin comes to the forefront and legislation makes it way through Congress and onto President Trump’s desk, will he be able to make an informed decision?
+President-elect Trump once stated that he would call Bill Gates and have him shut off parts of the internet to stop ISIS. He backed off from that, likely because someone told him how ridiculous it was. But he never backed off his claim that the United States was giving away control of the internet.
+During the Republican Primary, Trump argued that the transfer of domain registry from U.S. based ICANN to an international group is tantamount to giving “control” of the internet to countries like China. That shows a fundamental ignorance on how the internet works.
+Internet censorship doesn’t come from control of domain registries. When Turkey’s Prime Minister blocked Twitter, when Pakistan blocked YouTube, those had nothing to do with ICANN. China’s infamous internet firewall also has nothing to do with ICANN.
+If ICANN enabled internet censorship, then a site like The Pirate Bay wouldn’t exist. The United States would love to shut down The Pirate Bay, and dozens of other sites. But it can’t because ICANN is not capable of that.
+Control of the internet is distributed across the globe. The physical location of the server a particular website is stored on determines who can censor a site. The company or individual running the server will have to comply with the laws of the country they physically exist in.
+ICANN controls the internet like the company that makes phone books control the phone lines. They have never been involved in a take down of a website. Even when the United States took down Bodog.com, arguing that they had that right for every .com, .net or .org website, ICANN had nothing to do with it. The feds leveraged the third party registry that Bodog had used.
+Trump doesn’t quite understand how the internet works. That is understandable. Many people don’t. What is more worrying is when that is combined with his anti-terror and privacy policies.
+Even more fundamental than decentralization, privacy has been at the heart of every iteration of Electronic Cash, going back to DigiCash. The same cryptographers that fought for the internet rights we all enjoy in the Clipper Chip wars, built those early pre-Bitcoin digital currencies.
+In 1994, Cryptographer Niels Ferguson was working at DigiCash. Wired’s Steven Levy quoted him describing the need for privacy in any electronic cash system.
+“If we have no privacy in our transaction systems, I can see every payment – every cup of coffee you drink, every Mars bar you get, every glass of Coke you drink, every door you open, every telephone call – you make. If I can see those, I don’t need a private investigator. I can just sit behind my terminal and follow you around all day.’ And then people start to realize that, yes, privacy is in fact something important.”
+Going again back to the primary debates, Donald Trump said he prefers security over privacy. He wants to restore the Patriot Act. Imagine when he hears there is a weird digital currency being used to fund terrorist.
+Combine his hawkish attitude on terrorism, his disregard for privacy and his ignorance of technology, and it isn’t hard to imagine an administration hostile to bitcoin.
+Chaos Factor
+If there is one thing that moves the Bitcoin price upwards consistently, it is uncertainty. Brexit? Price rise. Greece Austerity? Price rise. Reality TV Star put in charge of the nuclear codes? Price rise. Nothing moves the price of Bitcoin like some old fashion chaos on the world stage.
+Will a Trump presidency keep the craziness level high enough that Bitcoin seems like a safer hedge than the dollar? He is probably capable, but we can’t morally root for it. Bitcoin’s price is only a small part of our lives, whereas instability on the global stage could have a generational impact.
+That said, a shake up of the geo-political stage is likely to push bitcoin’s price higher.
+Chaos, of course, doesn’t necessarily precede collapse. Sometimes it blossoms into something amazing, but it rarely parallels prosperity.
+Like nearly every article attempting to predict what a Trump presidency will look like, uncertainty is the only certainty. However, Bitcoin, like gold and other precious metals, tends to perform well in uncertain circumstances.
+It could go off the rails quickly if Trump attempts to confront bitcoin in some way. But combining his general anti-regulation stance with his propensity towards wild actions, I think we can be cautiously optimistic about what a Trump presidency means for Bitcoin.
+[Image Original: Gage Skidmore, Modified: CoinJournal]
+TAGS
+Bitcoin regulation
+Donald Trump
+Donald Trump Bitcoin
+Frank-Dodd
+tweet
+Previous article
+Singapore’s BitX Joins FCA Fintech Sandbox; Sets Sights On European Market
+Next article
+How Does This Bitcoin Privacy Improvement Compare with CoinJoin and CoinShuffle?
+Ian Demartino
+https://techippie.wordpress.com/
+Ian started writing product descriptions in 2011. He transitioned to journalism in 2012 and has been cited by media outlets large and small. He is a Co founder of Coinjournal.net and the author of the Bitcoin Guidebook. A consistent procrastinator, when he isn't writing he can usually be found doing something to avoid writing. To his own surprise, he managed to write a book, which you can purchase here: http://goo.gl/s0a4An and in local book stores.
+RELATED ARTICLESMORE FROM AUTHOR
+Bitcoin Exchanges News
+Controversial IRS Request To Coinbase Highlights Need For Updated Tax Guidelines
+Bitcoin News
+Charlie Shrem Unveils New Venture Intellisys Capital
+Bitcoin News
+TumbleBit Part 3: Potential Privacy Improvements for Bitcoin’s Lightning Network
+Don't Miss Another Story
+Get The Best Bitcoin, Blockchain & Cryptocurrency News Delivered Straight To Your Inbox & Get Exclusive Access To Our Giveaways
+Email
+WeeklyDaily
+Recent Posts
+Controversial IRS Request To Coinbase Highlights Need For Updated Tax Guidelines
+Charlie Shrem Unveils New Venture Intellisys Capital
+Smartrac Launches Document Authentication Solution Powered by Blockchain
+ABOUT US
+CoinJournal brings you the latest Bitcoin, cryptocurrency and blockchain news from around the world. We pride ourselves on journalistic integrity which is reflected in the high quality of our content. High-quality journalism costs money and though we supplement the cost of running the site with limited adverts. If you enjoy reading CoinJournal, please consider donating via 1RAx3kijGf3YBp18v1omB8cWxaahyawos
+Contact us: oliver@coinjournal.net
+FOLLOW US
+Privacy Policy About Us Editorial Policy Contact Us Work With Us Shop
+© Copyright 2016 - CoinJournal.net (A Big Monster Mining Website)

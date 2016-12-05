@@ -1,0 +1,101 @@
+http://www.coindesk.com/study-finds-bitcoin-has-a-new-top-dark-market/
+Bitcoin Has a New Top Dark Market - CoinDesk
+TRENDING
+Vote Now for CoinDesk's Most Influential People in Blockchain
+BITCOIN PRICE INDEX (24H)
+Created with Highstock 1.3.7
+$728
+$733
+$739
+USD -0.02%
+$738.10
+CNY 0.2%
+¥5,195.18
+EUR €696.69
+GBP £591.32
+NEWS
+–
+PRICE & DATA
+–
+GUIDES
+–
+EVENTS
+RESEARCH
+PRESS RELEASES
+NEWS
+Bitcoin Has a New Top Dark Market
+Michael del Castillo (@DelRayMan) | Published on October 12, 2016 at 14:02 GMT
+NEWS
+338
+60
+11
+Dream Market is now the most popular bitcoin-enabled dark market.
+The finding is the result of a new collaboration between blockchain analytics startup Skry and information security firm Terbium Labs, one that analyzed millions of URLs to identify the most popular sites for illicit bitcoin commerce.
+The case study, released today, is being positioned by the companies as a countermeasure against the rise of new proposals from the bitcoin community, including those such as CoinJoin and MimbleWimble, both of which seek to increase user privacy on the public blockchain.
+Specifically, Palo Alto, California-based Skry used Terbium's Matchlight system to identify the top three most popular dark web markets in the dataset: Dream Market, AlphaBay Market and The Majestic Garden.
+The partnership is designed to provide similar kinds of insight to bitcoin companies, financial institutions and law enforcement looking to track fraud and other criminal activities conducted using products built on blockchains and other distributed ledgers.
+Previously known as Coinalytics, Skry used Matchlight to index 3.7 million public keys that appear on Tor hidden services, password-protected forums, dark web markets, i2p, popular paste sites and many other places.
+From 11,000 dark web URLs, the partnership identified 22,000 public keys, of which there were 798 unique bitcoin public keys.
+The feed of URLs was then incorporated into Skry's analytics platform, where it underwent further data aggregation and processing to provide "critical associative information," according to the statement.
+In spite of the increased efficiency of efforts that track bitcoin usage on dark markets, however, bitcoin remains the most popular digital currency on the dark web, according to a recent report by two professors at the Department of War Studies at King's College London.
+The case study released today, however, noted that other cryptocurrencies are increasingly being used in dark markets, including those with strong privacy features like Monero.
+However, it noted that here, too, bitcoin plays a role, finding:
+"This allows criminals to quickly exchange into another, or even multiple other currencies, and back to bitcoin to cash out."
+Spider web image via Shutterstock
+Dark MarketsSkryTerbium
+338
+60
+11
+PREVIOUS ARTICLE
+Wells Fargo Develops Blockchain Banking Prototype
+NEXT ARTICLE
+Double Standards: The Coming Push for Blockchain...
+Don't miss a single story
+Subscribe to our free newsletter and follow us
+RELATED STORIES
+NEWS
+Jul 11, 2016 at 22:09 | Pete Rizzo
+'Sin' Activities No Longer Drive Bitcoin Economy, Researchers Find
+A soon-to-be-released study has found evidence that bitcoin’s market is now a venue for "legitimate" commerce.
+NEWS
+Apr 12, 2016 at 13:42 | Michael del Castillo
+Coinalytics Rebrands As Skry, Hires IBM Vet to Go ‘Blockchain’
+Coinalytics announced it has rebranded as Skry, unveiled a new logo and hired a former architect at IBM Watson and AI expert.
+NEWS
+Feb 3, 2015 at 14:50 | Grace Caffyn
+Meet Darkleaks, a Bitcoin-Powered Black Market for Secrets
+Darkleaks will let users sell leaked data in an anonymous, trustless environment powered by bitcoin's blockchain.
+Dec 8, 2014 at 22:35 | Joon Ian Wong
+Bitmarkets Launches Decentralised Bitcoin Marketplace With Tor Support
+A new decentralised marketplace called Bitmarkets has introduced privacy enhancing features and a novel escrow system.
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+Registration Is Open!
+Only 75 tickets available at $999
+REGISTER NOW
+FEATURES
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+INDUSTRY PRESS RELEASES
+Nov 23 | 14:13
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Nov 23 | 09:00
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Nov 22 | 15:25
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Nov 22 | 01:30
+Accepting Cash Deposits with Flexepin
+VIEW MORE
+
+SUBMIT RELEASE
+
+Got a news tip or guest feature?
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+
+Never Miss a Story
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.
+No, thanks.

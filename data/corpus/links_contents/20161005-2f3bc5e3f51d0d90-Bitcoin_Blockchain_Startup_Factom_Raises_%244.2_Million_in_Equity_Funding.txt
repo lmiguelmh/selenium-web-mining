@@ -1,0 +1,56 @@
+https://www.cryptocoinsnews.com/bitcoin-blockchain-startup-factom-raises-4-2-million-in-equity-funding/
+Bitcoin Blockchain Startup Factom Raises $4.2 Million in Equity Funding - CryptoCoinsNews
+Explore
+Menu
+
+CryptoCoinsNews
+Bitcoin & Blockchain InvestmentsBitcoin TechnologyBlockchain News
+Bitcoin Blockchain Startup Factom Raises $4.2 Million in Equity Funding
+Samburaj Das on 05/10/2016
+
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+Factom, a startup that developers solutions that leverages the bitcoin blockchain has raised $4.2 million in a new round of funding led by Tim Draper of Draper Associates.
+F
+actom Inc., a blockchain technology company that has previously revealed major projects such as creating land titles via the bitcoin blockchain in Honduras, has announced a Series A round of equity funding for $4.2 million.
+Led by Tim Draper of Draper Associates, the funding round will further help in bringing in new personnel and in the development of Factom software that leverages the bitcoin blockchain for real-world applications.
+In statements, Factom CEO and co-founder Peter Kirby said:
+This round of funding allows us to aggressively grow the company and the underlying technology.
+Lead investor Tim Draper sees decentralized, blockchain-secured data as the solution to many core concerns in infrastructure across various industries. Putting a pin on the growing concern of hacking and data tampering, Draper sees governments, banks, car manufacturers and retailers among other industry sectors susceptible to the steep pitfalls of data hacking.
+He stated:
+Centralized data is prone to critical failure by any individual mistake, whether by user error or malicious hacking. By decentralizing data through the blockchain, Factom avoids critical failures due to user error or hacker.
+The equity round also includes investors such as investment platform BnkToTheFuture, VC investors China Canada Angels, Star Vista Capital LLC and other angel investors.
+In its original whitepaper, Factom revealed its intention to secure data, with a data keeping layer of record of the bitcoin blockchain. At the onset, data is kept off the ledger, with Factom’s own protocol providing a decentralized public data layer. Factom then compiles the data in a merkle tree anchor before publishing it to the bitcoin blockchain, every 10 seconds.
+Factom’s new investment comes despite the perceived failure of its Honduran land title project which CEO Kirby said had “stalled.”
+Speaking to CCN in a past interview, Kirby said:
+In blockchain technology, three months seems like an eternity. It’s not uncommon for a land title project to have a 4-year preliminary research period before a proposal is drafted.
+Having learned from the experience, the chief executive added:
+We’ve reworked a lot of the software we built for titles and are using it as the core of our audit and compliance product. It will let any system have a blockchain back-end with permanent audit trails for any data.
+Undeterred, Factom revealed a new partnership with the Chinese government to help enable blockchain-based management and administration of “smart cities” in the country, earlier this year. The Austin, Texas-based company also announced a different Chinese initiative to enable electronic data notarization services.
+Featured image from Shutterstock.
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+Posted in: Bitcoin & Blockchain Investments, Bitcoin Technology, Blockchain News, News Tagged in: factom
+
+Recent Posts
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+Advertisement
+NextFormer Bitcoin Exchange Executive Joins Blockchain Firm R305/10/2016
+Previous100% Blockchain for Dubai Government by 202005/10/2016
+Advertisement
+Recent Comments
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

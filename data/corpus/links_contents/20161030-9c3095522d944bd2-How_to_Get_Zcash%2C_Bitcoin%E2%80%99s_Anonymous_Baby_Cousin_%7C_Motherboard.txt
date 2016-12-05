@@ -1,0 +1,47 @@
+http://motherboard.vice.com/read/how-to-get-zcash-bitcoins-anonymous-baby-cousin
+How to Get Zcash, Bitcoin’s Anonymous Baby Cousin | Motherboard
+EN
+THE VICE CHANNELS
+MOTHERBOARD
+Watch
+Sections
+How to Get Zcash, Bitcoin’s Anonymous Baby Cousin
+Written by
+JOSHUA KOPSTEIN
+CONTRIBUTOR
+October 30, 2016 // 02:00 PM EST
+Image: Zcash
+Cryptocurrencies are a dime a dozen these days, and it seems like a week doesn’t go by without news of digital thefts, crashes, and cataclysmic conflicts in the world of decentralized digital money.
+Nevertheless, a newly-launched cryptocurrency created by expert cryptographers holds the distinction of being the only one explicitly designed to provide bitcoin’s biggest missing feature: anonymity.
+Zcash, which went live on Friday with version 1.0 “Sprout,” is essentially an experimental fork of bitcoin that attempts to address an inherent contradiction of the supposedly “untraceable” cryptocurrency. Rather than publish the full details of all transactions on a distributed public ledger called the blockchain, Zcash can mask the sender, recipient, and amount of all transactions using what’s known in mathematics as a zero-knowledge proof.
+Basically, a zero-knowledge proof is a way to mathematically prove a statement is true without revealing any of the information you’d normally need to prove it. Suffice it to say, this sorcery allows Zcash transactions to be validated without actually exposing any of their details. Zcash founder and CEO Zooko Wilcox-O’Hearn has been working on the concept for at least as long as bitcoin’s mysterious pseudonymous creator, Satoshi Nakamoto, and has enlisted cryptographers from Johns Hopkins University who had originally drew up plans for a bitcoin anonymity upgrade called ZeroCoin.
+As Zcash’s creators put it: “If bitcoin is like http for money, Zcash is https,” referring to the now-ubiquitous secure protocol that protects a website’s visitors from eavesdropping.
+
+Zcash also notably addresses another of the biggest pitfalls of bitcoin and its ilk: that big corporations with tons of dedicated computers are pretty much the only ones with any shot at mining the cryptocurrency.
+As time goes on, the “difficulty” of mining cryptocurrencies like bitcoin—which involves computers solving millions of complex math problems, to generate what’s called a “proof-of-work”—increases dramatically, making it virtually impossible to mine coins unless you own a storehouse in China filled with thousands of specially-designed CPUs. But because Zcash mining is mostly dependent on a computer’s RAM, it’s feasible to mine using regular old CPUs and GPUs, dramatically lowering the barrier to entry.
+That means right now you can download the Zcash client (for best results, on a beefy PC), follow these instructions to configure your wallets and such, and get started mining.
+For now, the Zcash client will unfortunately only run on 64-bit systems running Linux, and its interface is entirely command line-based. If you’re not the technical type, you can still buy Zcash (ZEC) with fiat currencies the usual way on various online cryptocurrency exchanges. You can also sign up for a service that mines ZEC for you on a dedicated machine in the cloud.
+As with all cryptocurrencies, safety is not guaranteed. Zcash is experimental, and still has a number of outstanding security issues. But if you’re willing to accept the risk and want to spend some CPU cycles digging for Zcash coins, it’s always possible they’ll be worth something someday.
+TOPICS: cryptocurrency, zcash, bitcoin, mining, Zooko Wilcox-O’Hearn, Sprout
+Contact Motherboard by email.
+You can reach us at letters@motherboard.tv. Letters may be published. Want to see other people talking about Motherboard? Check out our letters to the editor.
+RECOMMENDED
+Colorado Hemp Farmers Are Turning to Bitcoin for Their Banking Woes
+Clinton Campaign Considered Accepting Virtual Currency Donations
+IRS Demands Identities of All US Coinbase Traders Over Three Year Period
+Bitcoin’s Former Chief Developer Regrets Playing the ‘Who Was Satoshi’ Game
+‘Bitcoin Unlimited’ Hopes to Save Bitcoin from Itself
+Why Bitcoin Spinoffs Are a Dumping Ground For Memes About Get-Rich-Quick Schemes
+FOLLOW US EVERYWHERE
+MOST POPULAR
+What a Trump Presidency Means For Science
+After 20 Minutes of Listening, New Adobe Tool Can Make You Say Anything
+Vancouver Considers Abandoning Parts of the Coast Because of Climate Change
+How We Plan to Cover the Environment In a Trump Presidency
+The Canadian Military Is Investigating a Mysterious Noise In the Arctic
+Why Some Apple Fans Are Considering a Hackintosh
+© 2016 Vice Media LLC
+About Motherboard
+Contact
+Privacy Policy
+Terms of Use

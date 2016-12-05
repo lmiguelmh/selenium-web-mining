@@ -1,0 +1,9 @@
+As the final release date of Segregated Witness approaches, more Bitcoin platforms are preparing to support the innovative scaling solution from Bitcoin Core. Electrum, an open source Bitcoin wallet application launched in 2011, is officially introducing support for SegWit in its next release.
+Once SegWit is adopted by leading wallet applications such as Electrum, the Bitcoin network is presumed to experience an observable change in the average size of blocks, as a significant amount of transactional data is removed from the traditional block structure.
+Although SegWit creates a major alteration in the structure of transactions, its backward-compatible nature as a soft fork eases the transition of most users.
+Particularly, the Bitcoin Core team states that Bitcoin Core wallet users can continue on with previous nodes. The team states:
+“Bitcoin Core wallet users can continue using their existing nodes. Even if you upgrade, you will see no changes beyond those described above. The code expected to be released in 0.12.2 does not begin generating segwit receiving addresses by default.”
+The announcement to integrate support for SegWit excited most Electrum users, and increased the anticipation for other scaling technologies like the Lightning Network.
+However, the Electrum development team clarified Lightning implementation is not on the roadmap as of now, but will most likely support it as its development continues.
+If Lightning and SegWit are both supported and implemented by wallet platforms, it will allow normal users to send micropayments with substantially lower fees and the Bitcoin network to reduce its block sizes for increased scalability. Thus, a great synergy between the two technologies is expected.
+The Electrum team also made an optimistic announcement on a social media platform, stating that it will debut on the Apple app store in the near future.

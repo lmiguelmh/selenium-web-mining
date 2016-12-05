@@ -1,0 +1,47 @@
+https://cointelegraph.com/news/debit-card-users-are-at-massive-risk-in-india-millions-of-cards-compromised
+Debit Card Users Are at Massive Risk in India, Millions of Cards Compromised
+Toggle navigation
+BTC
+738.33
+0.33%
+ETH
+9.45
+1.2%
+Advertise
+  2016-10-22 04:26 PM
+Author Shivdeep Dhaliwal
+Debit Card Users Are at Massive Risk in India, Millions of Cards Compromised
+1638 Total views 189 Total shares
+Banks are perceived to be safe by most people. The common public is wary of risky investments and tend to gravitate more towards the familiar and what could be more familiar than the neighbourhood bank with a cash machine sticking out of the wall?
+The month of October has brought shocking news for Indian debit card users as more than 3.2 mln debit cards are now known to have been compromised. This compromise is the largest ever breach of security in the Indian banking system.
+The largest Indian bank, the State Bank of India has been the worst hit with more than 600,000 debit cards affected.
+Indian banking reeling from cyber attack
+It has been reported by the Indian Express newspaper that 19 banks have had complaints from customers that their cards were used abroad while they were in India. These cards were mainly used to access funds in China and the United States.
+The Additional Secretary of Financial Services, Government of India GC Murmu told the Indian Express that 0.5 per cent of the total debit cards in the country have been compromised.
+A person involved in the investigation of the debit card scam told the Business Standard newspaper:
+“One of the processors of Hitachi Payments’ central switch had been attacked and the malware deployed on its switch was active for six weeks. Data of all the transactions passed through the switch has been possibly compromised. This happened at YES Bank, White Label Operator ATM (WLA) and a Korean bank ATM.”
+How the Debit Cards were compromised
+The National Payments Corporation of India (NPCI) explained in a press release on October 20, 2016, how the scam unfolded. Banks complained that their customer’s cards were being fraudulently used in China and USA and feared that there had been a compromise of card data.
+The three big payments processors in India, Mastercard, Visa and RuPay starting collaborating on this issue in September 2016. Investigations revealed that frauds were due to a possible compromise at a payment switch provider’s system.
+Further analysis revealed the possible card numbers that may have been compromised. RuPay card holders have not complained, but as of now it is not possible to use a RuPay card outside of India.
+NPCI states that fraudulent withdrawals are limited to cards of 19 banks and possibly 641 customers and the total amount involved is Rs.13 mln.
+NPCI Initiates action
+Affected banks have been informed that 3.2 mln cards could have been affected. It is suspected that the compromise is of a PCI-DSS certified switch and the PCI council has been convinced to carry out a forensic audit of the switch of one particular bank, which is suspected to be the point of compromise.
+A further action of instruction individual bank customers to change their debit card PIN numbers has been initiated. In cases where banks are unable to reach out to customers, cards are being blocked and reissued.
+State Bank alone is likely to reissue 625,000 cards. NPCI on its part too is in the process of reassuring the public. A. P Hota, MD & CEO, NPCI said in a press release: “Necessary corrective actions already have been taken and hence there is no reason for bank customers to panic. Advisory issued by NPCI to banks for re-cardification is more of a preventive exercise.”
+Alarming ineptness of Banks
+What is alarming about the debit card compromise in India is that the banks to figure out that they had been compromised. India’s Mint newspaper talked with six people who confirmed that it took 3 months for the banks to realise what had happened while customer data of 3.2 mln people was stolen between 25 May, 2016 and 10 July, 2016 from the Yes Bank ATM network managed by Hitachi Payment Services Pvt. Ltd.
+What is shocking though is the cavalier attitude of the banks, which have a hands-off approach to managing ATM services and largely outsource them to third parties. There have been reports in the Indian media that banks have largely washed their hands off responsibility for compensating customers.
+Even when they do have to compensate their customers for the loss, they have adequate loopholes available to them. As an artilcle on Scroll.in puts it: “Guidelines state that in case of a third-party breach – where neither the customer nor bank is at fault – customers will have zero liability if they report the unauthorised transaction to the bank within three working days of receiving a communication on it. After this cut-off, the customer will have to bear up to Rs 5,000 in damages or the transaction value, whichever is lower. And if they take more than a week to report the transaction, this amount can go up and will be on the bank’s discretion.”
+We need a new system, we need Bitcoin
+Bitcoin and other cryptocurrencies have increasingly come under the spotlight for all the wrong reasons - fraud, use by criminals, lack of regulation etc. The truth however is that all systems are equally vulnerable, even the most regulated ones.
+The chances that your safe bank will compensate you for the losses that you incur for using their ‘safe’ systems are also dicey at best. It is time that we shift to digital currencies and some of which are already available in the form of Bitcoin and others.
+These currencies put you in charge and leave you less vulnerable to third party loss of information. Debit and Credit cards are at best antiquated systems which need a complete overhaul or better a relegation to history’s dustbin.
+India
+Fraud
+Debit Cards
+Banks
+Bitcoin
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

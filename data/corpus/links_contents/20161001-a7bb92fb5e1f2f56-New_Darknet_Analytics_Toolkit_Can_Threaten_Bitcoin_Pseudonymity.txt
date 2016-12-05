@@ -1,0 +1,113 @@
+http://www.newsbtc.com/2016/10/01/new-darknet-analytics-toolkit-can-threaten-bitcoin-pseudonymity/
+New Darknet Analytics Toolkit Can Threaten Bitcoin Pseudonymity
+25-11-2016
+04:57 pm
+      BTC
+      LTC
+      USD
+      EUR
+      GBP
+      CNY
+      JPY
+      =
+      USD
+      GBP
+      EUR
+      JPY
+      CNY
+      BTC
+      LTC
+      sponsored by SimpleFX
+LATEST NEWS
+Bitcoin Price Watch; A Slow End To The Week
+EY Unveils Strategy to Create Mainstream Bitcoin Traction In Switzerland
+Ethereum Platform Receives a New Geth Update after Consensus Flaw
+Redefining the Short Term Recruitment Industry -- ChronoBank
+Bitcoin Price Watch; End Of The Week Trading
+Ledger Blue Hardware Cryptocurrency Wallet Now Available For Pre-order
+Ethereum Price Technical Analysis – ETH/USD Downsides To Continue
+Bitcoin Price Technical Analysis for 11/25/2016 - Hold or Fold at Channel Support?
+Fortunejack – The only Gambling Site Offering Binary Options Trading
+Japan's Mitsui Sumitomo Introduces New Bitcoin Insurance
+Bitcoin Price Watch; A Wasteland Of Volume
+Swift Boasts Blockchain Technology Will Not Disrupt Their Business Model
+Is IRS Overstepping Boundaries by Issuing Summons to Coinbase?
+Bitcoin Price Watch; Thanksgiving Volatility
+Tendai Biti: "Zimbabwe Should Adopt Bitcoin As The National Currency"
+Ethereum Classic Price Technical Analysis – ETC/BTC Almost Tested 0.00100BTC
+Ethereum Price Technical Analysis – Can ETH/USD Break This?
+Bitcoin Price Technical Analysis for 11/24/2016 - Eyes on This Triangle
+NEWS
+ANALYSIS
+CHARTS
+EDUCATION
+BROKERS
+CASINOS
+EVENTS
+ADVERTISE
+PR PLANS
+SUBMIT PR
+Global
+New Darknet Analytics Toolkit Can Threaten Bitcoin Pseudonymity
+Author
+JP Buntinx
+Categories
+Bitcoin, Bitcoin News, News, Opinion
+
+
+
+Bitcoin users should take note of this new development as well. Although Bitcoin offers all users pseudonymity, these tools can also be used to link wallet addresses to user profiles.
+Although the darknet is often touted as the place to be for criminals who want to keep their identity private, there are some caveats. New research goes to show hackers tend to resort to specific patterns in communication on the deep web. Looking closer at these models may lead to detecting illicit behavior at an early stage, and potentially even identifying individual users.
+Darknet Data Analysis Is Quite Powerful
+The evidence for this study will be presented at the upcoming Black Hat Europe 2016 conference, which takes place come November 2016.Data analysts claim they have come up with a way to identify illicit behavior on the darknet by looking at the way individuals communicate with one another.
+According to this research, security experts can discover communication patterns by analyzing darknet forums. Moreover, the behavior of individual hackers and criminals can tell a lot about these people as well. New technologies such as natural language processing, social network analysis, and temporal pattern analysis can help identify malicious intentions at an early stage.
+By conducting data analysis themselves, enterprises can look closer at individual messages and posts on the darknet at their own pace. This would actually remove the need to rely on threat intelligence experts, which are not cheap to come by. Although the information is aggregated through one central service, the list of crawled darknet forums continues to grow every month. So far, close to 800 platforms are being monitored on a 24/7 basis.
+There are multiple use cases for this type of technology, as it can help track down individual hackers. While it will not immediately lead to a name or address, this would allow people hiding behind different aliases to be identified. After all, most people reuse the same pattern of communication at all times. In fact, using these research tools has unveiled valuable information for security experts already.
+A Potential Concern For Bitcoin Pseudonymity
+The company driving all of this research goes by the name of Recorded Future, and they will unveil more information during the November conference. The team is confident they can remove the issue of bad actors jumping between different online handles. That aspect remains a critical problem during darknet investigations right now.
+Bitcoin users should take note of this new development as well. Although Bitcoin offers all users pseudonymity, these tools can also be used to link wallet addresses to user profiles. Keeping in mind how the majority of Bitcoin users is also active on social media, cross-referencing communication and information is not overly difficult. Moreover, this toolkit can be used to monitor any forum. There is lots of information to be analyzed when looking at Bitcointalk, for example.
+Header image courtesy of Shutterstock
+PUBLISHED BY
+JP Buntinx
+JP is working hard to bring more credibility to the Bitcoin and blockchain news industry. Outside of being Europe Editor at Newsbtc, JP is also an active writer for the website, and does not shy away from letting his opinion be heard. View all posts by JP Buntinx
+NEWSBTC - EDITOR'S PICKS
+Brokers
+Casinos
+1
+Review Trade Now
+2
+Review Trade Now
+3
+Review Trade Now
+4
+Review Trade Now
+5
+Review Trade Now
+FEATURED PRESS RELEASES
+Nov 21 | 12:00
+Electronic Government as a Service — eGaaS Enters Beta Testing Phase
+Nov 17 | 12:25
+Bitcoin’s Fastest Growing Community Issues Innovative BitConnect Coin ICO
+Nov 16 | 20:26
+Darcrus: Decentralizing the Business World
+Nov 16 | 13:05
+IBM, Microsoft and Sberbank shared experience in blockchain developments. How did Blockchain & Bitcoin Conference in Moscow go?
+Nov 14 | 13:30
+A Better Ethereum Wallet for Investors
+VIEW MORE
+SUBMIT PR
+SUBSCRIBE TO OUR NEWSLETTER
+Ⓒ Copyright 2016 NEWSBTC. All Rights Reserved
+About
+Team
+Business Listing
+T & C
+Bitcoin Forum
+Contact Us
+Advertise
+Privacy Policy
+Comments Policy
+Franchise
+Sitemap
+NewsBTC is a news service that covers bitcoin news, technical analysis and forecasts for bitcoin and other altcoins. Here at NewsBTC, we are dedicated to enlightening people all around the world about bitcoin and other cryprocurrencies. We cover news related to bitcoin exchanges, bitcoin mining and price forecasts for various virtual currencies.
+×

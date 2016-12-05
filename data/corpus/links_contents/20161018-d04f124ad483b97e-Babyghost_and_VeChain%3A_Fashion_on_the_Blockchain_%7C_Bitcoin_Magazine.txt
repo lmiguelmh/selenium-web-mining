@@ -1,0 +1,51 @@
+https://bitcoinmagazine.com/articles/babyghost-and-vechain-fashion-on-the-blockchain-1476807653
+Babyghost and VeChain: Fashion on the Blockchain | Bitcoin Magazine
+ABOUT ©2016 BTC Media LLC
+ADVERTISESTORECONTACTBTC CHANNELS ▾
+BITCOIN PRICE
+$629.02
+SUBSCRIBE
+MEMPOOL:#core-dev #blockchain #technical #wall-street
+Babyghost and VeChain: Fashion on the Blockchain
+Oct 18, 2016 04:20 PM by Rebecca Campbell
+The world of fashion met the world of blockchain technology at Shanghai’s Fashion Week. When independent, trendy fashion label Babyghost teamed up with Shanghai-based Blockchain-as-a-Service (BaaS) company, BitSE, and its VeChain project, the result was a multidimensional sensory feast for the fashion crowd.
+For Babyghost’s 2017 Spring and Summer collection, the brand took to the streets to create a new twist. While still incorporating Babyghost’s core influences, this collection also draws on inspiration from the new age trope of the Indigo Child — the concept of an evolved group of children that embody intelligence, intuition, and supernatural abilities. Uniting with VeChain, Babyghost is now taking their fashion line one step further by providing a link between fashion and the digital world.
+VeChain is a cloud product management solution integrated with blockchain technology that puts unique IDs on the blockchain and can verify if an item is genuine or not. It focuses on four areas: anti-counterfeiting, supply chain management, asset management, and client experiences, each of which can be used independently or synergistically.
+The result of this union is called FashTech, where a clothing collection can be verified on the blockchain through Near Field Communications (NFC) — which allows devices to communicate with one another when brought into close proximity  — or by scanning the QR code on the label. A person’s phone communicates with the small VeChain chip embedded inside the clothing or accessory, which then tells its “story” to the consumer.
+The chip holds a unique public and private key pair. The public key is also stored in the blockchain and can be verified by the VeChain app. The app then verifies the public key with the VeChain servers to determine if the public key is genuine. As a result, product safety and quality assurance are maintained, helping to drive customer satisfaction.
+With the help of VeChain, Babyghost reaches an elevated level of interaction with their customers through their garments. At Shanghai’s Fashion Week, VeChain and Babyghost presented 20 models who told the stories of 20 new looks.
+Embedded with a VeChain chip, those in attendance at the event had the unique opportunity to simply scan the chip on each piece of clothing to receive an interactive memory of who had originally modeled the piece in NYC. Later on, should future customers want to document that they also wore the piece of clothing before selling it secondhand, it would also be possible to provide this interactive memory, according to BitSE.
+Speaking to Bitcoin Magazine, BitSE COO Sunny Lu said that Babyghost is ready to try any innovation that will give their customers extraordinary experiences.
+“This event illustrates that fashion brands, especially high fashion brands, need to keep the consumer in mind and give them more than a product,” said Lu. “The customer wants to know that the connection between them and the brand is real, and that their products are real.”
+Also presented at the event were 80 eco-friendly handbags that had 80 different stories to tell because of their unique VeChain IDs. Tagged with one of 80 landmark Babyghost photos, each handbag has its own “soul” representing a specific moment in Babyghost history.
+This successful collaboration proves that blockchain can be disruptive to more than just finance, said Lu.
+“Currently, some players in the fashion industry are using NFC as an anti-counterfeiting solution,” he said. “However, these aren’t the most advanced chips, and they only solve one  of the many problems that the fashion industry faces ... these chips still have potential security risks and concerns.”
+The disruptive difference of VeChain comes from the use of blockchain technology, which creates an opportunity for everyone to be involved in the business operations, including consumers, without introducing any security concerns, adds Lu.
+By simply scanning the VeChain chip on a cardigan, dress or shirt, a customer has the opportunity to access a personal digital adventure revealing information about their piece and its journey.
+Not only that, customers will be interacting with blockchain technology without even knowing that it’s working behind the scenes.
+“The industry players will know how everything works, but the end consumer doesn’t need to know, which is why this use case is so beautiful,” said Lu. “The primary concern for the customer is the user interface and value, which this technology brings to them.”
+This experience gives consumers a real sense of what FashTech is. It’s not simply a case of putting lights on clothing: It’s about connecting software, hardware, a tangible item and the user to something much more than that.
+As Lu says, the world is seeing a paradigm shift in a lot of industries from mass production to mass customization.
+“We want to be a part of that [and] VeChain provides an exclusive and personalized experience to the clients of Babyghost,” he said.
+View a series of videos featuring Babyghost's new FashTech collection here.
+by Rebecca Campbell
+KEYWORDS: #customers #chips #stories #players #nfc
+You Might Like:
+SEP 20, 2016
+Toward the Moon: Genesis Mining Sends the First Bitcoin Into Space
+#SOCIETY-LIFESTYLE
+Related Articles:
+OCT 11, 2016
+Trust Disrupted: TechCrunch Premieres Bitcoin and Blockchain Video Series
+#SOCIETY-LIFESTYLE
+SEP 01, 2016
+SingularDTV: A Decentralized “Netflix” on Ethereum
+#SOCIETY-LIFESTYLE
+SEP 07, 2016
+Fictional Digital Currency GenCoin Premieres in New Crackle Show, StartUp
+#SOCIETY-LIFESTYLE
+OCT 11, 2016
+Japanese TV Show BitGirls Brings Bitcoin and Digital Currencies to the Masses
+#SOCIETY-LIFESTYLE
+About Advertising Careers Contact Terms of Service yBitcoin Store
+© Copyright 2016 BTC Inc. All Rights Reserved.

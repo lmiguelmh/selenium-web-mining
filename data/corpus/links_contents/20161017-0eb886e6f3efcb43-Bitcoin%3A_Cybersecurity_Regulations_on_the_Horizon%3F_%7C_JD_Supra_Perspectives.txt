@@ -1,0 +1,82 @@
+http://www.jdsupra.com/legalnews/bitcoin-cybersecurity-regulations-on-40635/
+Bitcoin: Cybersecurity Regulations on the Horizon? | JD Supra Perspectives - JDSupra
+NEWS & INSIGHTS  
+TRENDING [7]  
+FIND AUTHOR  
+MORE  
+    Bitcoin: Cybersecurity Regulations on the Horizon?
+10/17/2016
+by
+Jennifer Newton  
+| JD Supra Perspectives
+in
+Share
+84
+Send
+Embed
+Contact
+Unless you have been living under a rock, you have probably heard a lot about Bitcoin. But, what exactly is it? In simple terms, Bitcoin is an electronic payment network (as in: “Bitcoin”) and a currency unit used on that network (as in: “bitcoin”).
+Individuals and businesses can use Bitcoin to purchase and sell goods and services using bitcoins as the payment currency. One of Bitcoin’s main appeals is that it provides users with some level of anonymity when conducting financial transactions. Although Bitcoin transactions are published to other Bitcoin users through a distributed electronic public ledger (“block chain”), the identities of Bitcoin users and locations are concealed. Instead, each transaction is linked to a Bitcoin address, which allows users to publicly broadcast
+transactions without compromising their identities.
+While this anonymity feature makes Bitcoin a preferred method of payment, the same feature has also attracted hackers and cybercriminals who view the payment network as a means to launder or steal funds. In this regard, over the past three years, a number of Bitcoin exchanges have been the target of cyberattacks. In August of this year, The New York Times reported the cyber hacking of Bitfinex, one of the world’s largest Bitcoin exchanges. According to reports, cyber hackers were alleged to have stolen bitcoins worth about $65 million from Bitfinex. 
+The Bitfinex attack is not the first cyberattack of a Bitcoin exchange. In January of 2015, USA Today reported that Bitstamp, which was credited as running the world’s third largest Bitcoin exchange, had lost a purported $5.4 million worth of bitcoin to a security breach. Prior to the breach of Bitstamp, Mt. Gox–one of the world’s largest Bitcoin exchanges at the time – was also allegedly targeted by cyber hackers. After losing an estimated 650,000 bitcoins to alleged hackers, Mt. Gox was forced to close its exchange services and file for a form of bankruptcy protection from its creditors. 
+Unlike banks and credit card issuers that provide consumers with certain protections... no such safeguards exist in exchanges for the loss of bitcoins.
+Emerging Cybersecurity Regulations
+Cyber hackings involving Bitcoin exchanges can have disastrous consequences for users, particularly where such hacking results in stolen funds. Unlike banks and credit card issuers that provide consumers with certain protections from theft or other such losses, no such safeguards exist in exchanges for the loss of bitcoins. Consequently, Bitcoin users whose wallets are compromised as a result of a cyberattack may suffer irreversible loss. 
+Further problematic is the lack of clarity regarding the application of existing cybersecurity regulations to Bitcoin exchanges. Currently, the landscape of cybersecurity regulation consists of a patchwork of federal and state laws. These laws include industry specific regulations, such as HIPAA, GLBA, as well as state breach notification laws and general consumer protection statutes.
+It is uncertain whether, and how, these laws may apply to Bitcoin exchange activity. While bitcoin transactions would appear to involve transactions that could be deemed to be financial in nature, Bitcoin exchanges are not banking institutions such that they might fall within the scope of various laws applicable to banks and other financial institutions. Additionally, while a number of states have enacted security breach laws, requiring disclosure of security breaches of information involving personally identifiable information, many of these laws have exclusions for encrypted data. As a consequence, it is unclear whether the information stored on Bitcoin exchanges would be deemed to constitute personally identifiable information given its encrypted status.
+Currently, the landscape of cybersecurity regulation consists of a patchwork of federal and state laws...
+As Bitcoin technology becomes more mainstream, the need for clarity and consistency regarding cybersecurity may lead to the development of new legislation. As legislators grapple with creating legislation intended to bring virtual currencies, such as bitcoin, within the scope of anti-money laundering regulations, the vulnerability of Bitcoin exchanges to theft and other cyber related crimes seems to suggest that cybersecurity regulations may not be too far behind. 
+In this regard, in 2014, the Conference of State Bank Supervisors (“CSBS”) formed the CSBS Emerging Payments Task Force for the purpose of examining, among other things, the intersection between state supervision, state law, and payments developments, which also included an assessment of virtual currency activities. After engagement with various stakeholders, the CSBS concluded that virtual currency activities should be subject to state licensure and supervision. To encourage consistent state regulation of virtual currency activities, the CSBS developed the CSBS Model Regulatory Framework for State Regulation of Certain Virtual Currency Activities.
+The Model Framework stressed the importance of cybersecurity awareness and recommended that state regulatory regimes governing virtual currency activities require that participants have policies, procedures, and controls in place to limit cyber risks, customer notification and reporting requirements for cybersecurity events, and where necessary, cybersecurity audit requirements based on business model and risk profile of the financial institution. 
+At least one financial regulator has already enacted such regulations. In June of 2015, the New York Department of Financial Services (NYDFS) issued digital currency rules that impose cybersecurity requirements on financial firms using virtual currencies. Under these rules, financial firms using bitcoins are required to obtain a “BitLicense” from the NYDFS, and maintain an effective cybersecurity program to ensure availability and functionality of the licensee’s electronic systems, and protect against unauthorized access, use or tampering.
+The rules also require that such firms have a written cybersecurity policy that addresses certain areas, such as information security, data governance and classification, access controls and business continuity, disaster recovery planning and resources, and customer data privacy. In September of 2015, NYDFS granted its first
+BitLicense application to Circle Internet Financial, a virtual currency firm. In June of this year, NYDFS announced the grant of a second BitLicense to Ripple Labs’ affiliate, XRP II, LLC, a distributed ledger startup.
+In September of this year, NYDFS also announced its proposed rule to require banks, insurance companies, and other financial services institutions to establish and implement a cybersecurity program designed to protect consumers as well as the information technology systems of these entities. The regulation would require each covered entity to assess its specific risk profile and design a program that addresses its risks. The proposed rule would cover any person operating under or required to operate under a license, registration, charter, certificate, permit, accreditation or similar authorization under the banking law, the insurance law or the financial services law.  
+Conclusion
+Because Bitcoin is still relatively new, it remains unclear whether other states will follow New York’s lead and impose cybersecurity requirements on virtual currency firms, or whether existing cybersecurity legal frameworks will have any impact on the activities of virtual currency firms. Until these questions are answered, the recent hackings of Bitcoin exchanges and the potential for consumers to incur substantial loss as a result of such hackings should encourage Bitcoin trading firms and exchange platforms to implement robust security controls that will protect the digital currencies of their users from cyberattacks. 
+*
+[Jennifer D. Newton is an attorney in the Miami office of Shutts & Bowen LLP, where she is a member of the Financial Services Practice Group. Prior to joining the firm, Jennifer was counsel for the Consumer Financial Protection Bureau (CFPB).]
+  Send Print Report Contact
+LATEST POSTS
+The Write Stuff: Q&A with Top Author & Attorney Matthew DeVries
+It's Time to Change the Mindset of Your In-House Legal Team
+The Write Stuff: Q&A with Top Author & Attorney Allison Condra
+The Write Stuff: Q&A with Top Author & Attorney Thomas Potter III
+Creative Content: Lawyers & Law Firms Shouldn't Fall Back on Standard Evergreens
+See more »
+DISCLAIMER: Because of the generality of this update, the information provided herein may not be applicable in all situations and should not be acted upon without specific legal advice based on particular situations.
+© JD Supra Perspectives 2016 | Attorney Advertising
+
+WRITTEN BY:
++ Follow
+JD Supra Perspectives
++ Follow
+Jennifer Newton
+PUBLISHED IN:
++ Follow
+Bitcoin
++ Follow
+BitLicense
++ Follow
+Blockchain
++ Follow
+CSBS
++ Follow
+Cybersecurity
++ Follow
+Data Breach
++ Follow
+Data Protection
++ Follow
+Law Matters
++ Follow
+NYDFS
++ Follow
+Popular
+more+
+JD Supra Perspectives on:
+Back to Top
+Home About Customize Become a Contributor Syndicate JD Supra Content Privacy Policy Terms & Conditions Contact Team Jobs
+Explore 2016 Readers' Choice Awards
+Copyright © 2016 JD Supra, LLC

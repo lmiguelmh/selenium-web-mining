@@ -1,0 +1,113 @@
+http://www.newsbtc.com/2016/10/22/paypal-users-unable-access-funds-dyndns-outage/
+PayPal Users Were Unable To Access Funds During To DynDNS Outage
+25-11-2016
+05:18 pm
+      BTC
+      LTC
+      USD
+      EUR
+      GBP
+      CNY
+      JPY
+      =
+      USD
+      GBP
+      EUR
+      JPY
+      CNY
+      BTC
+      LTC
+      sponsored by SimpleFX
+LATEST NEWS
+Bitcoin Price Watch; A Slow End To The Week
+EY Unveils Strategy to Create Mainstream Bitcoin Traction In Switzerland
+Ethereum Platform Receives a New Geth Update after Consensus Flaw
+Redefining the Short Term Recruitment Industry -- ChronoBank
+Bitcoin Price Watch; End Of The Week Trading
+Ledger Blue Hardware Cryptocurrency Wallet Now Available For Pre-order
+Ethereum Price Technical Analysis – ETH/USD Downsides To Continue
+Bitcoin Price Technical Analysis for 11/25/2016 - Hold or Fold at Channel Support?
+Fortunejack – The only Gambling Site Offering Binary Options Trading
+Japan's Mitsui Sumitomo Introduces New Bitcoin Insurance
+Bitcoin Price Watch; A Wasteland Of Volume
+Swift Boasts Blockchain Technology Will Not Disrupt Their Business Model
+Is IRS Overstepping Boundaries by Issuing Summons to Coinbase?
+Bitcoin Price Watch; Thanksgiving Volatility
+Tendai Biti: "Zimbabwe Should Adopt Bitcoin As The National Currency"
+Ethereum Classic Price Technical Analysis – ETC/BTC Almost Tested 0.00100BTC
+Ethereum Price Technical Analysis – Can ETH/USD Break This?
+Bitcoin Price Technical Analysis for 11/24/2016 - Eyes on This Triangle
+NEWS
+ANALYSIS
+CHARTS
+EDUCATION
+BROKERS
+CASINOS
+EVENTS
+ADVERTISE
+PR PLANS
+SUBMIT PR
+PayPal Users Were Unable To Access Funds During To DynDNS Outage
+Author
+JP Buntinx
+Categories
+Bitcoin, Bitcoin News, News, Opinion
+52
+
+
+
+While these attacks were going on, the Bitcoin network kept trucking along nicely. There were no delays in sending or receiving transactions, nor did the transaction fee increase.
+If there is one thing to take away from yesterday’s major DNS outage, it is how the Bitcoin network was not affected. The story was entirely different for PayPal users, who were unable to access their account and funds. Even though services have been restored ever since Bitcoin will never be affected by such trivialities.
+Having multiple major companies rely on one and the same DNS provider is never a good idea. Even though DynDNS uses data centers all over the world, they are still central points of failure. With the Mirai botnet able to bring their global services to a halt it goes to show decentralization of all things is the only way forward.
+To put this into perspective, PayPal was one of the biggest victims of this DDoS attack. Users were unable to access their own funds, regardless of which device they used for doing so. That is the biggest problem with centralized services, as once they go down, users are completely locked out. Thankfully this matter was resolved pretty quickly.
+Bitcoin Is Not Invulnerable To DDoS Attacks
+While these attacks were going on, the Bitcoin network kept trucking along nicely. There were no delays in sending or receiving transactions, nor did the transaction fee increase. Instead, everything went on as normal, without a care in the world. Having a decentralized technology to power, the whole financial network seems to pay dividends.
+More importantly, the Bitcoin protocol is not controlled by single entities. Instead, there is no control over the network, and there are no central points of failure. However, Bitcoin relies on network nodes, and it would be possible to attack all of them at the same time. According to Coin.dance, there are 4,479 Bitcoin Core nodes online right now, spread all over the world.
+That being said, platforms and companies dealing with cryptocurrency would not be safe from such an attack. Even if all exchanges were to go down at the same time, that would not affect the Bitcoin protocol. Websites and platforms are hosted on central servers but have no direct connection to the blockchain. Users who store funds in an exchange wallet, would not be able to access funds, through. It is always advised to move funds to a wallet the user has full control over.
+In the end, comparing Bitcoin to PayPal feels like comparing apples and lemons. Both payment networks do entirely different things and would be affected in different ways. It is impossible to tell what effect such a massive attack would have on the Bitcoin protocol, given the current lack of scalability. For now, cryptocurrency enthusiasts should be glad the attack was not directed against Bitcoin itself.
+Header image courtesy of Shutterstock
+52
+PUBLISHED BY
+JP Buntinx
+JP is working hard to bring more credibility to the Bitcoin and blockchain news industry. Outside of being Europe Editor at Newsbtc, JP is also an active writer for the website, and does not shy away from letting his opinion be heard. View all posts by JP Buntinx
+NEWSBTC - EDITOR'S PICKS
+Brokers
+Casinos
+1
+Review Trade Now
+2
+Review Trade Now
+3
+Review Trade Now
+4
+Review Trade Now
+5
+Review Trade Now
+FEATURED PRESS RELEASES
+Nov 21 | 12:00
+Electronic Government as a Service — eGaaS Enters Beta Testing Phase
+Nov 17 | 12:25
+Bitcoin’s Fastest Growing Community Issues Innovative BitConnect Coin ICO
+Nov 16 | 20:26
+Darcrus: Decentralizing the Business World
+Nov 16 | 13:05
+IBM, Microsoft and Sberbank shared experience in blockchain developments. How did Blockchain & Bitcoin Conference in Moscow go?
+Nov 14 | 13:30
+A Better Ethereum Wallet for Investors
+VIEW MORE
+SUBMIT PR
+SUBSCRIBE TO OUR NEWSLETTER
+Ⓒ Copyright 2016 NEWSBTC. All Rights Reserved
+About
+Team
+Business Listing
+T & C
+Bitcoin Forum
+Contact Us
+Advertise
+Privacy Policy
+Comments Policy
+Franchise
+Sitemap
+NewsBTC is a news service that covers bitcoin news, technical analysis and forecasts for bitcoin and other altcoins. Here at NewsBTC, we are dedicated to enlightening people all around the world about bitcoin and other cryprocurrencies. We cover news related to bitcoin exchanges, bitcoin mining and price forecasts for various virtual currencies.
+×

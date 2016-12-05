@@ -1,0 +1,91 @@
+http://www.bleepingcomputer.com/news/security/bitcoin-retires-alert-system-amid-security-concerns/
+Bitcoin Retires Alert System amid Security Concerns
+NEWS
+DOWNLOADS
+VIRUS REMOVAL GUIDES
+TUTORIALS
+DEALS
+FORUMS
+MORE
+HomeNewsSecurityBitcoin Retires Alert System amid Security Concerns
+22
+5
+  Bitcoin Retires Alert System amid Security Concerns
+By Catalin Cimpanu
+November 2, 2016 05:41 PM 0
+The Bitcoin project is retiring the "Alert" feature for showing warnings and informational messages to all Bitcoin users and is citing security concerns as the main reason.
+The Alert system was created and introduced in Bitcoin's source code by the cryptocurrency's creator, the mysterious Satoshi Nakamoto. The feature's role was to show an alert to all Bitcoin users, regardless if they used Bitcoin desktop clients or web-based wallet services. In the past, the feature has been used to inform users of important security practices, accidental forks of the Bitcoin project, or various phishing campaigns that had plagued the Bitcoin ecosystem.
+Example of the Bitcoin Alert System
+Source: https://en.bitcoin.it/wiki/Alert_system
+Unfortunately, as the Bitcoin team explains, the Alert feature wasn't properly designed. To issue network-wide alerts, a person needed to sign the alert with the "Alert key." Since the system was designed with only one Alert key in mind and no way of changing or revoking it, this has rendered the entire system useless as this Alert key has been shared and shared among countless of developers.
+"This has led to the Alert Key potentially falling into the hands of malicious actors who could use it to disrupt the network," the Bitcoin team explains.
+To prevent potential abuse, from former developers or malicious parties, the Bitcoin project plans to retire the network-wide alert system.
+Bitcoin Project to rely on private alert systems and Bitcoin news sites
+Instead, the Bitcoin Project will be relying on the alert systems implemented in private Bitcoin wallet services, but also on the promptitude of cryptocurrency news outlets.
+According to the Bitcoin Project, they plan on retiring the native Bitcoin Alert system one to two months after the announcement made on November 1, 2016. Major Bitcoin wallet services have already known about the Bitcoin Project's plan and and have removed support for the network-wide Alert system from their software.
+BITCOIN
+CATALIN CIMPANU
+Catalin covers various topics such as data breaches, software vulnerabilities, exploits, hacking news, the Dark Web, programming topics, social media, web technology, product launches, and a few more.
+PREVIOUS ARTICLE
+NEXT ARTICLE
+Post a Comment
+Community Rules
+You need to login in order to post a comment
+Not a member yet? Register Now
+You may also like
+BATTERY STATUS API BEING REMOVED FROM FIREFOX DUE TO PRIVACY CONCERNS
+MICROSOFT LAUNCHES TEAMS, AS SLACK FIRES WARNING SHOT VIA NEW YORK TIMES BACK PAGE AD
+TECH SUPPORT SCAM LEVERAGES TWO-YEAR-OLD CHROME BUG TO HANG BROWSERS, FREEZE PCS
+GOOGLE DISCLOSES WINDOWS ZERO-DAY BEFORE MICROSOFT CAN ISSUE PATCH
+LATEST FORUM TOPICS
+First Post.
+junior1505 in Introductions
+Windows 10: Explorer.exe crashing after login, black screen
+scorevi in Virus, Trojan, Spyware, and Malware Removal Logs
+Monitor Issues - Two of four don't wake up
+OstermanA in Windows 10 Support
+NEWSLETTER SIGN UP
+To receive periodic updates and news from BleepingComputer, please use the form below.
+LATEST DOWNLOADS
+Notepad++
+Version: 7.2.1 3,540
+DOWNLOADS
+Registry Backup
+Version: 3.5.3 29,353
+DOWNLOADS
+Windows Repair (All In One)
+Version: 3.9.17 893,563
+DOWNLOADS
+Recuva
+Version: 1.5.3 32,395
+DOWNLOADS
+ESET Uninstaller
+Version: NA 48,923
+DOWNLOADS
+NEWSLETTER SIGN UP
+Follow us:
+MAIN SECTIONS
+News
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+File Database
+Glossary
+COMMUNITY
+Forums
+Forum Rules
+Chat
+USEFUL RESOURCES
+Welcome Guide
+Sitemap
+COMPANY
+About BleepingComputer
+Contact Us
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+User Agreement - Privacy Policy
+Copyright @ 2003 - 2016 Bleeping Computer® LLC - All Rights Reserved

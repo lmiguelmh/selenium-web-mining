@@ -1,0 +1,64 @@
+https://www.cryptocoinsnews.com/merits-limitations-zcash-experts-thoughts/
+Merits & Limitations of ZCash: Thoughts of Experts
+Submit a Press Release Advertise Write for CCN News Tips Contact
+Explore
+
+CryptoCoinsNews
+Bitcoin Blockchain FinTech ETH Learn Free PR Widget
+Altcoin NewsNews
+Merits & Limitations of Zcash: Experts’ Thoughts
+Joseph Young on 29/10/2016
+
+124
+SHARES
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+Over the past few months, an increasing number of cryptocurrency enthusiasts and investors have cited the importance of ZCash and its potential impact on the ecosystem of digital currencies in terms of privacy and anonymity. However, there exists a relatively large community of experts and users that aren’t convinced of the ZCash hype train.
+Merits
+Many investors and experts including Dan Morehead of prominent bitcoin venture capital Pantera Capital are optimistic towards the features of ZCash that can cover the limitations of bitcoin. As Morehead outlines, some of them include:
+Selective transparency
+GPU mining to prevent centralization
+Potentially more effective governance
+Because of this hype around ZCash and the optimism from investors, the implied marketcap for ZCash at the moment holds at around US$400 billion, which CNBC Fast Money executive Brian Kelly  states is larger than the market cap of Facebook.
+Despite the rapidly increasing exchange value of ZCash, it is receiving criticisms in regards to its centralization of operations.
+Major Limitations & Criticism
+One major limitation of ZCash as a “decentralized” and “private” cryptocurrency is the centralization of its foundation and development team, which have formed a US-based company to legally conduct all of its operations.
+Such centralization of developers and network operators have earned the cryptocurrency a title of a “corporate coin” amongst developers and cryptocurrency enthusiasts, primarily because of the possibility that law enforcement or government agencies may manipulate and abuse power to influence the development of ZCash.
+Angel investor, Quant trader and bitcoin expert Peter Black particularly criticized the centralized control of ZCash as a cryptocurrency as it contradicts the basic notion of digital currencies in general, in that most, if not all operations must be completed in a distributed environment.
+“Zcash ($ZEC) is a corporate coin. digital cash should not be controlled or developed by any single entity, corporation or central bank,” wrote Black.
+Concerns of Black and other experts in the field of cryptocurrency towards the centralization of ZCash are rational and just, because it affects the mining phases of the currency.
+For all digital currencies, mining mechanisms and inflation rate are perhaps the two most important technical aspects that developers spend a significant amount of time on. ZCash has a unique mining process based on the implementation of Genesis keys or “master private key,” which is trusted to be handled by a small group of six individuals.
+To put it simply, this master private key, which has been referred to as “toxic waste” by ZCash founder and CEO Zooko Wilcox, is a crucial key that is needed for the anonymizing mixer within the ZCash network to operate properly. If this key is leaked outside of this small group however, the owner of they key will be able to produce an unlimited amount of ZCash. Such unusual generation of ZCash could potentially break the network.
+The issue with this process is, the six individuals that have access to the master private key are the members of the corporate entity. If, by any means, the company gets compromised and the key becomes accessible by individuals outside of the team, the entire network of ZCash could be vulnerable to transactional attacks.
+Various communities, particularly the Monero community, harshly criticized this centralized mining and deployment process of ZCash as it violated the beliefs and ideals of Cypherpunks and distributed digital cash in general.
+The cypherpunk ideals are important to tackle in the discussion of the legitimacy of the ZCash launch because its CEO Zooko Wilcox was one of members of the original group cypherpunks, which included Wikileaks founder Julian Assange, PGP author and cryptographer Hal Finney and original PGP creator Philip Zimmermann.
+More issues are unravelled in the actual mining phase of ZCash, in which the group of 6 corporate members take a 10% perpetual devmine to fund their operations. While some supporters attempted to justify this mechanism by comparing it to Initial Coin Offering (ICO), it still demonstrates a substantially high level of centralization when compared with the pre-mining and deployment phases of bitcoin and other anonymous coins like Monero.
+Image from Shutterstock.
+124
+SHARES
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+Posted in: Altcoin News, News Tagged in: bitcoin, monero, Zcash
+
+Recent Posts
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+Advertisement
+NextSpread Betting a Safer Bet as Bitfinex Hacked for $71M29/10/2016
+PreviousZcash Unleashes Trading Frenzy29/10/2016
+Advertisement
+Recent Comments
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

@@ -1,0 +1,103 @@
+http://www.coindesk.com/irs-overhaul-bitcoin-tax-strategy/
+Inspector General: IRS Needs to Overhaul Bitcoin Tax Strategy - CoinDesk
+TRENDING
+Vote Now for CoinDesk's Most Influential People in Blockchain
+BITCOIN PRICE INDEX (24H)
+Created with Highstock 1.3.7
+$730
+$734
+$738
+USD -0.17%
+$737.05
+CNY 0.16%
+¥5,193.14
+EUR €695.70
+GBP £590.48
+NEWS
+–
+PRICE & DATA
+–
+GUIDES
+–
+EVENTS
+RESEARCH
+PRESS RELEASES
+NEWS  •  REGULATION
+Inspector General: IRS Needs to Overhaul Bitcoin Tax Strategy
+Stan Higgins (@mpmcsweeney) | Published on November 8, 2016 at 19:21 GMT
+NEWS
+302
+45
+2
+The US Internal Revenue Service needs to overhaul its strategy for bitcoin and other digital currencies, the agency's inspector general (IG) warned in a report released today.
+Originally prepared by the Treasury Inspector General for Tax Administration (TIGTA) in September, the report casts a gloomy portrait of the US tax agency’s efforts to oversee and tax digital currency transactions.
+According to the TIGTA, there is "little evidence" that US tax officials have moved to create a broader, more cohesive strategy in the two-and-a-half years since the agency declared its intention to tax bitcoin as a kind of property. Other issues include a lack of controls for third-party tools used to report transactions.
+A continued failure to address the concerns means that the IRS is at risk of missing taxpayer violations, the report warned.
+The IG wrote:
+"The IRS needs to ensure that it develops a strategic plan that includes management oversight as well as adequate internal controls for its virtual currency programs. Until a comprehensive virtual currency strategy is developed, the IRS is open to the risk that undetected noncompliance of virtual currency taxable transactions will result in an increase to the Tax Gap."
+Compounding the current state of affairs, the report goes on to outline, is the fact that the agency failed to respond to or otherwise adopt proposals made via public comment after the 2014 policy release.
+The IRS has faced criticism in the past from tax professionals, who argued that the agency hadn’t provided consumers with enough information regarding the taxation of bitcoin and other digital currencies. In its report, the IG acknowledged that the 2014 policy release was problematic regarding some of the reporting mandates, particularly relating to documentation.
+“Due to the potential complexity of reporting otherwise simple retail purchase transactions related to virtual currencies, further guidance is needed to help taxpayers voluntarily comply with their tax obligations,” the IG said.
+Yet the agency is committed to change. In the report, the IG said that the IRS had agreed to improve its existing bitcoin tax practices, with an eye to potentially rework how its reporting documents are structured.
+In total, the TIGTA issued three recommendations, and in all cases, the IRS agreed with the findings.
+The full report can be found below:
+As the Use of Virtual Currencies in Taxable Transactions Becomes More Common, Additional Actions Are Needed... by CoinDesk on Scribd
+Image Credit: Mark Van Scyoc / Shutterstock.com
+IRStax policytaxest
+302
+45
+2
+PREVIOUS ARTICLE
+Coinbase Redesigns Wallet Website for Digital Assets
+NEXT ARTICLE
+Gemini Expands Bitcoin and Ether Exchange to New Asian...
+Don't miss a single story
+Subscribe to our free newsletter and follow us
+RELATED STORIES
+NEWS
+Nov 22, 2016 at 20:02 | Stan Higgins
+IRS Effort to Access Coinbase Records Could Take Months
+Digital currency exchange Coinbase says it’s planning to fight a government effort to acquire information about its users.
+NEWS
+Nov 18, 2016 at 18:55 | Stan Higgins
+The IRS is Seeking Data on Coinbase's Bitcoin Customers
+The IRS is seeking user records from Coinbase as part of a taxpayer investigation.
+NEWS
+Jun 15, 2016 at 15:25 | Pete Rizzo
+CPA Trade Association Pushes IRS for Bitcoin Tax Guidance
+The AICPA has submitted comments to the IRS that seek to encourage the US tax agency to provide clarity on bitcoin and digital currency treatment.
+NEWS
+Nov 16, 2015 at 22:50 | Stan Higgins
+FinCEN Developed Bitcoin Training for IRS Tax Examiners
+FinCEN has been working with the IRS to train its examiners on relevant aspects of bitcoin technology.
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+Registration Is Open!
+Only 75 tickets available at $999
+REGISTER NOW
+FEATURES
+Argentina's Central Bank is Warming Up to Blockchain
+Steemit's First 'Fest' Reveals the Power of Blockchain Community
+Why Remittance Giant MoneyGram Won't Be First With Blockchain
+Overstock Could Raise $30 Million With Blockchain Stock Offering
+INDUSTRY PRESS RELEASES
+Nov 23 | 14:13
+Over 100 Migrant Workers Test Blockchain Remittance in Thailand
+Nov 23 | 09:00
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+Nov 22 | 15:25
+Korea Exchange opens the Korea Startup Market with blockchain technology
+Nov 22 | 01:30
+Accepting Cash Deposits with Flexepin
+VIEW MORE
+
+SUBMIT RELEASE
+
+Got a news tip or guest feature?
+DON'T MISS A SINGLE STORY
+Subscribe to our free newsletter and follow us
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact
+
+Never Miss a Story
+Stay up-to-date on the latest blockchain news with CoinDesk’s daily newsletter.
+No, thanks.

@@ -1,0 +1,12 @@
+A group of bitcoin companies has joined together to launch the Bitcoin Development Grant, a $1.2 million grant fund for bitcoin protocol development.
+The fund will be used to support teams working on bitcoin protocol development, foster greater diversity of innovation and, according to the grant page, improve freedom of choice for bitcoin users. It’s led by Bitcoin.com (Saint Bits LLC) and BitMain Technologies Ltd., with support from Xapo Ltd., ANX, BitBank, BitBays, Bitcoin Colombia, Blockchain, BTCGhana, CoinATMRadar, Mycelium, Purse, Luxstack and others.
+The fund is taking an approach of being agnostic towards bitcoin forks, or departures from the standard protocol, noting that “no particular implementation of the bitcoin protocol holds claim to being the ‘official’ version of bitcoin” and that it will support a diversity of bitcoin protocol implementations.
+“Bitcoin is a leaderless community comprised of many parts, and no team of developers has decision making authority for the entire community,” the grant page notes. “Disagreement is healthy within a complex community such as ours. Yet the benefits of discussion, debate, and dissent require communication channels to remain free and open.”
+Those supporting the grant have taken a strong stand on open discussion and by extension censorship between differing viewpoints, noting that “by finding common ground … and by showing good faith towards all developers who wish to contribute to the development of bitcoin, we can begin to mend the deep rift that has divided and distracted our still-nascent community and industry.”
+That rift refers specifically to competing claims for bitcoin reform, such as Bitcoin Core, Bitcoin Classic and others.
+Developers interested in applying for a grand should send an email to apply@bitcoindevelopmentgrant.com with details of the project they would like to work on.
+Too big to fail: How a popular online community monetized its platform | #Amplify
+Helping software help us: How one startup is making the most of APIs | #Amplify
+Data science: What does it mean and how is it best applied? | #CDSUSA
+Expercom Offering MacBook Pro With Touch Bar For Up to $225 Off With AppleCare
+5th Annual CloudNOW Top Women in Cloud Awards: December 7th (Mountain View, CA)

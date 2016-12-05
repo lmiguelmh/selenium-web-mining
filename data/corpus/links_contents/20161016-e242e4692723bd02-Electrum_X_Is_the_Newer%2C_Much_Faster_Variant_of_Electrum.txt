@@ -1,0 +1,111 @@
+http://www.newsbtc.com/2016/10/16/electrum-x-newer-much-faster-variant-electrum-server/
+Electrum X Is the Newer, Much Faster Variant of Electrum Server - NEWSBTC
+25-11-2016
+10:18 pm
+      BTC
+      LTC
+      USD
+      EUR
+      GBP
+      CNY
+      JPY
+      =
+      USD
+      GBP
+      EUR
+      JPY
+      CNY
+      BTC
+      LTC
+      sponsored by SimpleFX
+LATEST NEWS
+Bitcoin Price Watch; A Slow End To The Week
+EY Unveils Strategy to Create Mainstream Bitcoin Traction In Switzerland
+Ethereum Platform Receives a New Geth Update after Consensus Flaw
+Redefining the Short Term Recruitment Industry -- ChronoBank
+Bitcoin Price Watch; End Of The Week Trading
+Ledger Blue Hardware Cryptocurrency Wallet Now Available For Pre-order
+Ethereum Price Technical Analysis – ETH/USD Downsides To Continue
+Bitcoin Price Technical Analysis for 11/25/2016 - Hold or Fold at Channel Support?
+Fortunejack – The only Gambling Site Offering Binary Options Trading
+Japan's Mitsui Sumitomo Introduces New Bitcoin Insurance
+Bitcoin Price Watch; A Wasteland Of Volume
+Swift Boasts Blockchain Technology Will Not Disrupt Their Business Model
+Is IRS Overstepping Boundaries by Issuing Summons to Coinbase?
+Bitcoin Price Watch; Thanksgiving Volatility
+Tendai Biti: "Zimbabwe Should Adopt Bitcoin As The National Currency"
+Ethereum Classic Price Technical Analysis – ETC/BTC Almost Tested 0.00100BTC
+Ethereum Price Technical Analysis – Can ETH/USD Break This?
+Bitcoin Price Technical Analysis for 11/24/2016 - Eyes on This Triangle
+NEWS
+ANALYSIS
+CHARTS
+EDUCATION
+BROKERS
+CASINOS
+EVENTS
+ADVERTISE
+PR PLANS
+SUBMIT PR
+Electrum X Is the Newer, Much Faster Variant of Electrum Server
+Author
+Gautham
+Categories
+Bitcoin News, Blockchain Technology, News
+25
+
+
+
+Developer Neil Booth has created his own version of Electrum Server called Electrum X, which is 10 times faster and more efficient. Read more...
+A much faster version of Electrum Server is now available. The reimplementation of Electrum Server, called Electrum X is the creation of Neil Booth which he claims to be 10 times faster than the Electrum Server.
+The Electrum X Server codes are made available on GitHub under the MIT License.  While the main server is built on Python 2, the new reimplementation makes use of much advanced Python 3.4 and still manages to work with the existing clients. By using Python 3.4, Neil leverages upon the asyncio feature for a better client implementation.  The Electrum X Server is not just compatible with Bitcoin but also with other altcoins which share similarities with Bitcoin protocol. A custom codebase has been set in place to ensure compatibility.
+While the Electrum server database is huge, with over 35 GB worth of data, the new system is much more compact and efficient. According to Neil, the Electrum X server is more aggressive when it comes to caching and batching DB writes. In addition, it also offers a much compact representation of the UTXOs, map address index and even the history. The compression of data on Electrum X is facilitated by the pruning feature that just stores the transaction hashes in a linear array instead of storing full transaction hashes and heights.
+The Electrum X is not a finished product at the moment, but more of a prototype. The indexing system for append only- metadata makes use of the actual position of the data on the disk instead of levelDB. All these new features, derived from the latest Python language also offers an option to minimize the requirement of computation power and memory.
+Neil still has few plans for further development of Electrum X. According to his roadmap, the server will undergo few more performance improvements. These improvements include blockchain reorgs, handling client connections and shifting certain functionalities to C or C++ platform.
+In the coming days, he also intends to include DoS protection to ensure Electrum X’s security. While he has proven that the new system is much more advanced and efficient than the previous one, it is to be seen whether Electrum developers learn something from this and adopt some of the features into their offering as well.
+Ref: Electrum X on GitHub | Image: Electrum.org
+25
+PUBLISHED BY
+Gautham
+Gautham has an eye for anything new. He has been part of multiple startups and his current project focuses towards the social good sector. An entrepreneur, engineer and enthusiast (bitcoin, of course), he has been moonlighting as a writer for multiple publications and currently writes at NewsBTC. Find him on twitter as @gautham_n and on facebook at /gautham.nm View all posts by Gautham
+NEWSBTC - EDITOR'S PICKS
+Brokers
+Casinos
+1
+Review Trade Now
+2
+Review Trade Now
+3
+Review Trade Now
+4
+Review Trade Now
+5
+Review Trade Now
+FEATURED PRESS RELEASES
+Nov 21 | 12:00
+Electronic Government as a Service — eGaaS Enters Beta Testing Phase
+Nov 17 | 12:25
+Bitcoin’s Fastest Growing Community Issues Innovative BitConnect Coin ICO
+Nov 16 | 20:26
+Darcrus: Decentralizing the Business World
+Nov 16 | 13:05
+IBM, Microsoft and Sberbank shared experience in blockchain developments. How did Blockchain & Bitcoin Conference in Moscow go?
+Nov 14 | 13:30
+A Better Ethereum Wallet for Investors
+VIEW MORE
+SUBMIT PR
+SUBSCRIBE TO OUR NEWSLETTER
+Ⓒ Copyright 2016 NEWSBTC. All Rights Reserved
+About
+Team
+Business Listing
+T & C
+Bitcoin Forum
+Contact Us
+Advertise
+Privacy Policy
+Comments Policy
+Franchise
+Sitemap
+NewsBTC is a news service that covers bitcoin news, technical analysis and forecasts for bitcoin and other altcoins. Here at NewsBTC, we are dedicated to enlightening people all around the world about bitcoin and other cryprocurrencies. We cover news related to bitcoin exchanges, bitcoin mining and price forecasts for various virtual currencies.
+×

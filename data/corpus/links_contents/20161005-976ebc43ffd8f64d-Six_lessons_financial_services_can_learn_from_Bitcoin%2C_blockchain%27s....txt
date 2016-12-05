@@ -1,0 +1,115 @@
+https://www.finextra.com/blogposting/13198/six-lessons-financial-services-can-learn-from-bitcoin-blockchains-original-use-case---part-1
+Six lessons financial services can learn from Bitcoin, blockchain's...
+Login | Sign up |Help
+  26 November 2016
+NEWS
+SOFE Berlin: Van der Kleij plots blockchain startup network
+TV
+Global SaaS platforms key to innovation for issuer
+JOBS
+Senior Sales, Capital Markets Consulting Services...
+EVENTS
+Webinar: The digital future of KYC
+NEWS
+TV
+BREXIT
+EVENTS
+RESOURCES
+CAREERS
+COMMUNITY
+BLOGS
+» View all blogs
+Next blog »
+Lessons from Bitcoin
+Josh Lintern - Capco
+2
+Posts
+15,185
+Views
+0
+Comments
+16
+6
+2
+1
+2
+1
+Six lessons financial services can learn from Bitcoin, blockchain's original use case - Part 1
+05 October 2016  |  10917 views  |  0
+Careful consensus selection, an understanding of the concentration of power and a clear grasp on the settlement finality within the design are all crucial in any blockchain solution for use within financial services.
+A few years ago there was much discussion about how Bitcoin can transform financial services for the good of all involved. This was a particularly interesting notion, given that one of the headline benefits of Bitcoin is that it is censorship-resistant and answers to no regulator, whereas financial services is one of the world’s most regulated sectors.
+In more recent years, there has been a general acknowledgment that the underlying technology of blockchain is what will help form the future of financial services and that Bitcoin represents just one potential use case of the technology, albeit the original one.  Still, the underlying design philosophy, challenges and achievements of Bitcoin’s seven years of existence are useful reference points for any institution looking to implement a solution using blockchain technology. If financial services firms really want to reap the benefits of blockchain, they must learn from the Bitcoin use case, rather than shy away from blockchain technology because of the challenges faced by Bitcoin.
+Lesson 1: Deliberate impracticality isn’t always the best way to progress, carefully select your consensus mechanisms.
+Bitcoin relies on a proof-of-work system to confirm and order transactions. Essentially each transaction block will go through this consensus mechanism whereby a string is hashed using SHA-256 (a recognised cryptographic standard) to create a standard length string ‘puzzle’. The only way to solve this ‘puzzle’ is for computational guesses to find a resolution and confirm the transaction. This process is referred to as mining.
+Once the transaction is confirmed it is placed on the chain referencing the transaction block that immediately precedes it. This process is deliberately effort-intensive by design and requires high-end computer hardware and a lot of electricity to successfully solve the string puzzle thereby mining a block. To give real context on energy consumption, in 2014 the Bitcoin network was estimated to have consumed 5GW of electricity, roughly comparable to Ireland’s average electricity usage over similar time.
+Many arguments have been presented around the impracticality of using such a resource-intensive method to verify transactions. Other less ‘wasteful’ protocols exist however, such as Litecoin which uses one tenth of the energy, as well as other examples such as the consensus mechanism used by Ethereum. It becomes particularly challenging to defend the usage of proof-of-work protocols on permissioned/private blockchains, where the deliberate difficulty offered doesn’t generate the same or even similar benefits and functions as it does with cryptocurrency use cases. Other consensus mechanisms, such as proof-of-stake, offer interesting alternatives but are largely untested.
+The Bitcoin proof-of-work mechanism serves to control the speed in which transactions can be added to the network, the effort required to add items and the generation of new currencies. These methods may not be desirable or might be achievable in different ways depending on the use case. The lesson to understand here is that any use case should carefully select the consensus mechanism utilised based on the speed of execution required for the business to remain effective and the planned level of resources to be used in order to prevent any excess use of energy. 
+Lesson 2: The concentration of power must be understood within a decentralised world.
+One of the most meaningful features of the Bitcoin blockchain is the concept of decentralisation, essentially meaning the power falls to the many, not the few. As laudable as this is, it naturally follows that if a large proportion of power fall into the hands of an individual or an organised group then this could have a devastating impact.
+The margins that many Bitcoin mining operations run on are very thin. The cost of having the right hardware and electricity sometimes outweighs the value of coins won, particularly when bitcoin rewards continue to drop as scheduled. The upshot of this is that often only those who reach a critical mass are able to play a meaningful and profitable role as part of the inner workings of the Bitcoin network. The clear disadvantage that follows from this is that a few organised groups control the majority of the network. This means they could orchestrate double spends and other malicious network activities.
+Whilst this is a concern, having the intermittent power to exploit and being motivated to exploit are clearly not the same. As the founder of Bitcoin, Satoshi Nakamoto, pointed out, it would not be in the long-term interest of the organisation that holds this power to maliciously transact on the Bitcoin network, because doing so would harm the value they derive from the organisation, which would be particularly devastating since they are largely invested in it, given their power.
+So let’s consider a similar scenario but where the Bank of England mints Pound Sterling directly to a blockchain. Theft of a large sum from the Bank of England blockchain is fairly unlikely to depreciate the currency beyond use, unless truly catastrophic in size. Any negative effect that it may have would have to be mitigated by the Bank of England as part of its duty to maintain the viability of the currency. For comparison, thefts resulting from abuse of the SWIFT system don’t seem to have a discernible effect on the value of the overall currency stolen. Whereas if an individual stole £100 million worth of Bitcoin by exploiting a flaw of the system, it’s likely that the general value of the currency would greatly depreciate, possibly leaving the attacker with little to show for their efforts.  
+Theoretically, whilst it’s reasonable to assume that different types of attacks on a state-sponsored system are more likely to arise than those against a neutral non-state controlled network such as Bitcoin, these kinds of risks and design assumptions should be carefully validated and reviewed within the context of each use case.
+For financial services firms looking at blockchain for use cases beyond digital currencies, this issue becomes more complicated. The malicious manipulation of high value transactions or unauthorised transfer of assets would drastically degrade the integrity of the markets, resulting in large financial losses, regulatory penalties and reputational damage. However, on the other hand, the use of private and permissioned blockchains where the other participants are reputable financial services firms with the same regulatory obligations means that there is already an inherent level of trust and significantly reduced risk of a malicious attack from a participant in the network.
+Security is paramount for financial services firms and is one of the reasons they are often slow to embrace new technologies. The lesson from blockchain however is to carefully consider the way a blockchain solution is structured so as to maintain the benefits of decentralisation without compromising integrity, but also ensure there is enough of an incentive for those who do participate to continue participating. 
+Lesson 3: Practicalities of settlement regarding speed and finality must be considered in design.
+An average Bitcoin transaction takes a lot longer than a regular payment method, from the perspective of the end user. For example, paying for a taxi journey takes seconds with a debit card. Completing the same transaction solely using Bitcoin is likely to take an average of nine minutes for the transaction to be confirmed[i]. This transaction would be considered safely confirmed, unless another chain becomes the longer chain, at which point the transaction would be reversed. So, when does settlement actually occur?
+Philosophically speaking, we could say that all settlement is probabilistic and that true settlement finality is a myth. For example, a fire could burn down all computer and paper records a bank holds, or a hacker could amend all records including every available back-up. However, this is clearly near-impossible because the regulator would step in to assist or the bank’s disaster recovery processes would kick in.
+Looking at Bitcoin settlement from a practical point of view, the usual advice given is to wait for an additional six blocks to be added to the chain. At that point the chance of another chain becoming longer, thus leading to double spend risk is estimated to be 0.003%[ii], with longer chains leading to increasingly confident settlement finality.
+Whilst this is the case, a critical incident occurred on the Bitcoin network in August 2010 when a user managed to exploit a bug in the system to create 184 billion BTC. A new version of the Bitcoin software was published and the blockchain was forked, with the forked chain overtaking in five hours. This was necessary to maintain the integrity of the system, but did result in the disappearance of 53 transactions that may have resulted in loss of money if there was an exchange of non-Bitcoin value for Bitcoin. Whilst this may be an acceptable risk in some use cases, others involving high value transactions would not class this risk as acceptable.
+It is clear that there are practical limitations concerning both the speed and finality of settlements. In the taxi driver example, both the time of confirming the transaction and the confidence of settlement need to be understood. For financial services, this becomes an even greater concern when high frequency, high value transactions and exchange of assets could be executed on blockchain based solutions.  The appetite for risk or uncertainty in these situations is very low, so careful consideration needs to be given to what constitutes “settlement” in any solution and what the procedures and protocols are for the management of multiple chains and reversing transactions when one chain become larger than another once. The considerations in lessons one and two above play a key role in defining how these challenges will be addressed in any use case.
+The three lessons above highlight features within the nature of need to be understood during the design of any use case. The final lesson also highlights some limitations around settlement that may create potential road blocks during this design process, particularly when focusing on an end user. It could be suggested that the settlement experience could be improved by utilising third parties, but this in itself does come with substantial risk.
+More on this in Part 2, which you can read here.
+[i] On the basis of the user having less than 6% of the network power; should a user have more network power the odds increase.
+[ii] https://blockchain.info/charts/median-confirmation-time
+  Tags
+Blockchain
+Payments
+Report abuse
+Comments: (0)
+Comment on this story (membership required)
+LATEST POSTS FROM JOSH
+Six lessons financial services can learn from Bitcoin, blockchain's original use case - Part 2
+10 October 2016  |  4269 views  |  0  |  Recommends 0
+TAGS
+BLOCKCHAIN
+TRADE EXECUTION
+Six lessons financial services can learn from Bitcoin, blockchain's original use case - Part 1
+05 October 2016  |  10917 views  |  0  |  Recommends 0
+TAGS
+BLOCKCHAIN
+PAYMENTS
+View all my blogs »
+Page last refreshed: 0 minutes ago
+JOSH'S PROFILE
+JOB TITLE
+Senior Consultant
+LOCATION
+London
+MEMBER SINCE
+2016
+SUMMARY PROFILE
+See full profile »
+Joshua is a Senior Consultant with Capco Digital's Blockchain team in London. He specialises in solution design, analysis and delivery.
+Josh's expertise
+What Josh reads
+Josh writes about
+Josh's blog archive
+October 2016 (2)
+Who's commenting on Josh's posts
+
+© Finextra Research 2016
+ 
+About Finextra
+Community Rules
+Terms of use
+Privacy policy
+Contact us
+Editorial
+Sales and Membership
+Follow us
+LinkedIn
+Twitter
+
+RSS Feeds
+Daily newsletter

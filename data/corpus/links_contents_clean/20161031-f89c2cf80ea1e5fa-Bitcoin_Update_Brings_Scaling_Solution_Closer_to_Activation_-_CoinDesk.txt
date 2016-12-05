@@ -1,0 +1,15 @@
+An update to the bitcoin software that features code that could potentially activate a long-anticipated scaling solution has been released.
+Issued on Thursday and dedicated solely to code called Segregated Witness (SegWit), version 0.13.1 allows miners to signal support for the scaling solution after 15th November. If activated, the code also instructs nodes on how to validate the new type of transactions that will result from the patch. (SegWit boosts the bitcoin block size by a factor of about 1.8x by moving transaction signatures to another data structure).
+But there are still a series of steps left before the software will be triggered through a process known as a soft fork.
+For one, the update requires near-universal support from miners. The code will be 'locked-in' once 95% of a series of 2,016 blocks (roughly two weeks worth of blocks) are broadcast by those running the new code. Next, wallet holders will need to make changes if they want to take advantage of the update.
+However, despite high expectations, it's unclear whether SegWit will reach the 95% threshold.
+Mining pool ViaBTC has been particularly outspoken about its support for alternative scaling proposals, arguing that bigger blocks should still be considered as a scaling mechanism. However, the pool (which makes up roughly 5% of bitcoin’s mining power) has seen its support dwindle, perhaps as a result of its controversial stance.
+If triggered, code change also paves the way for other updates, including the Lightning Network (another proposed scaling solution), and easier future soft forks. Other potential benefits are detailed on the Bitcoin Core website.
+But while there are a still a few steps to go (and a few signs of division among supporters), Bitcoin Core developer Greg Maxwell has been optimistic.
+In a recent reddit post, Maxwell indicated that he believes the code could be "active by Christmas".
+If they so choose, miners can now safely signal their support for a major bitcoin update.
+There aren't many steps left before bitcoin's Lightning Network will be finished — or at least an early version of it.
+Bitcoin network data shows that 25 percent of nodes worldwide are signaling support for Segregated Witness.
+The future of bitcoin could be impacted by a mysterious new mining pool, one that has shown it's willing to go its own way on technical debates.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

@@ -1,0 +1,88 @@
+http://siliconangle.com/blog/2016/10/13/bitcoin-wallet-provider-blockchain-info-walks-through-its-dns-hijack-hack/
+Bitcoin wallet provider Blockchain.info walks through its DNS hijack hack - SiliconANGLE
+NEWS
+PEOPLE
+RESEARCH
+Wikibon
+TheCUBE
+SIGN IN
+Bitcoin wallet provider Blockchain.info walks through its DNS hijack hack
+BY DUNCAN RILEY
+UPDATED 14:12 EST . 14 OCTOBER 2016
+0 VIEWS / 2 MIN READ
+Transparency is important in the event of being hacked, and although some companies (like Yahoo) fail miserably when the worst occurs, others now understand how important it is to communicate with their customers in a time of crisis.
+Bitcoin wallet provider Blockchain.info is one such company, with the firm having its domain name server hijacked earlier this week. According to SiliconANGLE’s “Bitcoin Weekly“:
+Users of the Blockchain.info web wallet complained early Wednesday that the website was unavailable. Others, however, discovered that the domain name service for Blockchain.info was sending them to an altogether different website. This is part of an attack known as a “DNS hijack,” in which an attacker spoofs the DNS of a target website and sends visitors to a different locale, often to use to collect passwords and personal information through phishing.
+Blockchain.info immediately started making statements on social media to let customers know what was occurring, and have now followed up with a full disclosure of exactly what occurred.
+Hijack
+In a post to the Blockchain.info blog, the company explains that an attacker changed their DNS servers by gaining access to their accounts through breaching the systems of their DNS registrar, that is to say, that Blockchain.info itself was not directly attacked.
+“Within minutes, our internal systems alerted our infrastructure team who immediately began to assess the attack,” the company noted. After shutting down their platform so they could investigate what had occurred, they discovered a highly sophisticated attack against the registrar’s infrastructure, with registrar then being able to manually regain control and revert the DNS changes.
+Given the DNS hack caused visitors to the site to be redirected to a phishing site, Blockchain.info found that due to the attacker using a self-signed SSL certificate, users using modern browsers – which the wallet requires – were prevented from being exposed to the phishing site. “Due to the quick response of our team, the attacker’s DNS changes were allowed only to propagate partially across the Internet,” they added. “We were also able to locate the owners of the compromised machine being used by the attackers and have it shut down.”
+Once it was confirmed that their DNS had propagated and that their systems were not compromised, the site was eventually restored.
+“Ultimately, any disruption in service is something we take seriously and we extend our sincere apologies,” company Chief Executive Officer Peter Smith noted. “While we sometimes remain offline for longer than necessary, we do so out of an abundance of caution while we check to ensure all systems are fully protected and functional.”
+Image credit: karenborter/Flickr/CC by 2.0
+MORE FROM SiliconANGLE
+Japan plans to build the fastest deep learning supercomputer
+Stripe’s valuation reaches $9B thanks to new $150M funding round
+Are you ready for new data recovery regulations?
+Huawei is now the world's most profitable Android smartphone brand
+Systran Group launches neural machine translation tool for enterprises
+Snowflake Computing declares cloud storage price war on Amazon
+RELATED ARTICLES
+EMERGING TECH
+Bitcoin startup Blockchain passes 10 million wallets
+BY DUNCAN RILEY . 1 MONTH AGO
+APPS
+Google security engineer slams antivirus software, cites better security methods
+BY DUNCAN RILEY . 1 MONTH AGO
+APPS
+PoisonTap's $5 device can hijack locked computers in a minute
+BY DUNCAN RILEY . 1 MONTH AGO
+CH00 #THECUBE CHANNEL
+This is the main channel...
+CUBE NEWS
+SEE MORE
+Can cross-pollinating data and security block the new cyber-hacking threat? | #theCUBE
+Data confluence: handling the scale of distributed computing | #CDSUSA
+Too big to fail: How a popular online community monetized its platform | #Amplify
+Crowd-sourcing online talent to win a million-dollar competition | #CDSUSA
+Helping software help us: How one startup is making the most of APIs | #Amplify
+Data science: What does it mean and how is it best applied? | #CDSUSA
+TRENDING STORIES ON THE WEB
+ARS TECHNICA
+Japan plans 130-petaflop China-beating number-crunching supercomputer
+USA TODAY
+For Apple deals, you're better off at other retailers
+IT PRO
+Is ransomware targeting Facebook Messenger users?
+MAC RUMORS
+Expercom Offering MacBook Pro With Touch Bar For Up to $225 Off With AppleCare
+DIGITAL TRENDS
+Save big with the best smartphone deals on Black Friday
+UPCOMING EVENTS
+HPE Discover 2016: November 29th – December 6th (London, UK)
+AWS re:Invent: November 28th – December 2nd, 2016 (Las Vegas, NV)
+5th Annual CloudNOW Top Women in Cloud Awards: December 7th (Mountain View, CA)
+Spark Summit East 2017: February 7-9 (Boston, MA)
+BigData SV 2017: March 13-16 (San Jose, Ca)
+Dataworks Summit EU 2017: April 2-4 (Munich, Germany)
+BigData UK 2017: May 22-25 (London, UK)
+Spark Summit 2017: June 6-8 (San Francsico, CA)
+Dataworks Summit US 2017: June 13-15 (San Francisco, CA)
+SPONSOR POSTS
+Are you ready for new data recovery regulations?
+Join Our Community
+For personalised content stay with us.
+I AM INTERESTED IN
+PRIVACY POLICY
+TERMS
+ABOUT US
+JOIN US
+SEND US NEWSTIP
+2016 SiliconANGLE Media, Inc. All rights reserved.
+JOIN OUR COMMUNITY
+theCUBE
+Wikibon
+FOLLOW US
+DESIGN PARTNER
+UXReactor

@@ -1,0 +1,51 @@
+https://www.cryptocoinsnews.com/roger-ver-is-hopefully-optimistic-for-lightning-networks-bitcoin-scaling-solution/
+Roger Ver Is "Hopefully Optimistic" for Lightning Network's Bitcoin Scaling Solution - CryptoCoinsNews
+Explore
+Menu
+
+CryptoCoinsNews
+Bitcoin EconomicsBitcoin MiningBitcoin Opinion
+Roger Ver Is “Hopefully Optimistic” for Lightning Network’s Bitcoin Scaling Solution
+P. H. Madore on 05/10/2016
+
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+One of the first millionaires to come out of the Bitcoin industry, current owner of Bitcoin.com, and Bitcoin Unlimited proponent Roger Ver told Chris DeRose of the Bitcoin Uncensored podcast the other day that while he is “optimistic” about Lightning Network, the scaling solution being developed by Blockstream, he doesn’t believe that the main network should in the meantime be “hindered” in favor of something as-yet-unproven.
+D
+irectly following that, DeRose’s co-host Junseth told Ver that his opinion was “nowhere near as valid” as that of Peter Todd or Adam Back or Gregory Maxwell. Two of the parties mentioned are core contributors, while Back is a world-famous cryptographer whose Hashcash paper is cited in the Bitcoin Whitepaper.
+His position was that Ver’s framework for “what’s risky” was based purely on Ver’s personal opinion, rather than on technical data. Junseth followed up by saying “and you know that!” Ver simply “disagreed” with this, saying:
+The underlying economic code of Bitcoin is every bit as important as the underlying software code of Bitcoin. If the software code doesn’t work, Bitcoin’s broken. If the economic code doesn’t work, Bitcoin’s broken. We need to have both of those working.
+The conversation then turned to a recent Tweet storm by Ver regarding an unconfirmed transaction. Junseth pointed out that someone had told Ver that some of the inputs were unconfirmed, which was why the transaction itself was not yet confirmed. In a simple retort, Ver made clear that was because the blocks containing the inputs were as yet confirmed, and this had to do with blocks being full. Full blocks are at the heart of the blocksize debate. When it began, not every block was yet full, but as of recently, nearly all blocks are always 1 kilobyte in size. Bitcoin Unlimited, an alternative wallet proposal that allows for larger blocks, aims to solve this problem. Lightning Network also aims to solve the problem, but without increasing the block size.
+The hosts pointed out to Ver that if he had paid a higher transaction fee, he would have been able to send the transaction. Ver came across as very rational here, saying this was true “if you don’t take into consideration what the price of Bitcoin would be if more people were able to use it.”
+The heart of this whole debate was on display in this conversation. Is it better to allow for fewer transactions and charge more for each one, or would it be wiser to make it cheaper and easier to get transactions onto the Bitcoin network? Ver clearly believes that latter, although he doesn’t discount the notion or importance of the “fee market.”
+Ver also pointed out that higher Bitcoin values lead to greater network security. While he didn’t have to say it, the easy explanation is that if miners are taking in more money per block, they are able to upgrade their hardware sooner and make the network that much more secure. DeRose said he doesn’t believe he’s “owed any more security.” Ver said that because there are only a couple million people currently using Bitcoin, there is plenty of room for growth in the price of Bitcoin as more people become interested. Both hosts were dismissive of this notion, with DeRose saying “it could be [that a couple million people] or that means that that’s the size of the online underserved.” Ver said it’s “unlikely” that this is the current maximum number of people who would be interested in Bitcoin.
+While at times contentious, overall the discussion was civil and illuminating. Ver has long been a proponent of Bitcoin as a way to “be your own bank” and still owns a great deal of the currency himself. DeRose and Junseth appear to generally represent an attitude in Bitcoin that more people speculating will ultimately slow down the development of an economy, but Ver believes a “stable unit of account” will not be truly established until the overall market capitalization of Bitcoin is much higher than it is now.
+To propose that Bitcoin is already serving as many people as it needs to serve seems short-sighted and doesn’t only make larger blocks unnecessary, but also Lightning Network, the solution that seems to be favored by those who do not want to increase the block size.
+Watch the interview below yourself and leave a comment with your thoughts!
+Images from YouTube/Chris DeRose and Shutterstock.
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+Posted in: Bitcoin Economics, Bitcoin Mining, Bitcoin Opinion, Bitcoin Technology, News Tagged in: adam back, Chris DeRose, gregory maxwell, Junseth, peter todd, roger ver
+
+Recent Posts
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+Advertisement
+NextWhat Would Hillary Clinton Do for the Blockchain Industry?05/10/2016
+PreviousIs the Central Bank of Kenya Threatened by Bitcoin?05/10/2016
+Advertisement
+Recent Comments
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

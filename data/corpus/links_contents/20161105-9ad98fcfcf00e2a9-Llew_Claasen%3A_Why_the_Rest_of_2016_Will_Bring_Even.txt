@@ -1,0 +1,33 @@
+https://cointelegraph.com/news/llew-claasen-why-the-rest-of-2016-will-bring-even-more-growth-to-bitcoin-blockchain-focus-being-blessing
+Llew Claasen: Why the Rest of 2016 Will Bring Even More Growth to Bitcoin, Blockchain Focus Being Blessing
+Toggle navigation
+BTC
+738.12
+0.8%
+ETH
+9.40
+1.25%
+Advertise
+  2016-11-05 12:45 PM
+Author Olusegun Ogundeji
+Llew Claasen: Why the Rest of 2016 Will Bring Even More Growth to Bitcoin, Blockchain Focus Being Blessing
+2992 Total views 216 Total shares
+Despite Bitcoin having a relatively strong year, the Executive Director of the Bitcoin Foundation believes the outlook of the top digital currency is even better in the remaining 60 days of 2016, especially post-Nov. 15.
+Llew Claasen told CoinTelegraph that after the miner signalling for Segwit innovative scaling technology is released on Nov. 15, he is optimistic that Bitcoin will end the year on a positive note.
+According to Claasen:
+“The release of Segwit in Bitcoin Core 0.13.1 is a much awaited and positive development, notwithstanding continuing disagreement about on-chain scaling. I think the year will end on a very positive note for the future of Bitcoin post-Nov. 15. This is also notwithstanding the more than 60 percent increase in value of BTC this year so far - far better than fiat currencies.”
+Bitcoin, whose value has increased by over 75 percent since its price of $400 a year ago, has survived and thrived in the face of various difficulties, including hacks, various ICOs, new Altcoins, block reward halving, the differing views within the Bitcoin community geared towards how to enlarge its transaction capacity, among other issues.
+Segwit
+Segwit will help separate transaction signatures from the initial transactional data, which will allow miners to place those witnesses outside of the traditional block structure, to immediately increase the amount of transaction data that can fit in a block and eliminate unwanted third-party transaction malleability.
+The proposal also simplifies the ability to add new features to Bitcoin and improves the efficiency of full nodes with promising long-term benefits, according to Bitcoin Core.
+So far so good
+According to Claasen, the significant focus on the Blockchain technology this year has been a blessing for Bitcoin.
+He says:
+"I think it's great that 2016 was the year of Bitcoin entering the trough of disillusionment and Blockchain being on the peak of inflated expectations on the Gartner Hype Cycle. This has reduced the noise around expectations for Bitcoin in 2016. Is Bitcoin ready for mainstream adoption? No. Is it getting there quite quickly given the enormity of the change that it will enable and the risks associated with early missteps? Yes."
+Llew Claasen
+Bitcoin
+BlockChain
+SegWit
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

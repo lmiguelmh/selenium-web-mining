@@ -1,0 +1,52 @@
+http://www.investopedia.com/news/bitcoin-being-used-chinese-capital-flight/
+Is Bitcoin Being Used for Chinese Capital Flight? | Investopedia
+Is Bitcoin Being Used for Chinese Capital Flight? By Adam Hayes, CFA | October 5, 2016 — 3:25 PM EDT
+Bitcoin's price has been relatively stable over the past few months, hovering right around $600. Interestingly, the larger price movements in the digital currency have tracked devaluations in the Chinese currency, the Yuan (CNY). Some have suggested that this relationship indicates that some wealthy Chinese are using Bitcoin as a tool for capital flight and to circumvent China's strict capital controls. Bitcoin has only been around since 2009, and its price hasn't risen to any substantial level until around three years ago - so the data simply doesn't go back far enough to confirm a link statistically. The price of Bitcoin also seems to track its cost of production - since producing Bitcoins consumes a large amount of electricity. It may just be coincidence then that CNY and BTC have followed each other recently. (See also: Can China Staunch Its Capital Hemorrhage?)
+Bitcoin Price and CNY
+In the chart below, the price of Bitcoin (in white) tracks more or less the price of the Chinese Yuan (in U.S. dollar terms). The Chinese government has been systematically devaluing the Yuan lately in order to support its economy and financial markets as its growth has begun to slow down. The graph shows that when these events occur (spikes in the yellow lines), the price of Bitcoin soon follows.
+Source: Bloomberg
+This could be due to the fact that many wealthy Chinese are using Bitcoin as a tool for capital flight, getting around capital controls that limit the amount of hard cash that can be exchanged for foreign currency, or that prevents investment in foreign assets. A story by the Financial Times earlier this year reports that regulators have stepped up their efforts to enforce these controls. Chinese residents are permitted to buy up to $50,000 annually, with the quota resetting at the beginning of the calendar year. (See also: What Bitcoin Regulations Look Like Around The World)
+Because Bitcoin is an anonymous, digital form of money that exists acrosse\ a distributed, decentralized network of computers it is difficult for regulators to identify outflows of funds via this mechanism, and even hard to enforce its usage.
+China has grown to be the world's largest user of Bitcoin, as well as other digital currencies. Over the past 30 days, 42.5 million Bitcoin have been exchanged for CNY, while only 352,000 Bitcoin have been swapped for U.S. dollars.
+The Bottom Line
+Some Chinese may be using Bitcoin as a tool to circumvent capital controls and stave off the negative effects of a devalued Yuan. The price of Bitcoin lately does seem to track to a certain extent the dollar price of the Yuan, and it makes sense that Bitcoin could be used as a tool to exceed money exchange limits set by Chinese regulators. If true, the price of Bitcoin may spike once again the next time the CNY is lowered.
+See also: The Six Biggest Misconceptions About Bitcoin
+RELATED ARTICLES
+INVESTING
+Why Has Bitcoin Price Jumped to $660? Look to China
+Are the Chinese using bitcoin to offset the falling Yuan?
+INVESTING
+3 Reasons Bitcoin Has Rallied Above $700
+What's behind bitcoin's recent price rally--despite multiple security concerns?
+SMALL BUSINESS
+How To Trade Forex With Bitcoin (XOM, EXPE)
+We look at ways to trade forex with bitcoin and the pitfalls in doing so.
+SMALL BUSINESS
+The Rise And Fall And Rise Of Bitcoin
+A look at the reasons behind the recent spectacular surge in bitcoin prices.
+SMALL BUSINESS
+The Outlook for Bitcoin in 2016
+A look at the forces behind the recent surge in Bitcoin price and how it stands entering 2016.
+SMALL BUSINESS
+Bitcoin Innovations And Obstacles
+Investopedia explains the development of the Bitcoin digital currency system and the risks associated with using and investing in it.
+INVESTING
+Bitcoin Price Soars, Approaches $550
+The price of Bitcoin is at its highest since August 2014. What's behind the uptick?
+SMALL BUSINESS
+Bitcoin ETFs: How Do They Work?
+ETFs offer a cost-effective, safe and hassle-free way to invest and trade bitcoins as stocks, without worrying about the security of digital wallets.
+TRADING
+What's Fueling Bitcoin's Record-Breaking Price?
+Tracking the reasons behind bitcoin's price rally: "Halving" and China
+SMALL BUSINESS
+What Bitcoin Regulations Look Like Around The World
+Bitcoin is still so new that countries are struggling to make legislation catch up with technology. Some nations are more open to virtual currency than others.
+DICTIONARY: # A B C D E F G H I J K L M N O P Q
+CONTENT LIBRARY
+Articles Terms Videos Guides Slideshows FAQs Calculators Chart Advisor Stock Analysis Stock Simulator FXtrader Exam Prep Quizzer Net Worth Calculator
+CONNECT WITH INVESTOPEDIA
+WORK WITH INVESTOPEDIA
+About Us Advertise With Us Write For Us Contact Us Careers
+GET FREE NEWSLETTERS
+© 2016, Investopedia, LLC. Feedback All Rights Reserved Terms Of Use Privacy Policy

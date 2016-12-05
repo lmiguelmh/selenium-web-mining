@@ -1,0 +1,15 @@
+Bitcoin network data shows that 25% of nodes worldwide are now running code for Segregated Witness.
+Proposed late last year as a means to scale the bitcoin network, the upgrade was released last month by the volunteer development community Bitcoin Core in its latest software version. SegWit was put forward in a bid to increase the network’s transaction capacity without increasing the block size limit, drawing both praise and criticism from some quarters of the community amid a contentious debate.
+Network data suggests that the software version including SegWit is now the most commonly used among note operators.
+Bitnodes reports that just over 25% of bitcoin nodes are running on the latest Core software – 0.13.1 – which includes the code for SegWit. By the data service's count, that's 1,362 nodes out of a total of 5,436 nodes connected to the bitcoin network that are now prepared for the upgrade.
+By comparison, 1,204 nodes, roughly 22% of the network, is running version 0.12.1, with 964 or nearly 18% running on 0.13.0.
+Alternative bitcoin implementation Bitcoin Unlimited, which allows operators to set their own variable block size, is being run by 5.6% of the network, or 306 nodes, according to the data.
+Despite support from a quarter of all nodes, SegWit isn’t yet activated across the network. In order for that to take place, 95% of all bitcoin miners need to adopt the software, followed by a grace period constituting 2,016 transaction blocks.
+The process for actually signaling support for SegWit is expected to begin sometime around 19th November on the first network difficulty retarget after the 15th of this month. In the meantime, bitcoin wallet providers and other companies have begun laying the groundwork for supporting the upgrade.
+The development is notable, as some in the bitcoin mining space have pledged to block the proposal unless there is movement on a bid to increase the block size.
+If they so choose, miners can now safely signal their support for a major bitcoin update.
+The head of a Chinese mining pool backing an alternative bitcoin implementation completed a Reddit AMA earlier today.
+There aren't many steps left before bitcoin's Lightning Network will be finished — or at least an early version of it.
+The latest bitcoin update features code that could potentially activate a long-anticipated scaling solution.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

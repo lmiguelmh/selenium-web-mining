@@ -1,0 +1,17 @@
+http://fortune.com/2016/11/17/ethereum-bitcoin/
+Ethereum Survives Hack But Still Behind Bitcoin, Coindesk Report Says
+Fortune.com
+SUBSCRIBE
+Ethereum Survives Hack But It’s Still Behind Bitcoin
+A much-hyped new blockchain technology called ethereum survived the fallout from a disastrous robbery and is gaining credibility in the fin-tech world. But it remains in the shadow of its more famous rival: bitcoin.
+Those are some of the conclusions of a new report published Thursday, which includes a survey of hundreds of blockchain enthusiasts and entrepreneurs, and describes larger trends in the still emerging field of fintech.
+The survey, conducted by CoinDesk, asked respondents to assess the prospects of ethereum, a more versatile version of the distributed ledger technology (a.k.a. blockchain) popularized by bitcoin. Ethereum debuted last year, but suffered a major setback this spring when hackers exploited a flaw in its code to rob $60 million from other investors.
+In response to the theft, the ethereum community agreed to rewrite core software code to recover the money, but the episode damaged the project’s credibility and made investors skittish about using ethereum technology. (Read my colleague Robert Hackett’s profile of those events here).
+Now, though, it appears that people are growing more bullish as 67% of the survey respondents said they would consider using the ethereum protocol in future projects. Meanwhile, 63% of those deploying ethereum claimed the hack and the subsequent code rewrite didn’t affect how they used it.
+The CoinDesk report also contains a few other interesting nuggets plus useful graphics, like this one that can help fintech newbies get their head around blockchain concepts:
+Some other highlights from the report:
+Blockchain activity is clearly evolving along two different paths. While original public blockchain projects are chugging along, there is an increasing focus on “enterprise blockchain” ventures—led by the likes of Microsoft MSFT , Intel INTC and IBM IBM —that appeal to banks and other closed commercial environments.
+Bitcoin is thriving. Its price has stabilized, and there has been no fallout from an expected “halving” event. (“Although the bitcoin block reward fell from 25 bitcoins to 12.5 bitcoins in Q2, both the price and network hashrate has remained unaffected,” says the report.) The market cap for Bitcoin is still 10 times larger than for ethereum.
+Cross-border bitcoin payments are taking off though it is now evident the overall bitcoin business model has tilted from a B2C to model to one that is B2B.
+The third quarter of 2016 included a giant funding round for Ripple but, overall, VC interest is cooling off.
+Overall, the report is paints a picture of a technology that has evolved past its initial hype cycle, but likely still has years to go before it becomes mainstream.

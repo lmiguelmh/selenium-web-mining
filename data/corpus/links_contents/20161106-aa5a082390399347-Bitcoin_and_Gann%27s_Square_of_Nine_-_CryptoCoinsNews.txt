@@ -1,0 +1,51 @@
+https://www.cryptocoinsnews.com/bitcoin-ganns-square-nine/
+Bitcoin and Gann's Square of Nine - CryptoCoinsNews
+Explore
+Menu
+
+CryptoCoinsNews
+Altcoin NewsBitcoin AnalysisBitcoin Price News
+Bitcoin and Gann’s Square of Nine
+Jim Fredrickson on 06/11/2016
+
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+I
+realize that this column is meant to be focused on price analysis of the major cryptocurrencies, rather than on trading in general.  But it is difficult to write a new article every day, particularly when not much has changed in the charts in the last 24 hours!
+That is the case today.  Bitcoin has recovered a little bit of the ground it lost, but not enough to have made any change in the chart. Ethereum is likewise virtually unchanged as well.  So, I thought I would take a look at Gann’s Square of Nine and see if it can offer any insight into Support and Resistance on Bitcoin’s chart.
+I realize Gann’s work, while the stuff of legends, is exceptionally difficult to understand.  I don’t pretend to be a Gann expert.  I know just enough about his methodologies to realize how very little I know.  The Square of Nine is one such mystery.  How could he have even have thought this up?  Yet, despite the fact that it seems impossible, the square works often enough that it can’t be just a coincidence.  What he did was created a large grid with the number 1 in the center, spiralling out from there increasing by 1.  Imagine putting a pizza cutter on the diagram – centered on the central point – slicing the diagram into 8 perfect slices at 45 degree angles.  Gann saw that by lining one of the lines on a significant price point, support and resistance could be found with surprising regularity on a 45 degree increment.
+To illustrate, look at this square of 9:
+Note first the black square, highlighted with an arrow. That is # 479.  479 was the Bitcoin spike low of Aug 1.  Tracing 45 degree increments around the grid we can see likely support and resistance. Resistance marked in blue, support in red (depending on a bull or bear market of course).  As you can see, the recent high of 750 was almost exactly on a 45 degree increment, which forecast resistance at 749.  Price made (2) full 360 degree rotations, and then 270 more.  In the event that the bull market resumes, you can use this grid to forecast future resistance points in the future.
+On the other hand, if the market is about to turn down, this square won’t help much because the pizza cutter is not centered on the 750 high.  So let’s look at a new square of nine, focused on 750:
+You will see support in red.  You will notice I have highlighted a point 360 degrees lower though, at 585.  Why did I highlight that number?  Because I noticed something interesting on my bear setup:
+A .618 retracement of the rally from 479 to 750 would bring the correction to 582.  I notice that 582 intersects the 3rd arc pair, the 2×1 Gann angle, AND is 90 degrees from the acceleration point of 9/1/2016 (blue vertical lines).  The intersection of all three seems to suggest the possibility of a “magical attractor”.
+Chaos theory (fascinating topic for another day) speaks of “magical attractors”.  These attractors are points in time and space that seem to attract what would otherwise be considered to be random points, such as the peak of one mountain versus the peak of another.  Those who have been trading for a while realize that trading charts are chock full of such magical attractors.  Fibonacci turning points are one clear example.
+So, will 585 be a turning point?  Time alone will tell, but today I have demonstrated one way to use multiple Gann tools to make such a forecasted target.
+  Happy trading!
+  Remember:  The author is a trader who is subject to all manner of error in judgement.  Do your own research, and be prepared to take full responsibility for your own trades.
+Twitter
+Linkedin
+Facebook
+Reddit
+Weibo
+Posted in: Altcoin News, Bitcoin Analysis, Bitcoin Price News, News
+
+Recent Posts
+Dark Web Markets Are Running Black Friday Drug Sales
+Ethereum Founding Member Gives Up on the DAO
+Bitcoin is Consolidating and Ethereum Deserves Your Close Attention
+EU Commission Launches Initiative to Boost FinTech and Blockchain Startups
+Banking Blockchains Without Native Digital Assets are “Nonsense”, says Italian Tech Professor
+Advertisement
+NextBlockchain Advertising Platform Sees Micro-Payments Made Possible By Bitcoin06/11/2016
+PreviousAn Interview with the Developers of a Blockchain-Based Router06/11/2016
+Advertisement
+Recent Comments
+增达网 on Bitcoin Premium in India Reaches 20%, Price Peaks Beyond $880
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Romm333 on The Bitcoin Network Breaks Down as Demand Surges
+Mike on The Bitcoin Network Breaks Down as Demand Surges
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

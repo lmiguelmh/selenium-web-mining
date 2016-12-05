@@ -1,0 +1,97 @@
+https://thestack.com/data-centre/2016/11/08/chinese-firm-building-135mw-bitcoin-data-centre/
+Chinese firm building 135MW bitcoin data centre
+DATA CENTRE
+Chinese firm building 135MW bitcoin data centre
+Nicky Cappella Tue 8 Nov 2016 1.17pm
+Chinese bitcoin mining firm Bitmain, manufacturers of the Antminer series of bitcoin miners, has announced that it is building a massive 45-building solar-powered data centre complex in China.
+The complex, which will be capable of pulling 135 megawatts of power placing it at #3 of the most powerful data centres in the world, will operate primarily on wind and solar power.
+The data centre has been designed specifically for high-performance computing, and according to the announcement from Bitmain, will be dedicated primarily to bitcoin mining. Bitmain, which helped in the design of the cooling and dust-free systems of the data centre, will release all of the plans for the new centre. By open-source sharing of detailed plans for the Xinjiang centre, Bitmain is hoping to help to improve data centre efficiency for bitcoin miners worldwide.
+Jihan Wu, Co-CEO of Bitmain, said, “We have seen that most data centres in the mining industry are wasting considerable money or other resources.  We want to provide a more professional and cost-saving example to the industry.”
+This announcement caused an immediate response among the bitcoin mining community, many of whom are concerned with the increasing power of Chinese bitcoin mining pools driving the cryptocurrency market. One of the primary appeals of cryptocurrency is the decentralization of the currency itself. Placing too much bitcoin mining power (hashpower) with one country or one company defeats the idea of decentralization.
+Bitmain already controls an estimated 18.6% of hashpower worldwide, and many independent miners in the community expressed concern that controlling a massive data centre dedicated to mining bitcoin would give the company too much influence over bitcoin.
+Bitmain, however, released a response on Twitter that addressed these concerns, stating that while the data centre may be dedicated to bitcoin mining, only a small portion of it is dedicated to Bitmain.
+“We own only a minor share in that planned facility. A majority is owned by other miners who can mine bitcoin or any altcoin with any hardware they prefer.”
+The Bitmain facility was originally scheduled to be completed by the end of 2016, but the timeline may be extended due to an unusually cold winter in Xinjiang this year.
+Home
+TAGS:
+ASIABITCOINCHINACRYPTOCURRENCYDATA CENTRENEWS
+Send us a correction about this article
+Send us a news tip
+RELATED ARTICLES
+Bitcoin hardware company to build data centre near Arctic Circle
+Australia promises to remove tax on Bitcoin, support FinTech innovation
+Bitcoin miners under pressure as value collapses
+Bitcoin could be accepted over Facebook, Uber and Spotify in Adyen/BitPay partnership
+Telefónica and China Unicom to share data centre capacity
+C7 sues Bitcoin mining firm for unpaid data centre services
+Facebook
+Twitter
+LinkedIn
+Google+
+Subscribe to our newsletter
+Featured article
+Sites that block adblockers seem to be suffering
+Latest posts
+Privacy advocates call for Digital Economy bill revision
+GDPR: Achieving security for the right reasons
+How open source hardware is defining data centre innovation
+Ransomware distributed through Facebook image files
+Court rules stingray evidence permissible for locating suspect
+DHS gives internet security advice before Black Friday, but stops short of ‘encrypt your connection’
+Microsoft introduces mobile holoportation
+Neural network identifies criminals by facial features
+Most shared
+Fujitsu teams up with Oracle in Japanese cloud deal
+2K Total Shares
+Japanese to pay utility bills using bitcoin
+2K Total Shares
+Cloud hacking trick allows undetectable changes to VM memory
+1K Total Shares
+LinkedIn accesses Gmail contacts via ‘auto-authorization’ [amended]
+1K Total Shares
+GCHQ planning UK-wide DNS ‘firewall’
+993 Total Shares
+Google’s DeepMind AI grasps basic laws of physics
+927 Total Shares
+The Stack Homepage
+Facebook
+Twitter
+Google+
+LinkedIn
+RSS Feed
+CloserStill Media Ltd
+Suite 12, Exhibition
+House,
+Addison Bridge Place,
+London W14 8XP
+United Kingdom
+About The Stack
+The Team
+Contact
+Advertise at The Stack
+Send us a news tip
+Privacy policy
+Cookie policy
+Global tech expos from CloserStill
+London
+Cloud Expo Europe
+Cloud Security
+Smart IoT
+Data Centre World
+Frankfurt
+Cloud Expo Europe
+Data Centre World
+Paris
+Cloud Expo Europe
+Data Centre World
+Hong Kong
+Cloud Expo Asia
+Data Centre World
+Singapore
+Cloud Expo Asia
+CloudAsia
+Data Centre World
+The Stack is powered by
+UK Servers
+© CloserStill Media Ltd 2014-2016, All Rights Reserved
+CloserStill

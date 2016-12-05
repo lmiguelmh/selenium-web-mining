@@ -1,0 +1,31 @@
+That's what we learned last week when it was revealed senior campaign aides for the US presidential candidate considered taking bitcoin campaign donations, but dismissed the idea. The email was part of the cache released by Wikileaks, but came to light via a social media thread dedicated to sharing noteworthy content from the many thousands of leaked messages.
+For some market observers, the content of the conversation raised questions about the Clinton campaign and its knowledge of the technology.
+That's because, back in June, the Clinton campaign declared that its candidate supported public service blockchain applications. The claim implied some familiarity with the mechanics of bitcoin (it's the first implementation of blockchain technology, after all), even though the policy seems more likely to have been written by a tech-savvy advisor.
+So what is the Democratic hopeful's position on bitcoin? The campaign did not respond to requests for comment, but other analysts shared ideas.
+Brian Forde, former technology advisor to the White House and a senior lecturer at MIT, believes the potential future president has a genuine commitment.
+"Clinton has been a fierce advocate for Internet freedom, and I think, similarly, she will make the right decisions to allow for cryptocurrencies and blockchain-based applications to succeed in the US."
+He suggested that this support might take the form of funding for cryptocurrency research, supporting the adoption of blockchain applications in government and working with experts to develop a regulatory framework that would stimulate industry growth.
+In this light, conversations with industry observers suggest there may be a simpler answer for the decision – bitcoin as it stands just isn't that usable for campaign donations today.
+Funding a modern electoral campaign requires enormous resources, but regulations currently mean it's difficult to tap into revenue from bitcoin users.
+Even when donations are made to candidates who accept them, there is currently a $100 limit on bitcoin donations compared to the $2,700 limit on personal donations from other monetary sources.
+This was spelled out in an FEC ruling in 2014, which also imposes other restrictions on how bitcoin may be spent; for example, specifying that it must be exchanged for dollars first.
+Due to these restrictions, Hillary Clinton's campaign aides may have judged that the potential benefits of accepting bitcoin simply did not outweigh the costs.
+"I suspect that, for $100 or less, [accepting bitcoin] was not worth the trouble," said Kenneth Gross, partner at Skadden LLP and a specialist in electoral finance law. "The long and short of it is: not worth the hassle."
+For example, Republican Senator Rand Paul of Kentucky became the first US presidential candidate to accept bitcoin donations earlier this year, and he was shortly followed by Libertarian Gary Johnson.
+While the current limit may inhibit donations, though, there are early indications that it may not be in place for much longer.
+The $100 limit puts the bitcoin donation ceiling on a par with cash contributions, which are restricted in the interest of keeping campaign finance traceable, but there are other ways in which campaigns could accept these donations so as to provide a higher level of documentation and accountability.
+"If you have a candidate put up a bitcoin address on their website and you donate to that, well, that's just like cash," said Jerry Brito, executive director of advocacy group Coin Center.
+However, Brito noted that he believes bitcoin can be used in ways that suggest it should be treated more in line with other common online spending methods.
+"If instead what a candidate does is use a payment processor like BitPay or Coinbase, where the name and other necessary information can be captured, then that's just like a credit card donation and so the cash caps should not apply."
+The agency recently announced a notice of proposed rulemaking with regards to technological modernization, showing an intent to overhaul their policy with regards to electronic means of donation.
+During the public consultancy phase, Coin Center will be pushing for the limit for bitcoin donations to be brought in line with other online transactions like credit card payments.
+If larger donations are permitted, Brito predicts that bitcoin users on both sides of the political spectrum would see a chance to promote their interests by donating with cryptocurrency.
+"Bitcoin is interesting in that the medium is the message. If you make a contribution with bitcoin ... you're signalling that you care about bitcoin, and that's really unique," he said.
+For now, it seems it remains to be seen whether bitcoin users would have backed one candidate over the other.
+With the presidential election now less than two weeks away, we’ll have to wait for a future election cycle to see if digital currency can have a real-world impact.
+Ledger Labs' Josh Stark seeks to provide a high-level framework for understanding the potential of nascent blockchain governance applications.
+Leading blockchain policy groups weigh in on what a Trump victory means for the emerging technology and its startup community.
+Veteran bitcoin lawyer Carol Van Cleef has officially joined Baker Hostetler, a law firm that will oversee President-elect Trump's transition.
+Bitcoin prices are rising as Donald Trump is poised for a potential win in the US presidential election.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

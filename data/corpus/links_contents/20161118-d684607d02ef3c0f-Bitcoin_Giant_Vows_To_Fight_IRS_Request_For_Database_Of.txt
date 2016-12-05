@@ -1,0 +1,20 @@
+http://www.vocativ.com/377405/irs-us-bitcoin-exchange-database/
+Bitcoin Giant Vows To Fight IRS Request For Database Of Users - Vocativ
+PRIVACY
+Bitcoin Giant Vows To Fight IRS Request For Database Of Users
+Coinbase, the largest bitcoin exchange in the country, is mulling compliance
+Illustration: Vocativ
+By Kevin Collier
+Nov 18, 2016 at 2:04 PM ET
+Update: Nov. 21, 6:08 pm.
+Coinbase has vowed to challenge the IRS’s petition in court. In a blog post, the company said that “The government has not alleged any wrongdoing on the part of Coinbase and its petition is predicated on sweeping statements that taxpayers may use virtual currency to evade taxes. Although Coinbase’s general practice is to cooperate with properly targeted law enforcement inquiries, we are extremely concerned with the indiscriminate breadth of the government’s request.”
+The IRS has petitioned Coinbase, the largest bitcoin exchange in the United States, for personal information on all its users. The result would effectively create a sizable but incomplete government registry of bitcoin owners.
+The move isn’t without warning. In September, the Treasury Inspector General for Tax Administration, which oversees U.S. Treasury organizations including the Internal Revenue Service, recommended that the IRS create a more formal strategy for monitoring all “virtual currencies” — bitcoin, with a market cap of nearly $12 billion is by far the largest in the world — as a means of countering tax fraud.
+David Utzke, a Senior IRS agent who specializes in virtual currency, specifically cited a desire to catch tax evaders in his petition:
+“Because transactions can be difficult to trace and many virtual currencies inherently have a pseudoanonymous [sic] aspect, taxpayers may use them to hide taxable income,” he wrote. Utzke went on to cite an anonymous tax evader who had meticulously purchased and sold bitcoin to launder money and avoid paying taxes, as well as the fact that the internet hosts a number of guides on how to do that, as evidence that his petition is necessary for the IRS.
+Jerry Brito, the Executive Director of the Coin Center, a nonprofit dedicated to the promotion and advancement of bitcoin, said that the IRS’s move was in full compliance with the law, but surprising in its scope.
+“The Bank Secrecy Act requires financial institutions to keep records to identify [their] customers and keep records of their transactions,” Britto told Vocativ. “If you’re going to use a regulated financial institution like Coinbase, there was never any question that these records were being kept and they could be requested by the government.”
+“What surprises me is they’re requesting them all at once,” he added.
+It remains to be seen if the IRS’s petition will be fully successful. In a statement provided to Vocativ, Coinbase indicated it was weighing its legal ability to counter it.
+“Although Coinbase’s general practice is to cooperate with law enforcement, we are very concerned with the indiscriminate breadth of the government’s request. We take user privacy rights very seriously and our legal team is in the process of carefully examining the government’s petition,” the statement read.
+Coinbase is far from the only bitcoin exchange in the world, though it’s one of the most convenient ones in the U.S. There are plenty of other ways to acquire bitcoins, including mining them yourself or purchasing them with cash at a bitcoin ATM.

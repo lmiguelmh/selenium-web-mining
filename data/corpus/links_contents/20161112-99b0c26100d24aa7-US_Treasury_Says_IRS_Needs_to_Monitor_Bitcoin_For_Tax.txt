@@ -1,0 +1,36 @@
+https://cointelegraph.com/news/us-treasury-says-irs-needs-to-monitor-bitcoin-for-tax-purposes
+US Treasury Says IRS Needs to Monitor Bitcoin For Tax Purposes
+Toggle navigation
+BTC
+738.12
+0.8%
+ETH
+9.41
+1.25%
+Advertise
+  2016-11-12 03:45 PM
+Author Joseph Young
+US Treasury Says IRS Needs to Monitor Bitcoin For Tax Purposes
+3689 Total views 268 Total shares
+The Treasury Inspector General for Tax Administration recently released a paper on taxation of virtual currencies including Bitcoin, officially requesting the IRS to provide guidance for tax treatments of digital currencies and develop a strategic approach.
+Based on the 2014 tax guidance for virtual currencies released by the Internal Revenue Service (IRS), digital currencies like Bitcoin are considered labeled as property for tax purposes.
+ The report of the US treasury reads:
+“The notice provides that virtual currencies should be treated as property for tax purposes. The same general tax principles that apply to property transactions apply to transactions using virtual currencies.”
+It further noted four different situations in which Bitcoin transactions are taxable:
+Virtual currency paid as wages is subject to federal income tax
+Payments using a virtual currency made to independent contractors are taxable and self-employment tax rules apply
+Gain or loss from the sale or exchange of a virtual currency
+A payment made using a virtual currency
+Considering these regulations and rules on property tax, the treasury strongly recommended the IRS to create a strategy and system that allows a more efficient and transparent collection of virtual currency tax.
+TIGTA recommendations
+The Treasury Inspector General for Tax Administration recommended the IRS to “provide updated guidance to reflect the necessary documentation requirements and tax treatments needed for the various uses of virtual currencies.”
+Altogether, the TIGTA provided three recommendations to the IRS, which were completely agreed upon by both parties. The IRS is expected to act upon the three main recommendations stated by the TIGTA and strategize efficient methods to tax virtual currency transactions.
+The TIGTA further emphasized that most virtual currency transactions are and will be subjected to tax. For instance, online purchases with digital currencies such as Bitcoin could be taxed by property tax rules, which according to the TIGTA, most virtual currency users aren't aware of.
+The IRS plans to collaborate with other lawmakers and regulatory bodies to form revised guidelines on Bitcoin taxation over the next few months.
+USA
+IRS
+Bitcoin
+Taxes
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

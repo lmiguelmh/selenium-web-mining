@@ -1,0 +1,30 @@
+Scaling Bitcoin Preview: 5 Talks to Watch at Bitcoin's Big Summit - CoinDesk
+The open question is set to be addressed at the latest in a series of developer conferences aimed at the issue this week. Scaling Bitcoin, scheduled to run from 9th to 10th October, is the third conference of its kind since divisions in the digital currency's community began following debate on how to accommodate more transactions, and some argue, more users.
+While the conference has lost some of its former intrigue, what's at stake is still the development roadmap for bitcoin, a project that critics argue is losing ground (or refining its value proposition) amid increased competition.
+Still, the conference won't just be about scaling, as it has expanded its mandate to focus on improving bitcoin more broadly. For example, no announcements are expected related to the scaling issue, with work on a potential solution, Segregated Witness, still continuing.
+Organizers say the conference's technical talks will be divided into six sections, with the schedule promising to see top developers address the payment network's problems including privacy and network security.
+So far, the first two iterations have proven to be marquee events, with developers bringing big new ideas to the table. Forward-looking technical projects, such as capacity-boosting Segregated Witness and Bitcoin-NG, a proposed experimental overhaul of bitcoin, have been unveiled in the past.
+A livestream will be available, with an IRC channel for the remote audience to discuss and ask questions. If you don't have the time to cull through two days of talks, here's a roundup of forward-looking talks that we’ll be watching:
+Since four other talks focus on the concept of "fungibility", this introductory talk is probably worth watching.
+At its most basic, fungibility is the idea that one bitcoin should be as good as any other. While it's something money users tend to take for granted, bitcoin's blockchain is transparent enough that fungibility might prove to be an issue.
+The concept goes hand-in-hand with transaction privacy, since shielding transaction details means that the money will no longer store memory of past events, at least not that others can see.
+It's one reason developers appear to be so obsessed with bringing privacy to bitcoin.
+Hashcash inventor and newly appointed Blockstream CEO Adam Back, who has been an active proponent of fungibility and privacy, will deliver the presentation.
+The Bitcoin Lightning Network is seen as the future of bitcoin payments, but as a new project it’s still not entirely clear how all the pieces will fit together into a working payment network.
+Onion routing is a one way of bringing privacy to the Lightning Network, and it's a topic that perhaps hasn't gotten much attention given recent tests.
+Osuntokun has spearheaded this development, releasing onion routing standards earlier this summer for Lightning projects to follow.
+Speaking of off-chain microtransaction networks, in this talk Lightning Network creator Tadge Dryja will speak about one big challenge to the capacity-boosting top-level bitcoin network.
+The way the Lightning Network works, there needs to be someone constantly monitoring the channel to ensure that users don't cheat others out of their money. If one party cheats, the other party has to respond within a time-frame.
+So, it's been suggested to outsource this job to a specialist who will watch for fraud, while still not giving the third-party any control over the money.
+Dryja’s talk is sure to add to this discussion. The word "unlinkable" suggests something to do with private transactions, potentially bringing something new to the Lightning Network discussion.
+To encourage experimentation in the space, the interoperable blockchain idea could potentially allow users to move bitcoin to other blockchains with experimental features, say boasting new privacy techniques or with new ethereum-like smart contract functionality.
+Paul Sztorc, who's developed his own sidechain proposal, known as Drivechain, will explore how these interoperable blockchains might help with bitcoin's scalability problem.
+Segwit, the contentious capacity-boosting update to bitcoin, is just around the corner. But, it took over a year to get to the point where it could be added to the bitcoin software.
+The change saw months of tests and some debate, which is likely to continue even after its release. Given the backdrop, the talk could prove to be a must-watch.
+Blockstream core tech engineer Greg Sanders will speak to the lessons learned during the long and imperfect process, perhaps to help apply it to future big coding challenges, of which there are sure to be many.
+Colored coins over Lightning? A demo mash-up of the two experimental bitcoin technologies went live today.
+As bitcoin core developer Peter Todd published his role in helping create the Zcash cryptocurrency doubt is cast on the system's "trustless setup."
+CoinDesk takes a look under the hood to understand what security features are and aren't offered by bitcoin.
+Cryptocurrencies experienced notable volatility in October, with bitcoin enjoying gains while Monero, ether and ether classic all suffered declines.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

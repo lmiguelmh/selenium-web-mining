@@ -1,0 +1,73 @@
+https://www.bloomberg.com/view/articles/2016-11-01/bitcoin-isn-t-anonymous-enough
+Bitcoin Isn’t Anonymous Enough - Bloomberg View
+Bloomberg the Company & Its ProductsBloomberg Anywhere Remote LoginBloomberg Terminal Demo Request
+
+
+
+
+
+
+Bitcoin Isn’t Anonymous Enough
+Share on Facebook
+Share on Twitter
+USEFUL IN THE WORLD OF DIGITAL CURRENCIES.
+PHOTOGRAPHER: BEN PRUCHNIE/GETTY IMAGES
+Facebook
+Twitter
+Email
+Print
+TECH
+Bitcoin Isn’t Anonymous Enough
+
+51
+NOV 1, 2016 2:00 AM EST
+By
+Elaine Ou
+The anonymity of bitcoin gained it myriad adherents among anarchists and drug dealers around the world. Now, though, it’s looking like the digital currency isn’t quite anonymous enough.
+Consider the sudden popularity of Zcash and Monero, two new cryptocurrencies that offer confidential transactions. When Zcash first became available last week, demand was so strong that its founders temporarily became paper billionaires . Monero rose to fame after a popular marketplace in the dark web -- the portion of the internet where people sell everything from guns to hacking tools -- added it as a payment option. Here’s a chart from coinmarketcap.com showing the value of a Zcash currency unit:
+The newcomers sense opportunity in one of bitcoin’s flaws: Analytics companies -- fueled by government research grants -- have gotten really good at exposing users’ identities, which were supposed to be hidden by public keys that reduced them to a mere string of numbers and letters. This is possible because all transactions are recorded in a permanent public ledger, allowing anyone to see the entire history of each bitcoin and all the activity of each account. A single payment to an online retailer can be enough to reveal a user’s identity, which in turn reveals everything that person has done with that account.
+In other words, the same transparency that guarantees the validity of bitcoin transactions also allows people to find out whether a user’s bitcoin previously passed through dirty hands. Such information is both an asset and a liability. It’s useful for helping service providers make informed decisions about whether they want someone as a customer, but it can come with the responsibility of having to screen those customers to stay on the right side of the law. Here’s a tool that shows how much bitcoin payment traffic has gone through various counterparties, such as the dark-web marketplace Silk Road:
+The U.S. government, for example, has outsourced some of its crime-fighting job by requiring financial institutions -- including digital currency exchanges -- to enforce anti-money-laundering regulations. Drug-dealing and tax evasion can be tough to stop at the source, but the perpetrators typically have to move money, so banks and exchanges are in a good position to identify and report illicit activity.
+On the surface, privacy-preserving cryptocurrencies seem designed precisely to undermine such controls. Monero mixes multiple transactions together so that a source cannot be directly linked to a destination. Zcash creates shielded transactions where everything is hidden except for a string of data that proves the transaction is valid . Bitcoin also plans to add some of these features in the near future.
+As bad as it looks, though, developers aren’t creating anonymous payment systems because they want to help criminals evade the law. They’re doing it because that’s the only way a decentralized currency can work. If, say, users have to evaluate the acceptability of each bitcoin based on its transaction history, then one coin can be worth more than another and the currency loses its reason for existence.
+The dollar is successful because it’s pretty much always worth a dollar, backed by the full faith and credit of the U.S. government. That’s true whether it’s freshly printed or old and torn, whether it has a pristine history or has passed through the hands of Al Capone. A publicly controlled digital currency doesn’t have that legal tender status and probably never will, so it must find some other way to achieve the same fungibility.
+Anonymity achieves this by preventing merchants or service providers from seeing any blemishes that might prevent them from honoring a unit of currency. Reducing the opportunity for external judgment is pretty much the goal of privacy protection in general. Ideally, so little information is revealed that everyone -- and every valid transaction -- is treated equally.
+Decentralized currencies arose because people wanted to transact in a digital world without having to ask permission. The extent to which this facilitates criminal activity depends entirely on the prevalence of criminal activity in the real world. Maybe that’s a problem that needs to be addressed outside the monetary system.
+Zcash was created by a venture-backed company. Some 21 million Zcash currency units will be mined over time. The original investors will collectively receive 1.65 percent of the ultimate Zcash monetary base. The founders, employees and advisers will collectively get 5.72 percent -- a stake that, at Friday’s price of more than $5,000 per unit, would be worth more than $6 billion. The price has since declined to about $500.
+Users have private viewing keys so they can see the value of their own transactions.
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+To contact the author of this story:
+Elaine Ou at elaine@globalfinancialaccess.com
+To contact the editor responsible for this story:
+Mark Whitehouse at mwhitehouse1@bloomberg.net
+Facebook
+Twitter
+Email
+Print
+51 Comments
+Elaine Ou is a blockchain engineer at Global Financial Access, a financial technology company in San Francisco. Previously she was a lecturer in the electrical and information engineering department at the University of Sydney.
+Read more
+@eiaine
+MOST POPULAR
+Albert R. Hunt
+Democrats Have Ways to Check Trump (Prayer Is Just One)
+Editorial Board
+France Needs Someone to Stop Le Pen
+Leonid Bershidsky
+Don't Lower Corporate Taxes. Abolish Them.
+Adam Minter
+Why Facebook Won't Give Up on China
+Matt Levine
+Appeals Court Concludes That IPOs Are Legal
+Adam Minter
+An American-Made iPhone? Not Happening.
+Daniel Gordis
+Before Donald Trump, There Was Menachem Begin
+VIEW CONTRIBUTORS
+Albert R. Hunt
+Clive Crook
+Mark Gilbert
+Matt Levine
+Leonid Bershidsky
+©2016 Bloomberg L.P. All Rights Reserved
+Terms of ServicePrivacy Policy

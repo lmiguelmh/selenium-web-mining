@@ -1,0 +1,16 @@
+Open source bitcoin startup Blockstream, notable for its foray into developing sidechains for the bitcoin blockchain will now see a CEO at its helm.
+n a recent announcement, Blockstream revealed a unanimous decision by the company’s board of director that saw Blockstream co-founder Adam Back become CEO of the company.
+Back held the role of President before his new position and has also operated as the chief operating officer in the past.
+Blockstream revealed outgoing CEO Austin Hill will “pursue other opportunities” and has also stepped down from the board.
+A prominent academic in the bitcoin space, Adam has notably contributed proof-of-work systems like Hashcash for cryptocurrencies including bitcoin. As a bitcoin advocate, Back is also a principal sponsor of the communal Scaling Bitcoin annual event.
+I am honoured to take on the CEO position at this important phase in the company’s growth and am excited about leading Blockstream to its full potential. We have a world-class team dedicated to building the foundation that will underpin the transformation of finance for years to come.
+The firm, which notably announced Liquid, the first Bitcoin sidechain that is aimed at facilitating bitcoin exchanges, traders and payment processors with instantaneous transactions, comprises of Bitcoin core developers.
+It has seen its criticism in the past for its supposed influence in the bitcoin ecosystem, most notably from former Bitcoin Core developer Mike Hearn.
+The former bitcoin enthusiast, who – to much media coverage – opined that bitcoin had “failed” earlier this year, put the blame on Blockstream for the much-debated bitcoin scaling issue.
+Bitcoin’s problem is not a lack of a leader, it’s [sic] problem is that the leader is Gregory Maxwell at Blockstream and he’s a terrible decision maker. Blockstream is the source of the refusal to bump the block size.
+Indeed, the block size debate did not stalemate. It resulted in the small blockists winning, due to the much more aggressive tactics they used (e.g. hiring a bunch of developers then asserting they’d all quit forever if the block size were changed).
+This year, Blockstream saw a successful Series A funding round where the bitcoin blockchain-centric startup raised $55 million, adding to a previous $21 million seed round. It was the beginning of an eventful year for the Blockstream which soon announced a strategic partnership with ‘big 4’ services firm PwC, in March.
+The following month saw Blockstream join the open-source Hyperledger blockchain project, led by the Linux Foundation. More recently, Blockstream acquired bitcoin wallet GreenAddress, as a direct acquisition to accelerate its sidechains platform development.
+NextBitcoin and Fintech Isn’t a Threat to Fiat Currency, Says Bank of Japan Official06/10/2016
+增达任务网 on Centz Vows to Give You Control of Your Gift Card Money Via OpenLedger ICO at Money 2020
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.

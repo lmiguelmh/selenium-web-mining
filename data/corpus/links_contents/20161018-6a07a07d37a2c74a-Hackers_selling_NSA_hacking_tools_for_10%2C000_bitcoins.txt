@@ -1,0 +1,59 @@
+http://betanews.com/2016/10/18/nsa-hacking-tools-hard-sell/
+Hackers selling NSA hacking tools for 10,000 bitcoins
+Tech News
+Downloads
+Software Store
+BetaNews
+Hot Topics:
+Windows 10
+Microsoft
+Apple
+Cloud
+Tablets
+Android
+Security
+Reviews
+Follow Us:
+Twitter
+Facebook
+Linked-in
+RSS
+Hackers selling NSA hacking tools for 10,000 bitcoins
+By Sead Fadilpašić
+Published 1 month ago
+1 Comment
+in
+Share
+22
+It seems as no one wants to buy NSA’s exploit tools. Or maybe ShadowBrokers, the group selling the tools, overpriced the deal.
+The group, allegedly formed by Russian, state-sponsored hackers, decided to pull the auction on the tools. Instead, it turned it into a crowdfunded sale, aiming for 10,000 bitcoin, or slightly over $6 million.
+Two weeks ago, the group complained how it couldn’t find a buyer. Initially, after finding the tools, it released more than half of it for free, deciding to sell the rest. ShadowBrokers said it'd keep all the bitcoin, even from those who had lost the auction, but would release other free hacking tools in consolation. It seems as no one is biting.
+"TheShadowBrokers is being bored with auction so no more auction. Auction off. Auction finish. Auction done. No winners. So who is wanting password? TheShadowBrokers is publicly posting the password when receive 10,000 btc (ten thousand bitcoins). Same bitcoin address, same file, password is crowdfunding. Sharing risk. Sharing reward. Everyone winning".
+The tools have since been confirmed as fully-working exploits. Most of them are capable of avoiding enterprise firewalls. Interestingly enough, it was recently also discovered that the group tries really hard to seem as it’s not a native English speaker. Apparently, it has been deliberately making spelling and grammar mistakes.
+Published under license from ITProPortal.com, a Future plc Publication. All rights reserved.
+Photo Credit: Minerva Studio/Shutterstock
+1 Comment
+in
+Share
+22
+Got News? Contact Us
+Recent Headlines
+HPE, IBM and T-Systems compete for Cern cloud platform contract
+VLC Media Player previews 360-degree video support
+A Ferrari, three blind men and DevOps
+Sure, it's easy to criticize software -- but can I write it?
+Vufine+ wearable display review
+BitFenix Whisper M quad-rail PSU is modular, efficient, and quiet
+What are the benefits of DevOps?
+Most Commented Stories
+Microsoft shares Windows 10 telemetry data with third parties [Updated]
+366 Comments
+Zorin OS 12 Ubuntu-based Linux distribution now available -- a Windows 10 alternative
+163 Comments
+Want to watch 4K Netflix content in Windows 10? You'll need Microsoft Edge
+124 Comments
+Microsoft reveals minimum specs for Windows Holographic compatibility
+116 Comments
+Obama is not going to pardon Edward Snowden -- and Trump certainly won't
+116 Comments
+© 1998-2016 BetaNews, Inc. All Rights Reserved. Privacy Policy.

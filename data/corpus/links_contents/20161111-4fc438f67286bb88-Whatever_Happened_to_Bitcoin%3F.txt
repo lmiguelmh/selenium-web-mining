@@ -1,0 +1,98 @@
+http://www.techwire.net/market-news/whatever-happened-to-bitcoin.html
+Whatever Happened to Bitcoin?
+NEWS
+EVENTS
+PEOPLE & COMPANIES
+INSIDER TOOLS
+INSIDER ARTICLES
+MEMBER BENEFITS
+STAY INFORMED, BECOME AN INSIDER. FREE TRIAL.
+LOGIN
+MARKET NEWS
+Whatever Happened to Bitcoin?
+BY TRIBUNE NEWS SERVICE | NOVEMBER 11, 2016  
+Photo Courtesy of Shutterstock
+By Marisa Kendall, The Mercury News
+
+Bitcoin, the virtual currency used by savvy techies and online black market traders, has faded from the public eye in recent months. But investor and cryptocurrency expert Adam Draper says bitcoin still has the potential to play a major role in the financial market — once society figures out exactly what to use it for.
+Draper, son of high-profile venture capitalist Tim Draper, founded Boost VC in 2012 to fund startups working with bitcoin and the blockchain — the data structure that generates the digital coins. While it’s unlikely most people will be buying Starbucks with bitcoin in the near future, Draper said, the technology could revolutionize everything from banking to stock transactions to the art industry.
+Where else will bitcoin take off? Mars. When humans colonize the Red Planet, they won’t be using cash, he said.
+“Almost all of the smartest people I’ve ever met in finance are working to make the blockchain or digital currency happen,” Draper said. “Huge institutions, insurance companies, banks — everyone is trying to figure out what to do with it.”
+Draper sat down with this newspaper to share his thoughts on cryptocurrency. This interview has been edited for length and clarify.
+Q What exactly is the blockchain?
+A The blockchain does one thing: It replaces third-party trust with mathematical proof that something happened. You trust your bank that they’re adding up all of the ledgers all over the world that they manage correctly to issue you the amount of money that’s in your bank account every day. You’re establishing a trust in your bank because they built a brand over hundreds of years.
+Blockchain: All it does, all day, is it logs transactions. And the reason that people are excited about it is that it sort of cuts out these middlemen who need the trust. So banks are excited by it. Nasdaq is experimenting with creating digital equity, where you can actually transact in a public ledger — the blockchain — instead of physically moving stock certificates.
+Q Is the blockchain only useful in the financial sector?
+A Art, for instance: If I put something online, it’s owned by everyone because that’s how the Internet works. But what if I only wanted 30 prints of this specific painting, Photoshopped thing that I made, to exist? And I wanted to prove that there were unique ones? You could tag them with blockchain, and actually prove that those pieces of artwork were unique. And then suddenly there is this whole new market of Internet art that can be created.
+We have a company called Sun Exchange that’s doing solar power financing in Africa. Energy and bitcoin work really well together because you can pay out in micro-transaction units. As the energy gets used, they pay out, and it’s by the kilowatt rather than by the month.
+Q What is bitcoin?
+A It works a lot like gold in that there is a limited supply. There are only going to be 21 million bitcoins, and right now there have been 14 million that have been released into the world. Basically, there is a network of computers, and they’re called miners. They’re trying to solve an algorithm faster than all the other ones. And the ones that solve it the fastest, first, get bitcoin.
+Q What what makes bitcoin better than cash?
+A What bitcoin does better than the current financial system is it’s a better stored value globally. There are a lot of countries that really don’t trust their banks or their currency, and bitcoin is an alternative. It’s almost like gold.
+The transfer of money across borders is the second thing it does better than the current system. Not only is it cheaper because it doesn’t have so many middlemen — it’s also faster. It doesn’t take five days, it clears in 10 minutes.
+Q What does the future of bitcoin look like?
+A I don’t think bitcoin or blockchain are going to be consumer facing. It’s going to be the back-end for everything. I think that we will continue to use the U.S. dollar. But the way that the world is moving is all digital, and there needs to be a huge ledger that keeps tally of all those transactions that are happening globally — and that’s what the blockchain is going to be doing.
+Q What about long-term?
+A Let’s assume that we’re on a bunch of different planets. Are we going to be paying people in cash? No is the answer. That makes no sense. I’m not going to be bringing cash to space, probably.
+Q So when we move to Mars, it will be bitcoin?
+A That is the only way. I think it’s feasible that if you invented currency today, it would not look like paper.
+Q What problems do bitcoin and other digital currencies have from a consumer point of view?
+A Education is probably the biggest one. Bitcoin still has this stigma around it, where it’s like, ‘Oh, that was the illegal drugs, guns, whatever, currency.’ The other thing is it’s very complicated.
+Q Bitcoin got a ton of buzz when it first came out, but now, almost 10 years later, most consumers still aren’t using it. What is the state of the bitcoin market today?
+A I’d say publicly in the press, media, mass market — it’s boring. The media is over it. The story is not really there. But what’s really happening is that every bank in the country is experimenting with the blockchain and experimenting with bitcoin to figure out where the value is. For the first time ever, they’re working hand-in-hand with startups. Banks are asking startups for help to build products. And I’ve never heard of a time where that’s ever happened.
+It’s really exciting that that’s happening, but it’s happening on a lower level where no one’s really talking about it. So I think of it as the calm before awesome stuff.
+Q Do you have money in bitcoin?
+A Oh yeah.
+Q What do you do with it?
+A Mostly I would say I use it to store value. But I buy things with it — I have a (virtual reality) setup at my house, and I used bitcoin to buy a VR video game. A significant percentage of my net worth is in cryptocurrency, which is a wild concept.
+Adam Draper
+Age: 30
+Born: San Francisco
+Education: University of California, Los Angeles
+Position: Founder and managing director of Boost VC
+Previous jobs: Founder of Xpert Financial
+Residence: Menlo Park
+Family: Wife and 2-year-old daughter
+Five facts about Adam Draper
+1. He appeared on a Nickelodeon TV show called The Naked Brothers Band for a few years in his late teens and early 20s. Draper, his brother and his cousin played the members of a boy band who struggled to retain fans once they hit puberty.
+2. He has a huge comic book collection, and has a particular affinity for Spider-Man.
+3. Draper played professional tennis in Australia in-between high school and college.
+4. He would like to partake in some way in the creation of the Iron Man suit, which he believes is coming closer and closer.
+5. He’s the son of well-known Silicon Valley venture capitalist Tim Draper, making Adam Draper a fourth-generation VC. “I was raised by my dad — that was quite the education,” Adam Draper said.
+More about bitcoin
+How do I get bitcoin?
+You can trade U.S. dollars for bitcoins on exchanges such as Bitstamp. To store the virtual coins, get a “wallet,” or online bitcoin bank account, from a company like Coinbase.
+How do I buy something with bitcoin?
+You can pay for purchases directly from your bitcoin “wallet” or scan a QR code on your smartphone.
+Who accepts bitcoin?
+Few storefront businesses take bitcoin. But retailers such as Overstock and Dell have embraced the virtual currency. Or you can use your bitcoins to buy a gift card from vendors such as Gyft, and then use the gift card at any major retailer.
+What is the exchange rate?
+As of Nov. 8, one bitcoin was worth about $715 U.S. That’s up from about $380 a year ago.
+©2016 the San Jose Mercury News (San Jose, Calif.) Distributed by Tribune Content Agency, LLC.
+0 comments
+RELATED ARTICLES
+Oracle Acquires DNS Solution Provider Dyn
+Sacramento Kings Future-Proofing Data Center at New Arena INSIDER
+California Chip Maker Launches Bug Bounty Program
+MEMBER COMPANIES
+FOLLOW
+Facebook
+LinkedIn
+YouTube
+Twitter
+RSS
+CURRENT ISSUE
+NOVEMBER 2016
+Read the November 2016 TechWire Newsletter for Insiders
+Beginning in 2017, TechWire will be publishing a monthly newsletter with the latest job-critical news and market data for Insider members. Here's a sneak peek at the newsletter and the new format in a special edition this month that's filled with Insider news, a legislative update and new bid data.
+Read Now
+ABOUT
+Events
+Business Directory
+Spending Data
+Members
+About
+Contact
+Advertise
+Privacy
+© 2016 ALL RIGHTS RESERVED. E.REPUBLIC | PRIVACY & TERMS

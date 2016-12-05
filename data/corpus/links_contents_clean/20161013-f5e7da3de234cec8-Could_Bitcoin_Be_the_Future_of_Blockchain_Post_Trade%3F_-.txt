@@ -1,0 +1,21 @@
+Conventional thinking about blockchain technology's use in stock markets may be wrong, according to one academic.
+The argument was put forward by Professor David Yermack, chairman of the finance department at New York University, this week at Imperial College London's first FinTech-focused academic conference.
+There, Yermack presented an unpublished report that argues blockchains will evolve differently in capital markets than widely expected. For example, according to Yermack, functions such as stock settlements will one day be carried out on public blockchains like bitcoin, as opposed to private or premissioned alternatives.
+Overall, Yermack, who teaches a cryptocurrency course at NYU’s Stern School of Business, offered a much broader vision for the use of blockchain in finance than what the industry is considering, as well as more critical takes on how incumbents are exploring the tech.
+Taking a dig at DTCC, for instance, Yermack said its report "Embracing Disruption" did little to show or illustrate how blockchain could change the current state of affairs.
+That's not to say that Yermack didn't take a measured view of public blockchains.
+On the contrary, Yermak acknowledged the limitations of bitcoin's throughput and its proof-of-work consensus system today, but noted that it's something he believes the industry will need to work out better solutions for.
+Still, he insisted that the future of finance will be brought about by a real decentralized blockchains that don’t have monopolies that guard access to stocks, bonds and currencies.
+Speaking of the direction where the disruption will come from, Yermack sees three potential players. These include challengers (complete outsiders looking for disruption); collaborators (like the DTCC and R3); and regulators (countries like the UK, Australia, and Canada).
+Overall, he believes that the challengers were the most likely to succeed, but that some regulators (like those in the UK) are better positioned to bring about change than others.
+Interestingly, Yermack believes one of the easiest and quickest ways for the industry to move to a blockchain model is by exploring use cases in corporate elections by shareholders, an avenue already being pursued by Nasdaq.
+Yermack said shareholder voting on corporate elections is currently inefficient when it comes to vote counting, and that the voting results are often plus or minus 5% of what they should be.
+Further, in the current model, there are many challenges when it comes to corporate elections, he said. There are various different ledgers of ownership, maintained by the company, the broker, and the market in general, which gives rise to different voting results.
+Broadridge, which has what he called "a monopoly that is very inefficient" administers corporate elections voting, is also interested in blockchains.
+But, Yermack went beyond words, showing that corporate elections are prone to favor management proposals. Such issues, he believes, could be eliminated with the help of blockchain-based voting systems.
+Regulators in Switzerland are moving quickly to create regulation that accommodates digital currency and blockchain startups.
+Sweden's central bank could soon launch its own digital currency – though it hasn't yet decided how the offering would work.
+Bitcoin wallet company Blockchain is beta testing a new in-wallet purchase option in partnership with payments startup Coinify.
+Three out of four capital markets participants believe distributed ledger tech will see widespread use within the next six years.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

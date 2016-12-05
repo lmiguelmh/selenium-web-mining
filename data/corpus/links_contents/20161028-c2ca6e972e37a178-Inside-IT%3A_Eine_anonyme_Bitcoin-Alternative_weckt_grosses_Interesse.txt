@@ -1,0 +1,65 @@
+http://www.inside-it.ch/articles/45482
+Inside-IT: Eine anonyme Bitcoin-Alternative weckt grosses Interesse
+Technologie-Partner
+Gold-Sponsor
+ictjobs.ch
+Freitag, 28.10.2016 / 17:35
+0
+Eine anonyme Bitcoin-Alternative weckt grosses Interesse
+Der für heute geplante Launch einer neuen Kryptowährung namens Zcash weckte schon im voraus grosses Interesse bei Investoren. Die Futures-Kontrakte bei der Hong Konger Trading Plattform Bitmex sind in einem Monat um 950 Prozent auf 0.892 Bitcoins oder etwa 613 Dollar gestiegen, meldet 'Bloomberg'.
+Gründe für die Begeisterung sind, dass hinter Zcash eine gleichnamige Startup-Firma und bereits Investoren stehen, die nicht bloss eine Währung verbreiten, sondern damit auch direkt verdienen wollen.
+ Zudem soll Zcash in jeder Hinsicht schneller sein und mehr Transaktionen verarbeiten, was auch die Liquidität erhöhe.
+ Der dritte Grund: Zcash verspricht Anonymität und basiert trotzdem auf dem öffentlichen
+Blockchain-Konzept.
+ Das Unternehmen hat Technologie entwickelt, die es zwei Parteien erlauben soll, gegenseitig verifizierte Informationen auszutauschen, ohne im Prozess ihre Identität aufzudecken. Dies im Unterschied zu Bitcoin oder Ethereum.
+ Durch den Verkauf der Eigenentwicklung namens "zk-SNARK" an die Banken will das Unternehmen Zcash seinen Anteil verdienen, so der 'Economist'.
+ Hinter dem Startup stehen mehrere, in der Bitcoin-Community bekannte Investmentfirmen und Angel Investors. Der Code von Zcash ist als Open Source auf Github und schaffte laut dem Startup kürzlich zwei externe Security-Audits erfolgreich. (mag)
+Kommentar schreiben
+Vorheriger Artikel
+Nächster Artikel
+Mehr zu diesem Thema:
+Bitcoins am SBB-Billetautomaten beziehen
+Mehr Cyber-Erpressung wegen Bitcoin?
+UBS findet Nachfolger für Blockchain-Guru Batlin
+HOT STORIES
+Bern bewilligt 13 Millionen für IT vor Auftragsvergabe
+Generali baut IT um und verlagert IT-Jobs in die Deutschschweiz
+Manifest für "erfolg­reiche Digitalisierung der Schweiz"
+Neue E-Signatur unter Dach und Fach
+Avaloq dementiert Liquiditäts-Probleme
+Welche Schweizer IT-Jobs sind bedroht?
+Aktuell auf inside-channels.ch
+Colt hat eine neue Verkaufsleiterin Schweiz und Österreich
+Schweizer Onlineshops von Black-Friday-Traffic übermannt
+Weniger Tablets zu mehr Geld abgesetzt
+Wieviel Datenschutz und Sicherheit brauchen Cloud-Provider?
+Urs Sträuli geht zum Open-Text-Integrator Ixsenso
+KOLUMNEN
+Leider Nein (Nebel und Föhn)
+Leider Nein (in der Zwischen­saison)
+Von Hensch zu Mensch: Von Beizern lernen?
+In the Code: IoT im Gesund­heits­wesen
+Leider Nein (pendelnde Folge)
+Im Reisswolf: Fehlermeldungen
+Leider Nein (total sinnlose Folge)
+Im Reisswolf: Übel-setzungen, wirklich üble
+FEATURES
+Insurtech und Fintech: Die Grundlage für Insurance 2.0
+R3-Blockchain-Konsortium verliert weitere Banken
+Wie zieht man Algorithmen zur Rechenschaft?
+Splunk: Mit neuen Businessfeldern zur ersten Milliarde
+InsurTech: Die Digitalisierung des Versicherungswesens
+NEU AUF ICTJOBS.CH
+Vertriebsingenieur für Testlösungen für die Telekommunikation und IT (Datacom)
+Senior IT Project Manager
+SAP Entwickler/-in für FIORI/UI5 Applikationen 80-100%, Zollikofen
+Informatiker/in Systemtechnik mit Teamverantwortung
+Software Engineer Java/JEE
+Enterprise Service Entwickler/in 100%
+GUT ZU WISSEN (WERBUNG)
+WER ÜBERLEBT DEN WANDEL?
+Prominente Channel-Player, Vendors und Newcomer diskutieren an der ersten Schweizer Channel-Arena (26.1.2017 in Aarau). Diskutieren Sie mit.
+DevOps: Die fünf klassischen Denkfehler
+Alle reden von DevOps - hier sind die fünf grössten Denkfehler. Von DevOps-Spezialist und Ergon-Mitarbeiter Urs Breu.
+CHANCEN DER DIGITALISIERUNG
+ICMF Fachtagung, 24.11.2016, Sihlpost, Zürich Digitalisierte Geschäftsprozesse miteinander verkoppeln? Gefragt sind IT- und Businessinnovationen.

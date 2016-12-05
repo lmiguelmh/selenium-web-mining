@@ -1,0 +1,108 @@
+http://siliconangle.com/blog/2016/10/12/bitcoin-weekly-blockchain-info-hit-with-dns-hijack-nyc-startups-focus-more-on-blockchain-than-bitcoin/
+Bitcoin Weekly: Blockchain.info hit with DNS hijack, NYC startups focus more on blockchain than bitcoin - SiliconANGLE
+NEWS
+PEOPLE
+RESEARCH
+Wikibon
+TheCUBE
+SIGN IN
+Bitcoin Weekly: Blockchain.info hit with DNS hijack, NYC startups focus more on blockchain than bitcoin
+BY KYT DOTSON
+UPDATED 16:07 EST . 13 OCTOBER 2016
+0 VIEWS / 5 MIN READ
+If you’re a user of Blockchain.info and saw something odd, keep reading. The popular web wallet was hit with a DNS hijack attack Wednesday.
+In other bitcoin-related news, Japan will soon be removing sales-tax from the purchase of virtual currencies, including bitcoins. Coinbase Inc.’s GDAX exchange is hiring new developers with knowledge in bitcoin and Ethereum. And, a study of bitcoin-related startups in NYC shows that 70 percent of startups focus on the blockchain instead of bitcoin, followed by investments going to mostly blockchain-related technology companies.
+As for the market, BTC currently sits at $640 USD, up from last week’s $611. The bitcoin market price began to rise sharply yesterday from $619 to today’s high.
+Blockchain.info suffers DNS hijack attack
+Users of the Blockchain.info web wallet complained early Wednesday that the website was unavailable. Others, however, discovered that the domain name service for Blockchain.info was sending them to an altogether different website. This is part of an attack known as a “DNS hijack,” in which an attacker spoofs the DNS of a target website and sends visitors to a different locale, often to use to collect passwords and personal information through phishing.
+Reddit user 2348957234 sussed out and explained the details of the problem.
+Since this incident, the Blockchain.info staff have gone to Twitter to give the all clear:
+Details from Blockchain.info on the attack itself are still light. However, a staffer from the company did visit Reddit to explain that the company’s DNS provider was targeted:
+Hey everyone, our DNS provider was targeted. It’s going to be several hours before our services are fully restored. The CloudFlare DNS is propagating now.
+-The Blockchain.info Team
+From complaints and the final tweets from the Blockchain team, it appears that the hijack remained active for three to four hours before it was resolved.
+Anyone who attempted to use the Blockchain.info website or mobile app could have been redirected to an attacker’s own application. If users input their password and information into that website their wallet could be at risk.
+In the best interest of security, users who accessed the Blockchain.info website last night should quickly change their passwords.
+photo credit: arcreyes [-ratamahatta-] via photopin cc
+Japan poised to cease sales tax on bitcoin
+By spring of 2017, the island nation of Japan intends to end sales-tax collection on purchases of virtual currencies, including bitcoin, according to an article in Nikkei Asian Review. This taxation change will most likely lead to more bitcoin-related businesses setting up shop in Japan and open up new avenues for bitcoin-related industry in the region.
+Currently, Japanese users pay an 8 percent consumption tax in order to obtain bitcoins at dedicated exchanges, amid other fees.
+In May of this year, Japan’s government officially recognized bitcoin as a form of money. And, as of September, over 2,500 stores across Japan now accept bitcoins as a form of payment for groceries and dining, according to ResuPress Inc., a Tokyo-based bitcoin exchange operator. In conjunction with Mitsuwa Industry Co. Ltd., ResuPress expects to allow Japanese residents to pay electric utility bills with bitcoins starting in November.
+70 percent of New York bitcoin startups focused on blockchain
+New York City is home to several dozen bitcoin-related startups but many of them don’t focus on bitcoin itself. Instead, approximately 69 percent of these startups focus instead on the blockchain, the underlying distributed ledger technology that makes bitcoin function.
+According to a report released by Kuperman LLC Corporate Development, which includes a survey of over 100 companies but focused on only a few dozen, in 2016 investors supported mostly blockchain-based middleware and enterprise application startups. However, other areas that have attracted investment for blockchain-technology include clearing houses and trading platforms, payments, certifications, and cyber security.
+The report highlights that much investment in bitcoin-related projects cased in 2016 due to the implementation of NYC’s “BitLicense,” a controversial set of regulations released by the NYC Department of Financial Security in 2015. The activation of this regulation led to what is summed up as a bitcoin mass-exodus from NYC by multiple companies looking for less restrictive regions to headquarter.
+The report cites over $80 million in investments to NYC-based blockchain companies, a growth of nearly 20 percent annually. The biggest investment and gowth sector for blockchain technology is middleware, applications and enterprise integrations leading at 68 percent of the total investments. Trailing behind are trading and clearing houses with 7 percent, wallets and payments at 3 percent, finally authentication and cybersecurity take up the remainder.
+Global Digital Asset Exchange (GDAX) Coinbase exchange logo
+Coinbase run GDAX exchange looks to expand developer staff
+Coinbase Inc.’s Global Digital Asset Exchange (GDAX), the Bitcoin wallet company’s rebranded professional cryptocurrency exchange, has put out feelers to expand its developer and engineering staff. This move shows that Coinbase is looking to build up its product portfolio in the bitcoin exchange market.
+In that market, GDAX has moved 4564.02 BTC in the past 24 hours (approximately $2.9 million USD) representing 16 percent of the total trade volume. This puts GDAX amid the top five exchanges with similar volumes to BTC-e, Bitfinex, Gemini and Bitstamp.
+According to a tweet earlier today, GDAX is seeking engineers proficient with NodeJS development who understand bitcoin and Ethereum.
+This move by GDAX likely follows the exchange’s addition of Ethereum (Ether, ETH) to its platform in July this year.
+The legacy of Ethereum has been somewhat rocky because this year an experimental company built atop Ethereum’s blockchain, the Distributed Autonomous Organization (DAO), suffered a theft of more than $55 million USD worth of Ether. To thwart this, the Ethereum blockchain underwent a hard fork that changed how Ether functioned. This hard fork led to the creation of ETH, the current Ethereum token; and ETC (Ethereum Classic), the remnant of the previous Ethereum blockchain, which can still be traded and exists now as its own independent cryptocurrency.
+Featured image credit: Bitcoin Logo
+MORE FROM SiliconANGLE
+Japan plans to build the fastest deep learning supercomputer
+Stripe’s valuation reaches $9B thanks to new $150M funding round
+Are you ready for new data recovery regulations?
+Huawei is now the world's most profitable Android smartphone brand
+Systran Group launches neural machine translation tool for enterprises
+Snowflake Computing declares cloud storage price war on Amazon
+RELATED ARTICLES
+EMERGING TECH
+Japan plans to build the fastest deep learning supercomputer
+BY ERIC DAVID . 1 MONTH AGO
+EMERGING TECH
+Bitcoin startup Blockchain passes 10 million wallets
+BY DUNCAN RILEY . 1 MONTH AGO
+EMERGING TECH
+iPayYou launches bitcoin-to-Amazon payment service
+BY DUNCAN RILEY . 1 MONTH AGO
+CH00 #THECUBE CHANNEL
+This is the main channel...
+CUBE NEWS
+SEE MORE
+Can cross-pollinating data and security block the new cyber-hacking threat? | #theCUBE
+Data confluence: handling the scale of distributed computing | #CDSUSA
+Too big to fail: How a popular online community monetized its platform | #Amplify
+Crowd-sourcing online talent to win a million-dollar competition | #CDSUSA
+Helping software help us: How one startup is making the most of APIs | #Amplify
+Data science: What does it mean and how is it best applied? | #CDSUSA
+TRENDING STORIES ON THE WEB
+ARS TECHNICA
+Japan plans 130-petaflop China-beating number-crunching supercomputer
+USA TODAY
+For Apple deals, you're better off at other retailers
+IT PRO
+Is ransomware targeting Facebook Messenger users?
+MAC RUMORS
+Expercom Offering MacBook Pro With Touch Bar For Up to $225 Off With AppleCare
+DIGITAL TRENDS
+Save big with the best smartphone deals on Black Friday
+UPCOMING EVENTS
+HPE Discover 2016: November 29th – December 6th (London, UK)
+AWS re:Invent: November 28th – December 2nd, 2016 (Las Vegas, NV)
+5th Annual CloudNOW Top Women in Cloud Awards: December 7th (Mountain View, CA)
+Spark Summit East 2017: February 7-9 (Boston, MA)
+BigData SV 2017: March 13-16 (San Jose, Ca)
+Dataworks Summit EU 2017: April 2-4 (Munich, Germany)
+BigData UK 2017: May 22-25 (London, UK)
+Spark Summit 2017: June 6-8 (San Francsico, CA)
+Dataworks Summit US 2017: June 13-15 (San Francisco, CA)
+SPONSOR POSTS
+Are you ready for new data recovery regulations?
+Join Our Community
+For personalised content stay with us.
+I AM INTERESTED IN
+PRIVACY POLICY
+TERMS
+ABOUT US
+JOIN US
+SEND US NEWSTIP
+2016 SiliconANGLE Media, Inc. All rights reserved.
+JOIN OUR COMMUNITY
+theCUBE
+Wikibon
+FOLLOW US
+DESIGN PARTNER
+UXReactor

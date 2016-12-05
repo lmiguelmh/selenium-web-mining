@@ -1,0 +1,34 @@
+http://www.valuewalk.com/2016/10/bitpay-intel-bitcoin-wallet-security/
+BitPay Partners With Intel Corporation To Improve Bitcoin Wallet Security
+BitPay Partners With Intel Corporation To Improve Bitcoin Wallet Security
+By Aman Jain on October 25, 2016 11:23 am in Technology
+Share
+Tweet
+Post
+Flip
+Intel and BitPay, which bills itself as the biggest processor of Bitcoin worldwide, have come together to assist in ensuring the security of Bitcoin digital wallets. Copay, which is the open-source Bitcoin wallet made by BitPay, has now integrated with the Software Guard Extensions built into Intel’s seventh-generation Core processors.
+Image: Flickr
+BitPay enhances Bitcoin wallet security
+The Intel and BitPay link up will address the concerns that many users may have about Bitcoin, such as how easily it can be stolen, notes The Verge. Bitcoin is a transferrable asset like cash money, meaning the person holding the asset owns it. This means that it can be stolen, and hackers have demonstrated this with thefts from individuals’ digital wallets and Mt. Gox.
+It is important to implement strong security in the software that processes and stores Bitcoin to prevent theft of Bitcoin data (and Bitcoin value). By executing sensitive operations in a protected space, Intel’s technology helps ensure that security. By doing this, sensitive data like the private keys or funds of a user is not exposed to code that might be compromised, notes The Verge.
+James Walpole, BitPay marketing and communications manager, explained, “The Intel processing chip is isolated from the rest of the machine in a secure execution environment, so neither compromised software nor a compromised PC can expose a Bitcoin user’s funds or private keys to risk from attackers.”
+Walpole noted that Intel’s integration is like a secure place where harmful things on a compromised machine become secure.
+Intel, Visa partner up to better payment security for connected devices
+Intel has also partnered with Visa, although this partnership is focused on driving stronger payment security for connected devices. The main aim of the partnership is to build secure payments encryption into the hardware layer of chipsets in connected devices. This could mean that all future devices powered by Intel will encrypt stored payments data both while in motion and at rest to provide safer data transmission, notes ZDNet.
+It also means that if a cyber-criminal exploits a vulnerability and gains access to a device, then all payments data stored on that device will be encrypted and become unusable. In part, the encryption effort is based on Intel’s Digital Protection Technology (DPT), but Visa’s 3D Secure authentication process helps issuers and merchants in differentiating between bad and good transactions.
+On Monday, Intel shares closed up 0.31%. Year to date, the stock is up by about 1%, while in the last 6 months, it is up more than 11%.
+Tags: Bitcoin bitpay intel Visa
+Load Comments
+LATEST NEWS FROM VALUEWALK
+Carl Icahn: We Have Done Nothing To Grow Business In Eight Years
+
+Berkowitz: Financial Times on the future of Fannie and Freddie
+
+How Do You Eat Healthy On The Road? [INFOGRAPHIC]
+
+Local Governments Face Another Headwind – State, Federal Budget Tightening
+
+Copyright © 2016 ValueWalk - Privacy Policy
+FOLLOW US:
+Developed by ValueWalk Team
+Sponsored Content - Resource Center

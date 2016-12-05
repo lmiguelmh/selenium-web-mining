@@ -1,0 +1,69 @@
+http://www.forbes.com/sites/sap/2016/11/14/making-the-next-moves-with-blockchain/#3db79f0e5738
+SAPVoice: Making The Next Moves With Blockchain
+SHARE
+TRENDING
+Business
+What is this?
+NOV 14, 2016 @ 08:30 AM 2,694 VIEWS
+The Little Black Book of Billionaire Secrets
+Making The Next Moves With Blockchain
+SAPVoice
+RUN SIMPLE
+Dan Wellers, SAP
+By Dan Wellers and Raimund Gross
+For a technology that’s still in its comparative youth, blockchain has become incredibly influential, incredibly quickly. In August, the World Economic Forum released a report calling blockchain technology a “mega-trend” that will shape society in the next decade. Indeed, the WEF predicts that blockchains could store as much as 10% of global GDP by 2027.
+To review: blockchain is a distributed digital ledger that uses specialized algorithms to ensure that transactions are valid and authentic and is based on a decentralized architecture and protected by powerful digital encryption. As such, blockchain can replace trusted third parties, like banks, in guaranteeing transactions and coordinating agreement among parties. Although it originated as the underlying technology for the digital currency Bitcoin, it is now widely recognized that its disruptive potential applies far beyond currency. In fact, blockchain is relevant to all industries and for any transactions that must be secure and verifiable. It is a completely novel architecture for business and a foundation for building a new generation of transactional applications.
+Understandably, smart people have been skeptical about blockchain’s potential – and in June, when a high-profile blockchain project was (temporarily) relieved of more than $50 million, their caution grew. Many established enterprises are still waiting for the perfect business justification for investigating blockchain. However, by doing that, they run the risk of missing opportunities and failing to identify the business risk of being slow to adopt a disruptive technology.
+Exploring for value
+Promising uses of blockchain are already emerging to suggest what the next decade will bring. These five examples are worth investigating sooner rather than later:
+Recommended by SAP
+SAPVoice: How Blockchain Is Reshaping Business
+SAPVoice: Beyond Bitcoin: How The Blockchain Could Disrupt Our Financial S...
+SAPVoice: 7 Surprising Innovations For The Future Of Computing
+Increasing process speed and transparency. Maintaining a single ledger for all transactions is a highly efficient way of synchronizing data about transactions across entities and geographies. This ensures a complete, consistent, current view of every transaction at any given moment. 
+Improving supply chain efficiency and efficacy. With blockchain, a company can consolidate multiple repositories of customer and supplier information into a single decentralized information store. This provides end-to-end documentation of where and how materials are sourced, purchased, allocated, and used. 
+Facilitating business networks/exchanges. Blockchain enables low-cost peer-to-peer transactions by eliminating the need for a third-party middleman to spend time and money on verification. 
+Strengthening data security. Because the Internet was designed for openness, threats to cyber security such as data breaches, identity fraud, malware, and ransomware are increasing at a pace that threatens the entire digital economy. Blockchain’s built-in security features, which include high-grade encryption and the decoupling of transactions from the identity of their participants, provide a safeguard against these threats – and by extension, against loss of customer trust in your business. 
+Enhancing – and monetizing – privacy. The blockchain also creates opportunities for individuals to exert greater control over their own personally identifying information (PII). Companies will be able to create blockchain-based identities that only share the bits of PII necessary to complete a transaction. Beyond that, individuals will be able to monetize their PII by using the blockchain to control whether and how much of it to share with an advertiser or researcher, how that information can be used, and how much the recipient will have to pay for access to it. 
+In a broader sense, blockchain promises to increase economic participation and inclusion worldwide, especially at the bottom of the financial pyramid. Blockchain could enable billions of people who currently lack access to the global economy to perform financial and legal transactions with nothing but a mobile device and a network connection – and that would open markets and possibilities that could be measured in trillions of dollars or more.
+Blockchain in action 
+Many forward-thinking enterprises are already experimenting with blockchain:
+German power company RWE is encouraging greater adoption of greener transportation by rolling out electric car charging stations that use blockchain to authenticate users, simplify billing, and make energy transmission more efficient.
+IBM has set up “blockchain garages” where developers can experiment with the technology and plans a massive blockchain implementation to help its Global Financing unit automate and streamline dispute resolution.
+Microsoft introduced Blockchain as a Service (BaaS) last November, hosting a wide range of open-source blockchain tools and protocols on its Azure cloud platform. The company recently announced Project Bletchley to support collaboration among BaaS users.
+Infosys has introduced the EdgeVerge Blockchain Framework to support blockchain-based services for the financial services industry.
+Philips Healthcare has established its own blockchain lab where Philips IT experts can work with healthcare professionals, partners, and blockchain developers to develop innovative use cases for the technology. Philips Blockchain Lab is also the first major healthcare member of Gem Health, a healthcare-focused global blockchain network created by blockchain solutions provider Gem, which itself received $7.1 million from venture capital investors in early 2016. 
+SAP has worked with Canadian bank ATB Financial and fintech startup Ripple Labs to create a blockchain-based application for high-speed cross-border money transfers. In testing, the application was able to transfer $1,000CDN ($760 US) to a German bank in 20 seconds rather than the customary several days.
+In addition, SAP is evaluating specialized software that would allow customers in industries such as banking, farming, energy, healthcare, and media to connect blockchain technologies such as Bitcoin, MultiChain, and Ethereum to its systems. “The potential for disruption is huge,” says SAP’s chief innovation officer Juergen Mueller, and adds that businesses could be making widespread use of blockchain in two to five years.
+In one potential scenario, blockchain would allow patients to share their electronic medical records with health researchers or pharmaceutical companies for a controlled period of time, such as during treatment or for the length of a study. Another possibility is a blockchain-based insurance market where insurers, haulers, and producers could share criteria such as risk, route, weather, and vehicle type to negotiate transportation coverage.
+What does this mean for your company? If you’re in the banking industry and you aren’t already looking into blockchain, you’re behind the curve. Get moving. But because it has the potential to be a true disruptor in many industries, investigating blockchain is crucial no matter where you are. To determine where it might fit into your business, ask yourself these questions:
+Which of your transactions require a specific sequence or timing of events?
+Which of your records must be maintained without being changed, re-ordered, or deleted?
+Where does your business require information to be both transparent and publicly accessible?
+What part of your business relies on digital assets?
+Where can transaction consistency and transparency help build trust between participants who don’t know each other?
+Will introducing blockchain to these areas increase efficiencies or improve your ability to scale?
+Answer these questions and you’ll be on your way to addressing the larger question blockchain brings up for us all:
+How will introducing blockchain propel your business model forward?
+As revolutionary as this new technology may turn out to be, it’s still in its very earliest stages. We don’t have any definitive answers yet. But the more use cases we see emerging, the more hints we see that it’s steering us toward some fascinating possibilities.
+Download the executive brief Making the Next Moves with Blockchain.
+To learn more about how exponential technology will affect business and life, see Digital Futures in the Digitalist Magazine.
+Print Report Corrections Reprints & Permissions
+Ads by Revcontent
+From the Web
+Doctores Asombrados! 1 Píldora Le Ayuda A Perder 12Kg En 4 Semanas!
+NOTICIAS DE SALUD
+La "Píldora Billonaria": Dobla Tu CI En Solo 14 Días!
+BRAINPLUS IQ
+El Nuevo Método Para Ganar Dinero Que Es Furor En Jubilados De Peru
+NOTICIAS DEL MUNDO
+The Diabetes Breakthrough Your Doctor Won't Tell You About
+DIABETES DESTROYER
+Abuela De 72 Años Choca Dermatólogos: 20 Años Más Joven, Con Esta Crema
+BELLAVEI
+¡No Necesitas Operarte Para Quitar Los Juanetes!
+VALGOMED
+Esto Producto Regenera El Cabello De Forma Natural
+NATURAL BEAUTY LIFESTYLES
+Generate A High-Quality User Experience with Revcontent
+REVCONTENT

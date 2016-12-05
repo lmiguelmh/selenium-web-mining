@@ -1,0 +1,52 @@
+https://cointelegraph.com/news/peoples-bitcoin-gulden-makes-significant-gains-without-hype
+"People's Bitcoin" Gulden Makes Significant Gains Without Hype
+THE COINTELEGRAPH
+future of money
+BTC
+738.14
+0.16%
+ETH
+9.44
+1.82%
+Submit a Post
+Submit Press Release
+News
+Guides & Analytics
+Events
+Podcast
+Advertise
+  2016-10-03 11:45 AM
+Author Joël Valenzuela
+"People's Bitcoin" Gulden Makes Significant Gains Without Hype
+4071 Total views 325 Total shares
+While Bitcoin seems content to remain the plaything of speculators and the tech sector, Gulden,a Netherlands-based cryptocurrency, is taking digital currency to the people. Rijk Plasman, founder of Gulden, tells Cointelegraph about the currency’s rise:
+“We make stuff that people can and want to use. At the moment word-of-mouth is what gets us new users”.
+Opposite approach of Bitcoin
+Bitcoin’s impressive Blockchain distributed ledger technology has reshaped the financial world, as well as provoked a new rush of applications for the technology. As successful as the currency itself is, it still struggles to reach the general public and common use. Much of the Bitcoin industry remains insular and concentrated around a limited group of technical users, and its use by “mom-and-pop” small, non-technical businesses is extremely rare.
+Meanwhile, Gulden has taken the opposite approach of Bitcoin, instead gearing itself towards easy adoption by the public. Through a strategic partnership with the Nocks app, Gulden remains easily tradable for both Bitcoin and euros, removing as many complications for average users as possible. This long-term slow and steady adoption strategy is finally paying off, as the currency has grown from a minor market cap of about $400,000 early this year to about $2.2 million now, all without any major breakthroughs, business deals, integrations, or hype.
+Interview with Rijk Plasman
+CoinTelegraph spoke to Rijk Plasman, founder of Gulden, about the currency’s slow rise and steady breakthrough.
+CoinTelegraph: Gulden has seen an impressive, and by the looks of it sustainable, growth in market cap and volume this year. To what do you credit this growth?
+Rijk Plasman: The volume is coming from outside the crypto community, which is exactly what we want. Most purchases are coming through Nocks, that means small amounts, 10/25/50 euros. So not just a few big investors but lots of new users. We can also see this in the app downloads.
+CT: Did any big news or events spur this growth, or was it just a slow and steady increase in adoption that caused the increase?
+RP: Definitely the last, we never use our development to hype stuff. We make stuff that people can and want to use. At the moment word-of-mouth is what gets us new users. People like the apps and tell their friends and family. For us this feels like baby-steps but also a confirmation that we are on the right track. In the coming weeks we will launch our new desktop app, which sets the standard for usability and has features that you actually use in real life.
+CT: How centered in the Netherlands is the Gulden user base currently?
+RP: Well less than I expected, we can see that in our Slack channel, it’s 50/50. We have users from all over the world. Our focus is not just the Netherlands, with the apps you can send money to your IBAN in the whole of Europe. And the BTC payments work worldwide of course.  But we like starting in the Netherlands because it’s a challenging and crowded market, people are overwhelmed with banking apps and fintech startups. So we need to offer something truly better for people to use it. It’s a great user acceptance test.
+CT: One of the prime challenges with Bitcoin in a point-of-sale merchant setting is the delay in transaction confirmations, or potentially risky zero-confirmation transactions. Has Gulden improved on this?
+RP: That's a very good point and it's one of those things where you have to be realistic. No merchant wants to wait minutes for confirmations. So that has to change and we are doing that with Prime. Prime is a system that we will be introducing in the coming months especially designed for that. The first part allows for transactions with just 1 confirmations and Prime 2 makes 0 confirmations possible. We are not developing this because it sounds cool or innovative, but because you need this to be competitive in this market.
+CT: How about fees? Is it cheaper to use Gulden than credit card services?
+RP: Gulden to Gulden is of course always cheaper but once you hook into the existing infrastructure, so Gulden to Eur for example, you'll need payment providers. We work closely together with Nocks for that and they offer cheaper and more innovative solutions than other providers. When you start working with blockchain technology the result is almost always cost reduction.
+CT: One of the main challenges with non-Bitcoin cryptocurrency is its dependence on Bitcoin to be acquired. How easy is it to buy Gulden straight for fiat currency?
+RP: Very easy, directly from Gulden.com and soon even from within the apps. And you only need a bank account to do that. Payments go through Nocks and they have very good fraud and money laundering prevention. The other way around is just as simple, from Gulden to Eur can be done right from within the apps.
+CT: One of the primary early uses of Bitcoin was to maintain greater financial privacy. Does Gulden also have this feature?
+RP: Well it can do that of course, but it’s not something we are actively promoting or developing for. The reason is that the majority of the users doesn't want or need it, because it always comes with a downside. I can imagine in the future we have options for people who want more privacy, but because of that are less connected to the existing infrastructure and something that looks more like a normal bank account.
+CT: So I take it very few options exist, or are pursued, for buying Gulden privately with cash?
+RP: That’s correct. User to user is the only way I can think of.
+Gulden
+Altcoin
+Rijk Plasman
+Cryptocurrencies
+Bitcoin
+Comments
+Hottest Bitcoin News Daily
+For updates and exclusive offers, enter your e-mail below.

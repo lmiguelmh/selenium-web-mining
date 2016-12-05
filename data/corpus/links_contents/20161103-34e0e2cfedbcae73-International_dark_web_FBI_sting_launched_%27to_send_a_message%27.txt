@@ -1,0 +1,56 @@
+https://www.cyberscoop.com/dark-web-fbi-sting-zcash-operation-hyperion/
+International dark web FBI sting launched 'to send a message' - Cyberscoop
+SUBSCRIBE
+ABOUT
+RSS
+GOVERNMENT
+TRANSPORTATION
+HEALTHCARE
+TECHNOLOGY
+FINANCIAL
+WATCH
+LISTEN
+ATTEND
+COMMUNITY
+GOVERNMENT
+International dark web FBI sting launched ‘to send a message’
+(Mikal Marquez / https://flic.kr/p/99bs5g)
+SHARE
+WRITTEN BY
+Patrick O'Neill
+NOV 3, 2016 | CYBERSCOOP
+A new global police operation against dark web marketplace users identified thousands of individuals last month, signaling unprecedented international cooperation between dozens of major law enforcement agencies across three continents. The operation was designed to spotlight law enforcement’s long arm extending into the digital underground.
+“This is to send a message,” an FBI spokesperson told CyberScoop.
+At the same time, new alternatives to Bitcoin are launching and quickly gaining steam by promising untraceable transactions that can open up both a new tier of financial privacy and novel challenges for law enforcement and intelligence agencies across borders. One glance at the major dark web markets shows that bitcoin remains king. But ascendant and powerful cryptographic technology foreshadows an imminent new chapter to this fight.
+Beginning late last month, a global law enforcement operation dubbed Operation Hyperion identified thousands of dark web market users across three continents. In the U.S., the FBI announced it made contact with over 150 U.S. residents suspected of buying illegal items on dark web markets. In New Zealand, over 160 people were identified and contacted by police “with more police visits to come,” according to the country’s authorities. Sweden claimed 3,000 identifications.
+Hyperion is an ongoing global operation, according to the FBI, with more information to come.
+Police in The Netherlands announced impending criminal prosecutions and even launched a slick website announcing police attention was focused on the markets. The website listed active, identified, and arrested individuals.
+The new sweep of international identifications, arrests, and the creation of a flashy website on the dark web was meant to grab attention and make headlines this week. The FBI in particular hoped to echo and amplify the message sent by Director James Comey in 2015 when he told Congress that criminals who use Tor to hide from the FBI are “kidding themselves.”
+Instead, repeated American election controversies involving the FBI stole the spotlight, so that almost nothing else out of the bureau has received any media attention in recent days. That’s how a press-savvy international police operation involving hundreds of investigations went largely unnoticed when it was first made public earlier this week.  
+Three Operation Hyperion arrests were specifically announced this week. On man was arrested on Oct. 10 for allegedly selling illegal goods on dark web markets. Two more men were arrested during the week, accused of money laundering to aid illegal transactions on dark web markets. Canada announced at least one arrest for narcotics distribution.
+However, it remains almost completely unclear how many of the thousands of previously anonymous and now apparently identified individuals will face criminal charges.
+This appears to be the biggest ever police operation directed at dark web market customers. The usual target of such major operations are the vendors and market owners who sit throned atop the digital underground.
+It’s not clear yet exactly how many arrests took place internationally as a result of this operation nor is the full scope of the operation known. The FBI identified numerous customers who then confessed to ordering illegal substances such as heroin, cocaine, morphine and ketamine on dark net marketplaces.
+But without specifics, it’s worth treating vague claims of a vast operation with at least some skepticism. Law enforcement has a history of eye catching theatrics and exaggerating successes in dark net operations.
+There’s no information regarding exactly how law enforcement identified targets. In the past, police have employed a wide range of tactics including mail interception, hacking and tracking bitcoin transactions. It’s that last investigative method that’s fueling a privacy arms race.
+Bitcoin, the currency du jour of the dark web, is transparent by design so that every transaction shows up on the blockchain, a decentralized public ledger. That can be tricky for any kind of individual or business. For an illegal drug operation, the blockchain is even more treacherous.
+For the last several years, “tumblers” and “mixers” have been employed to launder currency and obfuscate bitcoin transactions. The goal is to make it more difficult for law enforcement and intelligence agencies to trace coins and thereby identify users and transactions.
+The tumblers often don’t work as well as advertised, according to Kathryn Haun, Assistant Attorney for the U.S. Department of Justice in San Francisco. The services “were not that great, did not tumble or mix as well as advertised,” she said in a recent Forbes interview, and, “some of the time” allowed agents to “unscramble” transactions.
+Monero, a two-year-old privacy-focused currency with automatic mixing features, boasts adoption by AlphaBay, the largest dark web market currently in existence, and a $63 million market cap. Monero’s price and trade volume spiked when AlphaBay adopted it in August but both metrics have precipitously declined since then.
+While Monero has the headstart in actual adoption, another rival cryptocurrency is grabbing even more attention lately. Zcash, a currency backed by a parade of high-profile scientists, engineers, and investors touted a major technical leap forward last week. Known as the zero-knowledge proof, the currency allows for the sender, receiver and details of all transactions to remain secret while maintaining trustworthiness for everyone in the network.
+“If you want private transactions, it’s so much better than any better bitcoin offering,” former Bitcoin Foundation head and security researcher Peter Vessenes told CyberScoop. “You want real cryptographic privacy, Zcash is just really excellent. Monero had slight innovations on bitcoin. Zcash is really a giant leap forward.”
+Chris Bing contributed to this report. 
+RELATED NEWS
+GOVERNMENT
+GSA releases policy...
+by Greg Otto • 3 days ago
+GOVERNMENT
+Report: Clinton urged to...
+by Patrick O'Neill • 3 days ago
+GOVERNMENT
+Senators say DOJ...
+by Patrick O'Neill • 3 days ago
+ABOUT
+SPONSOR
+RSS
+© 2016 Scoop News Group | All Rights Reserved

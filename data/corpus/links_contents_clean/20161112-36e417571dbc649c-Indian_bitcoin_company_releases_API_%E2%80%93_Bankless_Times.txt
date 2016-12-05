@@ -1,0 +1,8 @@
+Indian bitcoin company Unocoin has implemented its first API which allows users to generate bitcoin wallets, transact, receive and store bitcoin, retrieve information and notifications and accept or receive payments.
+Unocoin, which services more than 100,000 users, has raised $1.5 million and plans to soon release an Android app to go with its iOS app, both of which are built off their API. Its recently released features includes merchant POS and mobile trading apps,
+an auto-selling feature for remittance users, systematic investment planning, integration with NETKI to simplify Bitcoin addresses, an OTC desk for large traders, and integration with Purse.io for discounts on Amazon.
+“Our API is best described as an on-ramp for firms looking for a simple way to gain entry into one of the world’s fastest growing and largest potential markets. Our team has been working non-stop prior to and during our Pre-Series A round to provide the most reliable, full-featured API, but one that, most importantly, is incredibly easy to adopt.”
+A global capital for remittances, gold and IT, India is a lucrative bitcoin and remittance market estimated to be worth $100 billion.
+Unicorn’s pre-Series A round was led by Blume Ventures. Digital Currency Group, Boost VC, Bank to the Future, Bitcoin Capital, FundersClub, Mumbai Angels and ah! Ventures also participated.
+The evolution of the crowdfunding and peer-to-peer lending scenes is absolutely fascinating to chronicle.
+It is a joy to be around people with such passion and vision.

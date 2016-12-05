@@ -1,0 +1,16 @@
+The Next Ethereum Hard Fork Date Will be Announced on Monday – The Merkle
+The upcoming Ethereum hard fork date will be announced on Monday after the group of core developers reached an agreement on the proposed specifications.
+This hard fork will be the second after the network experienced a series of DDoS (spam) attacks. Several developers and foundation members argued that the quickest, most effective way to address the issue was to fork the network, introducing changes in the cost schedule of several instructions embedded inside the Ethereum Virtual Machine (EVM).
+The first hard fork was not enough to stop the sophisticated attacker, rumored to be the same perpetrator as in the DAO hack. He quickly evolved his tactics, targeting several EVM calls, effectively performing a cheap DDoS attack. The attacker also managed to fill the blockchain with junk, giving hell to miner and node hard drives.
+Hard fork #2 will fix these problems by increasing the cost of the EXP opcode, which was the remaining vulnerable instruction in the EVM, and by purging the blockchain of empty transactions to decrease its size to pre-attack values.
+Ethereum developers, specifically the programmers of all of the implementations of the ETH protocol, gathered in a conference on October 28.
+Hudson Jameson, developer of the Ethereum foundation, made the list of EIP (Ethereum Improvement Proposal), implemented in the next hard fork, public on Reddit.
+EIP 160 to increase the cost of the EXP opcode in the EVM.
+The block number for the hard fork wasn’t decided on during the meeting, but the developers announced that a decision will be made on Monday. Deciding upon the amount of time needed to code the changes and run the necessary tests in order to avoid mistakes (like the post-DAO failed soft-fork sparked) is not trivial.
+Users are encouraged to periodically check for client updates regarding their preferred implementations of the protocol (Geth, Parity, etc).
+The value of the cryptocurrency has plummeted by 33% on the ETH/BTC pair in the past month, although the Bitcoin price surge is also a culprit.
+Ethereum remains to be a fast-pushing platform, fearless of changes. It remains to be seen if this approach completely backfires or if the investors and developers will continue to trust in it.
+If you liked this article, follow us on Twitter @themerklenews and make sure to subscribe to our newsletter to receive the latest bitcoin, cryptocurrency, and technology news.
+Eduardo Gómez is a Computer Science Major from Venezuela, a country with a loyal Bitcoin user base. He discovered Bitcoin in 2012 and now he uses it to escape the triple-digit inflation that Venezuela suffers, he is focusing on developing a writing career, and he tries to keep up with the news in FinTech and Blockchain Technologies.
+Incent To Offer Its ICO Technology To Other Organizations Focusing On Loyalty Rewards November 25, 2016
+Developing Nations Show A Great Appetite For Payment Card Acceptance November 25, 2016

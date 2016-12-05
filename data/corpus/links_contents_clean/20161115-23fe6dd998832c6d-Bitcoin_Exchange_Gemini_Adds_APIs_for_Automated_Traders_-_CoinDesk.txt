@@ -1,0 +1,14 @@
+Revealed today, Gemini users are now able to connect to the New York-based bitcoin and ether exchange via a REST API, WebSockets API and a FIX API, upgrades that bring more widely used electronic communications protocols to the platform.
+In statements, representatives from Gemini said that the updates would make private order status information more readily accessible to traders.
+"This should prove to be much more efficient than the REST protocol for all of our automated traders, since order status updates and other events are pushed to you rather than requiring you to continually poll for updates."
+Notably, Gemini said the service was inspired by feedback from Whale Club, the popular network for bitcoin day traders, a move that may suggest a shift in strategy at the exchange.
+Launched late last year by investors Cameron and Tyler Winklevoss, Gemini has arguably struggled to attract users from this community, in part due to its original positioning as a service for enterprise institutions and its lack of offerings for more active traders.
+However, that market may be becoming more important now that Gemini's initial target audience has proved somewhat elusive.
+Data from Bitcoinity indicates Gemini lags behind the two most popular regulated US dollar bitcoin exchanges, Coinbase's GDAX and Paxos' itBit.
+Over the last seven days, Gemini has traded 13,913 BTC (nearly $10m), while GDAX saw 40,455 BTC in volume (roughly $28.5m) during the time period.
+Digital currency exchange Gemini announced yesterday that it is opening its services to traders in South Korea and Japan.
+Coinbase has launched a redesigned version of its website, an unveiling it said marks its transition from a wallet to a digital asset exchange.
+BTCC announced today that it will be adding US dollar (USD) to its existing bitcoin exchange service.
+Bitfinex is now seeking to strike a deal with the hacker or hackers who stole $65m in bitcoin from the exchange back in August.
+Your Ultimate Cryptocurrency Mobile Wallet Rules the Crypto World through its Gigantic Innovations
+© CoinDesk 2016 About Press Events Editorial policy Comments policy Terms & conditions Privacy policy Jobs Advertising Newsletter Contact

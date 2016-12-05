@@ -1,0 +1,52 @@
+https://bitcoinmagazine.com/articles/slush-pool-to-let-hashers-vote-on-segregated-witness-activation-mining-pools-should-remain-neutral-1479447491
+Slush Pool to Let Hashers Vote on Segregated Witness Activation: “Mining Pools Should Remain Neutral” | Bitcoin Magazine
+ABOUT ©2016 BTC Media LLC
+ADVERTISESTORECONTACTBTC CHANNELS ▾
+BITCOIN PRICE
+$629.02
+SUBSCRIBE
+MEMPOOL:#core-dev #blockchain #technical #wall-street
+Slush Pool to Let Hashers Vote on Segregated Witness Activation: “Mining Pools Should Remain Neutral”
+Slush Pool to Let Hashers Vote on Segregated Witness Activation: “Mining Pools Should Remain Neutral”
+Nov 18, 2016 05:38 AM by Aaron van Wirdum
+Bitcoin’s oldest mining pool, Slush Pool, will let its miners vote on the Segregated Witness soft fork proposed by Bitcoin Core. By passing this choice down to individual miners that connect to the pool (sometimes also referred to as “hashers”) Slush Pool hopes to remove itself as a decision maker from the equation.
+Speaking to Bitcoin Magazine, Slush Pool operator Marek “Slush” Palatinus stated:
+“Satoshi’s idea was not to have a few entities control the network. As a mining pool we shouldn’t rule.”
+Segregated Witness
+Mining pools offer Bitcoin miners a solution to combine their hash power, sharing any block rewards they may find. Last year, Slush Pool was the first pool to also offer their hashers a chance to indicate preference on a potential block size limit increase hard fork. Whenever a hasher participating in the pool finds a block, that specific block is tagged with the choice of the hasher.
+As a proposed soft fork per the requirement established by Bitcoin Core, Segregated Witness will require support from 95 percent of all hash power on the network to activate. Continuing its policy to put hashers in control, Slush Pool — which accounts for six percent of all hash power on the Bitcoin network — will let hashers vote in support of, or against, Segregated Witness activation.
+Speaking to Bitcoin Magazine, Palatinus explained why he believes Slush Pool should refrain from making decisions on behalf of its hashers:
+“Pools are just service providers for miners, which makes mining easier and optimizes costs. I don’t consider it much different from internet service providers, and I think we should adhere to similar principles of net neutrality. At Slush Pool, therefore, our long-term strategy is to remain neutral on potential hard forks and soft forks, and to offer tools for miners to decide for themselves.”
+Palatinus himself does hope the Segregated Witness soft fork will activate. The co-inventor of pooled mining believes that the proposal will offer significant benefits that improve Bitcoin overall, with little downside.
+“We see Segregated Witness as a fix of many holes left in the Bitcoin protocol, which do need to be fixed,” Palatinus said. “Problems like quadratic scaling during transaction signing, malleability issues, the inability to know the value of an input... Yes, Segregated Witness is a pretty complex solution, but these issues cannot be fixed much [more easlily]. It is also one of the most tested changes in Bitcoin history. There's huge intellectual effort behind the whole concept, and I think it would be really sad if that won't go through because of political games.”
+Despite its intention to remain neutral, Slush Pool did decide to enable Segregated Witness signaling as the default. If hashers don’t change their settings, they will signal support for Segregated Witness — but they can easily switch that support off.
+Block Size Debate
+While Segregated Witness offers several benefits, one of these has garnered a lot of attention in the context of the block size debate in particular. The proposed soft fork replaces Bitcoin’s block size limit with a block “weight” limit, which offers an effective block size limit increase of about 0.7 to 1.0 megabyte, depending on the types of transactions included in a block.
+Some proponents of a block size limit increase, however, prefer a hard fork to increase the block size limit instead. Perhaps most notably, the relatively new Chinese mining pool ViaBTC — controlling about eight percent of all hash power on the network — has indicated it will reject Segregated Witness in favor of a hard fork.
+Criticizing this approach, Palatinus said he does not believe Segregated Witness and a hard fork block size limit increase are mutually exclusive. Apart from Segregated Witness signaling, Slush Pool hashers can still mine blocks indicating support for a block size limit increase hard fork.
+“We don’t see Segregated Witness as a scaling solution primarily — though it will help a bit,” Palatinus explained. “And we believe that all scaling solutions — including Segregated Witness — should be adopted, regardless of politics. That’s why we let our miners vote for their preferred hard fork and soft fork at the same time, and give them an option to combine these votes. It’s not an either/or proposition.”
+Palatinus himself has been a long-time proponent of increasing Bitcoin’s block size limit through a hard fork. Though, when asked by Bitcoin Magazine, the pool operator also explained he’s not confident the solution, as proposed by Bitcoin Unlimited and endorsed by ViaBTC, is the way to go at this point.
+“I was in favor of increasing the block size limit because I think Bitcoin is quite anti-fragile, and do not share some of the disaster visions you hear,” Palatinus said. “However, what troubles me is that recent efforts to hard fork seem pretty light-handed and without serious research behind them. Proposals like Bitcoin Unlimited’s are adding another degree of freedom to Bitcoin's economic model, and it is unclear how much this changes incentives and the overall balance of the network.
+“Simply put: I don't believe there are simple solutions for complex problems.”
+by Aaron van Wirdum
+Aaron van Wirdum (Twitter / email / pgp / bitcoin) has a background in political history, with a specialization in the effects of new technology on societies. He discovered Bitcoin in early 2013, and has been writing his way through the rabbit hole since. Interested in decentralized consensus, FOSS, privacy in the digital age, censorship resistant payments, and more of that stereotypical Bitcoin stuff.
+KEYWORDS: #bitcoin #pool #slush #miners #magazine
+You Might Like:
+FEB 14, 2016
+Bitcoin Roundtable Announcement Thwarts Bitcoin Classic Launch
+#BLOCK-SIZE
+Related Articles:
+FEB 18, 2016
+Bitcoin Core Developer Eric Lombrozo on Misunderstandings in Block Size Debate
+#BLOCK-SIZE
+FEB 20, 2016
+Technical Roadblock Ahead? New Research Paper Warns of Future Bitcoin Network Scaling Concerns
+#BLOCK-SIZE
+MAR 03, 2016
+Bitcoin Miners and Core Developers Release SegWit, Hard Fork Agreement
+#BLOCK-SIZE
+MAR 03, 2016
+Bitcoin Classic Hard Fork Likely to Activate at 71% Hashrate Support
+#BLOCK-SIZE
+About Advertising Careers Contact Terms of Service yBitcoin Store
+© Copyright 2016 BTC Inc. All Rights Reserved.

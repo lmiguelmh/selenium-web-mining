@@ -1,0 +1,85 @@
+http://www.pymnts.com/news/bitcoin-tracker/2016/bitcoin-tracker-bitcoin-black-friday/
+Bitcoin Tracker: Bitcoin Black Friday | PYMNTS.com
+BITCOIN
+Bitcoin Tracker: Bitcoin Black Friday
+By
+PYMNTS
+Posted on November 11, 2016
+In this week’s Bitcoin Tracker, bitcoin soars, then settles down and plans for its yearly sale abound. Switzerland gives bitcoin a hand by way of rail ticket machine sales, an Australian startup banks on the aptly named Dash and Zcash fervor fades.
+The election came and went and, with it, brought some stock market shock. First, they slid way down (investors don’t like surprises), then they rose back up a bit.
+Initially, the Dow Jones exchange plunged 800 points, S&P 500 futures dropped 59 points and Nasdaq dropped 158. International markets opened Wednesday (Nov. 9) morning on a down note: Stocks in London dropped 4.3 percent, the Hang Seng Index in Hong Kong fell 2.97 percent, the South Korean KOSPI tumbled 3.4 percent and the Japanese Nikkei 225 was down 4.7 percent.
+But as markets saw their prices fall, bitcoin’s numbers went up. Way up, way fast. Prices rose from around $706 on Tuesday night, all the way to $738.53 early Wednesday morning — near bitcoin’s year high. The sudden price rise is attributed to bitcoin being considered a safe haven asset, like gold or business bonds. As stocks recovered and investors settled down, bitcoin’s price dropped back to around where it was before. Its current value is just over $709 as of writing.
+As bitcoin stabilized in the wake of an election upset, the fervor formerly surrounding competitor cryptocurrency Zcash has all but faded. After initial highs, the price of Zcash currently sits at slightly less than one-third that of bitcoin — nowhere near the $1,000+ per unit it sold for soon after its launch at the end of October.
+Experts attribute Zcash’s price decline to an increase in supply after some initial rarity. As supply continues to increase, experts expect Zcash to be worth below one-tenth of bitcoin. Still, Zcash could very well be a future contender for big-time cryptocurrency success if it can create strong developer and support networks in the coming months — its anonymity is still a huge selling point.
+In other bitcoin news, we’re now just two weeks away from the fifth annual Bitcoin Black Friday event. Bitcoin Black Friday is just what it sounds like — an event where bitcoin merchants list deals and coupons on Black Friday, falling on Nov. 25 this year.
+Bitcoin Black Friday’s popularity has grown significantly since its start. In its first year, 60 merchants participated. The second year, 600 merchants. This year’s iteration will focus less on inconspicuous consumption (well, as little as a Black Friday even can) and more on bitcoin’s merchant history.
+Bitcoin Black Friday Founder John Holmquist said: “We launched Bitcoin Black Friday to provide a foil to bitcoin’s negative brand image due to the Silk Road. We will be focusing on a smaller event this year, revolving around core bitcoin merchants who have been processing and accepting bitcoin for years: well-known merchants in the community, like Bees Brothers or BitBrew.”
+In Switzerland, bitcoin continues to proliferate as a viable currency — most recently with the help of Swiss Federal Railways (SBB), Switzerland’s largest railway company. SBB announced that Swiss customers with bitcoin wallets will be able to purchase bitcoin from 1,000 of its railway ticket machines nationwide. The ticket machines are scheduled to start selling bitcoin on Nov. 11.
+Long a bitcoin-friendly nation (bitcoin is VAT tax-free in Switzerland, for example), Switzerland’s FINMA has also solidified plans to clarify the legal treatment of cryptocurrencies and blockchain technology — sort of. It’s set a due date for the report on clarifying the legal treatment of cryptocurrencies: the end of 2017. And since the clarification comes as part of a larger push to deregulate FinTech, expect Switzerland to stay a bitcoin haven in 2018 and beyond.
+Meanwhile, in Australia, bitcoin competitor Dash has been integrated into cryptocurrency startup company Living Room of Satoshi. Living Room of Satoshi provides Australians with the ability to pay their everyday bills with cryptocurrency. Until now, bitcoin was the only cryptocurrency available to use on the service. Living Room of Satoshi has already processed over A$2 million ($1.52 million) in the first three financial quarters of 2016, up from A$800,000 ($608,904) in 2015.
+Dash has a leg-up on bitcoin on Living Room of Satoshi’s platform. In Dash’s early development, it incorporated the knowledge of payments industry experts, allowing for near-instant transfers, along with comparable anonymity and security features. Bitcoin takes around 10 minutes to transfer on Living Room of Satoshi.
+To end this week’s Bitcoin Tracker, here are some recent, insightful words of warning from security pioneer John McAfee.
+Speaking about the risk in mixing smartphones and cryptocurrency, McAfee is quoted as saying: “The hacking world hasn’t quite figured it out, but they will. Not because we don’t understand it or we can’t understand the math [but] because there is no security whatsoever…”
+“Some people have hundreds of thousands of dollars on their smartphone wallet. And I tell them — if you give me your phone number, in five minutes, I will transfer all of your bitcoins into my account … This device was not designed to secure you and give you privacy. This device was designed to do the opposite: to open up where you are, who you are with, who your contacts are — this is a spying device.”
+RELATED ITEMS:BITCOIN, BITCOIN TRACKER, WHAT'S HOT
+RECOMMENDED FOR YOU
+Black Friday Highlights Trouble In US Retail Lending
+Ex-Expedia Exec Raises Funds For Secretive New Startup
+Data Shows This Really Is Amazon’s World
+Get our hottest stories delivered to your inbox.
+Signup for the PYMNTS.com Newsletter to get updates on top stories and viral hits.
+CLICK TO COMMENT
+TRENDING RIGHT NOW
+BLOCKCHAIN
+Goldman Sachs’ Membership In R3 Lapses
+PARTNERSHIPS / ACQUISITIONS
+Cardtronics Expands Relationship With Carnival Cruise
+NEWS
+Financial Regulators Race To Get Reforms On The Books Before Inauguration Day
+SECURITY & FRAUD
+Why Insider Threats Are Hurting North American Businesses
+B2B PAYMENTS
+Asia-Pacific’s Anti-Cash Migration Spreads To Corporates
+RIDESHARING
+Amidst New Cash Rules, Uber Debuts Indian Wedding Service
+SECURITY & FRAUD
+Online Fraud Expected To Grow 43 Percent This Holiday Season In The US
+ALTERNATIVE FINANCES
+Prosper’s Climb Back
+CFPB
+CFPB Sues Company That Scammed Lead Paint Poisioning Victims
+AMAZON
+Prime Is The Ticket For Amazon: Prime Tickets On The Way
+B2B PAYMENTS
+India’s Axis Bank Joins Earthport In X-Border Payments
+EMV
+October Visa Data Shows Rise In EMV-Enabled Merchants
+FASTER PAYMENTS
+Cash Flow, Each And Every (Same) Day
+AMAZON
+Amazon’s Brand Central Aimed At Ridding Counterfeiters From Marketplace
+B2B PAYMENTS
+India VCs Target SME Cash Management FinTech
+What's next in payments and commerce
+LATEST NEWS
+Black Friday Sales At Patagonia Go Green
+Middle-Market Retailers Optimistic About Digital Sales
+Report: Sephora Lookin’ Pretty On Social Media
+Monday Is Black Friday For Shipments This Holiday Season
+Shoppers Flock To The Internet Over Stores
+OPINION: KAREN WEBSTER
+Mastercard’s Call To Digital Payments Action
+November 21, 2016
+The Seven Deadly Data Sins Of The 2016 Presidential Election
+November 14, 2016
+Microsoft’s Shoulda-Woulda-Coulda Mobile Story
+November 7, 2016
+The 2016 Presidential Election And Banks’ Next Four Scary Years
+October 31, 2016
+What the Uber Driver Revolt Means for Payments
+October 24, 2016
+NEWSLETTER SIGNUP
+ABOUT
+TERMS & CONDITIONS
+CONTACT
+© 2016 What’s Next Media and Data Analytics, LLC

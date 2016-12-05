@@ -1,0 +1,48 @@
+https://ibsintelligence.com/ibs-journal/ibs-news/gemini-updates-apis-for-better-automated-trades/
+Gemini updates APIs for better automated trades - IBS Intelligence
+   IBS Newsletter
+Register/Log In
+Contact Us
+Your Cart - £0.00
+Menu
+15
+NOV 2016
+Gemini updates APIs for better automated trades
+Previous | Next
+ Bitcoin exchange Gemini has announced a new series of APIs for automated traders. Users will now be able to connect to it through REST, WebSockets and FIX APIs. Gemini hopes that the upgrades will make private order status information easier to access for traders on the network.
+The Changes have been partly inspired by Whale Club, a network popular with Bitcoin day traders. Gemini, which launched last year, is the brainchild of Tyler and Cameron Winklevoss. It’s initial target of being the “go-to” cryptocurrency firm for enterprise customers has left it somewhat stranded when it comes to an active grassroots community.
+“This should prove to be much more efficient than the REST protocol for all of our automated traders, since order status updates and other events are pushed to you rather than requiring you to continually poll for updates,” writes Gemini in a statement.
+In the past week the exchange has traded around $10 million in Bitcoin.
+By Alex Hamilton
+Follow Alex at @ADHamilton91
+Related Reports
+Back Office Systems & Suppliers Report
+£2,000.00
+ADD TO CART
+Core Banking Systems Case Studies
+£2,000.00
+ADD TO CART
+IBS Journal
+
+£545.00
+SELECT OPTIONS
+Payment Systems & Suppliers Report
+£1,500.00
+ADD TO CART
+
+
+Advertise with us
+Weekly Round-up – 28th October
+Market News
+About IBS
+IBS Journal
+Reports
+Consulting
+Buy
+Events
+Contact Us
+Privacy Statement
+Terms & Conditions
+Why buy from us
+© IBS Intelligence and Cedar Management Consulting International, LLC.
+Developed by: Pi Techniques
