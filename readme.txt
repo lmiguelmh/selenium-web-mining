@@ -11,3 +11,7 @@ Steps to use:
 Links:
 - https://www.youtube.com/watch?v=l15ZJAbxCL8
 - https://github.com/dakotasmith/page-object-examples
+
+The sentiment analysis was done using Stanford's CoreNLP:
+- http://corenlp.run/
+- http://nlp.stanford.edu:8080/sentiment/rntnDemo.html
