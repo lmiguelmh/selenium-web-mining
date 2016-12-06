@@ -35,3 +35,11 @@ win32api.PostMessage(hwndMain, 0x0102, ord('g'), 0)
 # win32api.PostMessage(hwndMain, 0x0111, 3, 0)
 
 # win32api.PostMessage(hwndChild, 0x0102, 0x0053, 0)
+
+# Sending ALT + VK_NUMPAD1 (alt+1) after 3 hours of searching!
+# https://social.msdn.microsoft.com/Forums/vstudio/en-US/5f77339e-502f-48eb-afb3-12aaacfb28ab/simulating-alt2-keypad-combination?forum=vclanguage
+win32api.keybd_event(win32con.VK_LMENU, win32api.MapVirtualKey(win32con.VK_LMENU, 0), 0, 0)
+win32api.keybd_event(win32con.VK_NUMPAD2, win32api.MapVirtualKey(win32con.VK_NUMPAD2, 0), 0, 0)
+win32api.keybd_event(win32con.VK_NUMPAD2, win32api.MapVirtualKey(win32con.VK_NUMPAD2, 0), win32con.KEYEVENTF_KEYUP, 0)
+win32api.keybd_event(win32con.VK_LMENU, win32api.MapVirtualKey(win32con.VK_LMENU, 0), win32con.KEYEVENTF_KEYUP, 0)
+
