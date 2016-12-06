@@ -12,6 +12,11 @@ Links:
 - https://www.youtube.com/watch?v=l15ZJAbxCL8
 - https://github.com/dakotasmith/page-object-examples
 
+Corpus:
+- https://github.com/lmiguelmh/selenium-web-mining/blob/master/data/corpus/links/20161001.txt
+- https://github.com/lmiguelmh/selenium-web-mining/blob/master/data/corpus/links_contents/20161001-149dea6ad97c8559-Monero%25E2%2580%2599s_Bubble_Pops%252C_Price_Plummets_As_Currency_Loses_Top_Five.txt
+- https://github.com/lmiguelmh/selenium-web-mining/blob/master/data/corpus/links_contents_clean/20161001-149dea6ad97c8559-Monero%25E2%2580%2599s_Bubble_Pops%252C_Price_Plummets_As_Currency_Loses_Top_Five.txt
+
 The sentiment analysis was done using Stanford's CoreNLP:
 - http://corenlp.run/
 - http://nlp.stanford.edu:8080/sentiment/rntnDemo.html
